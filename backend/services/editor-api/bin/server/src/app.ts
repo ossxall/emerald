@@ -36,7 +36,7 @@ const pgPool = new Pool({
 });
 
 export const pulsarClient = new Pulsar.Client({
-  serviceUrl: "pulsar://broker:6650",
+  serviceUrl: "pulsar://emerald-broker:6650",
 });
 
 export const pulsarProducer = await pulsarClient.createProducer({

@@ -3947,5 +3947,38 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 6.1.1.1 especifica que el SIC debe mantener 'atributos tales como: integridad, autenticidad, fiabilidad y accesibilidad de toda la documentación de una entidad, desde el momento de la producción, durante su período de vigencia, hasta su disposición final, de acuerdo con la valoración documental', y que esto es 'independientemente del medio o tecnología con la cual se haya elaborado'. La opción 1 reproduce fielmente estos atributos y condiciones."
+  },
+  {
+    "question": "Cuál es el alcance fundamental del objetivo establecido en el Artículo 6.1 del Título 6 respecto a la gestión de documentos?",
+    "options": [
+      "Definir exclusivamente los protocolos de eliminación para documentos en soporte físico al finalizar su ciclo vital.",
+      "Implementar lineamientos para la conservación y preservación de documentos en soportes físicos o electrónicos durante todo su ciclo vital.",
+      "Establecer una política de digitalización obligatoria para todos los archivos históricos de las entidades públicas.",
+      "Determinar las responsabilidades legales de los sujetos obligados únicamente durante la fase de archivo central."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 6.1 establece explícitamente que el objetivo es implementar lineamientos para la conservación y preservación de documentos en soportes físicos o formatos electrónicos a lo largo de todo el ciclo vital del documento."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.1.1, cuál es el propósito central del Sistema Integrado de Conservación (SIC) en relación con la información de una entidad?",
+    "options": [
+      "Garantizar la integridad, autenticidad, fiabilidad y accesibilidad de la información, independientemente del medio o tecnología de producción.",
+      "Limitar el acceso a la información sensible mediante la implementación de sistemas de cifrado electrónico avanzado.",
+      "Centralizar la custodia de todos los documentos físicos en un único repositorio nacional para asegurar su preservación a largo plazo.",
+      "Priorizar la conservación de documentos electrónicos sobre los físicos para reducir los costos operativos de almacenamiento."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 6.1.1.1 define que el propósito del SIC es garantizar la conservación y preservación de la información, manteniendo atributos de integridad, autenticidad, fiabilidad y accesibilidad, sin importar el medio o tecnología utilizada."
+  },
+  {
+    "question": "En el marco del Sistema Integrado de Conservación, cuál es el periodo de tiempo durante el cual se deben garantizar los atributos de la documentación?",
+    "options": [
+      "Únicamente durante el periodo de vigencia administrativa del documento en la oficina productora.",
+      "Desde la transferencia secundaria al archivo histórico hasta su disposición final.",
+      "Desde el momento de la producción, durante su periodo de vigencia, hasta su disposición final.",
+      "Exclusivamente durante el proceso de valoración documental realizado por el comité de archivo."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 6.1.1.1 especifica que la garantía de los atributos documentales debe cubrir todo el ciclo, desde la producción, pasando por la vigencia, hasta la disposición final, conforme a la valoración documental."
   }
 ]

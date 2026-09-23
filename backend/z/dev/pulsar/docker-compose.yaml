@@ -1,15 +1,15 @@
 services:
   # Start zookeeper
-  zookeeper:
+  emerald-zookeeper:
     image: apachepulsar/pulsar:latest
-    container_name: zookeeper
+    container_name: emerald-zookeeper
     restart: on-failure
     networks:
       - pulsar-internal
     volumes:
       - ./data/zookeeper:/pulsar/data/zookeeper
     environment:
-      - metadataStoreUrl=zk:zookeeper:2181
+      - metadataStoreUrl=zk:emerald-zookeeper:2181
       - PULSAR_MEM=-Xms256m -Xmx256m -XX:MaxDirectMemorySize=256m
     command:
       - bash
@@ -25,9 +25,9 @@ services:
       retries: 30
 
   # Init cluster metadata
-  pulsar-init:
-    container_name: pulsar-init
-    hostname: pulsar-init
+  emerald-pulsar-init:
+    container_name: emerald-pulsar-init
+    hostname: emerald-pulsar-init
     image: apachepulsar/pulsar:latest
     networks:
       - pulsar-internal
@@ -37,33 +37,33 @@ services:
       - |
         bin/pulsar initialize-cluster-metadata \
         --cluster cluster-a \
-        --zookeeper zookeeper:2181 \
-        --configuration-store zookeeper:2181 \
-        --web-service-url http://broker:8080 \
-        --broker-service-url pulsar://broker:6650
+        --zookeeper emerald-zookeeper:2181 \
+        --configuration-store emerald-zookeeper:2181 \
+        --web-service-url http://emerald-broker:8080 \
+        --broker-service-url pulsar://emerald-broker:6650
     depends_on:
-      zookeeper:
+      emerald-zookeeper:
         condition: service_healthy
 
   # Start bookie
-  bookie:
+  emerald-bookie:
     image: apachepulsar/pulsar:latest
-    container_name: bookie
+    container_name: emerald-bookie
     restart: on-failure
     networks:
       - pulsar-internal
     environment:
       - clusterName=cluster-a
-      - zkServers=zookeeper:2181
-      - metadataServiceUri=metadata-store:zk:zookeeper:2181
+      - zkServers=emerald-zookeeper:2181
+      - metadataServiceUri=metadata-store:zk:emerald-zookeeper:2181
       # otherwise every time we run docker compose up or down we fail to start due to Cookie
       # See: https://github.com/apache/bookkeeper/blob/405e72acf42bb1104296447ea8840d805094c787/bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/Cookie.java#L57-68
-      - advertisedAddress=bookie
+      - advertisedAddress=emerald-bookie
       - BOOKIE_MEM=-Xms512m -Xmx512m -XX:MaxDirectMemorySize=256m
     depends_on:
-      zookeeper:
+      emerald-zookeeper:
         condition: service_healthy
-      pulsar-init:
+      emerald-pulsar-init:
         condition: service_completed_successfully
     # Map the local directory to the container to avoid bookie startup failure due to insufficient container disks.
     volumes:
@@ -71,33 +71,33 @@ services:
     command: bash -c "bin/apply-config-from-env.py conf/bookkeeper.conf && exec bin/pulsar bookie"
 
   # Start broker
-  broker:
+  emerald-broker:
     image: apachepulsar/pulsar:latest
-    container_name: broker
-    hostname: broker
+    container_name: emerald-broker
+    hostname: emerald-broker
     restart: on-failure
     networks:
       - pulsar-internal
       - shared-network
     environment:
-      - metadataStoreUrl=zk:zookeeper:2181
-      - zookeeperServers=zookeeper:2181
+      - metadataStoreUrl=zk:emerald-zookeeper:2181
+      - zookeeperServers=emerald-zookeeper:2181
       - clusterName=cluster-a
       - managedLedgerDefaultEnsembleSize=1
       - managedLedgerDefaultWriteQuorum=1
       - managedLedgerDefaultAckQuorum=1
-      - advertisedAddress=broker
-      - advertisedListeners=internal:pulsar://broker:6650,external:pulsar://localhost:6650
+      - advertisedAddress=emerald-broker
+      - advertisedListeners=internal:pulsar://emerald-broker:6650,external:pulsar://localhost:17650
       - internalListenerName=internal
       - PULSAR_MEM=-Xms512m -Xmx512m -XX:MaxDirectMemorySize=256m
     depends_on:
-      zookeeper:
+      emerald-zookeeper:
         condition: service_healthy
-      bookie:
+      emerald-bookie:
         condition: service_started
     ports:
-      - "6650:6650"
-      - "8080:8080"
+      - "17650:6650"
+      - "17080:8080"
     command: bash -c "bin/apply-config-from-env.py conf/broker.conf && exec bin/pulsar broker"
 
 networks:
@@ -105,4 +105,4 @@ networks:
     driver: bridge
   shared-network:
     external: true
-    name: global-infra-net    
+    name: emerald-infra-net

@@ -34,10 +34,10 @@ import aioboto3
 import base64
 
 # ================= CONFIG =================
-PULSAR_URL = "pulsar://broker:6650"
+PULSAR_URL = "pulsar://emerald-broker:6650"
 TOPIC = "persistent://public/default/chunk.created"
 SUBSCRIPTION = "snapshot-worker"
-POSTGRES_DSN = "postgresql://postgres:password@postgres_global:5432/document_state"
+POSTGRES_DSN = "postgresql://postgres:password@emerald-postgres:5432/document_state"
 REDIS_DOC_TTL = 60 * 60 * 2 
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')

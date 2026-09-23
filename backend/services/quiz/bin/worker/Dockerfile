@@ -32,6 +32,8 @@ COPY . .
 # ================= SECURITY =================
 # no correr como root
 RUN useradd -m worker
+# El usuario worker necesita escritura en /app (tmp/, output/)
+RUN chown -R worker:worker /app
 USER worker
 
 # ================= HEALTHCHECK =================

@@ -30,11 +30,11 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 
 # CONFIG ---------------------------------------------------------------------------------------------------------------
 
-PULSAR_URL = "pulsar://broker:6650"
+PULSAR_URL = "pulsar://emerald-broker:6650"
 TOPIC = ["persistent://public/default/document.created"]
 SUBSCRIPTION_NAME = "document-transform-worker-group-shared"
 
-DATABASE_URL = "postgres://postgres:password@postgres_global:5432/document_transform"
+DATABASE_URL = "postgres://postgres:password@emerald-postgres:5432/document_transform"
 S3_BUCKET = "documents"
 
 CONCURRENCY = 40

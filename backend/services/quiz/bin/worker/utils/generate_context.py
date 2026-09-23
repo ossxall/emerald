@@ -18,7 +18,7 @@ from litellm.router import Router
 model_list = [
     {
         "model_name": "models-1",
-        "litellm_params": {"model": "gemini/gemini-2.5-flash"},
+        "litellm_params": {"model": "gemini/gemini-3.1-flash-lite"},
     },
     {
         "model_name": "models-1",

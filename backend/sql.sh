@@ -2,7 +2,7 @@
 
 SERVICES=("document-api" "document-transform" "editor-api" "document-state")
 
-DB_URL="postgres://postgres:password@localhost:5432"
+DB_URL="postgres://postgres:password@localhost:15432"
 
 for SERVICE in "${SERVICES[@]}"; do
     echo "----------------------------------------------"

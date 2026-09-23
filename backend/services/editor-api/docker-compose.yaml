@@ -23,4 +23,4 @@ services:
 networks:
   shared-network:
     external: true
-    name: global-infra-net    
+    name: emerald-infra-net    

@@ -24,7 +24,7 @@ chat = OllamaChat(
 )
 
 chat = GeminiChat(
-    model="gemini-2.5-flash",
+    model="gemini-3.1-flash-lite",
     system_prompt=SYSTEM_PROMPT,
 )
 

@@ -11,8 +11,8 @@ echo "Running Pulsar with $COMMAND from $DIR..."
 sudo mkdir -p ./data/zookeeper ./data/bookkeeper
 sudo chown -R 10000 data
 
-docker exec -it broker bash bin/pulsar-admin namespaces create public/default
-docker exec -it broker bash bin/pulsar-admin namespaces list public
+docker exec -it emerald-broker bash bin/pulsar-admin namespaces create public/default
+docker exec -it emerald-broker bash bin/pulsar-admin namespaces list public
 
 
 $COMMAND up -d

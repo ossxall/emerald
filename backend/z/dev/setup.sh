@@ -7,7 +7,7 @@ chmod +x ./pulsar/run.sh
 chmod +x ./seaweed/run.sh
 chmod +x ./redis/run.sh
 
-docker network create global-infra-net
+docker network create emerald-infra-net
 
 ./postgres/run.sh
 ./pulsar/run.sh

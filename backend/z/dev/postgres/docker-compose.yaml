@@ -1,7 +1,7 @@
 services:
-  postgres-global:
+  emerald-postgres:
     image: postgres:17-alpine
-    container_name: postgres_global
+    container_name: emerald-postgres
     restart: always
     environment:
       - POSTGRES_USER=postgres
@@ -10,9 +10,9 @@ services:
 
       - POSTGRES_INITDB_ARGS="--auth-host=scram-sha-256"
     ports:
-      - "5432:5432"
+      - "15432:5432"
     volumes:
-      - postgres_data:/var/lib/postgresql/data
+      - emerald_postgres_data:/var/lib/postgresql/data
 
       - ./init-db:/docker-entrypoint-initdb.d
     networks:
@@ -23,10 +23,10 @@ services:
           memory: 1gb
 
 volumes:
-  postgres_data:
+  emerald_postgres_data:
     driver: local
 
 networks:
   shared-network:
     external: true
-    name: global-infra-net
+    name: emerald-infra-net

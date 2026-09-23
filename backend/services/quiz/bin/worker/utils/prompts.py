@@ -146,7 +146,7 @@ model_list = [
     {
         "model_name": "models-1",
         "litellm_params": {
-            "model": "gemini/gemini-2.5-flash"
+            "model": "gemini/gemini-3.1-flash-lite"
         }
     },
     {

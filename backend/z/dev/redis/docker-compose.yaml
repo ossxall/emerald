@@ -1,11 +1,11 @@
 services:
-  redis-global:
+  emerald-redis:
     image: redis:7.2-alpine
-    container_name: redis_global
+    container_name: emerald-redis
     ports:
-      - "6379:6379"
+      - "16380:6379"
     volumes:
-      - redis_data:/data
+      - emerald_redis_data:/data
     command: >
       redis-server 
       --appendonly yes 
@@ -16,9 +16,9 @@ services:
       - shared-network
 
 volumes:
-  redis_data:
+  emerald_redis_data:
 
 networks:
   shared-network:
     external: true
-    name: global-infra-net
+    name: emerald-infra-net
