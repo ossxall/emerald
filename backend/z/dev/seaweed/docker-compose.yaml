@@ -1,18 +1,19 @@
 services:
 
-  seaweedfs:
+  emerald-seaweedfs:
     image: chrislusf/seaweedfs:latest
+    container_name: emerald-seaweedfs
     ports:
-      - "9333:9333"   # Master + Master UI
-      - "9340:9340"   # Volume
-      - "8888:8888"   # Filer UI
-      - "8333:8333"   # S3
-      - "7333:7333"   # WebDAV
-      - "23646:23646" # ★ Admin UI
+      - "19333:9333"   # Master + Master UI
+      - "19340:9340"   # Volume
+      - "18888:8888"   # Filer UI
+      - "18333:8333"   # S3
+      - "17333:7333"   # WebDAV
+      - "13646:23646" # ★ Admin UI
     command: >
       mini
         -dir=/data
-        -ip=seaweedfs
+        -ip=emerald-seaweedfs
         -ip.bind=0.0.0.0
         -master.port=9333
         -volume.port=9340
@@ -20,15 +21,15 @@ services:
         -s3.port=8333
         -admin.port=23646
     volumes:
-      - seaweedfs_data:/data
+      - emerald_seaweedfs_data:/data
     restart: unless-stopped
     networks:
       - shared-network
-      
+
 volumes:
-  seaweedfs_data:
+  emerald_seaweedfs_data:
 
 networks:
   shared-network:
     external: true
-    name: global-infra-net
+    name: emerald-infra-net
