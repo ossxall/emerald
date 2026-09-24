@@ -1,6 +1,7 @@
 from pydantic import BaseModel, Field, ValidationError, RootModel
 from typing import List
 from litellm.router import Router
+import os
 
 class QuestionItem(BaseModel):
     question: str = Field(..., description="Verbose question statement based on the <QuizContent></QuizContent> tag")
@@ -146,7 +147,7 @@ model_list = [
     {
         "model_name": "models-1",
         "litellm_params": {
-            "model": "gemini/gemini-3.1-flash-lite"
+            "model": f"gemini/{os.environ.get('QUIZ_GEMINI_MODEL', 'gemini-3.1-flash-lite')}"
         }
     },
     {

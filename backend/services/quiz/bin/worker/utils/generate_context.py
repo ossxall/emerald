@@ -8,6 +8,7 @@ in the language specified by the `language` argument.
 from __future__ import annotations
 
 import asyncio
+import os
 from typing import Union
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -18,7 +19,7 @@ from litellm.router import Router
 model_list = [
     {
         "model_name": "models-1",
-        "litellm_params": {"model": "gemini/gemini-3.1-flash-lite"},
+        "litellm_params": {"model": f"gemini/{os.environ.get('QUIZ_GEMINI_MODEL', 'gemini-3.1-flash-lite')}"},
     },
     {
         "model_name": "models-1",

@@ -24,7 +24,7 @@ chat = OllamaChat(
 )
 
 chat = GeminiChat(
-    model="gemini-3.1-flash-lite",
+    model=os.environ.get("QUIZ_GEMINI_MODEL", "gemini-3.1-flash-lite"),
     system_prompt=SYSTEM_PROMPT,
 )
 

@@ -1,10 +1,11 @@
 from litellm.router import Router
+import os
 
 model_list = [
     {
         "model_name": "models-1",
         "litellm_params": {
-            "model": "gemini/gemini-3.1-flash-lite"
+            "model": f"gemini/{os.environ.get('QUIZ_GEMINI_MODEL', 'gemini-3.1-flash-lite')}"
         }
     },
     {
