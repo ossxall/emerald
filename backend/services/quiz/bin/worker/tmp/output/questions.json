@@ -3980,5 +3980,49 @@
     ],
     "correct": 2,
     "explanation": "El Artículo 6.1.1.1 especifica que la garantía de los atributos documentales debe cubrir todo el ciclo, desde la producción, pasando por la vigencia, hasta la disposición final, conforme a la valoración documental."
+  },
+  {
+    "question": "De acuerdo con el Artículo 5.2.4 sobre las etapas para la ejecución del Plan de Trabajo Archivístico Integral, ¿cómo debe desarrollarse específicamente el proceso de clasificación documental?",
+    "options": [
+      "Agrupando las unidades documentales siguiendo un sistema de ordenación exclusivo de las funciones administrativas.",
+      "Atendiendo la estructura orgánica del organismo u organismos productores mediante la elaboración de los Cuadros de Clasificación Documental.",
+      "Diligenciando el Formato Único de Inventario Documental adoptado por el Archivo General de la Nación Jorge Palacios Preciado.",
+      "Estudiando e identificando los valores primarios y secundarios para plasmar los tiempos de retención en la Tabla de Valoración Documental."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2 del artículo establece que el proceso de clasificación se desarrolla atendiendo la estructura orgánica del organismo u organismos productores, lo cual concluye en la elaboración de los Cuadros de Clasificación Documental."
+  },
+  {
+    "question": "En el contexto de la etapa de Descripción dentro del Plan de Trabajo Archivístico Integral, ¿qué condición se debe cumplir respecto al Formato Único de Inventario Documental (FUID)?",
+    "options": [
+      "Debe limitarse exclusivamente a registrar la documentación en soporte físico sin incluir afectaciones biológicas.",
+      "Debe ser adoptado por el Archivo General de la Nación Jorge Palacios Preciado e incluir la documentación afectada biológicamente o con medios de información de acceso restringido.",
+      "Debe estructurarse de manera independiente al Cuadro de Clasificación Documental para evitar redundancias técnicas.",
+      "Debe reflejar únicamente los valores secundarios e históricos del fondo documental sin requerir articulación con las series."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 4 señala que se diligenciará el Formato Único de Inventario Documental - FUID adoptado por el Archivo General de la Nación Jorge Palacios Preciado, incluyendo la documentación afectada biológicamente o los medios que contienen información a la cual no se puede acceder, estando articulado con el Cuadro de Clasificación Documental."
+  },
+  {
+    "question": "Durante la etapa de Valoración Documental del Plan de Trabajo Archivístico Integral, ¿cuál es el resultado técnico y formal de identificar los valores primarios y secundarios del fondo?",
+    "options": [
+      "La creación exclusiva de la Historia Institucional y los protocolos de seguridad para el traslado de archivos.",
+      "El establecimiento de los tiempos de retención y su disposición final plasmados en la Tabla de Valoración Documental, armonizada con los Cuadros de Clasificación Documental e inventarios.",
+      "La ejecución directa de las transferencias documentales sin sujeción a los lineamientos del Título 4 del Acuerdo.",
+      "La ordenación estricta de las unidades documentales conforme a las funciones de las unidades administrativas productoras."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 5 especifica que el estudio e identificación de valores primarios y secundarios dará como resultado el establecimiento de los tiempos de retención y su disposición final, plasmados en la Tabla de Valoración Documental de manera armonizada con los Cuadros de Clasificación Documental e inventarios documentales."
+  },
+  {
+    "question": "Según el parágrafo del Artículo 5.2.4, cuando se requiere el traslado de archivos o la centralización de documentos para intervenir el fondo documental, ¿qué obligación normativa se impone?",
+    "options": [
+      "Se debe proceder inmediatamente con la eliminación de documentos conforme a las Tablas de Retención Documental.",
+      "Se deben establecer protocolos para garantizar las medidas de control y seguridad para evitar la pérdida de información.",
+      "Se debe actualizar obligatoriamente el Formato Único de Inventario Documental omitiendo las unidades afectadas biológicamente.",
+      "Se debe modificar la estructura orgánica del organismo productor para adaptarla a la nueva ubicación del archivo."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo indica que de requerirse el traslado de archivos o centralización de documentos para la intervención del fondo, se deben establecer los protocolos para garantizar las medidas de control y seguridad para que no exista pérdida de información."
   }
 ]
