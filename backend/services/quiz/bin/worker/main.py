@@ -16,12 +16,39 @@ import re
 import asyncio
 import json
 import os
+import sys
+import socket
 import langcodes
 import aioboto3
 import xml.etree.ElementTree as ET
 
 OUTPUT_PATH = Path("tmp/output")
 OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
+
+
+def resolve_s3_endpoint() -> str:
+    """Elige un endpoint S3 alcanzable.
+
+    Dentro de Docker el hostname `emerald-seaweedfs` resuelve; desde el host
+    NO (aunque el puerto esté publicado en localhost). Si el hostname del
+    endpoint configurado no resuelve, usamos el endpoint "host" (o el puerto
+    publicado por defecto en localhost).
+    """
+    from urllib.parse import urlparse
+
+    endpoint = os.environ.get("S3_ENDPOINT")
+    host_local = os.environ.get("S3_ENDPOINT_HOST", "http://localhost:18333")
+
+    try:
+        hostname = urlparse(endpoint).hostname
+        socket.getaddrinfo(hostname, None)
+        return endpoint
+    except (socket.gaierror, OSError):
+        print(
+            f"WARNING: S3_ENDPOINT={endpoint} no resuelve aquí. "
+            f"Usando endpoint local S3_ENDPOINT_HOST={host_local}"
+        )
+        return host_local
 
 
 async def download_s3(s3, doc_id: str) -> bytes:
@@ -66,61 +93,63 @@ def replace_xml_content(file_path, tag, new_text):
 
     
 async def build_context(s3, doc_id: str, bypass_summary: bool):
-    try:
-        print("Downloading S3 binary...")
-        data = await download_s3(s3, doc_id)
+    print("Downloading S3 binary...")
+    data = await download_s3(s3, doc_id)
 
-        print("Converting YJS to markdown...")
-        md = convert_yjs_to_markdown(data)
+    print("Converting YJS to markdown...")
+    md = convert_yjs_to_markdown(data)
 
-        print("Extracting keywords...")
-        keywords = extract_keywords(md)
-        
-        detected_language = detect(keywords)
-        language = langcodes.Language.get(
-            detected_language
-        ).display_name()
-        
-        print("Generating summary...")
-        context = await summarize_to_three_paragraphs(
-            md,
-            language,
-            verbose=True,
-            bypass=bypass_summary
+    print("Extracting keywords...")
+    keywords = extract_keywords(md)
+
+    detected_language = detect(keywords)
+    language = langcodes.Language.get(
+        detected_language
+    ).display_name()
+
+    print("Generating summary...")
+    context = await summarize_to_three_paragraphs(
+        md,
+        language,
+        verbose=True,
+        bypass=bypass_summary
+    )
+
+    print("Extracting multiselects...")
+    multiselects = extract_multiselect(data)
+    if not multiselects:
+        raise ValueError(
+            f"No multiSelect selections found in doc_id={doc_id}. "
+            "QuizContent would be empty; aborting instead of reusing a stale context."
         )
 
-        print("Extracting multiselects...")
-        multiselects = extract_multiselect(data)
+    context_path = OUTPUT_PATH / "context.xml"
 
-        context_path = OUTPUT_PATH / "context.xml"
+    replace_xml_content(
+        context_path,
+        "LanguageRule",
+        language
+    )
+    replace_xml_content(
+        context_path,
+        "GeneralContext",
+        context
+    )
+    replace_xml_content(
+        context_path,
+        "GeneralContextKeywords",
+        keywords
+    )
+    replace_xml_content(
+        context_path,
+        "QuizContent",
+        multiselects
+    )
 
-        replace_xml_content(
-            context_path,
-            "LanguageRule",
-            language
-        )
-        replace_xml_content(
-            context_path,
-            "GeneralContext",
-            context
-        )
-        replace_xml_content(
-            context_path,
-            "GeneralContextKeywords",
-            keywords
-        )        
-        replace_xml_content(
-            context_path,
-            "QuizContent",
-            multiselects
-        )             
-         
-        print(f"Context saved at: {context_path}")
-
-    except FileNotFoundError:
-        print("Error: El archivo no existe.")
-    except Exception as e:
-        print(f"Unexpected error: {e}")
+    print(f"Context saved at: {context_path}")
+    print(
+        f"QuizContent ({len(multiselects)} chars): {multiselects[:160]!r}"
+    )
 
 
 def generate_quiz():
@@ -153,7 +182,7 @@ def generate_quiz():
             ensure_ascii=False,
             indent=2
         )
-    print(f"Quiz guardado en: {questions_path}")
+    print(f"Quiz guardado (append a questions.json): {questions_path}")
     
     #-----------------------------------------------------------
     
@@ -181,11 +210,19 @@ async def main():
         read_timeout=30,
     )
 
-    doc_id = "01a0d05c-99c7-703e-8a43-68424125214a"
+    # El documento a procesar debe pasarse explícitamente (argv > env > por defecto)
+    # para que /quiz procese SIEMPRE el documento/ selección vigente.
+    doc_id = (
+        sys.argv[1]
+        if len(sys.argv) > 1
+        else os.environ.get("QUIZ_DOC_ID", "01a0d05c-99c7-703e-8a43-68424125214a")
+    )
+
+    s3_endpoint = resolve_s3_endpoint()
 
     async with session.client(
         "s3",
-        endpoint_url=os.environ.get("S3_ENDPOINT"),
+        endpoint_url=s3_endpoint,
         aws_access_key_id=os.environ.get("S3_ACCESS_KEY"),
         aws_secret_access_key=os.environ.get("S3_SECRET_KEY"),
         region_name=os.environ.get("S3_REGION"),

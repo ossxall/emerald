@@ -25,7 +25,7 @@ const MultiSelectStateKey = new PluginKey("multiSelectState");
 
 export interface MultiSelectOptions {
   /**
-   * Additional HTML attributes merged into every <mark> element.
+   * Additional HTML attributes merged into every <multiSelect> element.
    * @default {}
    */
   HTMLAttributes: Record<string, any>;
@@ -289,12 +289,17 @@ export const MultiSelect = Mark.create<MultiSelectOptions, MultiSelectStorage>({
   // ── HTML serialization ────────────────────────────────────────────────────
 
   parseHTML() {
-    return [{ tag: "mark[data-ms-id]" }];
+    // Se acepta `multiSelect` (nombre canónico del mark) y `mark` (forma
+    // anterior) para no perder selecciones guardadas con el tag viejo.
+    return [
+      { tag: "mark[data-ms-id]" },
+      { tag: "multiSelect[data-ms-id]" },
+    ];
   },
 
   renderHTML({ HTMLAttributes }) {
     return [
-      "mark",
+      "multiSelect",
       mergeAttributes(
         { class: "ms-mark" },
         this.options.HTMLAttributes,
