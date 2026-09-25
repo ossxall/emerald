@@ -4024,5 +4024,16 @@
     ],
     "correct": 1,
     "explanation": "El parágrafo indica que de requerirse el traslado de archivos o centralización de documentos para la intervención del fondo, se deben establecer los protocolos para garantizar las medidas de control y seguridad para que no exista pérdida de información."
+  },
+  {
+    "question": "De acuerdo con el Artículo 5.2.5 sobre la Historia Institucional, ¿qué elementos metodológicos y normativos debe comprender estrictamente esta etapa archivística?",
+    "options": [
+      "Los aspectos citados en el artículo relativas a la investigación institucional, rigiéndose estrictamente por los lineamientos emitidos por el Archivo General de la Nación Jorge Palacios Preciado.",
+      "Los procedimientos de transferencia documental secundaria determinados por los comités internos de archivo y la normativa del ministerio sectorial.",
+      "Un inventario general de los fondos acumulados conforme a los criterios técnicos de valoración definidos por las entidades territoriales.",
+      "Las directrices de preservación digital a largo plazo establecidas por los organismos internacionales de normalización archivística."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 5.2.5 establece explícitamente que la etapa de Historia Institucional debe comprender los aspectos que cita el artículo 1.2.2 sobre investigación institucional, ajustándose a los lineamientos del Archivo General de la Nación Jorge Palacios Preciado."
   }
 ]
