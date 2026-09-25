@@ -86,6 +86,8 @@ def get_create_questions_prompts(context: str, article: str, filename: str) -> l
             "instrucciones": [
                 "Las preguntas deben ser tipo caso, relacionadas estrictamente con el artículo y cada uno de sus incisos.",
                 "Recordar al lector el número del artículo y el nombre exacto de la norma.",
+                "Al mencionar un artículo legal, incluir su título o nombre oficial completo en la pregunta, no solo el número.",
+                "Aportar más información relevante sobre el artículo legal mencionado en la pregunta para contextualizarlo.",
                 "El número de preguntas debe abarcar todo el contexto y contenido del artículo y todos sus incisos.",
                 "No dejar ningún tema del artículo sin pregunta."
                 "Formatea las preguntas con formato_de_pregunta_json estricto sin excepciones"
