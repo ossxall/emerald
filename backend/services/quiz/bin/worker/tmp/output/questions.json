@@ -4057,5 +4057,38 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 5.2.7 establece explícitamente que para la elaboración, aprobación, convalidación, inscripción e implementación de las Tablas de Valoración Documental – TVD, se deben atender todos los requisitos establecidos en el Capítulo 1 del Título 5, Valoración Documental."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1, ¿cuál es el propósito fundamental de establecer lineamientos en el marco del Programa de Gestión Documental para los sujetos obligados?",
+    "options": [
+      "Garantizar exclusivamente la eliminación oportuna de los documentos al finalizar su vigencia administrativa en soportes físicos.",
+      "Asegurar la conservación y preservación de los documentos durante todo su ciclo vital, ya sea en soportes físicos o formatos electrónicos.",
+      "Centralizar todos los archivos históricos de la entidad en un único repositorio digital de acceso público.",
+      "Establecer la tabla de retención documental únicamente para los documentos producidos en formato electrónico."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 6.1 establece explícitamente que el objetivo es implantar lineamientos en el marco del Programa de Gestión Documental durante el ciclo vital de los documentos para su conservación y preservación tanto en soportes físicos como en formatos electrónicos."
+  },
+  {
+    "question": "Según el Artículo 6.1.1.1, ¿cuáles son los atributos específicos que debe garantizar el Sistema Integrado de Conservación (SIC) para cualquier tipo de información?",
+    "options": [
+      "Confidencialidad, inmutabilidad, centralización y legibilidad universal.",
+      "Integridad, autenticidad, fiabilidad y accesibilidad.",
+      "Disponibilidad, inmediatez, interoperabilidad y verificabilidad jurídica.",
+      "Trazabilidad, economicidad, estandarización y permanencia física."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 6.1.1.1 señala que el SIC garantiza la conservación y preservación manteniendo atributos tales como la integridad, autenticidad, fiabilidad y accesibilidad de toda la documentación."
+  },
+  {
+    "question": "Bajo los lineamientos del Sistema Integrado de Conservación (SIC) descritos en el Artículo 6.1.1.1, ¿en qué momento temporal inicia la obligación de mantener los atributos de la documentación?",
+    "options": [
+      "Desde el momento de la producción de los documentos.",
+      "A partir de la transferencia primaria al archivo central.",
+      "Únicamente cuando los documentos alcanzan su valor histórico.",
+      "Desde el momento en que se realiza la valoración documental para su disposición final."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 6.1.1.1 indica que la conservación y preservación debe mantenerse desde el momento de la producción, durante su período de vigencia, hasta su disposición final de acuerdo con la valoración documental."
   }
 ]
