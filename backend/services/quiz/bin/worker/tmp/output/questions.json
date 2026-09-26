@@ -4090,5 +4090,38 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 6.1.1.1 indica que la conservación y preservación debe mantenerse desde el momento de la producción, durante su período de vigencia, hasta su disposición final de acuerdo con la valoración documental."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.1.2 sobre los Componentes del Sistema Integrado de Conservación (SIC), ¿cuál es el ámbito de aplicación específico del Plan de Conservación Documental frente a los soportes de información?",
+    "options": [
+      "Aplica exclusivamente a documentos digitales o electrónicos generados en los sistemas de información institucional.",
+      "Aplica a documentos de archivo creados en soportes físicos o analógicos.",
+      "Aplica de manera indistinta a cualquier tipo de soporte documental sin importar su naturaleza digital o física.",
+      "Aplica únicamente a los documentos históricos que han superado su fase de archivo central y requieren digitalización."
+    ],
+    "correct": 1,
+    "explanation": "El componente del Plan de Conservación Documental está destinado expresamente a regular y aplicar sobre los documentos de archivo creados en soportes físicos o analógicos, diferenciándose del plan para documentos digitales."
+  },
+  {
+    "question": "En el contexto de los componentes del Sistema Integrado de Conservación (SIC), ¿a qué tipología documental se dirige el Plan de Preservación Digital a largo plazo?",
+    "options": [
+      "A documentos de archivo creados exclusivamente en soportes analógicos o en papel tradicional.",
+      "A documentos digitales o electrónicos de archivo que requieren estrategias especiales para su vigencia temporal.",
+      "A expedientes mixtos que combinan folios físicos escaneados junto con firmas autógrafas.",
+      "A documentos microfilmados que han sido migrados desde soportes magnéticos obsoletos."
+    ],
+    "correct": 1,
+    "explanation": "El texto normativo establece claramente que el Plan de Preservación Digital a largo plazo aplica específicamente a los documentos digitales o electrónicos de archivo."
+  },
+  {
+    "question": "Según el parágrafo del Artículo 6.1.1.2, ¿qué condición previa e indispensable se exige para la debida formulación de los planes que integran el Sistema Integrado de Conservación (SIC)?",
+    "options": [
+      "La aprobación previa por parte del comité de archivos y la asignación presupuestal extraordinaria.",
+      "La digitalización total del fondo acumulado y la destrucción de los soportes físicos originales.",
+      "El diagnóstico integral de la gestión documental y administración de archivos.",
+      "La implementación de una firma electrónica avanzada en todos los trámites de la entidad."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo determina explícitamente que el diagnóstico integral de la gestión documental y administración de archivos constituye un requisito fundamental para formular los planes del SIC."
   }
 ]
