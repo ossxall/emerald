@@ -4123,5 +4123,49 @@
     ],
     "correct": 2,
     "explanation": "El parágrafo determina explícitamente que el diagnóstico integral de la gestión documental y administración de archivos constituye un requisito fundamental para formular los planes del SIC."
+  },
+  {
+    "question": "Conforme al Artículo 6.1.1.3 sobre la formulación de los Planes del Sistema Integrado de Conservación (SIC), ¿a partir de qué elementos específicos deben los sujetos obligados establecer las acciones a corto, mediano y largo plazo?",
+    "options": [
+      "A partir de las necesidades evidenciadas en el diagnóstico integral de gestión documental y administración de archivos, la valoración de los documentos y su ciclo vital.",
+      "A partir de las directrices presupuestales anuales emitidas por el Ministerio de Hacienda y los requerimientos de modernización tecnológica institucional.",
+      "A partir de las solicitudes directas de los ciudadanos y las auditorías externas realizadas por el órgano de control fiscal competente.",
+      "A partir de los lineamientos internacionales de preservación digital y las normas técnicas de calidad expedidas por el organismo nacional de normalización."
+    ],
+    "correct": 0,
+    "explanation": "El artículo establece que las acciones de los planes del SIC se establecen a partir de las necesidades evidenciadas en el diagnóstico integral de gestión documental y administración de archivos, de conformidad con la valoración de los documentos y su ciclo vital."
+  },
+  {
+    "question": "De acuerdo con el procedimiento para la formulación e implementación de los Planes del Sistema Integrado de Conservación (SIC), ¿qué rol o parámetro deben atender obligatoriamente los sujetos obligados expedido por la autoridad archivística nacional?",
+    "options": [
+      "Los estándares internacionales de ciberseguridad emitidos por la Organización Internacional de Normalización (ISO).",
+      "Los parámetros y lineamientos establecidos a través de los documentos técnicos expedidos por el Archivo General de la Nación Jorge Palacios Preciado.",
+      "Las directrices presupuestales y de contratación pública establecidas por el Departamento Administrativo de la Función Pública.",
+      "Los manuales operativos internos de gestión ambiental aprobados por el comité de directivos de cada entidad obligada."
+    ],
+    "correct": 1,
+    "explanation": "El texto especifica que se deben atender los parámetros y lineamientos establecidos a través de los documentos técnicos expedidos por el Archivo General de la Nación Jorge Palacios Preciado."
+  },
+  {
+    "question": "En el contexto de las responsabilidades asignadas a los sujetos obligados frente al Sistema Integrado de Conservación (SIC), ¿cuál es el ciclo completo de gestión que se debe aplicar sobre dichos planes?",
+    "options": [
+      "Diseño, socialización, ejecución coactiva, auditoría financiera y liquidación presupuestal.",
+      "Formulación, implementación, seguimiento, control y evaluación de los planes.",
+      "Planificación estratégica, contratación externa, interventoría técnica y archivo definitivo.",
+      "Diagnóstico preliminar, digitalización masiva, destrucción autorizada y custodia notarial."
+    ],
+    "correct": 1,
+    "explanation": "El artículo señala textualmente que los sujetos obligados deben formular, implementar, hacer seguimiento, control y evaluación de los planes del Sistema Integrado de Conservación – SIC."
+  },
+  {
+    "question": "¿Cómo deben estructurarse temporalmente las acciones dentro de los planes del Sistema Integrado de Conservación (SIC) según el marco normativo establecido?",
+    "options": [
+      "Estableciendo acciones únicamente de carácter inmediato y permanente para mitigar riesgos críticos de pérdida documental.",
+      "Estableciendo acciones exclusivamente a largo plazo vinculadas al plan de desarrollo institucional cuatrienal.",
+      "Estableciendo acciones a corto, mediano y largo plazo derivadas del diagnóstico integral y del ciclo vital documental.",
+      "Estableciendo acciones cíclicas semestrales sujetas a la disponibilidad de recursos humanos y tecnológicos de la entidad."
+    ],
+    "correct": 2,
+    "explanation": "El texto indica de manera explícita que se deben establecer acciones a corto, mediano y largo plazo a partir de las necesidades del diagnóstico integral y la valoración de los documentos."
   }
 ]
