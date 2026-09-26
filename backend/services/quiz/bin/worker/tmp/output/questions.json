@@ -4035,5 +4035,16 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 5.2.5 establece explícitamente que la etapa de Historia Institucional debe comprender los aspectos que cita el artículo 1.2.2 sobre investigación institucional, ajustándose a los lineamientos del Archivo General de la Nación Jorge Palacios Preciado."
+  },
+  {
+    "question": "Conforme al Artículo 5.2.6 sobre el Formato Tabla de Valoración Documental, ¿cuál es la directriz específica que deben cumplir las entidades pertenecientes a la Administración Pública respecto a sus fondos documentales acumulados?",
+    "options": [
+      "Las entidades deben adoptar exclusivamente el formato establecido en el anexo 7 para llevar a cabo la valoración de dichos fondos acumulados.",
+      "Las entidades tienen la potestad de diseñar un formato interno adaptado a sus necesidades operativas para valorar sus archivos históricos.",
+      "Las entidades deben aplicar las Tablas de Retención Documental vigentes para gestionar la eliminación directa de los fondos acumulados sin usar otro formato.",
+      "Las entidades están obligadas a solicitar una autorización previa al Archivo General de la Nación para definir el formato técnico aplicable a sus series."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 5.2.6 establece explícitamente que las entidades de la Administración Pública adoptarán el formato de Tabla de Valoración Documental para la valoración de los fondos documentales acumulados, remitiéndose al anexo 7."
   }
 ]
