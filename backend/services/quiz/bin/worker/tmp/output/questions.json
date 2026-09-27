@@ -4167,5 +4167,82 @@
     ],
     "correct": 2,
     "explanation": "El texto indica de manera explícita que se deben establecer acciones a corto, mediano y largo plazo a partir de las necesidades del diagnóstico integral y la valoración de los documentos."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.1.4, ¿cómo se definen técnicamente los Programas de Conservación Preventiva dentro del marco de la gestión documental?",
+    "options": [
+      "Como el conjunto de procesos y procedimientos de conservación aplicables exclusivamente al Plan de preservación digital a largo plazo.",
+      "Como el conjunto de procesos y procedimientos de conservación aplicables al Plan de conservación documental y al Plan de preservación digital a largo plazo.",
+      "Como un inventario aislado de actividades orientadas a la restauración física de los documentos de archivo históricos.",
+      "Como directrices administrativas enfocadas únicamente en el saneamiento ambiental y la seguridad de las instalaciones físicas."
+    ],
+    "correct": 1,
+    "explanation": "El texto establece explícitamente que los Programas de Conservación Preventiva son el conjunto de procesos y procedimientos de conservación aplicables al Plan de conservación documental y al Plan de preservación digital a largo plazo."
+  },
+  {
+    "question": "Dentro de los programas de conservación preventiva enumerados en la normativa, ¿cuál es el propósito específico y la articulación exigida para el Programa de prevención de emergencias y atención de desastres en archivos?",
+    "options": [
+      "Debe estar articulado con el presupuesto general de la entidad y enfocado exclusivamente en la recuperación de documentos en formato digital.",
+      "Debe operar de forma independiente de otros sistemas de seguridad para garantizar una respuesta rápida ante siniestros estructurales.",
+      "Debe estar articulado con el panorama de riesgos de desastres y de seguridad de la información de la entidad, enfocado en minimizar riesgos de deterioro o pérdida.",
+      "Debe centrarse únicamente en la prevención de incendios mediante inspecciones periódicas de las instalaciones físicas sin considerar la seguridad de la información."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del artículo indica claramente que este programa debe estar articulado con el panorama de riesgos de desastres y de seguridad de la información de la entidad, enfocado en minimizar los riesgos que puedan incidir en el deterioro o pérdida de los documentos de archivo."
+  },
+  {
+    "question": "Identifique cuáles son los programas específicos que integran la lista de conservación preventiva según el Artículo 6.1.1.4.",
+    "options": [
+      "Capacitación y sensibilización; Inspección y mantenimiento de sistemas de almacenamiento e instalaciones físicas; Saneamiento ambiental; Monitoreo y control de condiciones ambientales; Almacenamiento y realmacenamiento; Prevención de emergencias y atención de desastres.",
+      "Digitalización masiva; Catalogación automatizada; Saneamiento ambiental; Control de acceso biométrico; Almacenamiento en la nube; Prevención de desastres naturales.",
+      "Capacitación del personal humano; Auditoría de gestión documental; Desinfección química de archivos históricos; Monitoreo financiero; Realmacenamiento en soportes ópticos; Seguridad perimetral.",
+      "Inspección de software de preservación; Mantenimiento de servidores; Control de plagas urbanas; Monitoreo de temperatura digital; Eliminación controlada de documentos; Planes de contingencia informática."
+    ],
+    "correct": 0,
+    "explanation": "La norma enumera textualmente los seis programas que componen la conservación preventiva: Capacitación y sensibilización, Inspección y mantenimiento de sistemas de almacenamiento e instalaciones físicas, Saneamiento ambiental, Monitoreo y control de condiciones ambientales, Almacenamiento y realmacenamiento, y Prevención de emergencias y atención de desastres."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.1.4, ¿cómo se definen técnicamente los Programas de Conservación Preventiva dentro del marco archivístico?",
+    "options": [
+      "Como el conjunto de procesos y procedimientos de conservación aplicables exclusivamente al Plan de preservación digital a largo plazo.",
+      "Como el conjunto de procesos y procedimientos de conservación aplicables al Plan de conservación documental y al Plan de preservación digital a largo plazo.",
+      "Como un inventario único de directrices orientadas únicamente a la restauración física y digital de expedientes históricos.",
+      "Como el marco normativo de control administrativo enfocado en la eliminación y transferencia documental de las entidades públicas."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece textualmente que los Programas de Conservación Preventiva son el conjunto de procesos y procedimientos de conservación aplicables al Plan de conservación documental y al Plan de preservación digital a largo plazo."
+  },
+  {
+    "question": "Según la enumeración de los Programas de Conservación Preventiva en el texto, ¿cuál de las siguientes opciones corresponde exactamente al programa listado bajo el numeral 3?",
+    "options": [
+      "Monitoreo y control de condiciones ambientales.",
+      "Prevención de emergencias y atención de desastres.",
+      "Saneamiento ambiental: desinfección, desratización y desinsectación.",
+      "Capacitación y sensibilización."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 del artículo especifica textualmente el Saneamiento ambiental: desinfección, desratización y desinsectación."
+  },
+  {
+    "question": "Conforme al parágrafo del Artículo 6.1.1.4, ¿con qué elementos específicos debe estar articulado el Programa de prevención de emergencias y atención de desastres en archivos?",
+    "options": [
+      "Con el panorama de riesgos de desastres y de seguridad de la información de la entidad.",
+      "Con los planes de gestión humana y el inventario general de bienes de la administración.",
+      "Con las tablas de retención documental y los instrumentos de control de acceso público.",
+      "Con el plan de desarrollo institucional y los lineamientos de firma electrónica avanzada."
+    ],
+    "correct": 0,
+    "explanation": "El parágrafo indica expresamente que el Programa de prevención de emergencias y atención de desastres en archivos debe estar articulado con el panorama de riesgos de desastres y de seguridad de la información de la entidad."
+  },
+  {
+    "question": "De acuerdo con el parágrafo del Artículo 6.1.1.4, ¿cuál es el enfoque principal que debe tener el Programa de prevención de emergencias y atención de desastres en archivos?",
+    "options": [
+      "Maximizar la velocidad de transferencia de archivos electrónicos hacia el archivo histórico central.",
+      "Minimizar los riesgos que puedan incidir en el deterioro o pérdida de los documentos de archivo.",
+      "Garantizar el cumplimiento de los plazos de retención documental establecidos en las tablas vigentes.",
+      "Optimizar los costos operativos asociados al almacenamiento físico y digital de la información."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo señala que este programa debe estar enfocado en minimizar los riesgos que puedan incidir en el deterioro o pérdida de los documentos de archivo."
   }
 ]
