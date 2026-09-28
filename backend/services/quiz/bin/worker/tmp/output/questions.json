@@ -4365,5 +4365,60 @@
     ],
     "correct": 2,
     "explanation": "El parágrafo del artículo 6.1.1.7 indica que, ante la falta de los cargos que integran el Comité, la aprobación debe realizarse mediante acto administrativo o documento equivalente expedido por el representante legal."
+  },
+  {
+    "question": "De acuerdo con lo dispuesto en el Artículo 6.1.1.8 respecto al seguimiento y evaluación de los planes del Sistema Integrado de Conservación (SIC), ¿cuál es la obligación principal que asumen los sujetos obligados frente a la ejecución de estos instrumentos?",
+    "options": [
+      "Realizar el seguimiento y evaluación periódica de la ejecución de los planes del SIC para actualizar o ajustar los aspectos que resulten necesarios.",
+      "Aprobar trimestralmente una nueva versión de los planes del SIC previa autorización expresa del Archivo General de la Nación.",
+      "Rediseñar la estructura de los procesos de gestión documental únicamente cuando existan cambios en el presupuesto anual asignado a la entidad.",
+      "Remitir los hallazgos operativos de la ejecución del SIC de forma exclusiva a los entes de control fiscal para su correspondiente auditoría."
+    ],
+    "correct": 0,
+    "explanation": "El texto establece explícitamente que los sujetos obligados deben realizar periódicamente el seguimiento y evaluación a la ejecución de los planes del Sistema Integrado de Conservación (SIC) con el fin de actualizar o ajustar los aspectos que sean necesarios."
+  },
+  {
+    "question": "En el marco de la verificación y control del Sistema Integrado de Conservación (SIC), ¿qué función precisa debe cumplir el Comité Institucional de Gestión y Desempeño, o quien haga sus veces, ante las auditorías realizadas?",
+    "options": [
+      "Imponer sanciones administrativas a los directores de archivo cuando existan inconsistencias técnicas en la ejecución de los planes de conservación.",
+      "Contratar auditores externos para evaluar de manera independiente las inconsistencias detectadas en la custodia de documentos físicos y electrónicos.",
+      "Verificar el cumplimiento de lo establecido en el SIC e incluir en los planes de mejoramiento institucional las acciones necesarias para corregir los hallazgos de las auditorías.",
+      "Transferir los hallazgos de las auditorías del SIC a los consejos departamentales de archivos para que rediseñen los instrumentos archivísticos."
+    ],
+    "correct": 2,
+    "explanation": "El artículo norma que el Comité Institucional de Gestión y Desempeño (o la instancia equivalente) verificará el cumplimiento de lo establecido en el SIC e incluirá en los planes de mejoramiento de la entidad las acciones necesarias para corregir los hallazgos surgidos de las auditorías del sistema."
+  },
+  {
+    "question": "De acuerdo con el artículo 6.1.1.8 sobre el seguimiento y evaluación a los planes del Sistema Integrado de Conservación (SIC), ¿qué obligación específica tienen los sujetos obligados respecto a la ejecución de dichos planes?",
+    "options": [
+      "Realizar revisiones exclusivamente cuando se presenten auditorías externas de carácter financiero.",
+      "Efectuar de manera periódica el seguimiento y la evaluación para actualizar o ajustar los aspectos necesarios.",
+      "Someter los planes a una aprobación previa del Comité Institucional de Gestión y Desempeño antes de cada ejecución.",
+      "Modificar la estructura general del SIC de forma anual sin necesidad de auditorías previas."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece que los sujetos obligados deben realizar periódicamente el seguimiento y evaluación a la ejecución de los planes del SIC para actualizar o ajustar los aspectos que sean necesarios."
+  },
+  {
+    "question": "Según lo dispuesto en el artículo 6.1.1.8, ¿cuál es el rol asignado al Comité Institucional de Gestión y Desempeño, o quien haga sus veces, en relación con el Sistema Integrado de Conservación - SIC?",
+    "options": [
+      "Diseñar y redactar directamente los instrumentos archivísticos que componen el SIC.",
+      "Verificar el cumplimiento de lo establecido en el SIC e incluir acciones correctivas en los planes de mejoramiento derivadas de las auditorías.",
+      "Ejecutar de manera directa la eliminación documental y la transferencia secundaria de los archivos históricos.",
+      "Reemplazar a los sujetos obligados en la elaboración periódica de los seguimientos técnicos."
+    ],
+    "correct": 1,
+    "explanation": "El texto indica que el Comité Institucional de Gestión e Desempeño verificará el cumplimiento del SIC e incluirá en los planes de mejoramiento de la entidad las acciones necesarias para corregir los hallazgos de las auditorías."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.2.1 sobre el Plan de Conservación Documental, ¿cuál es el objetivo fundamental de este conjunto de acciones respecto a los documentos de archivo en soportes físicos?",
+    "options": [
+      "Garantizar exclusivamente la preservación digital a largo plazo mediante la migración masiva de formatos físicos.",
+      "Garantizar la estabilidad estructural y funcional de los documentos, manteniendo los atributos de autenticidad, integridad, fiabilidad y accesibilidad a través del tiempo.",
+      "Asegurar la eliminación oportuna de los documentos físicos que hayan cumplido su ciclo vital y su valor administrativo.",
+      "Facilitar la transferencia inmediata de los expedientes físicos hacia los archivos históricos nacionales sin requerir valoración previa."
+    ],
+    "correct": 1,
+    "explanation": "El artículo define explícitamente que el Plan de Conservación Documental es el conjunto de acciones tendientes a garantizar la estabilidad estructural y funcional de los documentos de archivo en soportes físicos, manteniendo los atributos de autenticidad, integridad, fiabilidad y accesibilidad a través del tiempo."
   }
 ]
