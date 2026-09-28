@@ -4244,5 +4244,38 @@
     ],
     "correct": 1,
     "explanation": "El parágrafo señala que este programa debe estar enfocado en minimizar los riesgos que puedan incidir en el deterioro o pérdida de los documentos de archivo."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.1.5, ¿cuál es la base normativa que fundamenta los principios rectores del Sistema Integrado de Conservación (SIC)?",
+    "options": [
+      "Los principios definidos exclusivamente en el reglamento interno de cada entidad pública.",
+      "Los principios establecidos en el Artículo 2.8.2.5.5. y el literal g del Artículo 2.8.2.5.9. del Decreto 1080 de 2015.",
+      "Las directrices internacionales sobre preservación digital emitidas por organismos de normalización técnica.",
+      "Los lineamientos generales dictados por el Archivo General de la Nación sin sujeción a decretos reglamentarios."
+    ],
+    "correct": 1,
+    "explanation": "El texto establece explícitamente que los principios del SIC se fundamentan en el Artículo 2.8.2.5.5. y el literal g del Artículo 2.8.2.5.9. del Decreto 1080 de 2015."
+  },
+  {
+    "question": "Ante una eventual modificación, sustitución o derogación de la normativa citada en el Artículo 6.1.1.5, ¿cómo debe proceder la interpretación de los principios del Sistema Integrado de Conservación?",
+    "options": [
+      "Se deben mantener los principios originales del Decreto 1080 de 2015 de forma permanente e inalterable.",
+      "Se debe aplicar la nueva norma que modifique, sustituya o derogue las disposiciones originales mencionadas.",
+      "Se debe solicitar una consulta vinculante al comité de archivo de cada entidad para definir los nuevos principios.",
+      "Se deben suspender las actividades del SIC hasta que se emita un nuevo decreto específico para la conservación."
+    ],
+    "correct": 1,
+    "explanation": "El artículo indica que los principios son los establecidos en el Decreto 1080 de 2015 o aquellos que establezca la norma que lo modifique, sustituya o derogue, garantizando la vigencia normativa."
+  },
+  {
+    "question": "El literal g del Artículo 2.8.2.5.9., mencionado en el Artículo 6.1.1.5, hace referencia a un proceso específico dentro de la gestión documental. ¿Cuál es este proceso?",
+    "options": [
+      "La valoración documental para la disposición final de los archivos.",
+      "La organización y clasificación de series y subseries documentales.",
+      "La preservación a largo plazo de los documentos en la administración pública.",
+      "La transferencia de documentos físicos a archivos históricos."
+    ],
+    "correct": 2,
+    "explanation": "El texto cita expresamente el literal g del Artículo 2.8.2.5.9. como 'Preservación a largo plazo', proceso que aplica a la administración pública."
   }
 ]
