@@ -4277,5 +4277,49 @@
     ],
     "correct": 2,
     "explanation": "El texto cita expresamente el literal g del Artículo 2.8.2.5.9. como 'Preservación a largo plazo', proceso que aplica a la administración pública."
+  },
+  {
+    "question": "De acuerdo con el artículo 6.1.1.6, ¿cómo se define el papel del Sistema Integrado de Conservación (SIC) frente al proceso de gestión documental y cuál es su alcance operativo a lo largo del ciclo vital de los documentos?",
+    "options": [
+      "El SIC opera como un conjunto de procesos transversales destinados a garantizar la conservación y preservación documental considerando todas las fases del ciclo vital.",
+      "El SIC funciona como un procedimiento aislado que se aplica exclusivamente en la fase final del archivo histórico para evitar el deterioro de los soportes.",
+      "El SIC constituye una directriz opcional de carácter técnico que las entidades pueden implementar de manera independiente de la gestión documental.",
+      "El SIC representa una auditoría retrospectiva que se ejecuta únicamente cuando se solicita la eliminación de series y subseries documentales."
+    ],
+    "correct": 0,
+    "explanation": "El texto establece explícitamente que el SIC implica la ejecución de procesos transversales al proceso de gestión documental para garantizar la conservación y preservación teniendo en cuenta el ciclo vital."
+  },
+  {
+    "question": "Según el artículo citado, ¿a qué cargos institucionales corresponde específicamente la coordinación del Sistema Integrado de Conservación – SIC?",
+    "options": [
+      "A los jefes de las oficinas de tecnologías de la información y comunicación exclusivamente.",
+      "A los respectivos secretarios generales o funcionarios de igual o superior jerarquía.",
+      "A los auditores internos designados por el comité de archivo de la entidad pública.",
+      "A los especialistas en conservación documental adscritos al área de gestión documental."
+    ],
+    "correct": 1,
+    "explanation": "El artículo señala textualmente que le corresponde a los respectivos secretarios generales o funcionarios de igual o superior jerarquía la coordinación del Sistema Integrado de Conservación."
+  },
+  {
+    "question": "De conformidad con la normativa del SIC, ¿a través de qué medios operativos se debe llevar a cabo la coordinación de dicho sistema por parte de la autoridad competente?",
+    "options": [
+      "Mediante contratos de prestación de servicios con entidades externas especializadas en preservación digital.",
+      "A través de las áreas responsables de la implementación de los planes y programas del SIC.",
+      "Por medio de comités interinstitucionales de control gubernamental sin vinculación interna.",
+      "A través de resoluciones unilaterales emitidas por el área de recursos humanos sin consulta previa."
+    ],
+    "correct": 1,
+    "explanation": "El texto prescribe que la coordinación se realiza a través de las áreas responsables de la implementación de los planes y programas del SIC."
+  },
+  {
+    "question": "En el marco de la articulación institucional exigida para la implementación del SIC, ¿cuáles son las áreas específicas que deben integrarse en dicho proceso según el artículo 6.1.1.6?",
+    "options": [
+      "Áreas de presupuesto, contratación estatal, planeación estratégica y relaciones públicas.",
+      "Gestión documental, personal en conservación documental, área de tecnologías de la información y auditores internos.",
+      "Control interno disciplinario, tesorería, almacén general y secretaría privada.",
+      "Servicios generales, seguridad física, jurídica y atención al ciudadano."
+    ],
+    "correct": 1,
+    "explanation": "El texto menciona de forma expresa que la implementación debe ser articulada con áreas tales como gestión documental, personal en conservación documental, área de tecnologías de la información y auditores internos."
   }
 ]
