@@ -4420,5 +4420,49 @@
     ],
     "correct": 1,
     "explanation": "El artículo define explícitamente que el Plan de Conservación Documental es el conjunto de acciones tendientes a garantizar la estabilidad estructural y funcional de los documentos de archivo en soportes físicos, manteniendo los atributos de autenticidad, integridad, fiabilidad y accesibilidad a través del tiempo."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.2.2 sobre los niveles de intervención en conservación documental, ¿cuál es el objetivo principal y la naturaleza del conjunto de acciones denominado conservación preventiva?",
+    "options": [
+      "Corregir y detener activamente el deterioro físico actual de los soportes documentales mediante tratamientos directos.",
+      "Minimizar el riesgo de deterioro de los documentos mediante el desarrollo e implementación de los programas específicos de conservación preventiva.",
+      "Restituir los valores estéticos originales de los documentos mediante intervenciones directas sobre su soporte material.",
+      "Ejecutar intervenciones menores o de primeros auxilios orientadas a estabilizar la información sin alterar la estructura física."
+    ],
+    "correct": 1,
+    "explanation": "La conservación preventiva se define expresamente como el conjunto de acciones tendientes a minimizar el riesgo de deterioro de los documentos, mediante el desarrollo e implementación de los programas de conservación preventiva referidos en la normativa."
+  },
+  {
+    "question": "Dentro del marco de la conservación – restauración, ¿cómo se diferencian conceptualmente las funciones de la conservación y de la restauración propiamente dicha?",
+    "options": [
+      "La conservación busca corregir y detener el deterioro evitando daños mayores, mientras que la restauración busca además restituir los valores estéticos.",
+      "La conservación se enfoca exclusivamente en la prevención de riesgos ambientales, mientras que la restauración ejecuta intervenciones de primeros auxilios.",
+      "La conservación altera el soporte físico para preservar la información, mientras que la restauración interviene únicamente en los metadatos y registros digitales.",
+      "La conservación corresponde al nivel preventivo sin contacto directo, mientras que la restauración abarca todas las acciones de gestión documental administrativa."
+    ],
+    "correct": 0,
+    "explanation": "El texto establece que la conservación hace referencia a los procesos y procedimientos que buscan corregir y detener el deterioro de los documentos, evitando daños mayores, y la restauración busca además restituir los valores estéticos."
+  },
+  {
+    "question": "¿Cuál es la condición técnica y procedimental obligatoria que debe preceder a cualquier intervención realizada sobre un bien documental, según el Parágrafo 1 del artículo?",
+    "options": [
+      "La aprobación previa y unánime del comité institucional de archivo y gestión documental.",
+      "El diligenciamiento digital del inventario único de series y subseries documentales.",
+      "El diagnóstico de su estado de conservación, el cual debe quedar documentado en un informe que sustente y justifique las medidas.",
+      "La digitalización integral del soporte físico para garantizar el respaldo de la información antes de cualquier manipulación."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 1 indica explícitamente que cualquier intervención que se realice sobre un bien documental debe estar precedida del diagnóstico de su estado de conservación y sustentada en un informe."
+  },
+  {
+    "question": "De acuerdo con el Parágrafo 2, ¿qué elementos mínimos de trazabilidad y responsabilidad profesional deben consignarse en los reportes de las acciones de conservación?",
+    "options": [
+      "El presupuesto asignado, el cronograma de ejecución y la firma del representante legal de la entidad productora.",
+      "El estado inicial, los factores y mecanismos de deterioro, el tratamiento aplicado, los materiales y métodos usados, los criterios de intervención, las recomendaciones y el nombre con firma del profesional responsable.",
+      "La clasificación archivística de la serie documental, el número de folios transferidos y el formato de almacenamiento electrónico utilizado.",
+      "La descripción detallada de la tabla de retención documental y la justificación legal de la eliminación o conservación total."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 2 detalla que los reportes deben dar cuenta del estado inicial, factores de deterioro, tratamiento, materiales, métodos, criterios, recomendaciones y el nombre del profesional con su firma asumiendo la responsabilidad."
   }
 ]
