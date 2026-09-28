@@ -4321,5 +4321,49 @@
     ],
     "correct": 1,
     "explanation": "El texto menciona de forma expresa que la implementación debe ser articulada con áreas tales como gestión documental, personal en conservación documental, área de tecnologías de la información y auditores internos."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.1.7, ¿cuál es el procedimiento obligatorio para formalizar la aprobación de los planes de implementación del Sistema Integrado de Conservación (SIC) en una entidad que cuenta con la instancia respectiva?",
+    "options": [
+      "Deben ser aprobados exclusivamente mediante acto administrativo expedido y firmado por el representante legal de la entidad.",
+      "Deben ser aprobados por el Comité Institucional de Gestión y Desempeño o quien haga sus veces, registrando el sustento en sus actas y publicándolos en la web institucional.",
+      "Deben ser aprobados por la autoridad archivística nacional mediante una resolución de convalidación técnica previa publicación web.",
+      "Deben ser aprobados por el área de archivo y sistemas mediante un documento electrónico firmado digitalmente sin necesidad de actas."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece que los planes deben ser aprobados por el Comité Institucional de Gestión y Desempeño o quien haga sus veces, quedando registrado en actas y publicándose en la web de la entidad."
+  },
+  {
+    "question": "Según el parágrafo del Artículo 6.1.1.7, ¿qué alternativa normativa se aplica cuando una entidad carece taxativamente de los cargos necesarios para integrar o conformar el Comité Institucional de Gestión y Desempeño?",
+    "options": [
+      "La entidad queda exenta de la implementación del Sistema Integrado de Conservación hasta que se provean los cargos requeridos por ley.",
+      "La aprobación de los planes del SIC se delegará al jefe del área de archivo mediante un memorando interno de carácter transitorio.",
+      "La aprobación se realizará mediante un acto administrativo o documento equivalente expedido directamente por el representante legal.",
+      "Los planes deberán ser remitidos al Ministerio de Cultura para su aprobación supletoria mediante un decreto ejecutivo."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo determina que ante la imposibilidad de integrar o conformar el comité por falta de cargos, la aprobación se hará por acto administrativo o documento equivalente expedido por el representante legal."
+  },
+  {
+    "question": "De acuerdo con el artículo 6.1.1.7, ¿cuál es el requisito procedimental obligatorio para la formalización de los planes de implementación del Sistema Integrado de Conservación (SIC) cuando la entidad cuenta con el Comité Institucional de Gestión y Desempeño?",
+    "options": [
+      "La aprobación debe ser ratificada mediante un acto administrativo firmado exclusivamente por el representante legal de la entidad.",
+      "La aprobación debe ser otorgada por el Comité Institucional de Gestión y Desempeño, dejando constancia en actas y publicando el plan en la web institucional.",
+      "El plan debe ser remitido a la autoridad nacional competente para su validación técnica antes de ser publicado en el portal web de la entidad.",
+      "La aprobación se considera tácita una vez que el Comité revisa el documento, sin necesidad de registro formal en actas o publicaciones adicionales."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece explícitamente que los planes deben ser aprobados por el Comité, que el sustento debe registrarse en las actas y que deben publicarse en la web de la entidad."
+  },
+  {
+    "question": "Ante la imposibilidad de conformar el Comité Institucional de Gestión y Desempeño para la aprobación de los planes del SIC, ¿qué mecanismo alternativo establece la normativa para garantizar la validez del proceso?",
+    "options": [
+      "La delegación de la facultad de aprobación a la unidad de archivo o gestión documental de la entidad.",
+      "La aprobación automática por parte del área de planeación, siempre que se notifique al archivo general de la nación.",
+      "La expedición de un acto administrativo o documento equivalente por parte del representante legal de la entidad.",
+      "La suspensión temporal de la obligación de implementar el SIC hasta que se logre conformar el comité requerido."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del artículo 6.1.1.7 indica que, ante la falta de los cargos que integran el Comité, la aprobación debe realizarse mediante acto administrativo o documento equivalente expedido por el representante legal."
   }
 ]
