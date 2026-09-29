@@ -183,6 +183,8 @@ def generate_quiz():
             indent=2
         )
     print(f"Quiz guardado (append a questions.json): {questions_path}")
+
+    asyncio.sleep(5)
     
     #-----------------------------------------------------------
     

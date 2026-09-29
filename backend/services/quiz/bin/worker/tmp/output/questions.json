@@ -4464,5 +4464,49 @@
     ],
     "correct": 1,
     "explanation": "El Parágrafo 2 detalla que los reportes deben dar cuenta del estado inicial, factores de deterioro, tratamiento, materiales, métodos, criterios, recomendaciones y el nombre del profesional con su firma asumiendo la responsabilidad."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.2.3, ¿qué elementos debe integrar específicamente el plan de conservación documental en relación con el ciclo vital de los documentos?",
+    "options": [
+      "Unicamente los procedimientos de digitalización avanzada y los estándares de preservación digital a largo plazo.",
+      "Todos los procesos y procedimientos utilizados para la conservación a lo largo del ciclo vital, alineados con la política institucional, instrumentos archivísticos y normas técnicas o estándares internacionales vigentes.",
+      "Las directrices presupuestarias y los costos asociados exclusivamente a la fase de disposición final y eliminación documental.",
+      "Un inventario general de los expedientes históricos que excluye la gestión de documentos electrónicos y soportes físicos actuales."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece que el plan de conservación documental debe incluir todos los procesos y procedimientos utilizados para la conservación de los documentos de archivo a lo largo de todo su ciclo vital, conforme a la política institucional, los instrumentos archivísticos y las normas técnicas o estándares internacionales vigentes."
+  },
+  {
+    "question": "Según el parágrafo del Artículo 6.1.2.3, ¿cuáles son los aspectos de carácter general que obligatoriamente deben tenerse en cuenta para la ejecución de los procesos y procedimientos de conservación documental?",
+    "options": [
+      "Los perfiles y competencias laborales del personal de intervención, la infraestructura física y tecnológica, y los elementos de protección personal junto con la bioseguridad conforme a la normatividad.",
+      "El análisis financiero del impacto presupuestal, la adquisición de licencias de software privativo y la contratación externa de servicios archivísticos.",
+      "La ubicación geográfica exclusiva de los archivos centrales, el diseño arquitectónico de las oficinas productoras y la clasificación salarial de los funcionarios.",
+      "Los protocolos de atención al ciudadano, los tiempos de respuesta para solicitudes de acceso a la información y los canales de comunicación digital."
+    ],
+    "correct": 0,
+    "explanation": "El parágrafo indica textualmente que los procesos y procedimientos de conservación documental deben tener en cuenta: 1. Perfiles y competencias laborales del personal, 2. Infraestructura física y tecnológica, y 3. Elementos de protección personal y bioseguridad según la normatividad vigente."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.2.3 sobre los procesos y procedimientos de conservación documental, ¿qué elementos fundamentales debe integrar el plan de conservación documental a lo largo del ciclo vital de los documentos?",
+    "options": [
+      "Únicamente los protocolos de digitalización y eliminación establecidos en la política institucional de gestión documental.",
+      "Todos los procesos y procedimentos utilizados para la conservación de los documentos de archivo, alineados con la política institucional, los instrumentos archivísticos, otros sistemas de gestión y las normas técnicas y estándares internacionales vigentes.",
+      "Solamente los estándares internacionales de preservación digital y seguridad de la información exigidos por los sistemas administrativos externos.",
+      "Los procedimientos de transferencia secundaria y valoración histórica definidos exclusivamente por las autoridades de archivo de la nación."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 6.1.2.3 establece explícitamente que el plan de conservación documental debe incluir todos los procesos y procedimientos utilizados para la conservación a lo largo del ciclo vital, conforme a la política institucional, instrumentos archivísticos, otros sistemas de gestión y normas técnicas o estándares internacionales vigentes."
+  },
+  {
+    "question": "Según el parágrafo del Artículo 6.1.2.3, al estructurar de manera general los procesos y procedimientos para la conservación documental, ¿cuáles son los tres aspectos operativos y técnicos obligatorios que se deben tener en cuenta?",
+    "options": [
+      "El presupuesto financiero anual, los indicadores de gestión de calidad y la ubicación geográfica de los repositorios documentales.",
+      "Los perfiles y competencias laborales del personal interventor, la infraestructura física y tecnológica para conservación-restauración, y los elementos de protección personal y bioseguridad conforme a la normatividad vigente.",
+      "La tipología documental de las series históricas, el volumen de transferencia primaria y la interoperabilidad de los sistemas electrónicos de gestión.",
+      "Las auditorías externas de cumplimiento legal, los convenios con entidades internacionales y la disponibilidad de software privativo de digitalización."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo del artículo detalla taxativamente que los procesos generales deben contemplar: 1) Perfiles y competencias laborales del personal, 2) Infraestructura física y tecnológica, y 3) Elementos de protección personal y bioseguridad según la normatividad vigente."
   }
 ]
