@@ -4508,5 +4508,38 @@
     ],
     "correct": 1,
     "explanation": "El parágrafo del artículo detalla taxativamente que los procesos generales deben contemplar: 1) Perfiles y competencias laborales del personal, 2) Infraestructura física y tecnológica, y 3) Elementos de protección personal y bioseguridad según la normatividad vigente."
+  },
+  {
+    "question": "Conforme al Artículo 6.1.2.3, ¿qué elementos fundamentales debe integrar el plan de conservación documental a lo largo del ciclo vital de los documentos?",
+    "options": [
+      "Unicamente los procesos de digitalización y las tablas de retención documental aprobadas institucionalmente.",
+      "Todos los procesos y procedimientos utilizados para la conservación de los documentos de archivo, alineados con la política institucional, instrumentos archivísticos, sistemas administrativos, normas técnicas y estándares internacionales vigentes.",
+      "Exclusivamente los procedimientos de restauración física y las especificaciones de infraestructura tecnológica para el almacenamiento en la nube.",
+      "Los lineamientos presupuestales y los cronogramas de transferencia documental establecidos por la autoridad archivística nacional."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 6.1.2.3 establece explícitamente que el plan de conservación documental debe incluir todos los procesos y procedimientos utilizados para la conservación a lo largo del ciclo vital, conforme a la política institucional, los instrumentos de gestión, otros sistemas administrativos y las normas técnicas y estándares internacionales vigentes."
+  },
+  {
+    "question": "De acuerdo con el parágrafo del Artículo 6.1.2.3, ¿cuáles son los aspectos generales que obligatoriamente deben tenerse en cuenta para la ejecución de los procesos y procedimientos de conservación documental?",
+    "options": [
+      "El presupuesto anual de la entidad, el inventario único de documentos y los calendarios de eventos académicos del personal.",
+      "Los perfiles y competencias laborales del personal interventor, la infraestructura física y tecnológica para conservación y restauración, y los elementos de protección personal y bioseguridad conforme a la normatividad.",
+      "La ubicación geográfica de los archivos centrales, los contratos de tercerización de servicios y las auditorías de calidad externa.",
+      "La clasificación de las series documentales, los tiempos de retención en el archivo de gestión y los formatos de intercambio electrónico."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo del Artículo 6.1.2.3 señala taxativamente que los procesos y procedimientos de conservación deben considerar los perfiles y competencias laborales del personal, la infraestructura física y tecnológica, y los elementos de protección personal y bioseguridad según la normatividad vigente."
+  },
+  {
+    "question": "Conforme al Artículo 6.1.2.4, ¿cuál es la pauta normativa aplicable para la conservación y preservación de archivos audiovisuales, fotográficos o sonoros generados en medio analógico?",
+    "options": [
+      "Se aplicarán exclusivamente las directrices presupuestales emitidas por el Ministerio de Hacienda para archivos especiales.",
+      "Se aplicarán los criterios establecidos por el Archivo General de la Nación Jorge Palacios Preciado mediante su normatividad específica y normas técnicas y estándares internacionales vigentes.",
+      "Se aplicarán de forma discrecional los protocolos internos que cada entidad productora decida adoptar de manera autónoma.",
+      "Se aplicarán únicamente las normas técnicas de carácter internacional, omitiendo la regulación interna del Archivo General de la Nación."
+    ],
+    "correct": 1,
+    "explanation": "El artículo estipula claramente que se aplicarán los criterios establecidos por el Archivo General de la Nación Jorge Palacios Preciado mediante la normatividad relativa a la conservación y preservación de estos archivos en medio analógico, conforme a normas técnicas y estándares internacionales vigentes."
   }
 ]
