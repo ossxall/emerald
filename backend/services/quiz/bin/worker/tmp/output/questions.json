@@ -4541,5 +4541,38 @@
     ],
     "correct": 1,
     "explanation": "El artículo estipula claramente que se aplicarán los criterios establecidos por el Archivo General de la Nación Jorge Palacios Preciado mediante la normatividad relativa a la conservación y preservación de estos archivos en medio analógico, conforme a normas técnicas y estándares internacionales vigentes."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.3.1 sobre la responsabilidad de la preservación a largo plazo, ¿cuál es el alcance de la obligación de los sujetos obligados respecto a los documentos, datos, metadatos y expedientes electrónicos?",
+    "options": [
+      "La obligación se limita exclusivamente al sistema informático original en el cual se generaron y tramitaron los archivos.",
+      "Los sujetos obligados son responsables independientemente del sistema informático de origen, debiendo asegurar la consulta, autenticidad, integridad, accesibilidad, disponibilidad y confiabilidad conforme a las directrices del Archivo General de la Nación Jorge Palacios Preciado.",
+      "La responsabilidad recae de forma exclusiva sobre el administrador del software de almacenamiento, eximiendo a la entidad productora una vez realizada la transferencia.",
+      "La preservación a largo plazo es de carácter opcional siempre y cuando los documentos se mantengan en un soporte físico o impreso."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 6.1.3.1 establece que los sujetos obligados son responsables de la preservación a largo plazo sin importar el sistema informático que los generó, tramitó o almacenó, debiendo garantizar atributos clave como autenticidad, integridad, accesibilidad, disponibilidad y confiabilidad bajo las directrices del Archivo General de la Nación Jorge Palacios Preciado."
+  },
+  {
+    "question": "De acuerdo con lo establecido en el Artículo 6.1.3.1 sobre la preservación digital a largo plazo, ¿cuál es el alcance material y tecnológico de la responsabilidad asignada a los sujetos obligados?",
+    "options": [
+      "Comprende la preservación de documentos, datos, metadatos y expedientes electrónicos de archivo, sin importar la arquitectura o sistema informático que los haya generado, tramitado o almacenado.",
+      "Se limita a los documentos y expedientes electrónicos legalmente finalizados, excluyendo los datos y metadatos del alcance de la preservación.",
+      "Aplica únicamente a los repositorios digitales desarrollados e implementados por el Archivo General de la Nación dentro de la respectiva vigencia fiscal.",
+      "Cesa en el momento en que el sistema informático original que tramitó el expediente es dado de baja o reemplazado por nueva infraestructura."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 6.1.3.1 determina que la responsabilidad de los sujetos obligados abarca integralmente documentos, datos, metadatos y expedientes electrónicos de archivo, siendo esta obligación totalmente independiente del sistema informático utilizado para su generación, trámite o almacenamiento."
+  },
+  {
+    "question": "Conforme al marco legal del Plan de Preservación Digital a Largo Plazo, ¿qué atributos cualitativos deben garantizar los sujetos obligados mediante sus políticas y medidas técnicas, y qué autoridad dicta las directrices marco?",
+    "options": [
+      "Deben garantizar la consulta en el tiempo, preservando autenticidad, integridad, accesibilidad, disponibilidad y confiabilidad, bajo las directrices del Archivo General de la Nación Jorge Palacios Preciado.",
+      "Deben garantizar únicamente la confidencialidad y el cifrado de datos en tránsito, alineándose de forma exclusiva con las normativas emitidas por el Ministerio de Tecnologías de la Información y las Comunicaciones.",
+      "Deben asegurar la irreductibilidad física del soporte y la custodia en servidores locales, ajustándose autónomamente a sus propios manuales de auditoría interna.",
+      "Deben priorizar la inmutabilidad del software original mediante emulación estricta, prescindiendo de las pautas expedidas por órganos de archivo de carácter nacional."
+    ],
+    "correct": 0,
+    "explanation": "El texto normativo exige la adopción de políticas y estándares para garantizar la consulta en el tiempo, asegurando autenticidad, integridad, accesibilidad, disponibilidad y confiabilidad necesarias para la reproducción del documento electrónico, debiendo acatar las directrices del Archivo General de la Nación Jorge Palacios Preciado."
   }
 ]
