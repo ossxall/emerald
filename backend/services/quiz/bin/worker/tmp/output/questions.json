@@ -4629,5 +4629,49 @@
     ],
     "correct": 1,
     "explanation": "Los numerales 3, 4, 5 y 6 del parágrafo establecen que el plan debe considerar integralmente las obligaciones legales jurídicas y sectoriales, las limitaciones financieras/técnicas/jurídicas de la entidad, las necesidades y capacidad técnica de los usuarios, así como las buenas prácticas, guías, normas técnicas y estándares vigentes."
+  },
+  {
+    "question": "De acuerdo con el Artículo 6.1.3.3 sobre los criterios para la preservación digital a largo plazo, ¿cómo deben las entidades abordar la priorización de las actividades de preservación y qué elemento determina dicha definición?",
+    "options": [
+      "Cada entidad debe definir los criterios para la priorización de las actividades de preservación digital de acuerdo con su propio contexto organizacional.",
+      "Las entidades deben aplicar de forma homogénea un listado único de criterios técnicos estandarizados emitidos por la autoridad nacional, independientemente de su estructura.",
+      "La priorización de actividades se rige exclusivamente por el volumen total de almacenamiento en Terabytes requerido en los servidores de la entidad.",
+      "Los criterios de preservación digital son determinados de manera unívoca por los proveedores tecnológicos contratados por la institución."
+    ],
+    "correct": 0,
+    "explanation": "El artículo establece expresamente que cada entidad, de acuerdo con su contexto organizacional, debe definir los criterios para la priorización de las actividades relacionadas con la preservación digital."
+  },
+  {
+    "question": "En el marco de la preservación digital a largo plazo, ¿qué instrumento archivístico e imperativo temporal determinan el tiempo de permanencia de los documentos electrónicos de archivo?",
+    "options": [
+      "Deben conservarse indefinidamente en soportes físicos hasta que la alta dirección apruebe una tabla de conversión de formatos.",
+      "Deben cumplir obligatoriamente con los tiempos de retención documental establecidos en las Tablas de Retención Documental (TRD) o las Tablas de Valoración Documental (TVD) de la entidad.",
+      "Su tiempo de permanencia está supeditado de forma exclusiva a la vigencia del contrato de licenciamiento del software de archivo.",
+      "Quedan exentos de cumplir los plazos fixados en las TRD o TVD institucionales por el simple hecho de encontrarse en formatos digitales."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 4 del Artículo 6.1.3.3 indica que los documentos electrónicos de archivo que han de preservarse en el tiempo deben cumplir con los tiempos de retención documental establecidos en las Tablas de Retención Documental – TRD o las Tablas de Valoración Documental – TVD de la entidad."
+  },
+  {
+    "question": "Conforme al Artículo 6.1.3.3, ¿cuáles son las condiciones y cualidades esenciales que se deben garantizar respecto a los documentos electrónicos de archivo objeto de preservación digital?",
+    "options": [
+      "Deben convertirse obligatoriamente a microfilme para asegurar su valor legal ante la obsolescencia tecnológica.",
+      "Deben ser interpretables, recuperables, protegidos y almacenados en un entorno seguro independientemente del formato electrónico.",
+      "Deben cifrarse con algoritmos propietarios que restrinjan su consulta únicamente al área generadora de la información.",
+      "Deben actualizar sus contenidos informativos automáticamente en cada migración de base de datos."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 5 dispone textualmente que los documentos electrónicos de archivo deben ser interpretables, recuperables, protegidos y almacenados en un entorno seguro independientemente del formato electrónico."
+  },
+  {
+    "question": "Dentro de la lista de actividades a desarrollar para la preservación digital a largo plazo estipuladas en el Artículo 6.1.3.3, ¿cuál de las siguientes opciones agrupa adecuadamente las tres primeras actividades obligatorias?",
+    "options": [
+      "Eliminar duplicados digitales, restringir el acceso del público y congelar las bases de datos transaccionales.",
+      "Identificar flujos de información, caracterizar los documentos electrónicos a preservar, e identificar y evaluar estrategias de preservación.",
+      "Auditar licencias de software, renovar la infraestructura de servidores y transferir documentos a soportes análogos.",
+      "Diseñar formatos informáticos propietarios, suspender las transferencias secundarias y comprimir expedientes finalizados."
+    ],
+    "correct": 1,
+    "explanation": "Los numerales 1, 2 y 3 del artículo señalan explícitamente las actividades de: 1. Identificar flujos de información; 2. Caracterizar los documentos electrónicos a preservar; y 3. Identificar y evaluar estrategias de preservación."
   }
 ]
