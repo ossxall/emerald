@@ -1,5 +1,7 @@
 services:
   document-transform-worker:
+    image: emerald/document-transform-worker:python-3.11.18-opendataloader-2.5.16
+    pull_policy: build
     build:
       context: ./bin/worker
       dockerfile: Dockerfile
