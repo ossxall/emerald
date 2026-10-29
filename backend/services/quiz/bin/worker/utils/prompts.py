@@ -59,6 +59,9 @@ Requirements:
 - Questions must differentiate clearly between partially correct and fully correct answers.
 - Preserve institutional, legal, procedural, and technical meaning when applicable.
 - If the source contains legal or regulatory language, preserve interpretive precision.
+- If the source explicitly states that a legal provision or any part of it was repealed, revoked, amended, replaced, suspended, or otherwise modified, make that status and its scope explicit in every question based on the affected text. Include the caveat in the question stem and explanation; never present repealed or superseded wording as currently in force.
+- Clearly distinguish a total repeal from a partial repeal, and identify the affected fragment and any remaining provision only as the source describes them. For historical questions, explicitly frame the rule as historical and preserve any date or time period stated in the source.
+- Mention the repealing or amending authority, law, date, or replacement wording only when it appears in the provided source. Do not infer current legal status or add external legal information.
 - Questions must be fully developed, contextually framed, and technically precise. Avoid telegraphic or oversimplified phrasing.
 - Each question stem must provide sufficient technical context to require interpretation, not just recognition.
 - Answer options must be semantically dense and domain-specific. Avoid short, vague, or colloquial options.
