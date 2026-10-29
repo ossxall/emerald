@@ -1,6 +1,6 @@
 """
 summarizer.py
-Hierarchical cascade summarizer using a liteLLM router.
+Hierarchical cascade summarizer using the OpenCode CLI.
 Accepts a markdown document (str | bytes) and returns 3 prose paragraphs
 in the language specified by the `language` argument.
 """
@@ -8,34 +8,10 @@ in the language specified by the `language` argument.
 from __future__ import annotations
 
 import asyncio
-import os
 from typing import Union
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from litellm.router import Router
-
-# ── Router setup ──────────────────────────────────────────────────────────────
-
-model_list = [
-    {
-        "model_name": "models-1",
-        "litellm_params": {"model": f"gemini/{os.environ.get('QUIZ_GEMINI_MODEL', 'gemini-3.1-flash-lite')}"},
-    },
-    {
-        "model_name": "models-1",
-        "litellm_params": {
-            "model": "ollama/llama3.2:3b",
-            "api_base": "http://localhost:11434",
-        },
-    },
-]
-
-router = Router(
-    model_list=model_list,
-    num_retries=6,
-    retry_after=4,
-    allowed_fails=2,
-)
+from utils.opencode_client import opencode_completion
 
 # ── Pipeline constants ────────────────────────────────────────────────────────
 
@@ -71,16 +47,12 @@ def _split_chunks(text: str) -> list[str]:
 
 
 async def _llm(system: str, user: str, max_tokens: int = 512) -> str:
-    response = await router.acompletion(
-        model="models-1",
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user",   "content": user},
-        ],
-        max_tokens=max_tokens,
-        temperature=0.2,
+    return await asyncio.to_thread(
+        opencode_completion,
+        system,
+        user,
+        max_tokens,
     )
-    return response.choices[0].message.content.strip()
 
 
 # ── Pipeline stages ───────────────────────────────────────────────────────────
@@ -217,5 +189,3 @@ async def summarize_to_three_paragraphs(
         print("✍️  Generating final 3 paragraphs…")
 
     return await _final_three_paragraphs(intermediate, language)
-
-

@@ -1,7 +1,6 @@
 from pydantic import BaseModel, Field, ValidationError, RootModel
 from typing import List
-from litellm.router import Router
-import os
+from utils.opencode_client import opencode_completion
 
 class QuestionItem(BaseModel):
     question: str = Field(..., description="Verbose question statement based on the <QuizContent></QuizContent> tag")
@@ -143,45 +142,9 @@ Generate:
 
 """
     
-model_list = [
-    {
-        "model_name": "models-1",
-        "litellm_params": {
-            "model": f"gemini/{os.environ.get('QUIZ_GEMINI_MODEL', 'gemini-3.1-flash-lite')}"
-        }
-    },
-    {
-        "model_name": "models-1",
-        "litellm_params": {
-            "model": "ollama/gemma4:e4b",
-            "api_base": "http://localhost:11434"
-        }
-    }
-]    
-
-router = Router(model_list=model_list)
-
 def _llm(prompt: str, max_tokens: int = 8000) -> Quiz:
-    """Wrapper mínimo sobre tu router."""
-    
-    response = router.completion(
-        model="models-1",
-        messages=[
-            {"role": "system", "content": get_system_prompt() },  
-            {"role": "user", "content": prompt}       
-        ],
-        max_tokens=max_tokens,
-        temperature=0.3,
-        response_format={
-            "type": "json_schema",
-            "json_schema": {
-                "name": "Quiz",
-                "schema": Quiz.model_json_schema()  
-        }
-    }
-    )
-
-    content = response.choices[0].message.content.strip()
+    """Generate and validate quiz JSON with OpenCode."""
+    content = opencode_completion(get_system_prompt(), prompt, max_tokens)
     try:
         validated = Quiz.model_validate_json(content)
         return validated

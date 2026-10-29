@@ -184,8 +184,6 @@ def generate_quiz():
         )
     print(f"Quiz guardado (append a questions.json): {questions_path}")
 
-    asyncio.sleep(5)
-    
     #-----------------------------------------------------------
     
     pattern = r"<QuizContent>(.*?)</QuizContent>"
@@ -231,7 +229,7 @@ async def main():
         config=config
     ) as s3:
 
-        await build_context(s3, doc_id, True)
+        await build_context(s3, doc_id, False)
 
     generate_quiz()
 

@@ -249,7 +249,13 @@
 
       const loadSaved = (key, fallback) => {
         const saved = localStorage.getItem(key);
-        return saved !== null ? JSON.parse(saved) : fallback;
+        if (saved === null) return fallback;
+        try {
+          return JSON.parse(saved);
+        } catch {
+          localStorage.removeItem(key);
+          return fallback;
+        }
       };
 
       createApp({
@@ -389,6 +395,10 @@
                 return response.json();
               })
               .then((data) => {
+                if (!Array.isArray(data)) {
+                  throw new Error("El archivo de preguntas no tiene un formato válido");
+                }
+
                 const sort = false;
 
                 // Fisher-Yates (disabled, matches original "sort = false")
@@ -400,6 +410,22 @@
                   }
                 }
                 questions.value = shuffled;
+
+                const savedIndex = Number(currentQuestion.value);
+                if (
+                  !Number.isInteger(savedIndex) ||
+                  savedIndex < 0 ||
+                  savedIndex >= shuffled.length
+                ) {
+                  currentQuestion.value = 0;
+                  score.value = 0;
+                  selectedAnswer.value = null;
+                  showResult.value = false;
+                  quizCompleted.value = false;
+                } else {
+                  currentQuestion.value = savedIndex;
+                }
+
                 loading.value = false;
               })
               .catch((err) => {

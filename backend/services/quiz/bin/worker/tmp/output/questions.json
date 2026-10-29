@@ -1,0 +1,79 @@
+[
+  {
+    "question": "En relación con los impuestos del orden nacional, ¿cuál es el alcance legal de la competencia residual o atributiva conferida a la Dirección de Impuestos y Aduanas Nacionales (DIAN) respecto de los tributos no detallados expresamente en el articulado?",
+    "options": [
+      "Asume la administración exclusiva de todo tributo o contribución del orden nacional de manera absoluta, derogando las competencias asignadas a entidades territoriales.",
+      "Asume la administración de los demás impuestos internos y del comercio exterior del orden nacional, siempre que su competencia no haya sido asignada normativamente a otras entidades del Estado.",
+      "Se limita únicamente a la administración de renta, timbre e IVA, requiriendo una ley especial posterior para asumir cualquier otro tributo de comercio exterior.",
+      "Administra los tributos del orden nacional únicamente cuando estos superen el monto legal estipulado para entidades de la rama ejecutiva central."
+    ],
+    "correct": 1,
+    "explanation": "El texto establece explícitamente que le compete a la DIAN la administración de los demás impuestos internos del orden nacional cuya competencia no esté asignada a otras entidades del Estado, trátese de impuestos internos o al comercio exterior."
+  },
+  {
+    "question": "Al cotejar la definición de la 'administración de los impuestos' con la de la 'administración de los derechos de aduana y demás impuestos al comercio exterior', ¿qué elemento procedimental explícito figura en la gestión tributaria pero no se incluye en el listado normativo aduanero?",
+    "options": [
+      "La devolución, la cual se contempla expresamente dentro de los aspectos que abarca la administración de impuestos internos, pero no figura en la lista explícita de la administración aduanera.",
+      "La fiscalización, la cual constituye una facultad que la norma restringe de forma exclusiva a los tributos sobre la renta y las ventas.",
+      "La discusión y la liquidación, facultades que el texto atribuye únicamente al régimen de control cambiario.",
+      "La recaudación y el cobro coercitivo, los cuales en materia aduanera son ejecutados de manera obligatoria por intermediarios financieros."
+    ],
+    "correct": 0,
+    "explanation": "En el texto, la administración de los impuestos comprende 'recaudación, fiscalización, liquidación, discusión, cobro, devolución, sanción...', mientras que en la administración de derechos de aduana se enumeran 'recaudación, fiscalización, liquidación, discusión, cobro, sanción...', omitiéndose la palabra 'devolución' en dicho pasaje aduanero específico."
+  },
+  {
+    "question": "Dentro del marco de competencias atribuido a la DIAN respecto del régimen cambiario, ¿cuál de las siguientes materias se encuentra explícitamente supeditada a su control y vigilancia?",
+    "options": [
+      "La fijación de la tasa de cambio representativa del mercado y la regulación general de giros de divisas en el sistema bancario.",
+      "El control del endeudamiento público externo y la fiscalización del crédito interbancario de la Nación.",
+      "La financiación en moneda extranjera de importaciones y exportaciones, junto con la subfacturación y sobrefacturación en dichas operaciones.",
+      "La vigilancia sobre las casas de cambio dedicadas de forma exclusiva al intercambio presencial de divisas con turistas."
+    ],
+    "correct": 2,
+    "explanation": "La norma indica expresamente que a la DIAN le corresponde el control y vigilancia sobre el cumplimiento del régimen cambiario en materia de importación y exportación de bienes y servicios, gastos asociados, financiación en moneda extranjera de estas operaciones, y su subfacturación y sobrefacturación."
+  },
+  {
+    "question": "Según la delimitación de la dirección y administración de la gestión aduanera, ¿cuál es el alcance legal otorgado a la entidad respecto del destino y manejo de las mercancías?",
+    "options": [
+      "La potestad discrecional de enajenar mercancías incautadas con anterioridad al proferimiento del acto administrativo de decomiso o abandono.",
+      "El servicio y apoyo a las operaciones de comercio exterior, la aprehensión, decomiso o declaración en abandono de mercancías a favor de la Nación, su administración, control y disposición.",
+      "La administración exclusiva de la infraestructura portuaria del país y el monopolio del transporte internacional de carga.",
+      "La facultad de fijar aranceles internacionales y decretar exenciones del comercio exterior sin sujeción a las directrices del Ministerio de Comercio."
+    ],
+    "correct": 1,
+    "explanation": "El texto determina normativamente que la dirección y administración de la gestión aduanera comprende el servicio y apoyo a las operaciones de comercio exterior, la aprehensión, decomiso o declaración en abandono de mercancías a favor de la Nación, así como su administración, control y disposición."
+  },
+  {
+    "question": "En el marco de sus atribuciones institucionales de carácter técnico e interpretativo, ¿qué competencia formal se le asigna a la DIAN para procurar la coherencia jurídica del sistema?",
+    "options": [
+      "La facultad legislativa delegada para modificar el Estatuto Tributario mediante pronunciamientos doctrinales de obligatorio cumplimiento para el juez administrativo.",
+      "La revisión previa de constitucionalidad de los decretos expedidos por el Ministerio de Hacienda y Crédito Público.",
+      "El juzgamiento en última instancia de los procesos disciplinarios incoados contra los agentes aduaneros privados.",
+      "Mantener la unidad doctrinal en la interpretación de las normas en materia tributaria, aduanera y de control cambiario, además de la generación de estadística en dichas materias."
+    ],
+    "correct": 3,
+    "explanation": "El texto legal establece expresamente que le compete a la DIAN mantener la unidad doctrinal en la interpretación de las normas en materia tributaria, aduanera y de control cambiario (en lo de su competencia), así como la generación de estadística en las mismas materias."
+  },
+  {
+    "question": "Tratándose de las obligaciones fiscales en el régimen SIMPLE, ¿cuál es la competencia concreta asignada a la DIAN respecto del tributo territorial de industria y comercio?",
+    "options": [
+      "El recaudo del impuesto de industria y comercio consolidado en el régimen SIMPLE, en su condición de entidad adscrita al Ministerio de Hacienda y Crédito Público.",
+      "La fijación autónoma de las tarifas municipales de industria y comercio aplicables a los contribuyentes de dicho régimen.",
+      "La liquidación y resolución de recursos de reconsideración sobre el impuesto de industria y comercio para todas las alcaldías del país.",
+      "La exención automática de los compromisos tributarios territoriales para los agentes económicos inscritos en el sistema nacional."
+    ],
+    "correct": 0,
+    "explanation": "El artículo señala taxativamente que, en su calidad de entidad adscrita al Ministerio de Hacienda y Crédito Público, a la DIAN le compete el recaudo del impuesto de industria y comercio consolidado en el régimen SIMPLE, previsto en el parágrafo 2 del artículo 908 del Estatuto Tributario."
+  },
+  {
+    "question": "Atendiendo a la disposición final sobre las facultades de ejecución de la DIAN, ¿cuál es la habilitación legal concedida para dar cumplimiento efectivo a sus funciones?",
+    "options": [
+      "La potestad de modificar la estructura de las tarifas impositivas nacionales de manera autónoma en períodos de contingencia fiscal.",
+      "El desarrollo de todas las actuaciones administrativas necesarias para ejercer plenamente su competencia legal.",
+      "La delegación total de sus competencias sancionatorias y de cobro en sociedades de economía mixta del sector financiero.",
+      "La facultad de prescribir el procedimiento contencioso-administrativo aplicable a los vacíos procesales aduaneros."
+    ],
+    "correct": 1,
+    "explanation": "El último enunciado del texto legal establece categóricamente que la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales desarrollará todas las actuaciones administrativas necesarias para ejercer su competencia."
+  }
+]
