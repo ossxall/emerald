@@ -124,11 +124,9 @@ OUTPUT FORMAT:
 Generate:
 - Multiple choice questions only.
 - Exactly 4 answer options per question.
-- For the 'correct' field, you MUST use a 0-based integer index:
-  * Use 0 for the 1st option.
-  * Use 1 for the 2nd option.
-  * Use 2 for the 3rd option.
-  * Use 3 for the 4th option.
+- The 'correct' field MUST be the 0-based index of the one correct answer in that question's final 'options' array. Index 0 means the first option, 1 the second, 2 the third, and 3 the fourth.
+- Determine the correct answer from the source first, then assign its index after the options are in their final order. Never guess the index, use a 1-based position, or assume the correct answer is in a particular position.
+- Before returning the JSON, verify for every question that 'options[correct]' expresses the answer supported by the source, that the explanation justifies that same option, and that no other option is equally correct. If this cannot be established with certainty from the source, rewrite or omit the question rather than marking an uncertain answer as correct.
 - Include a short explanation justifying why the answer is correct.
 - Respond in plain text without Markdown code blocks.
 - Do not use ```json or triple backticks.
