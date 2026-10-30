@@ -75,5 +75,225 @@
     ],
     "correct": 1,
     "explanation": "El último enunciado del texto legal establece categóricamente que la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales desarrollará todas las actuaciones administrativas necesarias para ejercer su competencia."
+  },
+  {
+    "question": "Al delimitar la competencia tributaria de la DIAN, ¿qué interpretación integra correctamente tanto las materias que administra como el alcance de las actuaciones que puede realizar sobre ellas?",
+    "options": [
+      "Administra los impuestos nacionales enumerados en el artículo, los derechos de aduana y de comercio exterior y los demás impuestos internos nacionales no asignados a otra entidad; respecto de los asuntos de su competencia, comprende recaudación, fiscalización, control, represión, penalización, liquidación, discusión, cobro, devolución y sanción, además de los que determinen las leyes y no estén asignados a otras entidades.",
+      "Administra todos los impuestos nacionales, incluso los asignados a otras entidades, pero solo puede recaudar, fiscalizar y cobrar los impuestos internos, sin intervenir en devoluciones, discusión o sanciones.",
+      "Administra exclusivamente los impuestos expresamente enumerados, mientras que los derechos aduaneros y los demás impuestos internos nacionales corresponden siempre a otras entidades; sus actuaciones se limitan a la liquidación y el recaudo.",
+      "Administra los impuestos nacionales y los derechos de aduana sin atender a la asignación de competencia, y puede ejercer las actuaciones enumeradas únicamente sobre operaciones de comercio exterior."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende los tributos y derechos señalados, con el límite de no estar asignados a otra entidad, y abarca las actuaciones enumeradas y las adicionales que determinen las leyes."
+  },
+  {
+    "question": "Al interpretar la función aduanera general de la DIAN, ¿qué alcance corresponde atribuir a su dirección y administración de la gestión y operación aduanera?",
+    "options": [
+      "Se limita a prestar el servicio aduanero y a controlar las mercancías importadas, sin incluir apoyo a operaciones de comercio exterior ni relación con usuarios o auxiliares.",
+      "Comprende dirigir y administrar la gestión y operación aduanera, incluido el servicio, el control y el apoyo a operaciones de comercio exterior bajo los distintos regímenes o destinos aduaneros, así como respecto de usuarios y auxiliares de la función pública aduanera.",
+      "Comprende el apoyo a los usuarios y auxiliares, pero la dirección de los regímenes aduaneros y el control de las operaciones corresponden necesariamente a entidades distintas de la DIAN.",
+      "Se circunscribe a administrar los destinos aduaneros y a controlar a los auxiliares, excluyendo el servicio y el apoyo a las operaciones de comercio exterior."
+    ],
+    "correct": 1,
+    "explanation": "La función incluye conjuntamente dirección y administración de la gestión y operación aduanera, el servicio, el control, el apoyo a operaciones y la relación con usuarios y auxiliares."
+  },
+  {
+    "question": "Una revisión institucional debe establecer qué obligaciones y operaciones cambiarias quedan dentro de la función de vigilancia descrita para la DIAN. ¿Cuál delimitación refleja íntegramente esa función y su marco de actuación?",
+    "options": [
+      "Comprende obligaciones tributarias, aduaneras y cambiarias únicamente por importación de bienes, y se ejerce sin atender políticas macroeconómicas ni el modelo de gestión institucional.",
+      "Comprende obligaciones tributarias y aduaneras por importación y exportación de bienes y servicios, pero excluye gastos asociados, financiación en moneda extranjera y subfacturación o sobrefacturación.",
+      "Comprende dirigir, administrar, controlar y vigilar obligaciones tributarias, aduaneras y cambiarias ligadas a importación y exportación de bienes y servicios, sus gastos asociados, financiación en moneda extranjera y subfacturación o sobrefacturación, a nivel nacional y en concordancia con las políticas señaladas y el modelo de gestión institucional.",
+      "Comprende controlar las operaciones de importación y exportación y sus gastos asociados, pero asigna la vigilancia de las obligaciones cambiarias y de la financiación en moneda extranjera exclusivamente a otras entidades."
+    ],
+    "correct": 2,
+    "explanation": "La función abarca las tres clases de obligaciones y los supuestos operativos especificados, con alcance nacional y sujeción a las políticas y al modelo institucional mencionados."
+  },
+  {
+    "question": "Cuando existen mercancías aprehendidas, decomisadas o declaradas en abandono a favor de la nación, ¿qué responsabilidad general establece el artículo para la DIAN?",
+    "options": [
+      "La DIAN puede disponer de las mercancías decomisadas, pero la administración de las aprehendidas y de las declaradas en abandono queda fuera de esta función.",
+      "La DIAN administra las mercancías aprehendidas y decomisadas, pero solo puede disponer de las que hayan sido declaradas en abandono.",
+      "La DIAN únicamente custodia las mercancías, pues su disposición corresponde en todos los casos a la entidad que las aprehendió.",
+      "La DIAN debe administrar y disponer de las mercancías comprendidas en cualquiera de las tres situaciones descritas, cuando estén declaradas en abandono a favor de la nación en el supuesto correspondiente."
+    ],
+    "correct": 3,
+    "explanation": "El artículo atribuye a la DIAN tanto la administración como la disposición de mercancías aprehendidas, decomisadas o declaradas en abandono a favor de la nación."
+  },
+  {
+    "question": "Al diferenciar la transformación digital de otras funciones operativas de la DIAN, ¿qué responsabilidad específica atribuye el artículo a la entidad?",
+    "options": [
+      "Dirigir y administrar la gestión relacionada con la transformación digital de la administración tributaria, aduanera y cambiaria.",
+      "Desarrollar únicamente herramientas digitales para la administración tributaria, sin responsabilidad de dirección ni inclusión de las materias aduanera y cambiaria.",
+      "Controlar las operaciones digitales de los contribuyentes, dejando la transformación digital de la administración a otras entidades.",
+      "Autorizar proyectos digitales aduaneros y cambiarios, pero sin intervenir en la gestión digital de la administración tributaria."
+    ],
+    "correct": 0,
+    "explanation": "La función consiste en dirigir y administrar la gestión vinculada a la transformación digital de las tres áreas: tributaria, aduanera y cambiaria."
+  },
+  {
+    "question": "Para determinar si una operación cambiaria queda comprendida en la función general de control y vigilancia de la DIAN, ¿qué criterio de competencia debe aplicarse?",
+    "options": [
+      "La DIAN controla todas las operaciones del régimen cambiario, aunque su competencia esté atribuida a otra entidad.",
+      "La DIAN controla y vigila las operaciones derivadas del régimen cambiario solo cuando no sean competencia de otra entidad.",
+      "La DIAN controla únicamente las operaciones cambiarias relacionadas con importaciones, aunque correspondan a otra entidad.",
+      "La DIAN vigila las operaciones cambiarias solo después de que otra entidad haya declarado incumplida una obligación."
+    ],
+    "correct": 1,
+    "explanation": "La competencia está expresamente delimitada a las operaciones del régimen cambiario que no sean competencia de otra entidad."
+  },
+  {
+    "question": "Una persona desarrolla profesionalmente la compra y venta de divisas. ¿Qué combinación de facultades describe la función de la DIAN respecto de esa actividad?",
+    "options": [
+      "La DIAN se limita a registrar la actividad, sin facultades de autorización, control o vigilancia.",
+      "La DIAN puede autorizar y vigilar la actividad, pero el control corresponde exclusivamente a otra entidad.",
+      "La DIAN puede autorizar, controlar y vigilar las actividades de quienes ejerzan profesionalmente la compra y venta de divisas.",
+      "La DIAN controla y vigila a cualquier comprador ocasional de divisas, pero no puede intervenir frente a quienes ejercen profesionalmente."
+    ],
+    "correct": 2,
+    "explanation": "La función incluye las tres facultades —autorizar, controlar y vigilar— y se refiere a quienes realizan profesionalmente la actividad."
+  },
+  {
+    "question": "¿Qué elementos deben concurrir para que una recompensa o participación otorgada por la DIAN corresponda a la función prevista para la colaboración de terceros?",
+    "options": [
+      "Debe consistir exclusivamente en dinero y reconocer cualquier denuncia relacionada con infracciones tributarias, aduaneras o cambiarias.",
+      "Puede pagarse en dinero o en especie por colaboración de terceros, sin que la colaboración tenga que ser eficaz ni relacionarse con las materias enumeradas.",
+      "Debe pagarse en especie por colaboración eficaz vinculada únicamente al control del contrabando y la evasión.",
+      "Debe reconocerse y pagarse por colaboración eficaz de terceros en el control del contrabando, la evasión o la corrupción, y puede consistir en dinero o en especie."
+    ],
+    "correct": 3,
+    "explanation": "La función exige colaboración eficaz de terceros vinculada al control de las conductas señaladas y permite recompensas o participaciones en dinero o en especie."
+  },
+  {
+    "question": "Al precisar el fundamento y el alcance de la función de Policía Judicial atribuida a la DIAN, ¿qué formulación es fiel al artículo?",
+    "options": [
+      "La DIAN ejerce funciones de Policía Judicial de conformidad con las normas legales.",
+      "La DIAN ejerce funciones de Policía Judicial únicamente cuando una autoridad judicial le delega cada actuación.",
+      "La DIAN ejerce funciones de Policía Judicial sin sujeción a normas legales cuando investiga asuntos tributarios.",
+      "La DIAN supervisa a la Policía Judicial, pero el artículo no le atribuye ejercer esas funciones."
+    ],
+    "correct": 0,
+    "explanation": "El artículo atribuye a la DIAN el ejercicio de funciones de Policía Judicial y condiciona ese ejercicio a las normas legales."
+  },
+  {
+    "question": "En relación con el personal de la Policía Fiscal y Aduanera, ¿cuál es la función específica de la DIAN y cómo se vincula con las tareas tributarias, aduaneras y cambiarias?",
+    "options": [
+      "La DIAN dirige todas las actuaciones de ese personal y sustituye sus funciones de investigación y determinación en cualquier materia.",
+      "La DIAN supervisa el ejercicio de las facultades conferidas a dicho personal, con soporte y apoyo a funciones propias de investigación y determinación en los ámbitos tributario, aduanero y cambiario.",
+      "La DIAN supervisa únicamente la formación del personal, mientras que el ejercicio de sus facultades queda excluido de su ámbito institucional.",
+      "La DIAN presta apoyo a las investigaciones, pero no supervisa el ejercicio de las facultades conferidas al personal de la Policía Fiscal y Aduanera."
+    ],
+    "correct": 1,
+    "explanation": "La responsabilidad combina la supervisión del ejercicio de las facultades conferidas con soporte y apoyo a funciones de investigación y determinación en los tres ámbitos indicados."
+  },
+  {
+    "question": "Al diseñar un convenio para apoyar los fines institucionales de la DIAN, ¿qué combinación de contrapartes, objetivos y salvaguardas informativas se ajusta a la función establecida?",
+    "options": [
+      "Puede celebrarse solo con entidades públicas nacionales, para intercambiar información sin considerar restricciones de reserva ni protección de datos personales.",
+      "Puede celebrarse con entidades públicas o privadas nacionales o internacionales para combatir la evasión, pero no para promover cultura de contribución, combatir contrabando o morosidad, ni intercambiar información.",
+      "Puede celebrarse con entidades públicas o privadas, nacionales o internacionales, para alianzas estratégicas orientadas a posicionar la cultura de la contribución, combatir evasión, contrabando y morosidad, o intercambiar información; este intercambio debe atender las disposiciones constitucionales y legales sobre reserva y protección de datos personales.",
+      "Puede celebrarse con cualquier entidad para compartir toda la información administrada por la DIAN, pues los objetivos institucionales prevalecen sobre las disposiciones de reserva y protección de datos."
+    ],
+    "correct": 2,
+    "explanation": "La función contempla contrapartes públicas o privadas, nacionales o internacionales, varios fines de alianza e intercambio de información sujeto a las reglas de reserva y protección de datos personales."
+  },
+  {
+    "question": "¿Cómo se configura la participación de la DIAN en la formulación e implementación de estándares y políticas tributarias internacionales según el artículo?",
+    "options": [
+      "La DIAN adopta unilateralmente estándares tributarios internacionales y ejecuta proyectos gubernamentales sin participar en su preparación.",
+      "La DIAN participa exclusivamente en organismos nacionales y solo cuando los estándares ya han sido implementados.",
+      "La DIAN define políticas tributarias internacionales al margen de organismos internacionales o multilaterales y no interviene en acciones gubernamentales relacionadas.",
+      "La DIAN participa en la definición de estándares y políticas tributarias internacionales dentro de organismos internacionales o multilaterales, y en la preparación de acciones y proyectos gubernamentales relacionados con esas materias y su implementación."
+    ],
+    "correct": 3,
+    "explanation": "El artículo atribuye participación tanto en la definición dentro de organismos internacionales o multilaterales como en la preparación de acciones y proyectos gubernamentales y su implementación."
+  },
+  {
+    "question": "Para el Registro Único de Beneficiarios Efectivos, Finales o Reales (RUB), ¿qué responsabilidad asigna el artículo a la DIAN?",
+    "options": [
+      "Definir e impartir las directrices para el funcionamiento y la administración del RUB.",
+      "Administrar el RUB sin definir directrices para su funcionamiento ni impartirlas a las instancias correspondientes.",
+      "Definir directrices para identificar beneficiarios, pero dejar por fuera de su competencia el funcionamiento y la administración del registro.",
+      "Recibir información del RUB únicamente para fines estadísticos, sin responsabilidad sobre sus directrices, funcionamiento o administración."
+    ],
+    "correct": 0,
+    "explanation": "La atribución comprende definir e impartir directrices que cubren tanto el funcionamiento como la administración del RUB."
+  },
+  {
+    "question": "Al resolver una cuestión interpretativa tributaria, aduanera o de control cambiario, ¿cuál es el alcance de la autoridad doctrinaria que el artículo reconoce a la DIAN?",
+    "options": [
+      "La DIAN es autoridad doctrinaria sobre cualquier norma del ordenamiento, incluso en materias ajenas a su competencia, y genera estadísticas solo tributarias.",
+      "La DIAN actúa como autoridad doctrinaria para interpretar normas tributarias, aduaneras y de control cambiario en lo que sea de su competencia, y también tiene atribuida la generación de estadística en esas materias.",
+      "La DIAN genera estadísticas tributarias, pero la interpretación doctrinaria de las normas aduaneras y cambiarias corresponde siempre a otras entidades.",
+      "La DIAN interpreta normas tributarias y aduaneras sin límite de competencia, pero el control cambiario y la generación de estadísticas quedan excluidos."
+    ],
+    "correct": 1,
+    "explanation": "La autoridad doctrinaria está limitada a las materias indicadas y a la competencia de la DIAN; la generación de estadística se refiere a esas mismas materias."
+  },
+  {
+    "question": "Durante la preparación de una iniciativa normativa o de un acuerdo internacional que incorpore aspectos tributarios, aduaneros o cambiarios, ¿qué papel atribuye el artículo a la DIAN?",
+    "options": [
+      "La DIAN debe aprobar definitivamente todo proyecto de ley, decreto o acuerdo internacional que incluya cualquiera de esos aspectos.",
+      "La DIAN solo puede intervenir después de expedidos los instrumentos, mediante la interpretación doctrinaria de sus disposiciones.",
+      "La DIAN participa y emite conceptos sobre el estudio y la elaboración de proyectos de ley, decretos o acuerdos internacionales que contemplen aspectos tributarios, aduaneros o cambiarios.",
+      "La DIAN participa en proyectos de ley tributarios, pero no en decretos ni acuerdos internacionales o en iniciativas sobre materias aduaneras y cambiarias."
+    ],
+    "correct": 2,
+    "explanation": "La función es participar y emitir conceptos durante el estudio y la elaboración de los instrumentos señalados; no se formula como una atribución general de aprobación definitiva."
+  },
+  {
+    "question": "Al evaluar la responsabilidad institucional sobre el control interno, ¿qué componentes y límite establece el artículo para la DIAN?",
+    "options": [
+      "Debe diseñar el sistema de control interno, pero su desarrollo y evaluación corresponden exclusivamente a las dependencias individuales.",
+      "Debe diseñar, desarrollar y evaluar el sistema de control interno, con sujeción a los términos definidos por la ley.",
+      "Debe desarrollar y evaluar controles internos, pero no diseñar el sistema ni atender los términos definidos por la ley.",
+      "Puede diseñar y evaluar el control interno conforme a criterios propios, sin que el artículo someta esa función a términos legales."
+    ],
+    "correct": 3,
+    "explanation": "La función abarca diseño, desarrollo y evaluación del sistema de control interno y precisa que se realice en los términos definidos por la ley."
+  },
+  {
+    "question": "¿Qué interpretación refleja la amplitud de la responsabilidad de la DIAN sobre los recursos y servicios generales de la entidad?",
+    "options": [
+      "Comprende administrar y disponer de recursos humanos, financieros, físicos y de conocimiento, además de la prestación de los servicios generales de la entidad.",
+      "Comprende administrar recursos humanos y financieros, pero excluye los recursos físicos, los de conocimiento y los servicios generales.",
+      "Comprende disponer de recursos físicos y de conocimiento, mientras que la administración del talento humano y de los recursos financieros queda fuera de esta función.",
+      "Comprende prestar servicios generales, pero no administrar ni disponer de recursos institucionales."
+    ],
+    "correct": 0,
+    "explanation": "La función incluye cuatro categorías de recursos —humanos, financieros, físicos y de conocimiento— y también la prestación de servicios generales."
+  },
+  {
+    "question": "Una dependencia prepara una compilación normativa para divulgación institucional. ¿Qué alcance material y funcional debe respetar para ajustarse a la función descrita?",
+    "options": [
+      "Debe compilar y divulgar todas las normas nacionales, incluso en asuntos ajenos a la competencia de la DIAN, sin obligación de actualizarlas.",
+      "Debe compilar y actualizar normas tributarias nacionales, pero excluir las de regímenes aduaneros y de comercio exterior.",
+      "Debe compilar, actualizar y divulgar normas sobre regímenes tributarios nacionales, aduaneros y de comercio exterior, dentro de los asuntos de competencia de la entidad.",
+      "Debe actualizar normas tributarias, aduaneras y de comercio exterior, pero limitar su divulgación a las normas de orden internacional."
+    ],
+    "correct": 2,
+    "explanation": "La función combina compilación, actualización y divulgación de normas en las materias indicadas, circunscritas a los asuntos de competencia de la entidad."
+  },
+  {
+    "question": "Cuando una función atribuida a la DIAN requiere actuaciones administrativas que no están descritas individualmente en el artículo, ¿qué criterio permite determinar si quedan comprendidas en la función general correspondiente?",
+    "options": [
+      "Toda actuación administrativa relacionada de manera indirecta con la entidad queda comprendida, aunque no sea necesaria para sus funciones de competencia.",
+      "Solo quedan comprendidas las actuaciones administrativas enumeradas de forma expresa en los numerales anteriores.",
+      "La DIAN puede desarrollar actuaciones administrativas para cualquier fin público, aunque excedan las funciones de su competencia.",
+      "La DIAN puede desarrollar las actuaciones administrativas necesarias para cumplir las funciones que son de su competencia."
+    ],
+    "correct": 3,
+    "explanation": "La atribución se refiere a actuaciones administrativas necesarias para cumplir funciones de competencia de la DIAN, no a actuaciones sin ese vínculo o necesidad."
+  },
+  {
+    "question": "Al identificar el fundamento de una función adicional de la DIAN que no aparece detallada en los numerales anteriores, ¿qué fuente reconoce el artículo como habilitante?",
+    "options": [
+      "Una directriz interna puede asignar cualquier función adicional, aunque no exista una atribución legal.",
+      "La DIAN puede ejercer las demás funciones que le asigne la ley.",
+      "Solo los convenios con entidades públicas pueden asignar funciones adicionales a la DIAN.",
+      "Una función adicional queda atribuida automáticamente si se relaciona con la gestión tributaria, aduanera o cambiaria, aunque ninguna ley la asigne."
+    ],
+    "correct": 3,
+    "explanation": "La cláusula final reconoce las demás funciones que asigne la ley; no establece que una directriz o una relación temática baste por sí sola."
   }
 ]
