@@ -295,5 +295,148 @@
     ],
     "correct": 3,
     "explanation": "La cláusula final reconoce las demás funciones que asigne la ley; no establece que una directriz o una relación temática baste por sí sola."
+  },
+  {
+    "question": "Al interpretar el artículo 4 dentro de las disposiciones generales sobre organización y estructura, ¿qué composición de niveles reproduce exactamente la estructura en la que la DIAN desarrolla sus funciones?",
+    "options": [
+      "La estructura se compone de los niveles central, regional y delegado, que distribuyen las funciones de la entidad.",
+      "La estructura se compone de los niveles nacional, local y seccional, como instancias de desarrollo de las funciones.",
+      "La estructura se compone de los niveles central, local y delegado, sin que el artículo añada otros niveles a esa enumeración.",
+      "La estructura se compone de los niveles central, local y operativo, con el nivel delegado como una dependencia del local."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 4 enumera tres niveles: central, local y delegado. No incorpora niveles adicionales ni establece que uno dependa de otro."
+  },
+  {
+    "question": "Si se debe determinar qué conclusiones permite sostener el artículo 4 por sí solo, ¿cuál interpretación respeta el alcance de la disposición y el contexto del capítulo sobre organización y estructura?",
+    "options": [
+      "El artículo identifica tres niveles y asigna al central la dirección, al local la ejecución territorial y al delegado funciones especializadas.",
+      "El artículo establece tres niveles —central, local y delegado—, pero no precisa sus competencias, funciones particulares ni una relación jerárquica entre ellos.",
+      "El artículo presenta los niveles central, local y delegado como etapas sucesivas de un procedimiento para desarrollar las funciones de la DIAN.",
+      "El artículo define los niveles central, local y delegado como dependencias equivalentes y determina que cada una ejerce las mismas funciones."
+    ],
+    "correct": 1,
+    "explanation": "La disposición indica que la DIAN desarrolla sus funciones en tres niveles y los identifica, pero no describe competencias, funciones específicas, secuencia procedimental ni jerarquía entre ellos."
+  },
+  {
+    "question": "Al reconstruir la dependencia jerárquica de las unidades de apoyo adscritas a la Dirección General, ¿qué conjunto corresponde exactamente a las oficinas que el artículo ubica bajo esa dirección en el nivel central?",
+    "options": [
+      "Oficina de Control Interno; Oficina de Seguridad de la Información; Oficina de Comunicaciones Institucionales; Oficina de Tributación Internacional.",
+      "Oficina de Control Interno; Oficina de Seguridad de la Información; Oficina de Comunicaciones Institucionales; Subdirección de Normativa y Doctrina.",
+      "Oficina de Control Interno; Oficina de Seguridad de la Información; Subdirección de Información y Analítica; Oficina de Tributación Internacional.",
+      "Oficina de Control Interno; Oficina de Comunicaciones Institucionales; Oficina de Tributación Internacional; Subdirección de Servicio al Ciudadano en Asuntos Tributarios."
+    ],
+    "correct": 0,
+    "explanation": "El artículo enumera esas cuatro oficinas bajo la Dirección General; las subdirecciones de las otras opciones pertenecen a direcciones distintas."
+  },
+  {
+    "question": "Para clasificar las dependencias centrales vinculadas a la gestión de impuestos sin confundirlas con las de fiscalización tributaria o con las de grandes contribuyentes, ¿cuál es el conjunto exacto adscrito a la Dirección de Gestión de Impuestos?",
+    "options": [
+      "Subdirección de Administración del Registro Único Tributario; Subdirección de Recaudo; Subdirección para el Impulso de la Formalización Tributaria; Subdirección de Factura Electrónica y Soluciones Operativas; Subdirección de Servicio al Ciudadano en Asuntos Tributarios; Subdirección de Devoluciones; Subdirección de Cobranzas y Control Extensivo.",
+      "Subdirección de Administración del Registro Único Tributario; Subdirección de Recaudo; Subdirección de Fiscalización Tributaria; Subdirección de Factura Electrónica y Soluciones Operativas; Subdirección de Servicio al Ciudadano en Asuntos Tributarios; Subdirección de Devoluciones; Subdirección de Cobranzas y Control Extensivo.",
+      "Subdirección de Administración del Registro Único Tributario; Subdirección de Recaudo; Subdirección para el Impulso de la Formalización Tributaria; Subdirección de Factura Electrónica y Soluciones Operativas; Subdirección de Servicio al Ciudadano en Asuntos Tributarios; Subdirección de Devoluciones; Subdirección Operativa de Fiscalización y Liquidación.",
+      "Subdirección de Administración del Registro Único Tributario; Subdirección de Recaudo; Subdirección para el Impulso de la Formalización Tributaria; Subdirección de Soluciones y Desarrollo; Subdirección de Servicio al Ciudadano en Asuntos Tributarios; Subdirección de Devoluciones; Subdirección de Cobranzas y Control Extensivo."
+    ],
+    "correct": 0,
+    "explanation": "Las siete unidades de la opción correcta aparecen enumeradas bajo la Dirección de Gestión de Impuestos. Fiscalización Tributaria y Fiscalización y Liquidación se ubican en otras direcciones."
+  },
+  {
+    "question": "Al diferenciar las dependencias que integran la gestión aduanera central de aquellas que fiscalizan operaciones o apoyan a grandes contribuyentes, ¿qué relación de adscripción reproduce el artículo?",
+    "options": [
+      "Bajo la Dirección de Gestión de Aduanas están las subdirecciones de Operación Aduanera; Técnica Aduanera; Registro y Control Aduanero; Operador Económico Autorizado; Laboratorio Aduanero; y Servicios y Facilitación al Comercio Exterior.",
+      "Bajo la Dirección de Gestión de Aduanas están las subdirecciones de Operación Aduanera; Fiscalización Aduanera; Registro y Control Aduanero; Operador Económico Autorizado; Laboratorio Aduanero; y Servicios y Facilitación al Comercio Exterior.",
+      "Bajo la Dirección de Gestión de Aduanas están las subdirecciones de Operación Aduanera; Técnica Aduanera; Registro y Control Aduanero; Análisis de Riesgo y Programas; Laboratorio Aduanero; y Servicios y Facilitación al Comercio Exterior.",
+      "Bajo la Dirección de Gestión de Aduanas están las subdirecciones de Operación Aduanera; Técnica Aduanera; Registro y Control Aduanero; Operador Económico Autorizado; Centro de Trazabilidad Aduanera; y Servicios y Facilitación al Comercio Exterior."
+    ],
+    "correct": 0,
+    "explanation": "La opción correcta reúne las seis subdirecciones que el artículo adscribe a Gestión de Aduanas. Fiscalización Aduanera corresponde a Gestión de Fiscalización, y Análisis de Riesgo y Programas y el Centro de Trazabilidad Aduanera a Gestión Estratégica y de Analítica."
+  },
+  {
+    "question": "Al examinar la estructura de fiscalización y distinguirla de la gestión ordinaria de impuestos y aduanas, ¿qué conjunto reúne todas las subdirecciones que el artículo ubica bajo la Dirección de Gestión de Fiscalización?",
+    "options": [
+      "Subdirección de Fiscalización Tributaria; Subdirección de Fiscalización Aduanera; Subdirección de Fiscalización Cambiaría; Subdirección de Fiscalización Internacional; Subdirección de Apoyo en la Lucha contra el Delito Aduanero y Fiscal.",
+      "Subdirección de Fiscalización Tributaria; Subdirección de Fiscalización Aduanera; Subdirección de Fiscalización Cambiaría; Subdirección de Fiscalización Internacional; Subdirección Operativa de Fiscalización y Liquidación.",
+      "Subdirección de Fiscalización Tributaria; Subdirección de Fiscalización Aduanera; Subdirección de Fiscalización Cambiaría; Subdirección de Asuntos Penales; Subdirección de Apoyo en la Lucha contra el Delito Aduanero y Fiscal.",
+      "Subdirección de Fiscalización Tributaria; Subdirección de Fiscalización Aduanera; Subdirección de Fiscalización Cambiaría; Subdirección de Fiscalización Internacional; Subdirección de Gestión e Investigación."
+    ],
+    "correct": 0,
+    "explanation": "El artículo incluye esas cinco unidades bajo Gestión de Fiscalización. La Subdirección Operativa de Fiscalización y Liquidación pertenece a la Dirección Operativa de Grandes Contribuyentes; Asuntos Penales y Gestión e Investigación dependen de otras direcciones."
+  },
+  {
+    "question": "Para reconstruir la composición de la gestión corporativa sin trasladarle unidades de planeación, tecnología o gestión jurídica, ¿qué conjunto de dependencias corresponde a la Dirección de Gestión Corporativa?",
+    "options": [
+      "Subdirección Financiera; Subdirección de Gestión del Empleo Público; Subdirección de Desarrollo del Talento Humano; Subdirección Escuela de Impuestos y Aduanas; Subdirección de Asuntos Disciplinarios; Subdirección de Compras y Contratos; Subdirección Administrativa; Subdirección Logística.",
+      "Subdirección Financiera; Subdirección de Gestión del Empleo Público; Subdirección de Desarrollo del Talento Humano; Subdirección Escuela de Impuestos y Aduanas; Subdirección de Asuntos Disciplinarios; Subdirección de Compras y Contratos; Subdirección de Planeación y Cumplimiento; Subdirección Logística.",
+      "Subdirección Financiera; Subdirección de Gestión del Empleo Público; Subdirección de Desarrollo del Talento Humano; Subdirección Escuela de Impuestos y Aduanas; Subdirección de Asuntos Penales; Subdirección de Compras y Contratos; Subdirección Administrativa; Subdirección Logística.",
+      "Subdirección Financiera; Subdirección de Gestión del Empleo Público; Subdirección de Desarrollo del Talento Humano; Subdirección de Soluciones y Desarrollo; Subdirección de Asuntos Disciplinarios; Subdirección de Compras y Contratos; Subdirección Administrativa; Subdirección Logística."
+    ],
+    "correct": 0,
+    "explanation": "La opción correcta reproduce las ocho subdirecciones enumeradas bajo Gestión Corporativa. Planeación y Cumplimiento corresponde a Gestión Estratégica y de Analítica; Asuntos Penales, a Gestión Jurídica; y Soluciones y Desarrollo, a Gestión de Innovación y Tecnología."
+  },
+  {
+    "question": "Al identificar las unidades de la Dirección de Gestión Estratégica y de Analítica, es necesario no confundir las funciones nominales de análisis y trazabilidad con las de ejecución tecnológica. ¿Qué conjunto conserva esa adscripción tal como aparece en el artículo?",
+    "options": [
+      "Subdirección de Información y Analítica; Subdirección de Análisis de Riesgo y Programas; Subdirección de Estudios Económicos; Subdirección de Planeación y Cumplimiento; Subdirección de Procesos; Subdirección del Centro de Trazabilidad Aduanera.",
+      "Subdirección de Información y Analítica; Subdirección de Análisis de Riesgo y Programas; Subdirección de Estudios Económicos; Subdirección de Planeación y Cumplimiento; Subdirección de Procesamiento de Datos; Subdirección del Centro de Trazabilidad Aduanera.",
+      "Subdirección de Información y Analítica; Subdirección de Análisis de Riesgo y Programas; Subdirección Financiera; Subdirección de Planeación y Cumplimiento; Subdirección de Procesos; Subdirección del Centro de Trazabilidad Aduanera.",
+      "Subdirección de Información y Analítica; Subdirección de Análisis de Riesgo y Programas; Subdirección de Estudios Económicos; Subdirección de Planeación y Cumplimiento; Subdirección de Procesos; Subdirección de Infraestructura Tecnológica y de Operaciones."
+    ],
+    "correct": 0,
+    "explanation": "Esas seis subdirecciones están adscritas a Gestión Estratégica y de Analítica. Procesamiento de Datos e Infraestructura Tecnológica y de Operaciones pertenecen a Gestión de Innovación y Tecnología; la Subdirección Financiera, a Gestión Corporativa."
+  },
+  {
+    "question": "Si se debe distinguir la estructura responsable de innovación y tecnología de la estructura estratégica y de analítica, ¿qué relación de dependencias corresponde a la Dirección de Gestión de Innovación y Tecnología?",
+    "options": [
+      "Subdirección de Innovación y Proyectos; Subdirección de Soluciones y Desarrollo; Subdirección de Procesamiento de Datos; Subdirección de Infraestructura Tecnológica y de Operaciones.",
+      "Subdirección de Innovación y Proyectos; Subdirección de Soluciones y Desarrollo; Subdirección de Procesos; Subdirección de Infraestructura Tecnológica y de Operaciones.",
+      "Subdirección de Información y Analítica; Subdirección de Soluciones y Desarrollo; Subdirección de Procesamiento de Datos; Subdirección de Infraestructura Tecnológica y de Operaciones.",
+      "Subdirección de Innovación y Proyectos; Subdirección de Soluciones y Desarrollo; Subdirección de Procesamiento de Datos; Subdirección del Centro de Trazabilidad Aduanera."
+    ],
+    "correct": 0,
+    "explanation": "El artículo enumera esas cuatro unidades bajo Gestión de Innovación y Tecnología. Procesos y el Centro de Trazabilidad Aduanera pertenecen a Gestión Estratégica y de Analítica; Información y Analítica también depende de esta última."
+  },
+  {
+    "question": "Al clasificar las dependencias jurídicas centrales, debe diferenciarse la función organizativa de Gestión Jurídica de unidades disciplinarias o de apoyo a la lucha contra delitos. ¿Cuál es la composición exacta de la Dirección de Gestión Jurídica según el artículo?",
+    "options": [
+      "Subdirección de Normativa y Doctrina; Subdirección de Recursos Jurídicos; Subdirección de Representación Externa; Subdirección de Asuntos Penales.",
+      "Subdirección de Normativa y Doctrina; Subdirección de Recursos Jurídicos; Subdirección de Representación Externa; Subdirección de Asuntos Disciplinarios.",
+      "Subdirección de Normativa y Doctrina; Subdirección de Recursos Jurídicos; Subdirección de Gestión e Investigación; Subdirección de Asuntos Penales.",
+      "Subdirección de Normativa y Doctrina; Subdirección de Recursos Jurídicos; Subdirección Operativa Jurídica; Subdirección de Asuntos Penales."
+    ],
+    "correct": 0,
+    "explanation": "Gestión Jurídica comprende las cuatro subdirecciones de la opción correcta. Asuntos Disciplinarios depende de Gestión Corporativa, Gestión e Investigación de Gestión de Policía Fiscal y Aduanera, y la Subdirección Operativa Jurídica de la Dirección Operativa de Grandes Contribuyentes."
+  },
+  {
+    "question": "Al ubicar las dos dependencias de la Dirección de Gestión de Policía Fiscal y Aduanera, ¿qué opción refleja su adscripción sin confundirlas con las unidades de fiscalización ni con las de investigación jurídica?",
+    "options": [
+      "Subdirección Operativa Policial y Subdirección de Gestión e Investigación.",
+      "Subdirección Operativa Policial y Subdirección de Apoyo en la Lucha contra el Delito Aduanero y Fiscal.",
+      "Subdirección de Fiscalización Aduanera y Subdirección de Gestión e Investigación.",
+      "Subdirección Operativa Policial y Subdirección de Asuntos Penales."
+    ],
+    "correct": 0,
+    "explanation": "El artículo adscribe la Subdirección Operativa Policial y la Subdirección de Gestión e Investigación a Gestión de Policía Fiscal y Aduanera. Las otras unidades mencionadas pertenecen a Gestión de Fiscalización o Gestión Jurídica."
+  },
+  {
+    "question": "En la estructura central, la Dirección Operativa de Grandes Contribuyentes reúne subdirecciones operativas con ámbitos de servicio, análisis, fiscalización y asuntos jurídicos. ¿Cuál opción identifica el conjunto completo que el artículo le asigna?",
+    "options": [
+      "Subdirección Operativa de Análisis y Sectores Estratégicos; Subdirección Operativa de Servicio, Recaudo, Cobro y Devoluciones; Subdirección Operativa de Fiscalización y Liquidación; Subdirección Operativa de Fiscalización y Liquidación Internacional; Subdirección Operativa Jurídica.",
+      "Subdirección Operativa de Análisis y Sectores Estratégicos; Subdirección Operativa de Servicio, Recaudo, Cobro y Devoluciones; Subdirección de Fiscalización Tributaria; Subdirección Operativa de Fiscalización y Liquidación Internacional; Subdirección Operativa Jurídica.",
+      "Subdirección Operativa de Análisis y Sectores Estratégicos; Subdirección de Servicio al Ciudadano en Asuntos Tributarios; Subdirección Operativa de Fiscalización y Liquidación; Subdirección Operativa de Fiscalización y Liquidación Internacional; Subdirección Operativa Jurídica.",
+      "Subdirección de Análisis de Riesgo y Programas; Subdirección Operativa de Servicio, Recaudo, Cobro y Devoluciones; Subdirección Operativa de Fiscalización y Liquidación; Subdirección Operativa de Fiscalización y Liquidación Internacional; Subdirección Operativa Jurídica."
+    ],
+    "correct": 0,
+    "explanation": "La Dirección Operativa de Grandes Contribuyentes comprende las cinco subdirecciones operativas de la opción correcta. Las unidades sustituidas en los distractores pertenecen a Gestión de Fiscalización, Gestión de Impuestos o Gestión Estratégica y de Analítica."
+  },
+  {
+    "question": "Al interpretar el último numeral de la estructura, se debe conservar tanto la clasificación conjunta como la numeración que el artículo asigna a sus dos integrantes, aunque esta aparezca en orden no consecutivo. ¿Cuál transcripción es fiel al texto?",
+    "options": [
+      "Bajo «Órgano Asesor y Órgano Especial» se enumeran 11.2 Comité Institucional Estratégico - CIE y 11.1 Defensor del Contribuyente y del Usuario Aduanero.",
+      "Bajo «Órgano Asesor y Órgano Especial» se enumeran 11.1 Comité Institucional Estratégico - CIE y 11.2 Defensor del Contribuyente y del Usuario Aduanero.",
+      "Bajo «Órgano Asesor y Órgano Especial» se enumeran 11.2 Comité Institucional Estratégico - CIE y 11.1 Defensor del Contribuyente.",
+      "Bajo «Órgano Asesor y Órgano Especial» se enumeran 11.2 Comité Institucional Estratégico - CIE y 11.1 Subdirección del Defensor del Contribuyente y del Usuario Aduanero."
+    ],
+    "correct": 0,
+    "explanation": "El artículo presenta el encabezado «Órgano Asesor y Órgano Especial» y asigna 11.2 al Comité Institucional Estratégico - CIE y 11.1 al Defensor del Contribuyente y del Usuario Aduanero. La opción conserva esas denominaciones y numeración."
   }
 ]

@@ -1,3 +1,5 @@
+import json
+
 from pydantic import BaseModel, Field, ValidationError, RootModel
 from typing import List
 from utils.opencode_client import opencode_completion
@@ -122,6 +124,7 @@ DO NOT:
 
 OUTPUT FORMAT:
 Generate:
+- The top-level JSON value MUST be an array of question objects. Do not wrap it in an object such as {{"questions": [...]}}.
 - Multiple choice questions only.
 - Exactly 4 answer options per question.
 - The 'correct' field MUST be the 0-based index of the one correct answer in that question's final 'options' array. Index 0 means the first option, 1 the second, 2 the third, and 3 the fourth.
@@ -146,13 +149,19 @@ Generate:
 def _llm(prompt: str, max_tokens: int = 8000) -> Quiz:
     """Generate and validate quiz JSON with OpenCode."""
     content = opencode_completion(get_system_prompt(), prompt, max_tokens)
+
     try:
-        validated = Quiz.model_validate_json(content)
+        payload = json.loads(content)
+        if isinstance(payload, dict) and isinstance(payload.get("questions"), list):
+            payload = payload["questions"]
+        validated = Quiz.model_validate(payload)
         return validated
+    except json.JSONDecodeError as e:
+        raise ValueError(f"El modelo devolvió JSON inválido: {e}\n\nContenido recibido:\n{content}") from e
     except ValidationError as e:
         raise ValueError(
             f"El modelo devolvió un JSON inválido:\n{e.json(indent=2)}\n\nContenido recibido:\n{content}"
-        )
+        ) from e
 
 def create_quiz(prompt: str, max_tokens: int)-> Quiz:
     return _llm(prompt, max_tokens)
