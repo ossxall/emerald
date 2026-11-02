@@ -647,5 +647,49 @@
     ],
     "correct": 0,
     "explanation": "El parágrafo atribuye la facultad al Director General, exige disponibilidad presupuestal y acto motivado, y prescribe un análisis con las variables enumeradas, entre otras."
+  },
+  {
+    "question": "El Director General evalúa si debe establecer una presencia territorial delegada para prestar servicios tributarios, aduaneros y cambiados. Según el artículo, ¿qué criterio justifica considerar esa medida?",
+    "options": [
+      "Que el lugar presente una actividad económica relevante o una ubicación estratégica que amerite garantizar allí la prestación del servicio.",
+      "Que exista una solicitud de los operadores económicos y que las dependencias centrales hayan definido previamente sus funciones.",
+      "Que la ubicación permita sustituir las direcciones seccionales existentes y centralizar la administración del servicio en un solo territorio.",
+      "Que el lugar registre necesidades permanentes de fiscalización, sin que su actividad económica o ubicación estratégica sean determinantes."
+    ],
+    "correct": 0,
+    "explanation": "El artículo vincula la autorización con la garantía de la prestación del servicio en lugares cuya actividad económica o ubicación estratégica lo amerite."
+  },
+  {
+    "question": "Para poner en funcionamiento una Dirección Seccional Delegada, ¿qué combinación de autoridad, instrumento y condición previa establece el artículo?",
+    "options": [
+      "El Director General la autoriza mediante resolución, una vez exista disponibilidad presupuestal.",
+      "La respectiva dirección seccional la crea mediante acto administrativo, con cargo a los recursos que gestione posteriormente.",
+      "El Director General la establece mediante resolución cuando se haya confirmado la necesidad, aunque no exista disponibilidad presupuestal.",
+      "Una dependencia central la autoriza mediante directriz, previa aprobación de los grupos internos que asumirán sus funciones."
+    ],
+    "correct": 0,
+    "explanation": "La competencia corresponde al Director General, quien autoriza el funcionamiento mediante resolución y solo previa disponibilidad presupuestal."
+  },
+  {
+    "question": "Al diseñar la autorización, la administración debe precisar si la presencia delegada tendrá carácter permanente o transitorio. ¿Cómo se relaciona esa decisión con la facultad prevista en el artículo?",
+    "options": [
+      "Ambas modalidades están contempladas; el artículo permite autorizar el funcionamiento permanente o transitorio.",
+      "Solo se permite el funcionamiento transitorio, que puede volverse permanente mediante decisión de la dirección seccional.",
+      "Solo se permite el funcionamiento permanente, pues la transitoriedad se limita a los grupos internos de trabajo.",
+      "La modalidad debe ser permanente cuando la ubicación sea estratégica y transitoria cuando la actividad económica lo amerite."
+    ],
+    "correct": 0,
+    "explanation": "El artículo faculta al Director General para autorizar el funcionamiento de estas direcciones tanto de manera permanente como transitoria, sin asignar una modalidad específica a cada criterio territorial."
+  },
+  {
+    "question": "Una resolución autoriza una Dirección Seccional Delegada, pero no precisa su alcance territorial ni los grupos que la integrarán. ¿Qué aspecto exigido por el artículo quedaría pendiente?",
+    "options": [
+      "Indicar la jurisdicción de la dirección y determinar los Grupos Internos de Trabajo que deben integrarla.",
+      "Definir la jurisdicción y permitir que la propia dirección establezca posteriormente sus grupos internos sin que la resolución los determine.",
+      "Determinar los grupos internos y dejar que cada uno delimite la jurisdicción según los asuntos que atienda.",
+      "Precisar la jurisdicción y asignar a la dirección delegada la facultad de autorizar otras direcciones de la misma naturaleza."
+    ],
+    "correct": 0,
+    "explanation": "La resolución debe indicar la jurisdicción y determinar los Grupos Internos de Trabajo que integrarán la respectiva Dirección Seccional Delegada."
   }
 ]
