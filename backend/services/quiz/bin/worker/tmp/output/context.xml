@@ -1,73 +1,162 @@
 <LanguageRule>Spanish</LanguageRule>
 <GeneralContextKeywords>acción, actividad, acto, administración, administrar, administrativa, administrativo, aduanas, aduanera, aduanero, análisis, aplicación, asignado, asignar, asunto, bien, cobro, comercio, competencia, competente, conformidad, contribuyente, control, controlar, coordinación, coordinar, corresponder, cumplimiento, definir, dependencia, desarrollar, desarrollo, dian, direcciones, dirección, director, directriz, dirigir, diseñar, disposición, división, económico, ejercer, elaborar, entidad, especial, establecer, estrategia, evaluar, exterior, facilitación, fiscal, fiscalización, funciones, función, garantizar, general, gestionar, gestión, impartir, implementación, implementar, impuesto, impuestos, información, internacional, interno, investigación, jurídica, lineamiento, liquidación, materia, mercancía, nacional, nación, naturaleza, necesario, nivel, norma, normatividad, obligación, operación, operador, operativa, operativo, orientar, plan, política, procedimiento, proceso, programa, proponer, público, recaudo, recurso, registro, relacionado, riesgo, seccional, seccionales, seguimiento, seguridad, servicio, siguiente, sistema, solicitud, subdirección, talento, tributario, técnico, usuario, único</GeneralContextKeywords>
-<QuizContent>ARTÍCULO 5. ESTRUCTURA DEL NIVEL CENTRAL. La DIAN para el cumplimiento de sus funciones, en el
-Nivel Central tiene la siguiente estructura:
-1. DIRECCIÓN GENERAL
-1.1 Oficina de Control Interno.
-1.2 Oficina de Seguridad de la Información.
-1.3 Oficina de Comunicaciones Institucionales.
-1.4 Oficina de Tributación Internacional.
-2. DIRECCIÓN DE GESTIÓN DE IMPUESTOS.
-2.1 Subdirección de Administración del Registro Único Tributario
-2.2 Subdirección de Recaudo.
-2.3 Subdirección para el Impulso de la Formalización Tributaria
-2.4 Subdirección de Factura Electrónica y Soluciones Operativas.
-2.5 Subdirección de Servicio al Ciudadano en Asuntos Tributarios.
-2.6 Subdirección de Devoluciones.
-2.7 Subdirección de Cobranzas y Control Extensivo.
-3. DIRECCIÓN DE GESTIÓN DE ADUANAS.
-3.1 Subdirección de Operación Aduanera.
-3.2 Subdirección Técnica Aduanera.
-3.3 Subdirección de Registro y Control Aduanero.
-3.4 Subdirección del Operador Económico Autorizado.
-3.5 Subdirección del Laboratorio Aduanero
-3.6 Subdirección de Servicios y Facilitación al Comercio Exterior.
-4. DIRECCIÓN DE GESTIÓN DE FISCALIZACIÓN.
-4.1 Subdirección de Fiscalización Tributaria.
-4.2 Subdirección de Fiscalización Aduanera.
-4.3 Subdirección de Fiscalización Cambiaría.
-4.4 Subdirección de Fiscalización Internacional.
-4.5 Subdirección de Apoyo en la Lucha contra el Delito Aduanero y Fiscal.
-5. DIRECCIÓN DE GESTIÓN CORPORATIVA.
-5.1 Subdirección Financiera.
-5.2 Subdirección de Gestión del Empleo Público.
-5.3 Subdirección de Desarrollo del Talento Humano.
-5.4 Subdirección Escuela de Impuestos y Aduanas.
-5.5 Subdirección de Asuntos Disciplinarios.
-5.6 Subdirección de Compras y Contratos.
-5.7 Subdirección Administrativa.
-5.8 Subdirección Logística.
-6. DIRECCIÓN DE GESTIÓN ESTRATÉGICA Y DE ANALÍTICA.
-6.1 Subdirección de Información y Analítica.
-6.2 Subdirección de Análisis de Riesgo y Programas.
-6.3 Subdirección de Estudios Económicos.
-6.4 Subdirección de Planeación y Cumplimiento.
-6.5 Subdirección de Procesos.
-6.6 Subdirección del Centro de Trazabilidad Aduanera.
-7. DIRECCIÓN DE GESTIÓN DE INNOVACIÓN Y TECNOLOGÍA.
-7.1 Subdirección de Innovación y Proyectos.
-7.2 Subdirección de Soluciones y Desarrollo.
-7.3 Subdirección de Procesamiento de Datos.
-7.4 Subdirección de Infraestructura Tecnológica y de Operaciones.
-8. DIRECCIÓN DE GESTIÓN JURÍDICA.
-8.1 Subdirección de Normativa y Doctrina.
-8.2 Subdirección de Recursos Jurídicos.
-8.3 Subdirección de Representación Externa.
-8.4 Subdirección de Asuntos Penales.
-9. DIRECCIÓN DE GESTIÓN DE POLICÍA FISCAL Y ADUANERA.
-9.1 Subdirección Operativa Policial.
-9.2 Subdirección de Gestión e Investigación.
-10. DIRECCIÓN OPERATIVA DE GRANDES CONTRIBUYENTES.
-10.1 Subdirección Operativa de Análisis y Sectores Estratégicos.
-10.2 Subdirección Operativa de Servicio, Recaudo, Cobro y Devoluciones.
-10.3 Subdirección Operativa de Fiscalización y Liquidación.
-10.4 Subdirección Operativa de Fiscalización y Liquidación Internacional.
-10.5 Subdirección Operativa Jurídica.
-11. ÓRGANO ASESOR Y ÓRGANO ESPECIAL.
-11.2 Comité Institucional Estratégico - CIE.
-11.1 Defensor del Contribuyente y del Usuario Aduanero.</QuizContent>
-<GeneralContext>El Decreto 1742 de 2020 reorganiza la DIAN para fortalecer su gobernanza, eficiencia, capacidad tecnológica, presencia territorial y servicio. La entidad administra las obligaciones tributarias, aduaneras y cambiarias, y cumple funciones de orientación, fiscalización, cobro y sanción. Su estructura central, seccional y delegada se ajusta a las necesidades institucionales y a los recursos disponibles. La reorganización busca mejorar el recaudo y controlar los riesgos asociados a la evasión, el contrabando y otros incumplimientos.
+<QuizContent>ARTÍCULO 6. ESTRUCTURA DEL NIVEL LOCAL. Para el cumplimiento de sus funciones, el Nivel Local
+tiene la siguiente estructura:
+DIRECCIONES SECCIONALES DE IMPUESTOS
+Dirección
 
-La Dirección General define políticas, dirige los recursos y el personal, supervisa las funciones institucionales y coordina la cooperación internacional. Las áreas tributarias administran registros, recaudo, facturación electrónica, atención, devoluciones y cobro, mientras las aduaneras aplican regímenes y facilitan el comercio mediante autorizaciones, controles y trazabilidad. Las dependencias de fiscalización investigan incumplimientos, y las áreas especializadas coordinan acciones contra delitos fiscales, aduaneros y financieros, intercambian información y apoyan a la Fiscalía y a la UIAF. La gestión corporativa abarca presupuesto, contratación, infraestructura y administración del personal; las dependencias disciplinarias tramitan procesos con garantías de debido proceso. Además, la planeación, el análisis de datos y la evaluación de riesgos orientan la mejora institucional, mientras las áreas tecnológicas y de trazabilidad impulsan el monitoreo de cargas y la transformación digital.
+Seccional
 
-En conjunto, el decreto articula las funciones operativas, administrativas y tecnológicas de la DIAN bajo una estructura orientada a resultados. La coordinación entre sus dependencias busca hacer más eficaz el control, facilitar el cumplimiento de las obligaciones y apoyar el comercio. Su capacidad para alcanzar esos objetivos depende de una gestión integrada, el uso de información y una presencia institucional ajustada a las necesidades del país.</GeneralContext>
+de
+
+Impuestos
+de
+Barranquilla.
+Dirección
+
+
+de
+Impuestos
+
+de
+Bogotá.
+Dirección
+Seccional
+de
+Impuestos
+Cali.
+Dirección
+Seccional
+Impuestos
+Cartagena.
+Dirección
+Impuestos
+de
+Cúcuta.
+Dirección Seccional de Impuestos de Medellín.
+DIRECCIONES SECCIONALES DE ADUANAS
+Seccional
+Aduanas
+Barranquilla,
+Aduanas
+Seccional
+Aduanas
+Bogotá
+-
+Aeropuerto
+El
+Dorado.
+Seccional
+Aduanas
+Cali.
+Cartagena.
+Cúcuta.
+Dirección Seccional de Aduanas de Medellín.
+DIRECCIONES SECCIONALES DE IMPUESTOS Y ADUANAS
+Dirección Seccional de Impuestos y Aduanas de Arauca.
+Dirección Seccional de Impuestos y Aduanas de Armenia.
+Dirección Seccional de Impuestos y Aduanas de Barrancabermeja.
+Dirección Seccional de Impuestos y Aduanas de Bucaramanga.
+Dirección Seccional de Impuestos y Aduanas de Buenaventura.
+Dirección Seccional de Impuestos y Aduanas de Florencia.
+Dirección Seccional de Impuestos y Aduanas de Girardot.
+Dirección Seccional de Impuestos y Aduanas de Ibagué.
+Dirección Seccional de Impuestos y Aduanas de Ipiales.
+Dirección Seccional de Impuestos y Aduanas de Leticia.
+Dirección Seccional de Impuestos y Aduanas de Maicao.
+Dirección Seccional de Impuestos y Aduanas de Manizales.
+Dirección Seccional de Impuestos y Aduanas de Montería.
+Dirección Seccional de Impuestos y Aduanas de Neiva.
+Dirección Seccional de Impuestos y Aduanas de Palmira.
+Dirección Seccional de Impuestos y Aduanas de Pasto.
+Dirección Seccional de Impuestos y Aduanas de Pereira.
+Dirección Seccional de Impuestos y Aduanas de Popayán.
+Dirección Seccional de Impuestos y Aduanas de Puerto Asís.
+Dirección Seccional de Impuestos y Aduanas de Quibdó.
+Dirección Seccional de Impuestos y Aduanas de Riohacha.
+Dirección Seccional de Impuestos y Aduanas de San Andrés.
+Dirección Seccional de Impuestos y Aduanas de Santa Marta.
+Dirección Seccional de Impuestos y Aduanas de Sincelejo.
+Dirección Seccional de Impuestos y Aduanas de Sogamoso.
+Dirección Seccional de Impuestos y Aduanas de Tuluá.
+Dirección Seccional de Impuestos y Aduanas de Tumaco
+Dirección Seccional de Impuestos y Aduanas de Tunja.
+Dirección Seccional de Impuestos y Aduanas de Urabá.
+Dirección Seccional de Impuestos y Aduanas de Valledupar.
+Dirección Seccional de Impuestos y Aduanas de Yopal.
+Dirección Seccional de Impuestos y Aduanas de Villavicencio.
+PARÁGRAFO 1. Para garantizar la prestación del servicio, las Direcciones Seccionales Tipo III podrán contar con las siguientes Divisiones
+PARÁGRAFO 2. Para garantizar la prestación del servicio, las Direcciones Seccionales Tipo II podrán contar con las siguientes Divisiones:
+PARÁGRAFO 3. Para garantizar la prestación del servicio, las Direcciones Seccionales Tipo I podrán contar con las siguientes Divisiones:
+DIRECCIONES SECCIONALES DE IMPUESTOS
+DIRECCIONES SECCIONALES DE ADUANAS
+DIRECCIONES SECCIONALES DE IMPUESTOS Y ADUANAS
+- División Administrativa y Financiera.
+- División de Talento Humano.
+- División Jurídica.
+- División de Servicio al Ciudadano.
+- División de Fiscalización y Liquidación Tributaria Extensiva.
+- División de Fiscalización y Liquidación Tributaria Intensiva, con excepción de Bogotá.
+- División de Fiscalización y Liquidación Tributaria Intensiva para personas naturales y asimiladas, y residual, únicamente en el caso de Bogotá.
+- División de Fiscalización y Liquidación Tributaria Intensiva para personas jurídicas y asimiladas, únicamente en el caso de Bogotá.
+- División de Recaudo y Cobranzas, con excepción de Bogotá.
+- División de Recaudo, en el caso de Bogotá.
+- División de Cobranzas, en el caso de Bogotá.
+- División Administrativa y Financiera.
+- División de Talento Humano.
+- División de Servicio al Ciudadano.
+- División de Fiscalización y Liquidación Aduanera, con excepción de Bogotá.
+- División de Fiscalización y
+- Liquidación Cambiaría.
+- División de Fiscalización y Liquidación Aduanera de Sanciones y Definición de Situación Jurídica, únicamente en el caso de Bogotá
+- División de Fiscalización y Liquidación determinación de tributos y gravámenes aduaneros, únicamente en el caso de Bogotá.
+- División de la Operación Aduanera.
+- División de Control de Carga.
+- División de Viajeros
+- División de Control Cambiario.
+- División de Control Operativo.
+- División Administrativa y Financiera.
+- División de Talento Humano.
+- División Jurídica.
+- División de Fiscalización y Liquidación Tributaria Intensiva.
+- División de Fiscalización y Liquidación Aduanera y Cambiaría.
+- División de Recaudo y Cobranzas
+- División de la Operación Aduanera
+- División de Control de Carga.
+- División de Viajeros.
+- División de Control Cambiario.
+- División de Control Operativo.
+DIRECCIONES SECCIONALES DE ADUANAS
+DIRECCIONES SECCIONALES DE IMPUESTOS Y ADUANAS
+- División de Fiscalización y Liquidación Tributaria Extensiva.
+- División de Fiscalización y Liquidación Tributaria Intensiva.
+- División de Recaudo y Cobranzas.
+- División de Servicio al Ciudadano.
+- División de Fiscalización y Liquidación Aduanera.
+- División de Fiscalización y Liquidación Cambiaría.
+- División de la Operación Aduanera.
+- División de Control Operativo.
+- División Administrativa y Financiera.
+- División de Fiscalización y Liquidación Tributaria Extensiva.
+- División de Fiscalización y Liquidación Aduanera y Cambiaría.
+- División de Recaudo y Cobranzas.
+- División de la Operación Aduanera. División de Control Operativo.
+DIRECCIONES
+SECCIONALES
+DE
+IMPUESTOS
+Y
+ADUANAS
+- División Administrativa y Financiera.
+- División de Fiscalización y Liquidación Tributaria, Aduanera y Cambiaría.
+- División de Fiscalización y Liquidación Tributaria.
+- División de Fiscalización y Liquidación Aduanera y Cambiaría.
+- División de Recaudo y Cobranzas.
+- División de la Operación Aduanera.
+- División de Control Operativo
+PARÁGRAFO 4. El Director General tendrá la facultad, previa disponibilidad presupuestal, de reclasificar, mediante acto administrativo motivado, el tipo de una o varias Direcciones Seccionales. El acto administrativo de reclasificación debe estar fundamentado en un análisis que incluya entre otras variables, las de tipo organizacional, económico y socio-demográfico, de nivel de recaudo y volumen de operaciones de comercio exterior.</QuizContent>
+<GeneralContext>El Decreto 1742 de 2020 reorganiza la DIAN para fortalecer su eficiencia, capacidad de control y desarrollo tecnológico. La entidad administra los impuestos y las aduanas, regula operaciones de comercio exterior y obligaciones cambiarias, y presta servicios de orientación y recaudo. Su estructura combina un nivel central especializado con direcciones seccionales y dependencias delegadas en zonas estratégicas. El Director General orienta las políticas y responde por los recursos, el personal y las relaciones institucionales.
+
+La DIAN verifica el cumplimiento de obligaciones tributarias, aduaneras, cambiarias e internacionales, e investiga la evasión, el fraude y otras infracciones. También determina obligaciones y sanciones, y coordina con autoridades nacionales e internacionales acciones contra delitos fiscales y aduaneros, el lavado de activos y el soborno transnacional. Para estas labores, apoya a la Fiscalía y a la UIAF, canaliza denuncias y administra procesos como el registro, la facturación, las devoluciones, el cobro y los regímenes aduaneros. Sus áreas jurídicas, corporativas y de apoyo gestionan, entre otros asuntos, el control interno, la seguridad de la información, el presupuesto, la contratación y el talento humano.
+
+La gestión estratégica articula la planeación, los procesos, los riesgos y el análisis de datos, mientras el Centro de Trazabilidad monitorea operaciones e intercambia información con otras autoridades. Innovación y Tecnología impulsa la transformación digital y las plataformas institucionales. En conjunto, la reorganización busca una DIAN más coordinada y tecnológica, capaz de facilitar el cumplimiento y fortalecer la fiscalización, con respeto al debido proceso y a las competencias de otras entidades.</GeneralContext>

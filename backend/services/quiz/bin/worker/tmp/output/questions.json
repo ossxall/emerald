@@ -438,5 +438,214 @@
     ],
     "correct": 0,
     "explanation": "El artículo presenta el encabezado «Órgano Asesor y Órgano Especial» y asigna 11.2 al Comité Institucional Estratégico - CIE y 11.1 al Defensor del Contribuyente y del Usuario Aduanero. La opción conserva esas denominaciones y numeración."
+  },
+  {
+    "question": "Al interpretar la estructura del Nivel Local descrita en el artículo 6, ¿qué clasificación distingue correctamente los tres grupos de Direcciones Seccionales que la integran?",
+    "options": [
+      "Direcciones Seccionales de Impuestos, Direcciones Seccionales de Aduanas y Direcciones Seccionales de Impuestos y Aduanas.",
+      "Direcciones Seccionales de Impuestos, Direcciones Seccionales de Comercio Exterior y Direcciones Seccionales de Recaudo.",
+      "Direcciones Seccionales de Aduanas, Direcciones Seccionales Jurídicas y Direcciones Seccionales de Impuestos y Control Cambiario.",
+      "Direcciones Seccionales de Impuestos y Aduanas, Direcciones Seccionales de Fiscalización y Direcciones Seccionales de Operación Aduanera."
+    ],
+    "correct": 0,
+    "explanation": "El artículo organiza el nivel local en esas tres categorías: Impuestos, Aduanas e Impuestos y Aduanas."
+  },
+  {
+    "question": "Al identificar las Direcciones Seccionales de Impuestos incluidas en la estructura local, ¿cuál opción reproduce correctamente las seis ubicaciones enumeradas, conservando las denominaciones particulares que aparecen para Bogotá y Cúcuta?",
+    "options": [
+      "Barranquilla, Bogotá, Cali, Cartagena, Medellín y Villavicencio, todas denominadas expresamente Dirección Seccional de Impuestos.",
+      "Barranquilla, Bogotá-Aeropuerto El Dorado, Cali, Cartagena, Cúcuta y Medellín, como Direcciones Seccionales de Aduanas.",
+      "Barranquilla, Bogotá, Cali, Cartagena, Cúcuta y Medellín; el texto denomina expresamente Dirección de Impuestos a las de Bogotá y Cúcuta, y Dirección Seccional de Impuestos a las demás.",
+      "Arauca, Barranquilla, Bogotá, Cali, Cartagena y Cúcuta, como Direcciones Seccionales de Impuestos y Aduanas."
+    ],
+    "correct": 2,
+    "explanation": "La lista de Impuestos comprende esas seis ciudades; en el texto, Bogotá y Cúcuta aparecen como Dirección de Impuestos, mientras que las otras cuatro incluyen la denominación Seccional."
+  },
+  {
+    "question": "Para distinguir la red de Direcciones Seccionales de Aduanas de las de Impuestos, ¿qué conjunto corresponde a las seis ubicaciones aduaneras expresamente enumeradas, incluida la particularidad de Bogotá?",
+    "options": [
+      "Barranquilla, Bogotá, Cali, Cartagena, Cúcuta y Medellín, sin referencia a una sede aeroportuaria.",
+      "Barranquilla, Bogotá-Aeropuerto El Dorado, Cali, Cartagena, Cúcuta y Medellín.",
+      "Arauca, Bogotá-Aeropuerto El Dorado, Cali, Cartagena, Cúcuta y Medellín.",
+      "Barranquilla, Bogotá, Buenaventura, Cartagena, Cúcuta y Medellín."
+    ],
+    "correct": 1,
+    "explanation": "La relación de Aduanas incluye esas seis ubicaciones y especifica Bogotá - Aeropuerto El Dorado."
+  },
+  {
+    "question": "En la relación de Direcciones Seccionales de Impuestos y Aduanas, ¿qué opción reproduce correctamente el primer grupo de ocho ubicaciones enumeradas?",
+    "options": [
+      "Arauca, Armenia, Barrancabermeja, Bucaramanga, Buenaventura, Florencia, Girardot e Ibagué.",
+      "Arauca, Armenia, Barranquilla, Bucaramanga, Buenaventura, Florencia, Girardot e Ibagué.",
+      "Arauca, Armenia, Barrancabermeja, Bogotá, Buenaventura, Florencia, Girardot e Ibagué.",
+      "Arauca, Armenia, Barrancabermeja, Bucaramanga, Cali, Florencia, Girardot e Ibagué."
+    ],
+    "correct": 0,
+    "explanation": "El primer tramo de la lista mixta comprende Arauca, Armenia, Barrancabermeja, Bucaramanga, Buenaventura, Florencia, Girardot e Ibagué."
+  },
+  {
+    "question": "Al continuar la relación de Direcciones Seccionales de Impuestos y Aduanas desde Ipiales hasta Pasto, ¿qué serie conserva correctamente las ocho ubicaciones enumeradas?",
+    "options": [
+      "Ipiales, Leticia, Maicao, Manizales, Montería, Neiva, Palmira y Pereira.",
+      "Ipiales, Leticia, Maicao, Medellín, Montería, Neiva, Palmira y Pasto.",
+      "Ipiales, Leticia, Riohacha, Manizales, Montería, Neiva, Palmira y Pasto.",
+      "Ipiales, Leticia, Maicao, Manizales, Montería, Neiva, Palmira y Pasto."
+    ],
+    "correct": 3,
+    "explanation": "La secuencia indicada en la lista es Ipiales, Leticia, Maicao, Manizales, Montería, Neiva, Palmira y Pasto."
+  },
+  {
+    "question": "En el tramo de la lista mixta que va de Pereira a Sincelejo, ¿cuál agrupación corresponde exactamente a las ocho Direcciones Seccionales enumeradas?",
+    "options": [
+      "Pereira, Popayán, Puerto Asís, Quibdó, Riohacha, San Andrés, Sincelejo y Sogamoso.",
+      "Pereira, Popayán, Puerto Asís, Quibdó, Riohacha, San Andrés, Santa Marta y Sincelejo.",
+      "Pereira, Pasto, Puerto Asís, Quibdó, Riohacha, San Andrés, Santa Marta y Sincelejo.",
+      "Pereira, Popayán, Puerto Asís, Tumaco, Riohacha, San Andrés, Santa Marta y Sincelejo."
+    ],
+    "correct": 1,
+    "explanation": "El tramo incluye Pereira, Popayán, Puerto Asís, Quibdó, Riohacha, San Andrés, Santa Marta y Sincelejo."
+  },
+  {
+    "question": "Al cerrar la relación de Direcciones Seccionales de Impuestos y Aduanas, ¿qué serie reproduce correctamente las ocho ubicaciones finales?",
+    "options": [
+      "Sogamoso, Tuluá, Tumaco, Tunja, Urabá, Valledupar, Yopal y Villavicencio.",
+      "Sogamoso, Tuluá, Tumaco, Tunja, Urabá, Villavicencio, Yopal y Cúcuta.",
+      "Sogamoso, Sincelejo, Tumaco, Tunja, Urabá, Valledupar, Yopal y Villavicencio.",
+      "Sogamoso, Tuluá, Tumaco, Tunja, Buenaventura, Valledupar, Yopal y Villavicencio."
+    ],
+    "correct": 0,
+    "explanation": "Las ocho ubicaciones finales de esa relación son Sogamoso, Tuluá, Tumaco, Tunja, Urabá, Valledupar, Yopal y Villavicencio."
+  },
+  {
+    "question": "El parágrafo 1 vincula la prestación del servicio con la posibilidad de que ciertas Direcciones Seccionales cuenten con divisiones. ¿Cuál es la lectura correcta de la regla específicamente para las Direcciones Seccionales Tipo III?",
+    "options": [
+      "Deben contar necesariamente con todas las divisiones enumeradas, pues el parágrafo establece una dotación uniforme y obligatoria para el Tipo III.",
+      "Pueden contar con las divisiones señaladas para garantizar la prestación del servicio; el texto formula una posibilidad, no una obligación de tenerlas todas.",
+      "Pueden contar con divisiones únicamente si el Director General reclasifica previamente su tipo mediante acto administrativo.",
+      "La regla se refiere a las Direcciones Seccionales Tipo II y condiciona sus divisiones a que administren simultáneamente impuestos y aduanas."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo 1 dice que, para garantizar el servicio, las Direcciones Tipo III podrán contar con las divisiones indicadas; no establece que todas deban existir obligatoriamente."
+  },
+  {
+    "question": "¿Cómo debe interpretarse el parágrafo 2 respecto de las Direcciones Seccionales Tipo II y las divisiones previstas para garantizar el servicio?",
+    "options": [
+      "Como una autorización para que las Direcciones Tipo II puedan contar con las divisiones indicadas, sin convertir la posibilidad en una obligación universal.",
+      "Como una orden de que todas las Direcciones Tipo II cuenten con idénticas divisiones y con la totalidad de las dependencias enumeradas.",
+      "Como una habilitación exclusiva para las Direcciones Tipo III, extendida a las Tipo II solo cuando tengan competencia aduanera.",
+      "Como una facultad de reclasificación del Director General que sustituye la estructura de divisiones de las Direcciones Tipo II."
+    ],
+    "correct": 0,
+    "explanation": "El parágrafo 2 emplea la fórmula podrán contar para las Direcciones Tipo II y vincula esa posibilidad con la prestación del servicio."
+  },
+  {
+    "question": "En relación con las Direcciones Seccionales Tipo I, ¿qué alcance expresa el parágrafo 3 sobre las divisiones?",
+    "options": [
+      "Que deben adoptar la estructura de las Direcciones Tipo III y mantenerla íntegra, independientemente de las necesidades de prestación del servicio.",
+      "Que solo pueden contar con divisiones administrativas, pues las funciones tributarias y aduaneras corresponden a los otros tipos.",
+      "Que, para garantizar la prestación del servicio, podrán contar con las divisiones indicadas, sin que la redacción imponga por sí sola una dotación obligatoria total.",
+      "Que el Director General debe reclasificarlas como Tipo II antes de que puedan establecer cualquier división."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo 3 atribuye a las Direcciones Tipo I la posibilidad de contar con divisiones para garantizar el servicio, no una obligación expresa de incorporarlas todas."
+  },
+  {
+    "question": "En el primer conjunto de divisiones asociado a las Direcciones Seccionales de Impuestos, ¿qué configuración conserva tanto las áreas comunes enumeradas como las diferencias entre la fiscalización intensiva fuera de Bogotá y la prevista para Bogotá?",
+    "options": [
+      "Incluye las divisiones Administrativa y Financiera, de Talento Humano, Jurídica y de Servicio al Ciudadano; fiscalización tributaria extensiva e intensiva; y recaudo y cobranzas en una sola división en todas las sedes, incluida Bogotá.",
+      "Incluye las divisiones Administrativa y Financiera, de Talento Humano y de Servicio al Ciudadano; fiscalización tributaria extensiva; y fiscalización intensiva exclusivamente para personas jurídicas en todas las Direcciones.",
+      "Incluye las divisiones Administrativa y Financiera, de Talento Humano, Jurídica y de Servicio al Ciudadano; fiscalización tributaria extensiva e intensiva, con una división intensiva única que incluye Bogotá; y Recaudo y Cobranzas en todas las sedes.",
+      "Incluye las divisiones Administrativa y Financiera, de Talento Humano, Jurídica y de Servicio al Ciudadano; fiscalización tributaria extensiva; intensiva fuera de Bogotá; en Bogotá, intensiva para personas naturales y asimiladas y residual, y otra para personas jurídicas y asimiladas; además, separa Recaudo de Cobranzas en Bogotá."
+    ],
+    "correct": 3,
+    "explanation": "La lista distingue la fiscalización intensiva fuera de Bogotá de las dos divisiones intensivas específicas de Bogotá, y también separa allí Recaudo y Cobranzas."
+  },
+  {
+    "question": "Al comparar las divisiones tributarias de recaudo y fiscalización intensiva, ¿qué tratamiento particular establece el listado para Bogotá frente a las demás Direcciones Seccionales de Impuestos?",
+    "options": [
+      "Bogotá conserva una División de Recaudo y Cobranzas y una División de Fiscalización Tributaria Intensiva general, mientras que fuera de Bogotá ambas funciones se separan.",
+      "Fuera de Bogotá se prevén Fiscalización y Liquidación Tributaria Intensiva y Recaudo y Cobranzas; en Bogotá la fiscalización intensiva se distribuye entre personas naturales y asimiladas —incluida la actividad residual— y personas jurídicas y asimiladas, y Recaudo y Cobranzas aparecen separadas.",
+      "Bogotá cuenta únicamente con fiscalización tributaria extensiva, mientras que la fiscalización intensiva para personas naturales y jurídicas corresponde a las demás sedes.",
+      "La distinción de Bogotá se limita a que Recaudo y Cobranzas se denominan de manera conjunta; la composición de fiscalización intensiva es idéntica en todas las sedes."
+    ],
+    "correct": 1,
+    "explanation": "El listado exceptúa a Bogotá de las divisiones intensivas y de Recaudo y Cobranzas generales, y especifica allí las divisiones intensivas por tipo de sujeto y la separación entre Recaudo y Cobranzas."
+  },
+  {
+    "question": "En el conjunto inicial de divisiones de las Direcciones Seccionales de Aduanas, ¿qué opción refleja correctamente las áreas de fiscalización, operación y control, incluidas las dependencias expresamente limitadas a Bogotá?",
+    "options": [
+      "Prevé fiscalización y liquidación aduanera fuera de Bogotá; fiscalización y liquidación aduanera de sanciones y definición de situación jurídica, y determinación de tributos y gravámenes aduaneros, únicamente en Bogotá; además de operación aduanera, control de carga, viajeros, control cambiario y control operativo.",
+      "Prevé fiscalización y liquidación aduanera de sanciones y definición de situación jurídica en todas las sedes, pero limita a Bogotá la División de la Operación Aduanera y la de Control de Carga.",
+      "Prevé únicamente fiscalización y liquidación cambiaria, viajeros y control operativo; las funciones de sanciones, situación jurídica y determinación de tributos no se incluyen.",
+      "Prevé una sola división de fiscalización aduanera idéntica en todas las sedes, junto con recaudo y cobranzas y una división jurídica específica de Bogotá."
+    ],
+    "correct": 0,
+    "explanation": "La lista señala las dos divisiones especializadas de Bogotá como exclusivas de esa sede y enumera, además, las divisiones de operación, carga, viajeros y controles cambiario y operativo."
+  },
+  {
+    "question": "En la configuración inicial de las Direcciones Seccionales de Impuestos y Aduanas, ¿qué combinación de divisiones expresa la integración de funciones tributarias, aduaneras y de apoyo?",
+    "options": [
+      "Integra fiscalización tributaria extensiva e intensiva, recaudo y cobranzas, servicio al ciudadano, operación aduanera y control de viajeros, pero excluye las áreas administrativa y de talento humano.",
+      "Integra las divisiones Administrativa y Financiera, de Talento Humano y Jurídica; fiscalización tributaria intensiva; fiscalización y liquidación aduanera y cambiaria; recaudo y cobranzas; operación aduanera; control de carga, viajeros, control cambiario y control operativo.",
+      "Integra fiscalización tributaria extensiva, recaudo, servicio al ciudadano y fiscalización aduanera de sanciones limitada a Bogotá, sin divisiones de operación ni de control.",
+      "Integra las divisiones Administrativa y Financiera, de Talento Humano y de Servicio al Ciudadano, junto con una única división de fiscalización tributaria extensiva y una división jurídica aduanera."
+    ],
+    "correct": 1,
+    "explanation": "La lista mixta combina las dependencias de apoyo enumeradas con fiscalización tributaria intensiva, fiscalización aduanera y cambiaria, recaudo y cobranzas, operación y controles."
+  },
+  {
+    "question": "En los listados posteriores del artículo, se presenta un conjunto de divisiones tributarias que incluye fiscalización extensiva e intensiva, recaudo y cobranzas, y servicio al ciudadano. ¿Qué lectura reproduce íntegramente ese conjunto sin añadir dependencias de otros listados?",
+    "options": [
+      "Fiscalización y Liquidación Tributaria Extensiva; Fiscalización y Liquidación Aduanera; Recaudo y Cobranzas; y Control Operativo.",
+      "Fiscalización y Liquidación Tributaria Extensiva; Fiscalización y Liquidación Tributaria Intensiva; División de la Operación Aduanera; y Servicio al Ciudadano.",
+      "Fiscalización y Liquidación Tributaria Extensiva; Fiscalización y Liquidación Tributaria Intensiva; Recaudo y Cobranzas; y Servicio al Ciudadano.",
+      "Fiscalización y Liquidación Tributaria Intensiva; Fiscalización y Liquidación Cambiaria; Recaudo; y División de Viajeros."
+    ],
+    "correct": 2,
+    "explanation": "Ese conjunto tributario enumera precisamente las dos divisiones de fiscalización tributaria, Recaudo y Cobranzas y Servicio al Ciudadano."
+  },
+  {
+    "question": "En otro conjunto posterior, las divisiones aduaneras se presentan como una combinación de fiscalización, liquidación, operación y control. ¿Cuál opción reproduce ese grupo?",
+    "options": [
+      "Fiscalización y Liquidación Aduanera; Fiscalización y Liquidación Cambiaria; Operación Aduanera; y Control Operativo.",
+      "Fiscalización y Liquidación Tributaria Extensiva; Fiscalización y Liquidación Cambiaria; Recaudo y Cobranzas; y Servicio al Ciudadano.",
+      "Fiscalización y Liquidación Aduanera; Control de Carga; Viajeros; y Control Cambiario.",
+      "Fiscalización y Liquidación Aduanera y Cambiaria; Recaudo y Cobranzas; Operación Aduanera; y División Jurídica."
+    ],
+    "correct": 0,
+    "explanation": "El conjunto aduanero indicado enumera fiscalización y liquidación aduanera, fiscalización y liquidación cambiaria, operación aduanera y control operativo."
+  },
+  {
+    "question": "En la secuencia posterior correspondiente a Direcciones Seccionales de Impuestos y Aduanas, ¿qué conjunto combina divisiones de apoyo, fiscalización tributaria y aduanera, recaudo y operación?",
+    "options": [
+      "Administrativa y Financiera; Talento Humano; Jurídica; Fiscalización y Liquidación Tributaria Intensiva; Recaudo y Cobranzas; y Control de Viajeros.",
+      "Administrativa y Financiera; Fiscalización y Liquidación Tributaria Extensiva; Fiscalización y Liquidación Aduanera y Cambiaria; Recaudo y Cobranzas; Operación Aduanera; y Control Operativo.",
+      "Administrativa y Financiera; Servicio al Ciudadano; Fiscalización y Liquidación Tributaria Extensiva e Intensiva; Operación Aduanera; y Control de Carga.",
+      "Administrativa y Financiera; Fiscalización y Liquidación Aduanera; Fiscalización y Liquidación Cambiaria; Recaudo; y División de Viajeros."
+    ],
+    "correct": 1,
+    "explanation": "El listado mixto posterior reúne esas seis divisiones; no incluye en ese conjunto Talento Humano, Jurídica ni Control de Carga."
+  },
+  {
+    "question": "El último conjunto de divisiones consignado bajo Direcciones Seccionales de Impuestos y Aduanas contiene una división tributaria, otra aduanera y cambiaria, y funciones de recaudo y operación. ¿Cuál opción refleja exactamente esa configuración?",
+    "options": [
+      "Administrativa y Financiera; Fiscalización y Liquidación Tributaria Extensiva; Fiscalización y Liquidación Aduanera; Recaudo y Cobranzas; Operación Aduanera; Control de Carga; y Control Operativo.",
+      "Administrativa y Financiera; Fiscalización y Liquidación Tributaria Intensiva; Fiscalización Aduanera de Sanciones; Recaudo; Operación Aduanera; Viajeros; y Control Cambiario.",
+      "Administrativa y Financiera; Fiscalización y Liquidación Tributaria, Aduanera y Cambiaria; Recaudo y Cobranzas; Operación Aduanera; y Control Operativo, sin divisiones tributaria o aduanera y cambiaria diferenciadas.",
+      "Administrativa y Financiera; Fiscalización y Liquidación Tributaria, Aduanera y Cambiaria; Fiscalización y Liquidación Tributaria; Fiscalización y Liquidación Aduanera y Cambiaria; Recaudo y Cobranzas; Operación Aduanera; y Control Operativo."
+    ],
+    "correct": 3,
+    "explanation": "El último listado incluye las tres denominaciones de fiscalización y liquidación citadas, además de Recaudo y Cobranzas, Operación Aduanera y Control Operativo."
+  },
+  {
+    "question": "El parágrafo 4 regula la reclasificación del tipo de una o varias Direcciones Seccionales. ¿Qué combinación de autoridad, condición presupuestal, instrumento y fundamento se ajusta a esa regla?",
+    "options": [
+      "El Director General puede reclasificar una o varias Direcciones mediante acto administrativo motivado, previa disponibilidad presupuestal, y debe fundamentarlo en un análisis que incluya, entre otras variables, aspectos organizacionales, económicos y sociodemográficos, nivel de recaudo y volumen de operaciones de comercio exterior.",
+      "Cada Dirección Seccional puede reclasificarse por decisión de su director, mediante informe técnico, siempre que justifique el cambio exclusivamente por el nivel de recaudo.",
+      "El Director General puede reclasificar una sola Dirección mediante acto administrativo no motivado, siempre que el análisis considere el volumen de operaciones de comercio exterior, sin requerir disponibilidad presupuestal.",
+      "La reclasificación corresponde a las Direcciones Seccionales de manera conjunta y exige un análisis limitado a variables económicas y sociodemográficas, sin considerar aspectos organizacionales ni operativos."
+    ],
+    "correct": 0,
+    "explanation": "El parágrafo atribuye la facultad al Director General, exige disponibilidad presupuestal y acto motivado, y prescribe un análisis con las variables enumeradas, entre otras."
   }
 ]
