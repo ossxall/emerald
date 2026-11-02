@@ -691,5 +691,445 @@
     ],
     "correct": 0,
     "explanation": "La resolución debe indicar la jurisdicción y determinar los Grupos Internos de Trabajo que integrarán la respectiva Dirección Seccional Delegada."
+  },
+  {
+    "question": "Al organizar la ejecución de las competencias de la DIAN, ¿qué función permite a la Dirección General establecer instrucciones generales para desarrollar tanto las competencias como las funciones mencionadas en el artículo 1 del Decreto?",
+    "options": [
+      "Impartir instrucciones generales necesarias para el desarrollo de las competencias y funciones previstas en el artículo 1.",
+      "Definir exclusivamente instrucciones para los procesos tributarios, aduaneros y cambiarios, sin abarcar otras competencias.",
+      "Impartir instrucciones únicamente a las Direcciones Seccionales sobre la ejecución de sus funciones locales.",
+      "Adoptar el modelo de gestión institucional y delegar en las dependencias la definición de sus competencias."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 1 atribuye a la Dirección General la facultad de impartir instrucciones generales necesarias para desarrollar las competencias y funciones del artículo 1."
+  },
+  {
+    "question": "Cuando se requieren orientaciones generales sobre materias sustantivas a cargo de la DIAN, ¿qué alcance específico tiene la función de instrucción prevista para la Dirección General?",
+    "options": [
+      "Abarca toda materia económica nacional, aunque no corresponda a la competencia de la DIAN.",
+      "Comprende materias tributarias, aduaneras, de comercio exterior y de control cambiario, dentro de la competencia de la DIAN.",
+      "Se limita a asuntos tributarios y aduaneros, pues el comercio exterior y el control cambiario corresponden siempre a otras entidades.",
+      "Comprende únicamente procedimientos internos de las dependencias, sin incluir instrucciones sobre las materias administradas."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2 enumera esas cuatro materias y limita la función a aquello que sea competencia de la DIAN."
+  },
+  {
+    "question": "Al definir prioridades institucionales, ¿qué distingue las políticas que debe establecer la Dirección General en relación con los objetivos estratégicos de la DIAN?",
+    "options": [
+      "Deben concentrarse exclusivamente en el recaudo y excluir consideraciones sobre la relación con los usuarios.",
+      "Deben fijar las políticas de cada Dirección Seccional, sin vincularse con objetivos estratégicos institucionales.",
+      "Deben relacionarse con el cumplimiento de los objetivos estratégicos, en especial los referentes a cercanía con el ciudadano o servicio al cliente.",
+      "Deben limitarse a formular objetivos estratégicos, pues el cumplimiento de estos no es materia de política institucional."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 relaciona las políticas con el cumplimiento de los objetivos estratégicos y destaca la cercanía ciudadana y el servicio al cliente."
+  },
+  {
+    "question": "Para orientar actividades de inteligencia institucional, ¿qué combinación de instrumento, finalidad y riesgos corresponde a la función de la Dirección General?",
+    "options": [
+      "Definir políticas para sancionar toda irregularidad administrativa, sin vincularlas con actividades de inteligencia.",
+      "Impartir instrucciones solo para investigar evasión tributaria, excluyendo contrabando, infracciones cambiarias y corrupción administrativa.",
+      "Coordinar investigaciones penales con la Fiscalía y la UIAF, sin definir políticas para actividades de inteligencia de la DIAN.",
+      "Impartir instrucciones generales y definir políticas para actividades de inteligencia destinadas a prevenir y reprimir evasión, contrabando, infracciones cambiarias y corrupción administrativa en la Entidad."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 4 atribuye ambas funciones —impartir instrucciones generales y definir políticas— respecto de actividades de inteligencia dirigidas a prevenir y reprimir los cuatro fenómenos enumerados."
+  },
+  {
+    "question": "Si la DIAN requiere integrar un grupo especializado de funcionarios con función de policía judicial, ¿qué condiciones establece la función de la Dirección General?",
+    "options": [
+      "La asignación previa de la función de policía judicial, la conformidad con el artículo 203 del Código de Procedimiento Penal y la coordinación con la Fiscalía General de la Nación.",
+      "La autorización de la Fiscalía para asignar la función judicial, sin necesidad de coordinar la integración del grupo con esa entidad.",
+      "La integración directa por las Direcciones Seccionales, una vez la Dirección General imparta instrucciones sobre policía judicial.",
+      "La coordinación con la Fiscalía y la aplicación del artículo 203, aunque la función de policía judicial se asigne después de integrar el grupo."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 5 exige que la función de policía judicial haya sido asignada previamente, dispone conformidad con el artículo 203 y prevé coordinación con la Fiscalía."
+  },
+  {
+    "question": "En la conducción de procesos de penalización tributaria y aduanera, ¿qué materias debe abarcar la Dirección General mediante directrices?",
+    "options": [
+      "La determinación de sanciones para cada contribuyente y la resolución de todos los procesos por las Direcciones Seccionales.",
+      "Los procesos de penalización tributaria y aduanera, así como el traslado de expedientes a la autoridad competente.",
+      "El traslado de expedientes únicamente después de que la autoridad competente haya decidido la sanción aplicable.",
+      "La penalización tributaria, con exclusión de la aduanera y de las directrices sobre traslado de expedientes."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 6 comprende directrices sobre procesos de penalización tributaria y aduanera y sobre el traslado de expedientes a la autoridad competente."
+  },
+  {
+    "question": "En materia de acuerdos anticipados de precios de transferencia, ¿cómo se configura la intervención de la Dirección General conforme al Estatuto Tributario?",
+    "options": [
+      "Participa como autoridad de intercambio de información y remite a otras entidades la autorización de los procedimientos.",
+      "Define políticas generales sobre precios de transferencia, pero no actúa como autoridad competente ni autoriza procedimientos.",
+      "Actúa como autoridad competente, define directrices y autoriza los procedimientos de esos acuerdos de conformidad con el Estatuto Tributario.",
+      "Suscribe convenios internacionales de precios de transferencia, sin intervenir en las directrices o procedimientos de los acuerdos anticipados."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 7 asigna a la Dirección General la condición de autoridad competente, la definición de directrices y la autorización de procedimientos para esos acuerdos."
+  },
+  {
+    "question": "Al suscribir convenios internacionales tributarios, aduaneros o cambiarios, ¿qué marco de dirección y coordinación debe observar la Dirección General?",
+    "options": [
+      "Actuar de manera autónoma, sin atender directrices presidenciales cuando coordine con ministerios competentes.",
+      "Coordinar únicamente con el Ministerio de Hacienda y Crédito Público, porque los demás ministerios no intervienen en estas materias.",
+      "Suscribirlos según las directrices del Presidente, pero sin coordinación con entidades competentes del Estado.",
+      "Atender las directrices del Presidente de la República y coordinar con los ministerios de Relaciones Exteriores y de Hacienda y Crédito Público, además de las demás entidades competentes del Estado."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 8 combina las directrices presidenciales con la coordinación de los ministerios mencionados y las demás entidades estatales competentes."
+  },
+  {
+    "question": "Cuando la DIAN intercambia información tributaria con otros Estados u organismos internacionales, ¿qué papel asigna el Decreto a la Dirección General?",
+    "options": [
+      "Actuar como autoridad competente para el intercambio de información tributaria realizado por la DIAN con esos Estados y organismos.",
+      "Autorizar únicamente intercambios entre Direcciones Seccionales y entidades públicas o privadas dentro del país.",
+      "Suscribir los convenios internacionales que habiliten cualquier intercambio, sin asumir la función de autoridad competente.",
+      "Recibir información de otros Estados, mientras la competencia para intercambiarla corresponde exclusivamente a las Direcciones Seccionales."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 9 establece que la Dirección General actúa como autoridad competente para el intercambio tributario de la DIAN con otros Estados y organismos internacionales."
+  },
+  {
+    "question": "Ante un conflicto relacionado con convenios internacionales tributarios, ¿qué alcance tiene la función de la Dirección General respecto de la prevención y resolución y del Procedimiento de Mutuo Acuerdo?",
+    "options": [
+      "Se limita a recibir solicitudes y remitirlas a la autoridad competente, sin definir directrices ni autorizar procedimientos.",
+      "Actúa como autoridad competente, define directrices y autoriza procedimientos; además, desarrolla las funciones atinentes al Procedimiento de Mutuo Acuerdo conforme al artículo 869-3 y las disposiciones que lo reglamenten, modifiquen, adicionen o sustituyan.",
+      "Dirige el intercambio de expertos internacionales y solo interviene en conflictos cuando se trate de precios de transferencia.",
+      "Puede autorizar procedimientos de resolución, pero no desarrollar funciones del Procedimiento de Mutuo Acuerdo previsto en el Estatuto Tributario."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 10 reúne la condición de autoridad competente, las directrices y autorizaciones, y las funciones atinentes al Procedimiento de Mutuo Acuerdo bajo el artículo 869-3 y sus disposiciones relacionadas."
+  },
+  {
+    "question": "Al participar en la formulación normativa y de política pública, ¿qué intervención corresponde a la Dirección General en las materias tributaria, aduanera y de comercio exterior?",
+    "options": [
+      "Adoptar por sí sola las políticas estatales y expedir los proyectos gubernamentales que regulen esas materias.",
+      "Limitar su intervención a ejecutar proyectos gubernamentales ya aprobados, sin participar en su preparación.",
+      "Participar en la definición de políticas de esas materias y en la preparación de proyectos gubernamentales relacionados con ellas.",
+      "Definir políticas solo sobre control cambiario y preparar proyectos únicamente para la administración interna de la DIAN."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 11 establece una función de participación tanto en la definición de políticas como en la preparación de proyectos gubernamentales relacionados con las materias enumeradas."
+  },
+  {
+    "question": "Si la DIAN recibe una invitación para una actividad internacional, ¿qué función cumple la Dirección General respecto de la participación de sus servidores?",
+    "options": [
+      "Autorizar directamente la participación de cada servidor e impartir instrucciones exclusivamente sobre el contenido técnico del evento.",
+      "Suscribir convenios internacionales para que los servidores puedan asistir a cualquier actividad pertinente.",
+      "Coordinar la cooperación internacional de la DIAN, sin impartir lineamientos sobre la participación de sus servidores.",
+      "Impartir lineamientos para que los servidores participen en actividades internacionales a las que haya sido invitada la Entidad."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 12 asigna a la Dirección General la impartición de lineamientos para la participación de servidores en actividades internacionales a las que se invite a la DIAN."
+  },
+  {
+    "question": "Al orientar la cooperación de la DIAN con organismos externos, ¿qué deben abarcar los lineamientos de la Dirección General?",
+    "options": [
+      "La cooperación con organismos externos nacionales e internacionales en programas contra la corrupción y los delitos fiscales y aduaneros, así como los que puedan surgir de la fiscalización cambiaria.",
+      "La cooperación internacional exclusivamente para combatir delitos aduaneros, sin incluir corrupción ni delitos fiscales.",
+      "La coordinación de investigaciones con autoridades nacionales, excluyendo programas de cooperación con organismos internacionales.",
+      "La participación en actividades internacionales invitadas, sin relación con programas contra delitos o corrupción."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 13 comprende organismos externos nacionales e internacionales y los programas relativos a corrupción, delitos fiscales y aduaneros, y los que puedan surgir de la fiscalización cambiaria."
+  },
+  {
+    "question": "En la rendición institucional del plan anual de choque contra evasión y contrabando, ¿qué actuaciones atribuye el Decreto a la Dirección General frente a la Comisión Mixta de Gestión Tributaria y Aduanera?",
+    "options": [
+      "Presentar el plan a la Comisión y convocarla obligatoriamente en cada período de ejecución.",
+      "Presentar y sustentar el plan ante la Comisión, y convocarla cuando la Dirección General lo considere necesario.",
+      "Sustentar el plan ante las Direcciones Seccionales y solicitar a la Comisión que lo convoque cuando resulte pertinente.",
+      "Convocar a la Comisión para que elabore el plan, sin atribuir a la Dirección General su presentación o sustentación."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 14 encarga a la Dirección General presentar y sustentar el plan ante la Comisión y convocarla cuando lo considere necesario."
+  },
+  {
+    "question": "¿Qué caracteriza la función de la Dirección General de dirigir procesos de intercambio de cooperación?",
+    "options": [
+      "Se refiere solo al intercambio de expertos y a estudios, mientras excluye apoyos financieros, formación y eventos.",
+      "Abarca donaciones, becas y pasantías de cualquier entidad pública, aunque no sean de competencia de la DIAN.",
+      "Comprende, dentro de la competencia de la DIAN, el intercambio de expertos, estudios, cooperación financiera no reembolsable, donaciones, becas, pasantías, seminarios, cursos y talleres.",
+      "Se limita a firmar convenios internacionales para financiar programas tributarios y aduaneros."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 15 enumera esas modalidades de intercambio y circunscribe la función a las que sean de competencia de la DIAN."
+  },
+  {
+    "question": "Para asegurar la calidad de las actuaciones de verificación e investigación, ¿qué función ejerce la Dirección General respecto de las visitas que realiza la DIAN?",
+    "options": [
+      "Dirigir personalmente cada visita y determinar de antemano el resultado de las investigaciones tributarias y aduaneras.",
+      "Autorizar la supervisión de las visitas para verificar la consistencia y calidad de las investigaciones y verificaciones practicadas por la Entidad en desarrollo de sus competencias tributarias, aduaneras y cambiarias.",
+      "Supervisar exclusivamente visitas de control cambiario y dejar las investigaciones tributarias y aduaneras a las Direcciones Seccionales.",
+      "Autorizar visitas solo cuando se haya comprobado una infracción, para definir la sanción aplicable."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 16 atribuye la autorización de la supervisión de visitas y especifica como finalidad verificar la consistencia y calidad de investigaciones y verificaciones."
+  },
+  {
+    "question": "Cuando un tercero presta colaboración eficaz para el control del contrabando, la evasión o la corrupción, ¿qué atribuciones tiene la Dirección General respecto de las recompensas o participaciones?",
+    "options": [
+      "Puede fijar su cuantía, reconocerlas y pagarlas en dinero o en especie por la colaboración eficaz de terceros.",
+      "Puede reconocer recompensas en dinero, pero la cuantía y el pago corresponden exclusivamente a las Direcciones Seccionales.",
+      "Puede pagar participaciones en especie solo cuando la colaboración se refiera a contrabando, no a evasión o corrupción.",
+      "Puede fijar recompensas para servidores de la DIAN, pero no para terceros que colaboren eficazmente."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 17 incluye fijar la cuantía, reconocer y pagar recompensas y participaciones, en dinero o en especie, a terceros por colaboración eficaz en los ámbitos señalados."
+  },
+  {
+    "question": "En el ciclo de gestión institucional, ¿qué responsabilidad asigna el Decreto a la Dirección General respecto del Sistema Integrado de Gestión Institucional?",
+    "options": [
+      "Adoptarlo una sola vez y trasladar a las Direcciones Seccionales la responsabilidad exclusiva por su mantenimiento.",
+      "Diseñarlo para las áreas centrales, sin que la función incluya su implementación o mejora.",
+      "Implementarlo, mantenerlo y mejorarlo como sistema institucional.",
+      "Realizar seguimiento a los planes y proyectos, sin asumir funciones sobre el Sistema Integrado de Gestión Institucional."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 18 expresa conjuntamente las responsabilidades de implementar, mantener y mejorar el Sistema Integrado de Gestión Institucional."
+  },
+  {
+    "question": "Para asegurar seguimiento institucional a la ejecución de la Entidad, ¿qué combinación de instrumentos y actuaciones corresponde a la Dirección General?",
+    "options": [
+      "Aprobar únicamente los planes anuales y dejar los programas y proyectos bajo seguimiento exclusivo de las dependencias locales.",
+      "Impartir directrices sobre los planes, pero no efectuar seguimiento a programas o proyectos.",
+      "Definir el modelo de gestión institucional y sustituir con él las funciones de seguimiento de planes y programas.",
+      "Impartir directrices y hacer seguimiento a los planes, programas y proyectos de la Entidad."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 19 asigna ambas actuaciones —impartir directrices y hacer seguimiento— respecto de planes, programas y proyectos."
+  },
+  {
+    "question": "Al emitir instrucciones generales de organización y conducción institucional, ¿qué conjunto de aspectos debe poder abarcar la Dirección General?",
+    "options": [
+      "Únicamente la planeación y la organización, pues la supervisión, el control y la comunicación quedan fuera de la función.",
+      "La planeación, dirección, organización, supervisión, control, información y comunicación institucional.",
+      "La información y comunicación externas, excluyendo la planeación y el control institucional.",
+      "La dirección de personal y la asignación de empleos, sin abarcar procedimientos de supervisión o información."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 20 enumera los siete ámbitos sobre los que la Dirección General puede impartir instrucciones de carácter general."
+  },
+  {
+    "question": "Al establecer el marco organizativo para cumplir los objetivos de la DIAN, ¿qué comprende la función de adoptar el modelo de gestión institucional?",
+    "options": [
+      "Adoptar el modelo para el cumplimiento de los objetivos de la DIAN y los procesos para implementarlo.",
+      "Aprobar los objetivos de la Entidad, dejando la adopción del modelo y sus procesos a cada Dirección Seccional.",
+      "Adoptar procesos operativos únicamente, sin vincularlos con un modelo de gestión institucional.",
+      "Definir el modelo de gestión y posponer la determinación de los procesos de implementación a otra autoridad."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 21 comprende tanto la adopción del modelo de gestión para cumplir los objetivos como la de los procesos para su implementación."
+  },
+  {
+    "question": "En la modernización institucional, ¿qué orientación específica corresponde impartir a la Dirección General respecto de tecnología y datos?",
+    "options": [
+      "Regular el intercambio de información tributaria con otros Estados, sin establecer lineamientos de transformación digital.",
+      "Adoptar el sistema de gestión institucional, dejando el uso de datos a decisiones independientes de cada dependencia.",
+      "Impartir directrices para la transformación digital de la Entidad y el uso inteligente de los datos.",
+      "Autorizar únicamente la adquisición de tecnología, sin orientar su uso institucional ni el aprovechamiento de datos."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 22 atribuye expresamente la impartición de directrices sobre transformación digital y uso inteligente de los datos."
+  },
+  {
+    "question": "Al ejercer la gestión de personal, ¿cuál es el alcance de las facultades de nombramiento y distribución de empleos atribuidas a la Dirección General?",
+    "options": [
+      "Nombrar y remover a todos los funcionarios y asignar cualquier empleo, incluso cuando la nominación esté atribuida a otra autoridad.",
+      "Distribuir los empleos de la planta, pero no nombrar ni remover funcionarios de la DIAN.",
+      "Nombrar y remover funcionarios solo con autorización de las Direcciones Seccionales, sin distribuir los empleos de planta.",
+      "Nombrar y remover funcionarios y distribuir los empleos de la planta, excepto aquellos cuya nominación esté atribuida a otra autoridad."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 23 confiere las tres facultades indicadas y establece la excepción para los empleos cuya nominación corresponda a otra autoridad."
+  },
+  {
+    "question": "Una vez definido el marco normativo aplicable al personal, ¿cómo debe ejercer la Dirección General la dirección de su administración?",
+    "options": [
+      "Conforme a las normas sobre la materia.",
+      "De acuerdo exclusivamente con sus instrucciones internas, aunque sean distintas de las normas aplicables.",
+      "Conforme a las políticas de control interno, sin atender normas específicas sobre administración de personal.",
+      "Delegando la administración de personal en las Direcciones Seccionales, que actúan sin orientación normativa central."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 24 dispone que la Dirección General dirige la administración de personal conforme a las normas sobre la materia."
+  },
+  {
+    "question": "En materia disciplinaria e integridad institucional, ¿qué responsabilidades combina el Decreto en cabeza de la Dirección General?",
+    "options": [
+      "Tramitar directamente todos los procesos disciplinarios y aplicar sanciones, sin establecer políticas preventivas.",
+      "Establecer políticas e instrucciones generales sobre el régimen disciplinario y garantizar actividades para prevenir y reprimir la corrupción administrativa en la DIAN.",
+      "Definir políticas anticorrupción únicamente para las Direcciones Seccionales, sin abarcar el régimen disciplinario institucional.",
+      "Garantizar la prevención de la corrupción, pero dejar la represión y las instrucciones disciplinarias a otras entidades."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 25 combina políticas e instrucciones generales sobre el régimen disciplinario con la garantía de actividades de prevención y represión de la corrupción administrativa."
+  },
+  {
+    "question": "Al organizar territorial y funcionalmente la estructura seccional, ¿qué facultad corresponde a la Dirección General y bajo qué referencia debe ejercerla?",
+    "options": [
+      "Crear Direcciones Seccionales y determinar sus competencias sin sujeción a la organización establecida en el Decreto.",
+      "Resolver conflictos de competencia entre niveles central y local, pero no determinar jurisdicciones seccionales.",
+      "Determinar la jurisdicción y organizar funcionalmente las Direcciones Seccionales conforme a lo establecido en el Decreto.",
+      "Autorizar el intercambio de información seccional, dejando la determinación de jurisdicción a las entidades territoriales."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 26 atribuye ambas funciones sobre las Direcciones Seccionales y exige ajustarse a lo establecido en el Decreto."
+  },
+  {
+    "question": "Si surge una disputa de competencia entre una Dirección del Nivel Central y una del Nivel Local de la DIAN, ¿qué función permite resolverla dentro de la Entidad?",
+    "options": [
+      "La Dirección General debe remitir la controversia a la Comisión Mixta de Gestión Tributaria y Aduanera.",
+      "La Dirección Seccional de mayor jurisdicción resuelve el conflicto entre los niveles central y local.",
+      "La Dirección General puede dirimir conflictos entre Direcciones Seccionales, pero no los que involucren Direcciones del Nivel Central.",
+      "La Dirección General debe dirimir en la DIAN los conflictos de competencia entre Direcciones del Nivel Central y Direcciones del Nivel Local."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 27 asigna a la Dirección General la resolución interna de conflictos de competencia entre esos dos niveles."
+  },
+  {
+    "question": "Para compartir información desde las Direcciones Seccionales con terceros institucionales, ¿qué alcance y condición establece la función de autorización de la Dirección General?",
+    "options": [
+      "Autorizar el intercambio entre Direcciones Seccionales y entidades públicas y privadas, de acuerdo con las normas vigentes.",
+      "Autorizar el intercambio solo con entidades públicas, porque el intercambio con entidades privadas está excluido.",
+      "Permitir el intercambio sin autorización cuando exista una finalidad de control, incluso al margen de las normas vigentes.",
+      "Autorizar únicamente el intercambio entre Direcciones Seccionales, sin incluir otras entidades públicas o privadas."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 28 comprende entidades públicas y privadas y sujeta la autorización a las normas vigentes."
+  },
+  {
+    "question": "Cuando se estudia la viabilidad de otorgar premios fiscales a contribuyentes, ¿qué función cumple la Dirección General respecto de los incentivos?",
+    "options": [
+      "Otorgar automáticamente premios fiscales cada vez que una Dirección Seccional proponga un sorteo o concurso.",
+      "Impartir instrucciones en los casos en que se determine la viabilidad de incentivos a contribuyentes, incluidos premios como sorteos y concursos.",
+      "Definir únicamente las políticas de recompensas a terceros colaboradores contra el contrabando y la evasión.",
+      "Autorizar sorteos y concursos para servidores de la DIAN, sin contemplar incentivos a contribuyentes."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 29 prevé instrucciones en los casos en que se determine la viabilidad de incentivos a contribuyentes y ofrece sorteos y concursos como ejemplos."
+  },
+  {
+    "question": "Para comprometer a la DIAN contractualmente y ejecutar operaciones presupuestales, ¿qué atribuciones reúne la Dirección General dentro del marco normativo aplicable?",
+    "options": [
+      "Suscribir convenios y contratos, pero sin ordenar gastos, pagos o traslados presupuestales.",
+      "Ordenar pagos y traslados presupuestales, aunque la suscripción de convenios y contratos corresponda exclusivamente a otras dependencias.",
+      "Suscribir convenios y contratos y ordenar gastos, pagos y traslados presupuestales que requiera la DIAN, de acuerdo con las normas vigentes.",
+      "Suscribir convenios internacionales y ordenar gastos únicamente cuando se relacionen con cooperación no reembolsable."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 30 combina la suscripción de convenios y contratos con la ordenación de gastos, pagos y traslados presupuestales requeridos, sujeta a las normas vigentes."
+  },
+  {
+    "question": "En la administración de recursos institucionales, ¿qué atribuciones relativas a los recursos físicos, financieros y a la información financiera establece el Decreto?",
+    "options": [
+      "Administrar recursos físicos y financieros, pero dejar la ejecución a las Direcciones Seccionales y la firma a otra autoridad.",
+      "Ordenar únicamente la ejecución de los recursos financieros y suscribir informes de gestión no financieros.",
+      "Suscribir los estados financieros, sin competencia para ordenar la ejecución y administración de recursos.",
+      "Ordenar la ejecución y administración de los recursos físicos y financieros, y suscribir los estados financieros de la Entidad."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 31 asigna esas tres actuaciones respecto de los recursos físicos y financieros y de los estados financieros institucionales."
+  },
+  {
+    "question": "Al definir instrumentos para facilitar el pago de obligaciones administradas por la DIAN, ¿qué objeto deben tener las políticas de la Dirección General?",
+    "options": [
+      "Establecer políticas para suscribir acuerdos y demás facilidades de pago y para el cumplimiento oportuno de las obligaciones derivadas de ellos.",
+      "Definir descuentos generales sobre cualquier obligación, sin relación con acuerdos o facilidades de pago.",
+      "Suscribir directamente cada acuerdo de pago y trasladar a los contribuyentes la definición de sus condiciones institucionales.",
+      "Fijar políticas de recaudo, excluyendo las facilidades de pago y las obligaciones que se derivan de estas."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 32 vincula las políticas tanto con la suscripción de acuerdos y otras facilidades como con el cumplimiento oportuno de las obligaciones derivadas de ellos."
+  },
+  {
+    "question": "Si la DIAN debe determinar valores por servicios que presta o por la venta de bienes, ¿qué facultad de fijación de precios corresponde a la Dirección General?",
+    "options": [
+      "Fijar únicamente los precios de los bienes vendidos y excluir los servicios ordinarios y extraordinarios.",
+      "Fijar los precios de venta de bienes y servicios, así como los correspondientes a servicios extraordinarios.",
+      "Cobrar tarifas definidas por las Direcciones Seccionales, sin fijar precios institucionales.",
+      "Establecer precios de servicios extraordinarios únicamente cuando se relacionen con convenios internacionales."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 33 comprende la venta de bienes y servicios y también los servicios extraordinarios."
+  },
+  {
+    "question": "Para encargar a entidades financieras el recaudo de tributos administrados por la DIAN, ¿qué actuaciones puede realizar la Dirección General?",
+    "options": [
+      "Suscribir convenios de recaudo, pero sin poder autorizar a las entidades financieras que lo efectúen.",
+      "Autorizar a entidades financieras para recaudar tributos, dejando la suscripción de los convenios a las Direcciones Seccionales.",
+      "Autorizar a las entidades financieras para recaudar esos tributos y suscribir los convenios a que haya lugar.",
+      "Autorizar únicamente el recaudo de tributos propios de las entidades financieras, no de los administrados por la DIAN."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 34 contempla tanto la autorización de entidades financieras para recaudar tributos administrados por la DIAN como la suscripción de los convenios correspondientes."
+  },
+  {
+    "question": "Durante la tramitación de procesos administrativos en curso, ¿en qué condiciones puede la Dirección General disponer la suspensión de términos?",
+    "options": [
+      "En cualquier proceso futuro, sin necesidad de que las circunstancias lo exijan o de observar disposiciones legales.",
+      "Solo en procesos tributarios ya concluidos, cuando lo solicite el contribuyente afectado.",
+      "En procesos administrativos en curso únicamente mediante acuerdo con la autoridad competente externa.",
+      "En procesos administrativos en curso cuando las circunstancias lo exijan y de acuerdo con las disposiciones legales vigentes."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 35 limita la suspensión a procesos en curso, exige que las circunstancias lo requieran y remite a las disposiciones legales vigentes."
+  },
+  {
+    "question": "En la conducción de la imagen y los vínculos institucionales de la DIAN, ¿qué política corresponde dirigir a la Dirección General?",
+    "options": [
+      "Las políticas de comunicaciones y relaciones corporativas de la DIAN.",
+      "Las políticas de cooperación con organismos externos para combatir delitos fiscales y aduaneros.",
+      "Las políticas de participación de servidores en actividades internacionales a las que sea invitada la Entidad.",
+      "Las políticas de control interno y los elementos constitutivos de su sistema institucional."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 36 asigna específicamente la dirección de las políticas de comunicaciones y relaciones corporativas."
+  },
+  {
+    "question": "Cuando se requieren instancias colegiadas para criterios técnicos tributarios, aduaneros o cambiarios, ¿qué facultades corresponden a la Dirección General respecto de los comités?",
+    "options": [
+      "Convocar únicamente comités creados por otras autoridades y limitarse a recomendar sus integrantes.",
+      "Crear los comités necesarios para orientar, asesorar, definir y decidir criterios técnicos requeridos, y señalar sus integrantes y funciones.",
+      "Crear comités solo para asesorar en asuntos tributarios, dejando los criterios aduaneros y cambiarios a otras instancias.",
+      "Designar integrantes de comités existentes, sin crear nuevas instancias ni definir sus funciones."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 37 atribuye la creación de los comités necesarios, especifica sus propósitos técnicos y faculta a señalar integrantes y funciones."
+  },
+  {
+    "question": "Para estructurar el control interno institucional, ¿qué conjunto de responsabilidades asigna el Decreto a la Dirección General?",
+    "options": [
+      "Establecer políticas de control interno, dejando el diseño del sistema y el desarrollo de sus elementos a cada dependencia.",
+      "Diseñar el sistema de control interno, sin establecer políticas ni asegurar el desarrollo de sus componentes.",
+      "Establecer políticas de control interno, diseñar e implementar su sistema y garantizar el desarrollo de sus elementos constitutivos.",
+      "Hacer seguimiento a proyectos institucionales, sin asumir responsabilidades específicas sobre el control interno."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 38 integra el establecimiento de políticas, el diseño e implementación del sistema y la garantía de desarrollo de sus elementos constitutivos."
+  },
+  {
+    "question": "Al interpretar la posición jerárquica de la Dirección General en la estructura de la DIAN, ¿qué combinación de superioridades establece el Decreto?",
+    "options": [
+      "Es superior jerárquico administrativo inmediato de toda dependencia y superior técnico únicamente de las Direcciones Seccionales.",
+      "Es superior técnico de la DIAN, pero no ejerce superioridad jerárquica sobre las Direcciones del Nivel Central.",
+      "Es superior jerárquico de las Direcciones, pero la superioridad técnica corresponde exclusivamente a las Direcciones Seccionales.",
+      "Ejerce como superior técnico y jerárquico de la DIAN y como superior jerárquico administrativo inmediato de las Direcciones y Direcciones Seccionales."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 39 distingue la superioridad técnica y jerárquica respecto de la DIAN de la superioridad jerárquica administrativa inmediata sobre las Direcciones y las Direcciones Seccionales."
+  },
+  {
+    "question": "Al cerrar la enumeración de funciones, ¿cómo debe entenderse la atribución residual de la Dirección General respecto de funciones no descritas previamente?",
+    "options": [
+      "Puede ejercer las demás funciones que le correspondan de acuerdo con la Constitución y la ley.",
+      "Puede asumir cualquier función de otras autoridades si la considera necesaria para los objetivos de la DIAN.",
+      "Puede ejercer únicamente las funciones que hayan sido delegadas expresamente por las Direcciones Seccionales.",
+      "Puede ampliar por instrucciones internas la lista de competencias sin atender a la Constitución ni a la ley."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 40 reconoce las demás funciones que correspondan a la Dirección General conforme a la Constitución y la ley, sin establecer una facultad ilimitada."
   }
 ]
