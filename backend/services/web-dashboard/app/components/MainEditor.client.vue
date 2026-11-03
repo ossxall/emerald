@@ -57,6 +57,15 @@ const PageNode = Node.create({
   },
 });
 
+const HighlightWithShortcut = Highlight.extend({
+  addKeyboardShortcuts() {
+    return {
+      ...this.parent?.(),
+      F2: () => this.editor.commands.toggleHighlight(),
+    };
+  },
+});
+
 const route = useRoute();
 const initialDocumentId = route.params.id;
 
@@ -80,7 +89,7 @@ const extensions = [
     field: "default",
   }),
   MultiSelect,
-  Highlight,
+  HighlightWithShortcut,
 ];
 
 const editor = useEditor({
@@ -274,8 +283,8 @@ onBeforeUnmount(() => {
         class="rounded-sm"
         :class="{ 'is-active': editor.isActive('highlight') }"
         icon="lucide:highlighter"
-        aria-label="Resaltador (Ctrl+Shift+H / Cmd+Shift+H)"
-        title="Resaltador · Ctrl+Shift+H (Cmd+Shift+H en Mac)"
+        aria-label="Resaltador (F2 o Ctrl+Shift+H / Cmd+Shift+H)"
+        title="Resaltador · F2 (rápido) · Ctrl+Shift+H (Cmd+Shift+H en Mac)"
         size="xs"
         color="neutral"
         :variant="editor.isActive('highlight') ? 'outline' : 'ghost'"
