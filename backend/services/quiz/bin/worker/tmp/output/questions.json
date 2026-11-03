@@ -1131,5 +1131,225 @@
     ],
     "correct": 0,
     "explanation": "El numeral 40 reconoce las demás funciones que correspondan a la Dirección General conforme a la Constitución y la ley, sin establecer una facultad ilimitada."
+  },
+  {
+    "question": "Al definir la intervención de la Oficina de Control Interno en la aprobación de los instrumentos rectores de control, ¿qué debe someter al Comité Institucional de Coordinación de Control Interno, en lugar de aprobarlo unilateralmente o limitarse a ejecutarlo?",
+    "options": [
+      "El Sistema de Control Interno de la DIAN y el plan anual de auditoría interna, para que el Comité los apruebe.",
+      "Los resultados de cada auditoría interna y las medidas correctivas, para que el Comité asuma su ejecución.",
+      "El informe semestral sobre quejas, sugerencias, reclamos y denuncias, para que el Comité lo publique.",
+      "Los controles de cada proceso y actividad, para que el Comité los aplique directamente en las dependencias."
+    ],
+    "correct": 0,
+    "explanation": "La Oficina debe presentar al Comité para aprobación tanto el Sistema de Control Interno de la DIAN como el plan anual de auditoría interna."
+  },
+  {
+    "question": "Una vez establecidos los instrumentos de control institucional, ¿qué combinación de responsabilidades corresponde a la Oficina respecto del Sistema de Control Interno y de su optimización?",
+    "options": [
+      "Ejecutar únicamente las auditorías aprobadas y trasladar al Comité toda responsabilidad por el funcionamiento del sistema.",
+      "Asegurar la implementación, el funcionamiento y la mejora del sistema, y proponer al Comité recomendaciones para optimizarlo.",
+      "Aprobar por sí misma el sistema y las recomendaciones, e informar al Comité solo cuando se detecten incumplimientos.",
+      "Verificar exclusivamente los controles de los procesos y dejar la implementación del sistema a cada responsable operativo."
+    ],
+    "correct": 1,
+    "explanation": "La función combina asegurar la implementación, el funcionamiento y la mejora del Sistema de Control Interno con proponer al Comité recomendaciones para optimizarlo."
+  },
+  {
+    "question": "El Comité Institucional de Coordinación de Control Interno aprobó el plan anual de auditoría interna. ¿Qué actuación describe correctamente el papel de la Oficina en relación con ese plan?",
+    "options": [
+      "Presentarlo nuevamente al Comité para aprobación y esperar a que este formule las observaciones y verifique su cumplimiento.",
+      "Ejecutarlo, pero limitarse a comunicar los hallazgos sin formular recomendaciones ni verificar su cumplimiento.",
+      "Ejecutarlo, formular las observaciones y recomendaciones pertinentes y verificar su cumplimiento.",
+      "Sustituirlo por programas de auditoría elaborados por cada dependencia y verificar solo las recomendaciones externas."
+    ],
+    "correct": 2,
+    "explanation": "La Oficina ejecuta el Plan Anual de Auditoría Interna aprobado por el Comité y, en ese marco, formula observaciones y recomendaciones y verifica su cumplimiento."
+  },
+  {
+    "question": "Al revisar el diseño de controles asociados a las actividades de la DIAN, ¿qué debe verificar la Oficina para que su función no se reduzca a constatar que existen controles formalmente documentados?",
+    "options": [
+      "Que cada control haya sido aprobado por el Director General y se mantenga sin cambios durante el ciclo anual.",
+      "Que los controles estén definidos, sean apropiados y se mejoren permanentemente.",
+      "Que los responsables de cada actividad informen al Comité antes de aplicar cualquier control.",
+      "Que todos los controles se concentren en la gestión de riesgos de cumplimiento y se evalúen únicamente al cierre del año."
+    ],
+    "correct": 1,
+    "explanation": "La verificación comprende tres aspectos: definición de los controles, pertinencia de estos y mejora permanente."
+  },
+  {
+    "question": "En la revisión de la gestión de riesgos y controles de la DIAN, ¿qué alcance atribuye el artículo a la Oficina respecto de los riesgos y de quienes ejecutan los procesos y actividades?",
+    "options": [
+      "Verificar que la gestión de riesgos estratégicos, operacionales y de cumplimiento, y los controles definidos, sean apropiados y aplicados por los responsables de su ejecución.",
+      "Identificar los riesgos de cumplimiento y ejecutar directamente los controles, sustituyendo a los responsables de los procesos.",
+      "Comprobar que los responsables documenten riesgos estratégicos, sin evaluar la aplicación de controles en las actividades.",
+      "Evaluar exclusivamente los riesgos financieros y trasladar al Comité la verificación de los controles operativos."
+    ],
+    "correct": 0,
+    "explanation": "La función abarca la gestión de riesgos estratégicos, operacionales y de cumplimiento, así como la pertinencia de los controles y su aplicación por los responsables."
+  },
+  {
+    "question": "Al valorar si el control interno forma parte de la operación institucional y no constituye una tarea aislada de la Oficina, ¿qué condición debe esta asegurar especialmente respecto de los empleos con responsabilidad de mando?",
+    "options": [
+      "Que los empleados con mando aprueben el plan anual de auditoría y asuman la interlocución con los organismos de control.",
+      "Que el Sistema de Control Interno sea intrínseco al desarrollo de las funciones de todos los empleos, con atención particular a los que tienen responsabilidad de mando.",
+      "Que el control interno se incorpore solo a las funciones de las dependencias que administran recursos y sistemas de información.",
+      "Que los responsables de mando apliquen los controles, mientras los demás empleos se limiten a reportar riesgos a la Oficina."
+    ],
+    "correct": 1,
+    "explanation": "El artículo ordena asegurar que el Sistema de Control Interno sea intrínseco a las funciones de todos los empleos y destaca particularmente los que tienen responsabilidad de mando."
+  },
+  {
+    "question": "Una dependencia tiene controles definidos para sus procesos, pero no se ha comprobado que quienes deben ejecutarlos los cumplan. ¿Qué verificación concreta asigna el artículo a la Oficina frente a esa situación?",
+    "options": [
+      "Verificar que los controles definidos para los procesos y actividades sean apropiados y se cumplan por parte de los responsables de su ejecución.",
+      "Asegurar que todos los controles sean ejecutados directamente por la Oficina y reportados después a los responsables.",
+      "Reemplazar los controles existentes por recomendaciones del Comité, sin verificar la actuación de los responsables.",
+      "Comprobar solamente que los controles estén definidos, pues la verificación de su cumplimiento corresponde exclusivamente al Director General."
+    ],
+    "correct": 0,
+    "explanation": "Además de su pertinencia, la Oficina debe verificar que los controles definidos para procesos y actividades sean cumplidos por los responsables de ejecutarlos."
+  },
+  {
+    "question": "Al hacer seguimiento al marco institucional de actuación de la DIAN, ¿qué conjunto debe considerar la Oficina y qué puede recomendar como resultado de ese seguimiento?",
+    "options": [
+      "Únicamente las leyes y los procedimientos, recomendando sanciones para cualquier incumplimiento detectado.",
+      "Las leyes, normas, políticas, procedimientos, planes, programas, proyectos y metas, recomendando los ajustes necesarios.",
+      "Los planes y proyectos aprobados por el Comité, recomendando que la Oficina asuma su ejecución cuando haya retrasos.",
+      "Las políticas y metas de las dependencias, recomendando cambios solo cuando los solicite el Director General."
+    ],
+    "correct": 1,
+    "explanation": "El seguimiento comprende leyes, normas, políticas, procedimientos, planes, programas, proyectos y metas de la DIAN; la Oficina recomienda los ajustes necesarios."
+  },
+  {
+    "question": "Cuando la auditoría se dirige al manejo de recursos, bienes o sistemas de información de la DIAN, ¿cómo debe articular la Oficina la verificación y la recomendación de correctivos?",
+    "options": [
+      "Verificar esos procesos y recomendar correctivos a través de los Planes de Auditoría aprobados por el Comité Institucional de Coordinación de Control Interno.",
+      "Verificar solo los recursos y bienes, y proponer correctivos mediante planes aprobados por cada dependencia auditada.",
+      "Delegar la verificación en los organismos de control y recomendar correctivos únicamente después de que estos los soliciten.",
+      "Revisar los sistemas de información y adoptar directamente correctivos, sin recurrir a los planes de auditoría aprobados."
+    ],
+    "correct": 0,
+    "explanation": "La Oficina verifica los procesos relacionados con recursos, bienes y sistemas de información, y recomienda los correctivos a través de los Planes de Auditoría aprobados por el Comité."
+  },
+  {
+    "question": "Si la DIAN adopta mecanismos de participación ciudadana, ¿qué evaluación corresponde a la Oficina de Control Interno según el artículo?",
+    "options": [
+      "Diseñar obligatoriamente todos los mecanismos y resolver las solicitudes ciudadanas recibidas mediante ellos.",
+      "Evaluar y verificar la aplicación de los mecanismos de participación ciudadana que adopte la DIAN.",
+      "Aprobar los mecanismos antes de que la entidad pueda adoptarlos y rendir un informe mensual al Comité.",
+      "Verificar solo que existan canales de recepción de quejas, sin evaluar la aplicación de otros mecanismos de participación."
+    ],
+    "correct": 1,
+    "explanation": "La función consiste en evaluar y verificar la aplicación de los mecanismos de participación ciudadana que adopte la DIAN; no se limita a quejas ni atribuye a la Oficina su aprobación."
+  },
+  {
+    "question": "Para contribuir al mejoramiento continuo del cumplimiento de la misión institucional, ¿qué debe desarrollar la Oficina y cuál es el propósito específico de esos instrumentos?",
+    "options": [
+      "Estrategias e instrumentos que fomenten la cultura del autocontrol y contribuyan al mejoramiento continuo en el cumplimiento de la misión institucional.",
+      "Planes de sanción y fiscalización que sustituyan los controles internos y permitan medir la gestión de las dependencias.",
+      "Mecanismos de participación ciudadana destinados principalmente a transferir a los usuarios la responsabilidad por el control interno.",
+      "Programas de auditoría que reemplacen el Sistema de Control Interno y se orienten exclusivamente al cumplimiento de metas recaudatorias."
+    ],
+    "correct": 0,
+    "explanation": "La Oficina debe desarrollar estrategias e instrumentos para fomentar la cultura del autocontrol, con el propósito de contribuir al mejoramiento continuo del cumplimiento de la misión institucional."
+  },
+  {
+    "question": "Al comunicar la situación del control interno a la dirección de la entidad, ¿a quién debe mantener informada la Oficina y qué contenido debe incluir en esa comunicación?",
+    "options": [
+      "Al Comité, únicamente sobre el avance del plan anual de auditoría y sin comunicar fallas detectadas antes del cierre del año.",
+      "A los directores, de manera permanente, acerca del estado del control interno, dando cuenta de debilidades detectadas y fallas en su cumplimiento.",
+      "Al Director General, semestralmente, solo sobre quejas y denuncias recibidas por las dependencias.",
+      "A los organismos de control, después de cada auditoría, exclusivamente sobre los controles que hayan sido rechazados."
+    ],
+    "correct": 1,
+    "explanation": "La Oficina debe mantener permanentemente informados a los directores sobre el estado del control interno y dar cuenta de las debilidades detectadas y las fallas en su cumplimiento."
+  },
+  {
+    "question": "Una dependencia requiere apoyo para implementar recomendaciones formuladas por entes de control y para anticipar riesgos que puedan impedir el logro de sus objetivos. ¿Qué asesoría contempla el artículo para la Oficina?",
+    "options": [
+      "Asesorar a las dependencias en la adopción de acciones de mejoramiento y recomendaciones de los entes de control, así como en la identificación y prevención de riesgos que afecten sus objetivos.",
+      "Adoptar las recomendaciones en nombre de las dependencias y asumir la responsabilidad directa por la gestión de sus riesgos.",
+      "Asesorar únicamente cuando el Comité haya aprobado previamente cada acción y limitar el apoyo a riesgos ya materializados.",
+      "Trasladar las recomendaciones a los organismos competentes y abstenerse de intervenir en la prevención de riesgos de las dependencias."
+    ],
+    "correct": 0,
+    "explanation": "La Oficina asesora tanto en la adopción de acciones de mejoramiento y recomendaciones de los entes de control como en identificar y prevenir riesgos que puedan afectar los objetivos de las dependencias."
+  },
+  {
+    "question": "Para supervisar la atención institucional de quejas, sugerencias, reclamos y denuncias, ¿qué debe evaluar la Oficina y qué obligación específica de reporte se establece?",
+    "options": [
+      "Debe evaluar la gestión de las dependencias que reciben, tramitan y resuelven esos asuntos y rendir al Director General un informe semestral.",
+      "Debe tramitar y resolver directamente todos esos asuntos y presentar al Comité un informe anual.",
+      "Debe evaluar únicamente su recepción y publicar mensualmente los casos pendientes en la página web de la DIAN.",
+      "Debe delegar la evaluación en los entes de control y rendir un informe semestral a los directores de las dependencias."
+    ],
+    "correct": 0,
+    "explanation": "La Oficina evalúa la gestión de las dependencias encargadas de recibir, tramitar y resolver quejas, sugerencias, reclamos y denuncias, y rinde un informe semestral al Director General."
+  },
+  {
+    "question": "En el ejercicio de sus funciones, la Oficina conoce hechos que podrían ser irregulares. ¿Qué actuación institucional establece el artículo, sin atribuirle la función de resolver por sí misma esos hechos?",
+    "options": [
+      "Poner en conocimiento de los organismos competentes la comisión de los hechos irregulares que conozca en desarrollo de sus funciones.",
+      "Determinar definitivamente la responsabilidad de los involucrados y aplicar las medidas correspondientes dentro de la Oficina.",
+      "Informar únicamente al Comité, que debe decidir si autoriza comunicar los hechos a otros organismos.",
+      "Publicar los hechos en la página web para que los organismos competentes inicien su evaluación."
+    ],
+    "correct": 0,
+    "explanation": "La función prevista es poner en conocimiento de los organismos competentes la comisión de hechos irregulares conocidos durante el desarrollo de las funciones de la Oficina."
+  },
+  {
+    "question": "Durante auditorías practicadas por organismos de control en la DIAN, ¿qué papel cumple la Oficina tanto en la interacción institucional como en el flujo de información requerido?",
+    "options": [
+      "Actuar como interlocutor y encargarse de la recepción, coordinación, preparación y entrega de la información requerida.",
+      "Autorizar los procedimientos de auditoría externa y limitar la entrega de información a la aprobada individualmente por cada dependencia.",
+      "Reemplazar a los organismos de control en la práctica de auditorías y custodiar exclusivamente los informes finales.",
+      "Actuar como interlocutor solo después de concluir la auditoría, sin participar en la preparación ni coordinación de información."
+    ],
+    "correct": 0,
+    "explanation": "La Oficina actúa como interlocutor de los organismos de control en las auditorías que practiquen en la DIAN y participa en la recepción, coordinación, preparación y entrega de la información requerida."
+  },
+  {
+    "question": "Además de ejecutar el plan anual aprobado por el Comité, el artículo asigna a la Oficina una función relacionada con programas de auditoría. ¿Qué componentes la describen correctamente?",
+    "options": [
+      "Desarrollar programas de auditoría, formular observaciones y recomendaciones pertinentes y verificar su cumplimiento.",
+      "Aprobar los programas de auditoría del Comité, ejecutarlos exclusivamente mediante organismos externos y recibir sus recomendaciones.",
+      "Desarrollar programas solo para auditorías de organismos de control y verificar únicamente la entrega de información.",
+      "Formular programas de auditoría después de cada informe semestral y delegar en las dependencias la verificación de recomendaciones."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende desarrollar programas de auditoría, formular observaciones y recomendaciones pertinentes y verificar su cumplimiento, además de las responsabilidades específicas sobre el plan anual aprobado."
+  },
+  {
+    "question": "Al apoyar el modelo institucional de planeación y gestión, ¿qué alcance establece el artículo respecto del MIPG o del modelo que adopte la entidad?",
+    "options": [
+      "Apoyar su desarrollo, sostenimiento y mejora continua, y supervisar su efectividad y la observancia de sus recomendaciones.",
+      "Aprobar el modelo que se adopte, ejecutarlo en todas las dependencias y sustituir las recomendaciones del Comité.",
+      "Verificar solo la formulación inicial del MIPG, sin intervenir en su sostenimiento ni en la observancia de recomendaciones.",
+      "Supervisar exclusivamente el cumplimiento de metas del modelo y dejar su desarrollo y mejora a los organismos de control."
+    ],
+    "correct": 0,
+    "explanation": "La Oficina apoya el desarrollo, sostenimiento y mejoramiento continuo del MIPG o del modelo que adopte la entidad, y supervisa su efectividad y la observancia de sus recomendaciones."
+  },
+  {
+    "question": "¿Qué obligación de divulgación establece el artículo respecto del estado del control interno de la DIAN, y por qué canal debe cumplirse?",
+    "options": [
+      "Publicar un informe sobre ese estado en la página web de la DIAN.",
+      "Entregar un informe semestral exclusivamente al Director General y mantenerlo reservado en la página web.",
+      "Publicar cada auditoría individual en el sistema de información y remitir sus resultados únicamente al Comité.",
+      "Presentar el estado del control interno a los organismos competentes, sin obligación de publicarlo."
+    ],
+    "correct": 0,
+    "explanation": "El artículo dispone que la Oficina publique en la página web de la DIAN un informe del estado del control interno."
+  },
+  {
+    "question": "Al interpretar la cláusula final de funciones, ¿cuál opción recoge fielmente las bases adicionales por las que la Oficina puede ejercer otras funciones, sin convertirlas en una competencia ilimitada?",
+    "options": [
+      "Las funciones que correspondan conforme a la ley, las acordes con la naturaleza de la dependencia o las asignadas por el Director General de la DIAN.",
+      "Cualquier función administrativa que solicite una dependencia, aunque no tenga relación con la ley ni con la naturaleza de la Oficina.",
+      "Solo las funciones previstas expresamente en el plan anual de auditoría y aprobadas en cada caso por el Comité.",
+      "Las funciones que asignen los organismos de control, siempre que sean compatibles con las metas recaudatorias de la entidad."
+    ],
+    "correct": 0,
+    "explanation": "La cláusula contempla las funciones que correspondan conforme a la ley, las que deriven de la naturaleza de la dependencia o las que asigne el Director General de la DIAN."
   }
 ]
