@@ -9,16 +9,17 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Literata:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
   </head>
   <style>
     :root {
       color-scheme: dark;
-      font-family: "Literata", Georgia, serif;
+      font-family: "Inter", sans-serif;
       font-synthesis: none;
       text-rendering: optimizeLegibility;
+      font-optical-sizing: auto;
       -webkit-font-smoothing: antialiased;
       --page: #101112;
       --surface: #181a1c;
@@ -55,8 +56,9 @@
         radial-gradient(ellipse at 50% -18%, rgba(210, 216, 224, 0.075), transparent 48%),
         radial-gradient(ellipse at 100% 100%, rgba(110, 116, 124, 0.045), transparent 38%),
         var(--page);
-      font-family: "Literata", Georgia, serif;
+      font-family: "Inter", sans-serif;
       line-height: 1.65;
+      font-weight: 400;
     }
 
     [v-cloak] {
@@ -65,7 +67,8 @@
 
     #app {
       min-height: 100vh;
-      font-family: "Literata", Georgia, serif;
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
     }
 
     #app button {
@@ -114,6 +117,7 @@
     #app h2 {
       color: #f2f3f4 !important;
       letter-spacing: -0.025em;
+      font-weight: 600;
     }
 
     #app .max-w-3xl h1 {
