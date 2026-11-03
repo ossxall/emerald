@@ -1351,5 +1351,137 @@
     ],
     "correct": 0,
     "explanation": "La cláusula contempla las funciones que correspondan conforme a la ley, las que deriven de la naturaleza de la dependencia o las que asigne el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar la competencia de la Oficina de Seguridad de la Información, ¿qué alcance corresponde a su facultad de emitir políticas y lineamientos conforme al artículo 10?",
+    "options": [
+      "Emitir políticas y lineamientos de seguridad y privacidad de la información en el ámbito de los datos y la información.",
+      "Emitir políticas de seguridad únicamente para la infraestructura tecnológica, sin abarcar la privacidad ni los datos gestionados por la entidad.",
+      "Establecer políticas de privacidad para datos personales, dejando la seguridad de la información bajo responsabilidad exclusiva de las áreas operativas.",
+      "Aprobar lineamientos de seguridad y privacidad solo cuando se relacionen con evidencias digitales destinadas a organismos judiciales."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende emitir políticas y lineamientos de seguridad y privacidad de la información en el campo de los datos y la información."
+  },
+  {
+    "question": "Al implementar los instrumentos de gestión de seguridad y protección de datos, ¿qué combinación de responsabilidades asigna el artículo a la Oficina?",
+    "options": [
+      "Adecuar e implementar el SGSI, pero transferir su evaluación, mantenimiento y actualización a las áreas involucradas; el programa de datos personales se limita a campañas de comunicación.",
+      "Adecuar, implementar, evaluar, mantener y actualizar tanto el SGSI como el programa integral de gestión de datos personales, de conformidad con la norma técnica correspondiente y la regulación vigente.",
+      "Mantener y actualizar el SGSI conforme a una norma técnica, mientras que el programa integral de datos personales se rige únicamente por lineamientos internos.",
+      "Evaluar los controles del SGSI y aprobar el programa de datos personales, sin asumir labores de implementación, mantenimiento o actualización."
+    ],
+    "correct": 1,
+    "explanation": "La Oficina debe desarrollar todas las etapas enumeradas para el SGSI y el programa integral de gestión de datos personales, atendiendo la norma técnica correspondiente y la regulación vigente."
+  },
+  {
+    "question": "Además de gestionar el SGSI y el programa integral de datos personales, ¿qué responsabilidad de comunicación y sensibilización establece el artículo para la Oficina?",
+    "options": [
+      "Ejecutar todas las campañas institucionales de comunicación y certificar la capacitación individual de cada usuario de los sistemas.",
+      "Definir las campañas de comunicación sobre seguridad, dejando la sensibilización exclusivamente a las dependencias que administran los datos.",
+      "Dar lineamientos para las campañas de comunicación y realizar al interior de la Entidad la sensibilización sobre seguridad y privacidad de la información.",
+      "Supervisar campañas externas de privacidad y sensibilizar solo al personal asignado a la administración de instalaciones seguras."
+    ],
+    "correct": 2,
+    "explanation": "El artículo distingue ambas tareas: dar lineamientos para las campañas y realizar sensibilización interna sobre seguridad y privacidad de la información."
+  },
+  {
+    "question": "Para administrar los accesos de la entidad, ¿cómo se articulan el gobierno de identidades y el monitoreo que corresponden a la Oficina?",
+    "options": [
+      "El gobierno de identidades comprende roles y responsabilidades, mientras que el monitoreo recae sobre directrices de control y asignación de permisos para instalaciones, áreas seguras y sistemas de información.",
+      "El gobierno de identidades consiste en asignar directamente cada permiso de acceso, y el monitoreo se limita a verificar el ingreso físico a las instalaciones.",
+      "La Oficina define roles para los sistemas de información, pero el control y la asignación de permisos para áreas seguras corresponden exclusivamente a las dependencias usuarias.",
+      "La Oficina monitorea los permisos de sistemas, pero no las directrices relativas a instalaciones o áreas seguras, ni genera roles y responsabilidades."
+    ],
+    "correct": 0,
+    "explanation": "La función reúne la generación del gobierno de identidades —roles y responsabilidades— con el monitoreo de directrices sobre control y asignación de permisos en los tres ámbitos indicados."
+  },
+  {
+    "question": "Cuando se evalúan los controles del SGSI de la DIAN, ¿cuál es el papel de la Oficina y qué consecuencia asigna el artículo a las áreas involucradas?",
+    "options": [
+      "La Oficina define e implementa directamente todos los planes de mejora, mientras las áreas involucradas se limitan a recibir los resultados de la evaluación.",
+      "La Oficina monitorea y presenta resultados, pero la definición de acciones y planes de mejora corresponde al Director General.",
+      "Las áreas involucradas evalúan los controles y presentan los resultados; la Oficina se ocupa de aprobar las acciones que aquellas propongan.",
+      "La Oficina monitorea, evalúa y presenta los resultados de la evaluación, para que las áreas involucradas definan las acciones y los planes de mejora que implementarán."
+    ],
+    "correct": 3,
+    "explanation": "La Oficina realiza y presenta la evaluación de controles; las áreas involucradas definen las acciones y los planes de mejora a implementar."
+  },
+  {
+    "question": "Al decidir cambios en la arquitectura de seguridad de la información, ¿qué distribución de funciones debe observarse respecto de los entornos tecnológicos?",
+    "options": [
+      "La Oficina define la arquitectura solo para servidores locales; la Dirección de Innovación y Tecnología define la arquitectura en la nube y aprueba todos los cambios.",
+      "La Oficina define la arquitectura para servidores locales y en la nube, valida y aprueba sus cambios, y participa en la definición de la infraestructura tecnológica.",
+      "La Oficina participa en la arquitectura local y en la nube, pero la validación y aprobación de sus cambios corresponde exclusivamente a las áreas de infraestructura.",
+      "La Oficina define la infraestructura tecnológica completa, pero la arquitectura de seguridad y sus cambios quedan a cargo de las dependencias que operan cada sistema."
+    ],
+    "correct": 1,
+    "explanation": "La competencia abarca la arquitectura de seguridad tanto en servidores locales como en la nube, la validación y aprobación de cambios y la participación en la definición de infraestructura tecnológica."
+  },
+  {
+    "question": "¿Qué ciclo de gestión asigna el artículo a la Oficina respecto del Centro de Operación de Seguridad de la Información (COSI = SOC), y qué uso debe darse a la información proporcionada?",
+    "options": [
+      "Diseñar y poner en funcionamiento el COSI, dejando su supervisión y optimización a las áreas usuarias; la información se conserva para auditorías posteriores.",
+      "Supervisar y optimizar el COSI una vez implementado por otra dependencia; la información se utiliza únicamente para reportar incidentes.",
+      "Diseñar, implementar, supervisar y optimizar el COSI, aprovechando la información proporcionada para la toma de decisiones.",
+      "Implementar y supervisar el COSI, pero limitar la optimización a la infraestructura y reservar la información para la asignación de permisos."
+    ],
+    "correct": 2,
+    "explanation": "El artículo asigna las cuatro etapas —diseño, implementación, supervisión y optimización— y establece que se aproveche la información proporcionada para tomar decisiones."
+  },
+  {
+    "question": "Al planear la continuidad operativa y la recuperación ante desastres relacionadas con la infraestructura tecnológica de la DIAN, ¿qué forma de actuación exige el artículo?",
+    "options": [
+      "La Oficina define y gestiona esos procesos en coordinación con la Dirección de Innovación y Tecnología o la dependencia que haga sus veces.",
+      "La Dirección de Innovación y Tecnología define y gestiona los procesos sin coordinación con la Oficina, que solo recibe sus reportes.",
+      "La Oficina gestiona los procesos únicamente después de un desastre, mientras la dependencia tecnológica se ocupa de la continuidad operativa.",
+      "La Oficina y la Dirección de Innovación y Tecnología se limitan a aprobar procesos definidos por cada área usuaria de la infraestructura."
+    ],
+    "correct": 0,
+    "explanation": "La Oficina debe definir y gestionar esos procesos coordinadamente con la Dirección de Innovación y Tecnología o su dependencia equivalente, respecto de la infraestructura tecnológica de la DIAN."
+  },
+  {
+    "question": "En un proceso forense basado en información o evidencias recolectadas durante acciones de control ejecutadas por la Dirección de Gestión de Fiscalización, ¿qué tratamiento asigna el artículo a la Oficina?",
+    "options": [
+      "La Oficina debe recibir y analizar la evidencia, pero su almacenamiento y custodia corresponden a la Dirección de Gestión de Fiscalización.",
+      "La Oficina recibe, almacena, custodia y procesa la información o evidencia recolectada para la realización de procesos forenses.",
+      "La Dirección de Gestión de Fiscalización recibe y procesa la evidencia, y la Oficina solo define protocolos para su entrega a las autoridades.",
+      "La Oficina custodia la evidencia, pero solo puede procesarla después de que un organismo judicial competente determine su pertinencia."
+    ],
+    "correct": 1,
+    "explanation": "Para la evidencia recolectada en acciones de control ejecutadas por la Dirección de Gestión de Fiscalización, la Oficina tiene las funciones de recibirla, almacenarla, custodiarla y procesarla para procesos forenses."
+  },
+  {
+    "question": "¿Cómo se diferencia el tratamiento de la información o evidencia forense recolectada por la propia Oficina de Seguridad de la Información y procedente del interior de la entidad?",
+    "options": [
+      "Debe remitirse a la Dirección de Gestión de Fiscalización para que esta la procese y analice, aunque la Oficina la haya recolectado.",
+      "Debe entregarse de inmediato a organismos judiciales, pues la Oficina solo puede custodiar evidencia recolectada por otras dependencias.",
+      "La Oficina puede almacenarla y custodiarla, pero el artículo reserva su procesamiento y análisis a las áreas involucradas en los controles del SGSI.",
+      "La información o evidencia recolectada por la Oficina y procedente del interior de la entidad será procesada y analizada por esta misma Oficina."
+    ],
+    "correct": 3,
+    "explanation": "El artículo especifica que la información o evidencia forense recolectada por la Oficina y procedente del interior de la entidad será procesada y analizada por ella."
+  },
+  {
+    "question": "Al establecer reglas para la circulación de información sensible, ¿qué distinción debe preservar la política y los protocolos de entrega o recepción definidos por la Oficina?",
+    "options": [
+      "Deben abarcar la entrega de evidencias digitales a organismos de control y judiciales competentes, así como la información derivada del cumplimiento de convenios, acuerdos, contratos u otros actos jurídicos suscritos por la Entidad, garantizando su integridad.",
+      "Deben regular la entrega de evidencias digitales a cualquier tercero y la recepción de información contractual, garantizando únicamente su disponibilidad para la Entidad.",
+      "Deben aplicarse a evidencias digitales recibidas de organismos competentes y a contratos suscritos por la Oficina, sin extenderse a otros actos jurídicos de la Entidad.",
+      "Deben establecer protocolos para remitir información de convenios y contratos a organismos judiciales, mientras la entrega de evidencias digitales se rige por las áreas recolectoras."
+    ],
+    "correct": 0,
+    "explanation": "La función cubre dos categorías: evidencias digitales dirigidas a organismos de control y judiciales competentes, e información derivada de instrumentos jurídicos suscritos por la Entidad; en ambos casos debe garantizarse la integridad de la información."
+  },
+  {
+    "question": "Si surge una función de seguridad de la información que no está descrita expresamente entre las funciones enumeradas, ¿en qué condiciones puede corresponder a la Oficina según la cláusula final del artículo?",
+    "options": [
+      "Solo si la Dirección de Innovación y Tecnología la asigna formalmente y se relaciona con infraestructura tecnológica.",
+      "Cuando lo determine cualquier dependencia involucrada en la gestión del SGSI, siempre que la función sea de carácter operativo.",
+      "Cuando corresponda conforme a la ley, derive de la naturaleza de la dependencia o sea asignada por el Director General de la DIAN.",
+      "Únicamente cuando sea asignada por el Director General y reproduzca una de las funciones específicas enumeradas en el artículo."
+    ],
+    "correct": 2,
+    "explanation": "La cláusula residual contempla las funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
