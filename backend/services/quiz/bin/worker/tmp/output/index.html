@@ -31,8 +31,22 @@
       --subtle: #858a91;
       --accent: #82baff;
       --accent-strong: #4d91e8;
-      --success: #82baff;
+      --success: #7ce0a4;
       --danger: #ff9292;
+    }
+
+    html.light-theme {
+      color-scheme: light;
+      --page: #f2f4f7;
+      --surface: #ffffff;
+      --surface-raised: #f8f9fb;
+      --surface-hover: #eef2f7;
+      --border: #d9dee6;
+      --text: #242a33;
+      --muted: #596474;
+      --subtle: #717b89;
+      --success: #27834b;
+      --danger: #b42318;
     }
 
     *,
@@ -61,6 +75,13 @@
       font-weight: 400;
     }
 
+    html.light-theme body {
+      color: var(--text);
+      background:
+        radial-gradient(ellipse at 50% -18%, rgba(91, 137, 197, 0.08), transparent 48%),
+        var(--page);
+    }
+
     [v-cloak] {
       display: none;
     }
@@ -69,6 +90,47 @@
       min-height: 100vh;
       font-family: "Inter", sans-serif;
       font-weight: 400;
+    }
+
+    #app .theme-toggle {
+      position: fixed;
+      z-index: 50;
+      top: 1rem;
+      right: 1rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+      min-height: 2.6rem;
+      padding: 0.55rem 0.85rem;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--text);
+      background: var(--surface);
+      box-shadow: 0 5px 18px rgba(0, 0, 0, 0.16);
+      font-size: 0.85rem;
+      font-weight: 600;
+      line-height: 1;
+      cursor: pointer;
+      transition: border-color 160ms ease, background-color 160ms ease, transform 160ms ease;
+    }
+
+    #app .theme-toggle:hover {
+      transform: translateY(-1px);
+      border-color: var(--accent);
+      background: var(--surface-hover);
+    }
+
+    #app .theme-toggle svg {
+      width: 1.05rem;
+      height: 1.05rem;
+      flex: none;
+      color: var(--accent);
+    }
+
+    html.light-theme #app .theme-toggle {
+      color: #263241;
+      background: rgba(255, 255, 255, 0.94);
+      box-shadow: 0 5px 18px rgba(31, 45, 64, 0.12);
     }
 
     #app button {
@@ -97,6 +159,13 @@
         inset 0 1px 0 rgba(255, 255, 255, 0.035);
     }
 
+    html.light-theme #app .max-w-3xl > [class~="bg-white"],
+    html.light-theme #app .max-w-2xl[class~="bg-white"] {
+      border-color: #dce1e8;
+      background: linear-gradient(155deg, #ffffff 0%, #f9fafc 100%) !important;
+      box-shadow: 0 24px 64px rgba(33, 45, 61, 0.12), 0 2px 8px rgba(33, 45, 61, 0.05);
+    }
+
     #app .max-w-3xl [class*="bg-gradient-to-r"],
     #app .max-w-2xl [class*="bg-gradient-to-r"] {
       color: var(--text) !important;
@@ -105,6 +174,28 @@
 
     #app .max-w-3xl [class*="bg-gradient-to-r"] {
       border-bottom: 1px solid rgba(220, 224, 230, 0.08);
+    }
+
+    html.light-theme #app .max-w-3xl [class*="bg-gradient-to-r"],
+    html.light-theme #app .max-w-2xl [class*="bg-gradient-to-r"] {
+      color: #f8fbff !important;
+      background: linear-gradient(120deg, #2563eb 0%, #1d4ed8 58%, #1e40af 100%) !important;
+    }
+
+    html.light-theme #app .max-w-3xl [class*="bg-gradient-to-r"] {
+      border-bottom-color: rgba(255, 255, 255, 0.2);
+    }
+
+    html.light-theme #app .max-w-3xl [class*="bg-gradient-to-r"] h1,
+    html.light-theme #app .max-w-2xl [class*="bg-gradient-to-r"] p {
+      color: #ffffff !important;
+    }
+
+    html.light-theme #app .max-w-3xl [class*="bg-gradient-to-r"] [class~="text-blue-100"],
+    html.light-theme #app .max-w-3xl [class*="bg-gradient-to-r"] [class~="text-green-300"],
+    html.light-theme #app .max-w-3xl [class*="bg-gradient-to-r"] [class~="text-yellow-300"],
+    html.light-theme #app .max-w-3xl [class*="bg-gradient-to-r"] [class~="text-red-300"] {
+      color: #eaf2ff !important;
     }
 
     #app h1,
@@ -118,6 +209,11 @@
       color: #f2f3f4 !important;
       letter-spacing: -0.025em;
       font-weight: 600;
+    }
+
+    html.light-theme #app h1,
+    html.light-theme #app h2 {
+      color: #202833 !important;
     }
 
     #app .max-w-3xl h1 {
@@ -145,6 +241,10 @@
 
     #app [class~="text-gray-200"] {
       color: #dfe1e4 !important;
+    }
+
+    html.light-theme #app [class~="text-gray-200"] {
+      color: #46515f !important;
     }
 
     #app .max-w-3xl > .p-8 {
@@ -176,6 +276,19 @@
       box-shadow: 0 7px 20px rgba(0, 0, 0, 0.16);
     }
 
+    html.light-theme #app .max-w-3xl .space-y-3 > button {
+      border-color: #d8dee7 !important;
+      color: #303946 !important;
+      background: #f8f9fb !important;
+      box-shadow: 0 1px 2px rgba(28, 39, 54, 0.035);
+    }
+
+    html.light-theme #app .max-w-3xl .space-y-3 > button:not(:disabled):hover {
+      border-color: #75a9e9 !important;
+      color: #1f4f89 !important;
+      background: #eef5ff !important;
+    }
+
     #app .max-w-3xl .space-y-3 > button:focus-visible,
     #app button:focus-visible {
       outline: 3px solid rgba(130, 186, 255, 0.7);
@@ -187,9 +300,15 @@
     }
 
     #app .max-w-3xl .space-y-3 > button[class*="border-green-500"] {
-      border-color: rgba(130, 186, 255, 0.72) !important;
-      color: #e5efff !important;
-      background: rgba(72, 126, 194, 0.2) !important;
+      border-color: rgba(124, 224, 164, 0.72) !important;
+      color: #e5f6e9 !important;
+      background: rgba(64, 139, 86, 0.2) !important;
+    }
+
+    html.light-theme #app .max-w-3xl .space-y-3 > button[class*="border-green-500"] {
+      border-color: #86c99a !important;
+      color: #235735 !important;
+      background: #eaf7ed !important;
     }
 
     #app .max-w-3xl .space-y-3 > button[class*="border-red-500"] {
@@ -198,21 +317,44 @@
       background: rgba(157, 61, 61, 0.16) !important;
     }
 
+    html.light-theme #app .max-w-3xl .space-y-3 > button[class*="border-red-500"] {
+      border-color: #e29a96 !important;
+      color: #8f241d !important;
+      background: #fff0ef !important;
+    }
+
     #app .max-w-3xl .space-y-3 > button[class*="border-gray-200"][disabled] {
       color: #a3a6aa !important;
       background: rgba(255, 255, 255, 0.015) !important;
     }
 
+    html.light-theme #app .max-w-3xl .space-y-3 > button[class*="border-gray-200"][disabled] {
+      color: #89919c !important;
+      background: #f3f4f6 !important;
+    }
+
     #app .max-w-3xl [class~="bg-green-50"] {
       border-color: var(--success) !important;
-      color: #e4e9f2 !important;
-      background: rgba(65, 119, 187, 0.19) !important;
+      color: #e4f4e8 !important;
+      background: rgba(64, 139, 86, 0.17) !important;
     }
 
     #app .max-w-3xl [class~="bg-blue-50"] {
       border-color: #83b9d3 !important;
       color: #e1edf3 !important;
       background: rgba(66, 123, 151, 0.15) !important;
+    }
+
+    html.light-theme #app .max-w-3xl [class~="bg-green-50"] {
+      border-color: #86c99a !important;
+      color: #245536 !important;
+      background: #eaf7ed !important;
+    }
+
+    html.light-theme #app .max-w-3xl [class~="bg-blue-50"] {
+      border-color: #8ab6e9 !important;
+      color: #244a78 !important;
+      background: #eef5fd !important;
     }
 
     #app .max-w-3xl [class~="bg-green-50"] p,
@@ -241,9 +383,24 @@
       color: #91c4ff !important;
     }
 
+    #app .max-w-3xl .space-y-3 svg[class~="text-green-600"] {
+      color: var(--success) !important;
+    }
+
+    html.light-theme #app [class~="text-green-600"],
+    html.light-theme #app [class~="text-green-300"] {
+      color: #2868b4 !important;
+    }
+
     #app [class~="text-red-600"],
     #app [class~="text-red-300"] {
       color: var(--danger) !important;
+    }
+
+    html.light-theme #app [class~="text-red-600"],
+    html.light-theme #app [class~="text-red-300"],
+    html.light-theme #app [class~="text-red-500"] {
+      color: #b42318 !important;
     }
 
     #app [class~="text-yellow-500"] {
@@ -254,11 +411,22 @@
       color: #f2d88c !important;
     }
 
+    html.light-theme #app [class~="text-yellow-500"],
+    html.light-theme #app [class~="text-yellow-300"] {
+      color: #805f16 !important;
+    }
+
     #app .max-w-md {
       border: 1px solid rgba(210, 214, 220, 0.1);
       border-radius: 1.25rem;
       background: var(--surface) !important;
       box-shadow: 0 28px 80px rgba(0, 0, 0, 0.36);
+    }
+
+    html.light-theme #app .max-w-md {
+      border-color: #dce1e8;
+      background: #ffffff !important;
+      box-shadow: 0 24px 64px rgba(33, 45, 61, 0.12);
     }
 
     #app .animate-spin {
@@ -272,7 +440,7 @@
 
     @media (max-width: 640px) {
       #app .min-h-screen {
-        padding: 1rem !important;
+        padding: 4.5rem 1rem 1rem !important;
       }
 
       #app .max-w-3xl > [class~="bg-white"],
@@ -300,6 +468,24 @@
 
   <body>
     <div id="app" v-cloak>
+      <button
+        class="theme-toggle"
+        type="button"
+        @click="toggleTheme"
+        :aria-pressed="isLightTheme"
+        :aria-label="isLightTheme ? 'Activar tema oscuro' : 'Activar tema claro'"
+        :title="isLightTheme ? 'Cambiar a tema oscuro' : 'Cambiar a tema claro'"
+      >
+        <svg v-if="isLightTheme" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M20.4 15.3A8.5 8.5 0 018.7 3.6 8.5 8.5 0 1020.4 15.3z" />
+        </svg>
+        <svg v-else fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="12" cy="12" r="4" stroke-width="1.8" />
+          <path stroke-linecap="round" stroke-width="1.8" d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42" />
+        </svg>
+        <span>{{ isLightTheme ? 'Oscuro' : 'Claro' }}</span>
+      </button>
+
       <!-- Loading -->
       <div
         v-if="loading"
@@ -540,6 +726,15 @@
           const selectedAnswer = ref(loadSaved("quiz_selectedAnswer", null));
           const showResult = ref(loadSaved("quiz_showResult", false));
           const quizCompleted = ref(loadSaved("quiz_quizCompleted", false));
+          const isLightTheme = ref(loadSaved("quiz_theme_light", false));
+
+          document.documentElement.classList.toggle("light-theme", isLightTheme.value);
+
+          const toggleTheme = () => {
+            isLightTheme.value = !isLightTheme.value;
+            document.documentElement.classList.toggle("light-theme", isLightTheme.value);
+            localStorage.setItem("quiz_theme_light", JSON.stringify(isLightTheme.value));
+          };
 
           const questions = ref([]);
           const loading = ref(true);
@@ -715,6 +910,8 @@
             selectedAnswer,
             showResult,
             quizCompleted,
+            isLightTheme,
+            toggleTheme,
             questions,
             loading,
             error,
