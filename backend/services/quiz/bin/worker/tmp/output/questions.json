@@ -1483,5 +1483,247 @@
     ],
     "correct": 2,
     "explanation": "La cláusula residual contempla las funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar la función de asesoría estratégica de la Oficina frente a la dirección institucional, ¿qué actuación corresponde específicamente a su apoyo al Director General?",
+    "options": [
+      "Asesorar al Director General en la formulación e implementación de la estrategia de comunicación institucional, atendiendo los lineamientos del Gobierno Nacional.",
+      "Definir autónomamente las estrategias de comunicación corporativa y organizacional, sin que esa labor se vincule con la formulación o implementación de una estrategia institucional.",
+      "Acompañar las intervenciones que el Director de la DIAN requiera en canales y espacios comunicativos, limitando la asesoría a cada intervención concreta.",
+      "Coordinar las relaciones con medios nacionales e internacionales para que estos formulen la estrategia de comunicación institucional de la entidad."
+    ],
+    "correct": 0,
+    "explanation": "La función 1 asigna a la Oficina la asesoría al Director General para formular e implementar la estrategia institucional, conforme a los lineamientos del Gobierno Nacional."
+  },
+  {
+    "question": "Si la Oficina debe establecer el marco de iniciativas de comunicación corporativa y organizacional, y no limitarse a difundir actividades ya definidas, ¿qué conjunto de acciones describe esa responsabilidad?",
+    "options": [
+      "Divulgar oportunamente los planes, programas, proyectos y actividades de la DIAN para conocimiento interno y de la ciudadanía.",
+      "Definir estrategias, planes, campañas o programas de comunicación corporativa y organizacional.",
+      "Diseñar y administrar los contenidos de los medios de comunicación interinstitucionales, las plataformas y las redes sociales.",
+      "Hacer seguimiento a la ejecución y a los resultados de las estrategias de comunicación institucional."
+    ],
+    "correct": 1,
+    "explanation": "La función 2 atribuye a la Oficina la definición de estrategias, planes, campañas o programas de comunicación corporativa y organizacional."
+  },
+  {
+    "question": "Para que las acciones institucionales sean conocidas tanto dentro de la entidad como por la ciudadanía, ¿qué responsabilidad específica exige una divulgación oportuna de lo que desarrolla la DIAN?",
+    "options": [
+      "Formular, junto con las dependencias, estrategias para comunicar información generada en cumplimiento de los objetivos institucionales.",
+      "Administrar los contenidos de plataformas y redes sociales, sin que la función especifique la divulgación de planes, programas, proyectos y actividades.",
+      "Realizar la oportuna divulgación de los planes, programas, proyectos y actividades que desarrolla la DIAN, para conocimiento interno y de la ciudadanía en general.",
+      "Promover y vigilar el uso de la imagen institucional en la comunicación de los planes y proyectos de la entidad."
+    ],
+    "correct": 2,
+    "explanation": "La función 3 vincula la divulgación oportuna de planes, programas, proyectos y actividades con su conocimiento interno y por la ciudadanía."
+  },
+  {
+    "question": "Cuando se busca estimular la participación social y académica en asuntos de competencia de la DIAN, ¿cuál es el alcance de la asesoría que la Oficina debe prestar?",
+    "options": [
+      "Asesorar al Director General para formular e implementar la estrategia institucional bajo los lineamientos del Gobierno Nacional, sin especificar la participación de actores externos.",
+      "Coordinar relaciones con medios nacionales e internacionales para que estos promuevan la participación de ciudadanos y sectores en asuntos de la DIAN.",
+      "Orientar las intervenciones comunicativas que el Director de la DIAN requiera, con independencia de que estén dirigidas a estimular participación.",
+      "Asesorar al Director de la DIAN en estrategias dirigidas a estimular la participación de ciudadanos, academia y sectores público y privado en temas de competencia de la entidad."
+    ],
+    "correct": 3,
+    "explanation": "La función 4 establece esa asesoría al Director de la DIAN e identifica los actores cuya participación se busca estimular y el ámbito temático correspondiente."
+  },
+  {
+    "question": "Ante una intervención que el Director de la DIAN requiere realizar en distintos espacios comunicativos, ¿qué actuación corresponde a la Oficina en materia de comunicaciones?",
+    "options": [
+      "Orientar y acompañar la intervención en materia de comunicaciones, en los diferentes canales y espacios comunicativos que correspondan.",
+      "Definir la estrategia corporativa y organizacional que sustituirá la intervención del Director en los canales de comunicación.",
+      "Establecer y coordinar las relaciones con los medios nacionales e internacionales para que estos conduzcan la intervención.",
+      "Hacer seguimiento a los resultados de la intervención, sin orientar ni acompañar su desarrollo comunicativo."
+    ],
+    "correct": 0,
+    "explanation": "La función 5 dispone que la Oficina oriente y acompañe, en materia de comunicaciones, las intervenciones que requiera el Director de la DIAN en diferentes canales y espacios."
+  },
+  {
+    "question": "Al distinguir la gestión de relaciones con medios de la administración de contenidos en plataformas institucionales, ¿qué mandato se refiere específicamente a los medios de comunicación?",
+    "options": [
+      "Diseñar y administrar contenidos de medios interinstitucionales, plataformas y redes sociales, sin asignar a la Oficina la coordinación de relaciones con medios.",
+      "Establecer, canalizar y coordinar las relaciones con los medios de comunicación nacionales e internacionales.",
+      "Divulgar oportunamente los proyectos y actividades de la DIAN para conocimiento de la ciudadanía, sin definir la gestión de relaciones con medios.",
+      "Promover y vigilar el uso de la imagen institucional en las comunicaciones difundidas por medios nacionales e internacionales."
+    ],
+    "correct": 1,
+    "explanation": "La función 6 asigna a la Oficina el establecimiento, canalización y coordinación de las relaciones con medios nacionales e internacionales."
+  },
+  {
+    "question": "Cuando la información se genera en cumplimiento de objetivos institucionales y participan distintas dependencias de la DIAN, ¿qué responsabilidad articula la formulación y el desarrollo de estrategias para comunicarla?",
+    "options": [
+      "Administrar los contenidos de medios interinstitucionales, plataformas y redes sociales, como única actuación prevista para toda información generada por la entidad.",
+      "Divulgar oportunamente todos los planes, programas, proyectos y actividades, sin considerar la coordinación con las dependencias que generan información.",
+      "Formular y desarrollar, en coordinación con las dependencias de la DIAN, estrategias para divulgar o comunicar la información generada en cumplimiento de los objetivos institucionales.",
+      "Asesorar al Director de la DIAN en estrategias para estimular la participación ciudadana, académica y sectorial en asuntos de competencia de la entidad."
+    ],
+    "correct": 2,
+    "explanation": "La función 7 combina la formulación y el desarrollo de estrategias de comunicación con la coordinación de las dependencias y el vínculo de la información con los objetivos institucionales."
+  },
+  {
+    "question": "Para distinguir la gestión editorial de los canales institucionales de la formulación de estrategias de comunicación, ¿qué tarea se asigna a la Oficina respecto de los medios y plataformas?",
+    "options": [
+      "Definir campañas y programas de comunicación corporativa y organizacional, sin asumir la administración de contenidos de los medios.",
+      "Realizar el seguimiento de la ejecución y los resultados de las estrategias, como función principal sobre los canales institucionales.",
+      "Canalizar las relaciones con medios nacionales e internacionales para que estos administren las plataformas y redes de la DIAN.",
+      "Diseñar y administrar los contenidos de los diferentes medios de comunicación interinstitucionales, plataformas y redes sociales."
+    ],
+    "correct": 3,
+    "explanation": "La función 8 atribuye expresamente a la Oficina el diseño y la administración de contenidos en esos medios, plataformas y redes."
+  },
+  {
+    "question": "Una vez formulada una estrategia de comunicación institucional, ¿qué actividad permite a la Oficina observar tanto su puesta en práctica como sus efectos, en vez de limitarse a definirla o difundirla?",
+    "options": [
+      "Hacer seguimiento a la ejecución y a los resultados de las estrategias de comunicación institucional.",
+      "Formular y desarrollar estrategias para comunicar información institucional, en coordinación con las dependencias que la generan.",
+      "Establecer y coordinar relaciones con medios de comunicación nacionales e internacionales.",
+      "Promover y vigilar el uso de la imagen institucional de la DIAN."
+    ],
+    "correct": 0,
+    "explanation": "La función 9 comprende el seguimiento de dos aspectos: la ejecución de las estrategias y sus resultados."
+  },
+  {
+    "question": "Si la cuestión institucional consiste en impulsar y supervisar el uso de la identidad visual de la DIAN, y no en administrar los contenidos de cada canal, ¿qué función corresponde a la Oficina?",
+    "options": [
+      "Definir campañas corporativas y organizacionales para comunicar la identidad institucional, sin vigilar su uso.",
+      "Promover y vigilar el uso de la imagen institucional de la DIAN.",
+      "Administrar contenidos de plataformas y redes sociales, lo que sustituye la responsabilidad específica sobre la imagen institucional.",
+      "Coordinar relaciones con medios de comunicación para que estos determinen cómo debe utilizarse la imagen de la DIAN."
+    ],
+    "correct": 1,
+    "explanation": "La función 10 encomienda a la Oficina promover y vigilar el uso de la imagen institucional de la DIAN."
+  },
+  {
+    "question": "Al interpretar la atribución residual de la Oficina, ¿cuál alternativa recoge correctamente tanto sus posibles fundamentos como la autoridad expresamente facultada para asignarle funciones?",
+    "options": [
+      "Comprende únicamente funciones de comunicación asignadas por las dependencias, siempre que sean necesarias para administrar plataformas y redes sociales.",
+      "Incluye las funciones que determine el Director de la DIAN por razones de participación ciudadana, incluso si no corresponden a la ley ni a la naturaleza de la dependencia.",
+      "Comprende las funciones que correspondan conforme a la ley, las acordes con la naturaleza de la dependencia o las asignadas por el Director General de la DIAN.",
+      "Se limita a funciones establecidas por ley, pues la naturaleza de la dependencia y las asignaciones del Director General no son criterios previstos."
+    ],
+    "correct": 2,
+    "explanation": "La función 11 contempla tres fundamentos: la ley, la naturaleza de la dependencia y las funciones que asigne el Director General de la DIAN."
+  },
+  {
+    "question": "Al definir el alcance del apoyo que presta la Oficina de Comunicaciones Institucionales a la Dirección General, ¿qué actuación corresponde específicamente a su función de asesoría estratégica?",
+    "options": [
+      "Ejecutar directamente todas las campañas de comunicación de las dependencias, sin intervención del Director General ni sujeción a lineamientos gubernamentales.",
+      "Asesorar al Director General en la formulación e implementación de la estrategia de comunicación institucional, conforme a los lineamientos del Gobierno Nacional.",
+      "Aprobar las políticas generales de comunicación del Gobierno Nacional y ordenar su aplicación por las entidades públicas.",
+      "Asesorar al Director de la DIAN únicamente en intervenciones ante medios internacionales, sin participar en la estrategia institucional."
+    ],
+    "correct": 1,
+    "explanation": "La función atribuida consiste en asesorar al Director General tanto en la formulación como en la implementación de la estrategia institucional, bajo los lineamientos del Gobierno Nacional."
+  },
+  {
+    "question": "Al distinguir la planeación general de comunicación de la divulgación de actividades ya desarrolladas, ¿qué responsabilidad asigna el artículo a la Oficina respecto de los instrumentos de comunicación corporativa y organizacional?",
+    "options": [
+      "Definir estrategias, planes, campañas o programas de comunicación corporativa y organizacional.",
+      "Divulgar exclusivamente los proyectos terminados, sin intervenir en la definición de estrategias o planes.",
+      "Administrar la totalidad de las políticas de comunicación del Gobierno Nacional y sus campañas interinstitucionales.",
+      "Realizar seguimiento a resultados de campañas, pero dejar la definición de estrategias y programas a los medios de comunicación."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 2 asigna a la Oficina la definición de estrategias, planes, campañas o programas de comunicación corporativa y organizacional."
+  },
+  {
+    "question": "Cuando la DIAN desarrolla planes, programas, proyectos y actividades, ¿qué debe hacer la Oficina para que esa información llegue a sus destinatarios conforme a la función de divulgación prevista?",
+    "options": [
+      "Comunicar solo los planes y proyectos a las dependencias internas, pues la ciudadanía no está incluida como destinataria de esta función.",
+      "Publicar únicamente los resultados finales, sin atender a la oportunidad ni a los programas y actividades en curso.",
+      "Divulgar la información exclusivamente a la ciudadanía, dejando el conocimiento interno a cargo de cada dependencia.",
+      "Realizar la divulgación oportuna de planes, programas, proyectos y actividades de la DIAN para conocimiento interno y de la ciudadanía en general."
+    ],
+    "correct": 3,
+    "explanation": "La función abarca planes, programas, proyectos y actividades, exige divulgación oportuna e incluye tanto el conocimiento interno como el de la ciudadanía en general."
+  },
+  {
+    "question": "Al diseñar acciones para que actores externos participen en asuntos institucionales, ¿cuál es el ámbito de la asesoría que corresponde a la Oficina en relación con el Director de la DIAN?",
+    "options": [
+      "Asesorar al Director General para que la academia y el sector privado intervengan en cualquier asunto, aunque no sea de competencia de la DIAN.",
+      "Asesorar al Director de la DIAN en estrategias que estimulen la participación de ciudadanos, academia y sectores público y privado en temas de competencia de la entidad.",
+      "Convocar directamente a esos actores para que adopten decisiones vinculantes sobre las competencias atribuidas a la DIAN.",
+      "Orientar únicamente la participación de entidades públicas en asuntos tributarios, excluyendo a la ciudadanía, la academia y el sector privado."
+    ],
+    "correct": 1,
+    "explanation": "La asesoría se dirige al Director de la DIAN y busca estimular la participación de ciudadanos, academia y sectores público y privado en temas de competencia de la entidad."
+  },
+  {
+    "question": "Si el Director de la DIAN requiere intervenir en distintos espacios comunicativos, ¿qué apoyo prevé el artículo que debe brindar la Oficina y cuál es su alcance?",
+    "options": [
+      "Autorizar la intervención del Director y determinar por cuenta propia sus posiciones institucionales, sin limitarse a asuntos de comunicación.",
+      "Preparar intervenciones únicamente para medios de comunicación nacionales, excluyendo otros canales y espacios.",
+      "Orientar y acompañar, en materia de comunicaciones, las intervenciones que requiera el Director en diferentes canales y espacios comunicativos.",
+      "Sustituir al Director en las intervenciones y administrar directamente las relaciones con todos los participantes de cada espacio."
+    ],
+    "correct": 2,
+    "explanation": "La Oficina debe orientar y acompañar las intervenciones que requiera el Director, específicamente en materia de comunicaciones y a través de diferentes canales y espacios."
+  },
+  {
+    "question": "Para gestionar la relación institucional con la prensa y otros medios, ¿qué combinación de acciones y alcance territorial atribuye el artículo a la Oficina?",
+    "options": [
+      "Establecer, canalizar y coordinar las relaciones con medios de comunicación nacionales e internacionales.",
+      "Autorizar las publicaciones de los medios y coordinar solo las relaciones con medios nacionales.",
+      "Diseñar los contenidos de medios externos y asumir la dirección editorial de los medios internacionales.",
+      "Canalizar solicitudes de medios internacionales, mientras cada dependencia establece y coordina por separado las relaciones nacionales."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 6 atribuye a la Oficina establecer, canalizar y coordinar las relaciones con medios nacionales e internacionales."
+  },
+  {
+    "question": "Cuando se comunica información producida por distintas dependencias en cumplimiento de los objetivos institucionales, ¿cómo debe organizarse la actuación de la Oficina?",
+    "options": [
+      "Cada dependencia debe formular y ejecutar por separado sus estrategias, pues la coordinación de comunicaciones está excluida de la función.",
+      "La Oficina debe divulgar toda información recibida, aunque no se haya generado en cumplimiento de objetivos institucionales.",
+      "La Oficina debe formular estrategias de divulgación sin desarrollarlas y limitar la coordinación a la Dirección General.",
+      "La Oficina debe formular y desarrollar estrategias para divulgar o comunicar esa información en coordinación con las dependencias de la DIAN."
+    ],
+    "correct": 3,
+    "explanation": "La función comprende formular y desarrollar estrategias para comunicar información generada en cumplimiento de objetivos institucionales, y exige coordinación con las dependencias de la DIAN."
+  },
+  {
+    "question": "Al precisar la responsabilidad sobre los espacios digitales e interinstitucionales de comunicación, ¿qué tarea corresponde a la Oficina y qué objetos comprende?",
+    "options": [
+      "Definir los objetivos institucionales de las plataformas, pero delegar el diseño y la administración de contenidos en los usuarios.",
+      "Diseñar y administrar contenidos de los diferentes medios de comunicación interinstitucionales, plataformas y redes sociales.",
+      "Administrar únicamente las redes sociales, mientras el diseño de contenidos y las demás plataformas corresponden a cada dependencia.",
+      "Diseñar los contenidos de los medios nacionales e internacionales, sin responsabilidad sobre plataformas o redes sociales."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 8 incluye tanto el diseño como la administración de contenidos y comprende medios de comunicación interinstitucionales, plataformas y redes sociales."
+  },
+  {
+    "question": "Una vez implementadas estrategias de comunicación institucional, ¿qué seguimiento debe realizar la Oficina según la función que le asigna el artículo?",
+    "options": [
+      "Verificar únicamente que las estrategias hayan sido aprobadas, sin atender a su ejecución ni a sus resultados.",
+      "Evaluar resultados de las actividades de la DIAN en general, aunque no estén relacionados con estrategias de comunicación.",
+      "Hacer seguimiento tanto a la ejecución de las estrategias de comunicación institucional como a sus resultados.",
+      "Acompañar la ejecución de las estrategias, dejando el seguimiento de resultados exclusivamente a las dependencias responsables."
+    ],
+    "correct": 2,
+    "explanation": "La función de seguimiento abarca dos aspectos expresos: la ejecución de las estrategias de comunicación institucional y sus resultados."
+  },
+  {
+    "question": "En relación con la identidad visual de la DIAN, ¿qué responsabilidad describe con precisión el artículo sin ampliarla a competencias no mencionadas?",
+    "options": [
+      "Promover y vigilar el uso de la imagen institucional de la DIAN.",
+      "Definir la imagen institucional de todas las entidades públicas y aprobar su uso por los medios de comunicación.",
+      "Vigilar únicamente que las dependencias internas utilicen la imagen, sin promover su uso.",
+      "Autorizar cualquier uso de la imagen institucional por terceros y sancionar directamente los incumplimientos."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 10 limita la función a promover y vigilar el uso de la imagen institucional de la DIAN; no atribuye facultades de sanción ni de regulación general."
+  },
+  {
+    "question": "Al asignar una función adicional a la Oficina, ¿cuál interpretación conserva las bases y los límites expresamente previstos en el artículo?",
+    "options": [
+      "La Oficina puede asumir cualquier función que estime conveniente, aunque no tenga relación legal, funcional o de asignación directiva.",
+      "Solo puede ejercer funciones asignadas por el Director General, pues la ley y la naturaleza de la dependencia no son bases previstas.",
+      "Puede asumir funciones relacionadas con la naturaleza de la dependencia, pero únicamente si también son asignadas por el Director General.",
+      "Puede ejercer otras funciones que le correspondan conforme a la ley, a la naturaleza de la dependencia o que le sean asignadas por el Director General de la DIAN."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 11 contempla tres bases para otras funciones: que correspondan conforme a la ley, que deriven de la naturaleza de la dependencia o que sean asignadas por el Director General."
   }
 ]
