@@ -1725,5 +1725,159 @@
     ],
     "correct": 3,
     "explanation": "El numeral 11 contempla tres bases para otras funciones: que correspondan conforme a la ley, que deriven de la naturaleza de la dependencia o que sean asignadas por el Director General."
+  },
+  {
+    "question": "Al evaluar el mandato de la Oficina de Tributación Internacional respecto de las políticas de tributación internacional, ¿qué combinación de actuaciones le atribuye expresamente el artículo 12?",
+    "options": [
+      "Diseñar y elaborar acciones orientadas a fortalecer esas políticas, y ejercer control sobre dichas acciones.",
+      "Aprobar de manera definitiva las políticas y ejercer control exclusivo sobre su ejecución por todas las dependencias.",
+      "Ejecutar únicamente las acciones que otras dependencias diseñen y evaluar sus resultados al cierre de cada período.",
+      "Proponer políticas tributarias para otros Estados y controlar su incorporación en los ordenamientos internos."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 1 asigna a la Oficina el diseño, la elaboración y el control de acciones orientadas a fortalecer las políticas de tributación internacional."
+  },
+  {
+    "question": "Cuando la DIAN desarrolla relaciones o actuaciones frente a administraciones tributarias de otros Estados u organismos internacionales o multilaterales, ¿cómo se delimita la función de la Oficina frente al Director General y al Gobierno Nacional?",
+    "options": [
+      "La Oficina sustituye al Director General en esas relaciones y ejecuta directamente las decisiones sin coordinación gubernamental.",
+      "La Oficina asesora al Director General y coordina las acciones y su ejecución con las instancias competentes del Gobierno Nacional.",
+      "La Oficina asesora a las administraciones tributarias extranjeras y deja a cada dependencia de la DIAN la coordinación de las actuaciones.",
+      "La Oficina se limita a transmitir información al Director General, mientras la coordinación con el Gobierno Nacional corresponde a los organismos multilaterales."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2 asigna a la Oficina una función de asesoría al Director General y de coordinación con las instancias competentes del Gobierno Nacional."
+  },
+  {
+    "question": "En la definición, discusión y evaluación de estándares y políticas tributarias internacionales para Colombia al interior de organismos internacionales o multilaterales, ¿qué alcance tiene la participación de la Oficina?",
+    "options": [
+      "Participa conforme a las directrices del Director General y puede proponer acciones administrativas para implementar los estándares y políticas.",
+      "Define autónomamente la posición de Colombia y aprueba las acciones administrativas que deben ejecutar los organismos internacionales.",
+      "Participa solo después de que los estándares hayan sido adoptados y propone modificaciones a las normas internas, no acciones de implementación.",
+      "Evalúa las políticas de otros Estados, mientras la definición de las de Colombia corresponde exclusivamente a las instancias multilaterales."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 3 condiciona la participación a las directrices del Director General e incluye la propuesta de acciones administrativas para la implementación."
+  },
+  {
+    "question": "Al distinguir la participación de la Oficina en foros internacionales de su intervención en instrumentos tributarios internacionales, ¿qué función ejerce como autoridad competente respecto de estos últimos?",
+    "options": [
+      "Se limita a asesorar sobre convenios ya aprobados y a verificar su aplicación, sin intervenir en su negociación.",
+      "Lidera y participa en el estudio, análisis, discusión y negociación de convenios tributarios internacionales y otras herramientas de carácter internacional.",
+      "Negocia únicamente instrumentos relativos al intercambio automático de información, pues los demás convenios corresponden al Gobierno Nacional.",
+      "Aprueba y ratifica por sí misma los convenios tributarios, además de liderar su negociación."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 4 atribuye a la Oficina, como autoridad competente, el liderazgo y la participación en el estudio, análisis, discusión y negociación de esos instrumentos; no le atribuye su aprobación o ratificación."
+  },
+  {
+    "question": "Durante el trámite legislativo relacionado con convenios internacionales en materia tributaria, ¿cuál es el papel que el artículo 12 asigna a la Oficina?",
+    "options": [
+      "Emitir la aprobación legislativa del convenio y representar al Congreso durante su ratificación.",
+      "Prestar soporte técnico al Gobierno nacional en el trámite legislativo de aprobación y ratificación de los convenios.",
+      "Negociar el convenio y sustituir el trámite legislativo cuando exista un acuerdo entre autoridades competentes.",
+      "Verificar exclusivamente la ejecución del convenio una vez aprobado, sin intervenir en las etapas de aprobación o ratificación."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 5 establece una función de soporte técnico al Gobierno nacional durante el trámite legislativo de aprobación y ratificación."
+  },
+  {
+    "question": "En el marco de convenios tributarios internacionales, la Oficina debe intervenir en la prevención y resolución de conflictos y desarrollar las funciones atinentes al Procedimiento de Mutuo Acuerdo. ¿Cuál descripción refleja con precisión ese mandato?",
+    "options": [
+      "Como autoridad competente, coordina y desarrolla las actividades relacionadas con la prevención y resolución de conflictos, y cumple las funciones del Procedimiento de Mutuo Acuerdo previsto en los convenios suscritos por Colombia y en la normativa interna colombiana para evitar la doble imposición.",
+      "Como autoridad competente, resuelve de manera unilateral todo conflicto tributario internacional y aplica el Procedimiento de Mutuo Acuerdo solo cuando no exista normativa interna.",
+      "Como órgano legislativo, crea el Procedimiento de Mutuo Acuerdo para cada conflicto y lo limita a convenios que todavía no han sido suscritos por Colombia.",
+      "Como instancia de fiscalización, determina los tributos objeto de cada conflicto y sustituye con esa determinación las reglas de los convenios internacionales."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 6 vincula la coordinación y el desarrollo de esas actividades con las funciones del Procedimiento de Mutuo Acuerdo regulado en los convenios suscritos por Colombia y en la normativa interna, con el propósito de evitar la doble imposición."
+  },
+  {
+    "question": "Al ejercer las funciones relativas al Procedimiento de Mutuo Acuerdo, la Oficina puede consultar y acceder a información de contribuyentes que está a disposición de la entidad. ¿Qué condición establece el artículo para los casos en que se requiera autorización?",
+    "options": [
+      "La información solo puede consultarse si la dependencia que la custodia autoriza su uso, aunque el contribuyente se oponga.",
+      "El acceso está permitido únicamente si la información ya fue publicada por la entidad y no contiene datos de contribuyentes.",
+      "Cuando se requiera autorización, el contribuyente debe autorizar el acceso a la información.",
+      "La Oficina debe solicitar autorización a cada Estado parte del convenio, con independencia de la información disponible en la entidad."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 6 permite consultar y acceder a la información disponible en la entidad y dispone que, si se requiere autorización, el contribuyente debe autorizarlo."
+  },
+  {
+    "question": "En relación con los acuerdos anticipados de precios de transferencia, ¿qué responsabilidades atribuye el artículo 12 a la Oficina en su calidad de autoridad competente?",
+    "options": [
+      "Coordinar y desarrollar las funciones relacionadas con su celebración, incluida la recepción de solicitudes y estudios.",
+      "Aprobar exclusivamente los estudios presentados y dejar la coordinación de la celebración a los contribuyentes.",
+      "Recibir solicitudes únicamente después de que los acuerdos hayan sido celebrados por otras dependencias.",
+      "Coordinar la fiscalización posterior de los acuerdos, sin intervenir en las funciones relacionadas con su celebración."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 7 atribuye a la Oficina la coordinación y el desarrollo de las funciones relacionadas con la celebración de estos acuerdos, e incluye expresamente recibir solicitudes y estudios."
+  },
+  {
+    "question": "Al gestionar la política internacional en materia de precios de transferencia, ¿qué límites de dirección y coordinación señala el artículo para la Oficina?",
+    "options": [
+      "La gestiona bajo las directrices del Director General y en coordinación con la Subdirección de Fiscalización Internacional o la dependencia que haga sus veces.",
+      "La gestiona de manera independiente del Director General y coordina únicamente con organismos multilaterales.",
+      "La gestiona bajo las directrices de la Subdirección de Fiscalización Internacional, sin coordinación con otras dependencias.",
+      "La limita a ejecutar políticas adoptadas por otras autoridades, pues no tiene funciones de gestión en esta materia."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 8 establece tanto la sujeción a las directrices del Director General como la coordinación con la Subdirección indicada o su equivalente."
+  },
+  {
+    "question": "Para asegurar el cumplimiento de compromisos y obligaciones internacionales de la DIAN en materia tributaria, ¿qué tipo de actuación coordinada puede realizar la Oficina?",
+    "options": [
+      "Coordinar o gestionar, junto con las entidades y dependencias correspondientes, las acciones necesarias, incluida la expedición de normas y actos administrativos.",
+      "Expedir por sí sola cualquier norma aplicable a los compromisos internacionales, sin intervención de las entidades o dependencias correspondientes.",
+      "Coordinar únicamente la negociación de nuevos compromisos y excluir las acciones relacionadas con obligaciones ya adquiridas.",
+      "Gestionar el cumplimiento solo mediante convenios internacionales, pues el artículo excluye normas y actos administrativos."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 9 permite coordinar o gestionar acciones junto con las entidades y dependencias correspondientes e incluye la expedición de normas y actos administrativos."
+  },
+  {
+    "question": "Si el Gobierno Nacional tiene interés en programas de cooperación y fortalecimiento de capacidades en tributación internacional, ¿qué función corresponde a la Oficina y con quién debe coordinarla?",
+    "options": [
+      "Diseñar o gestionar, en coordinación con las entidades y dependencias correspondientes de la DIAN, el desarrollo de programas de cooperación, asistencia mutua, asistencia técnica y fortalecimiento de capacidades.",
+      "Diseñar y ejecutar exclusivamente programas de asistencia técnica, sin coordinación con dependencias de la DIAN ni participación de otras entidades.",
+      "Aprobar los programas de interés del Gobierno Nacional y transferir su desarrollo a organismos internacionales, sin gestionar su implementación.",
+      "Gestionar programas generales de comercio exterior, aunque no tengan relación con la tributación internacional o el interés del Gobierno Nacional."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 10 asigna el diseño o la gestión del desarrollo de esos programas de interés para el Gobierno Nacional y exige coordinación con las entidades y dependencias de la DIAN correspondientes."
+  },
+  {
+    "question": "En el intercambio internacional de información tributaria a cargo de la DIAN, ¿qué alcance tiene la función de la Oficina como autoridad competente?",
+    "options": [
+      "Coordinar, desarrollar y gestionar el intercambio con autoridades competentes de otros Estados y organismos internacionales o multilaterales, incluida la firma de documentos relacionados conforme a los requisitos y estándares que debe cumplir Colombia.",
+      "Limitarse a recibir información de otros Estados, pues la gestión de envíos y la firma de documentos quedan fuera de sus funciones.",
+      "Gestionar el intercambio exclusivamente con organismos multilaterales y firmar documentos sin atender los requisitos o estándares aplicables a Colombia.",
+      "Coordinar el intercambio tributario de otras entidades, pero no el que está a cargo de la DIAN ni la documentación asociada."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 11 incluye la coordinación, el desarrollo y la gestión del intercambio a cargo de la DIAN con los interlocutores indicados, así como la firma de documentos relacionados conforme a los requisitos y estándares que debe cumplir Colombia."
+  },
+  {
+    "question": "Respecto de los estándares internacionales de intercambio automático de información tributaria, ¿qué combinación de funciones asigna el artículo a la Oficina y bajo qué marco debe identificar incumplimientos?",
+    "options": [
+      "Coordinar, verificar y controlar su cumplimiento, y adelantar las gestiones y procedimientos necesarios para identificar a los responsables que incumplan, conforme a la normativa interna colombiana.",
+      "Verificar el intercambio únicamente después de que se produzcan incumplimientos y determinar responsabilidades con arreglo exclusivo a estándares extranjeros.",
+      "Coordinar el diseño de estándares internacionales, pero dejar su control y la identificación de responsables a cada autoridad competente extranjera.",
+      "Controlar el cumplimiento de todos los estándares tributarios, sin limitarse al intercambio automático ni seguir la normativa interna colombiana."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 12 reúne las funciones de coordinación, verificación y control, además de las gestiones para identificar responsables, de conformidad con la normativa interna colombiana."
+  },
+  {
+    "question": "Una dependencia recibe del Director General una función adicional que no aparece enumerada expresamente entre las funciones específicas de la Oficina. ¿En qué condiciones puede quedar comprendida dentro de las funciones de la Oficina conforme al artículo 12?",
+    "options": [
+      "Cuando corresponda de conformidad con la ley, sea acorde con la naturaleza de la dependencia o sea asignada por el Director General de la DIAN.",
+      "Solo cuando haya sido creada por un organismo internacional y ratificada por todas las administraciones tributarias participantes.",
+      "Cuando contribuya al propósito general de la DIAN, aunque no corresponda a la ley, a la naturaleza de la dependencia ni haya sido asignada por el Director General.",
+      "Únicamente cuando reproduzca una de las funciones enumeradas en el artículo y haya sido asignada por una autoridad distinta del Director General."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 13 incorpora funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
