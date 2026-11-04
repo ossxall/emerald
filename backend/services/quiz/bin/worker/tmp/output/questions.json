@@ -2077,5 +2077,126 @@
     ],
     "correct": 1,
     "explanation": "La cláusula residual comprende las funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar el objeto institucional del Registro Único Tributario (RUT), ¿qué interpretación describe correctamente la función de administración asignada a la Subdirección y el alcance de la información que el registro debe permitir gestionar?",
+    "options": [
+      "Administrar el RUT para identificar, ubicar, clasificar y hacer seguimiento a los clientes de la administración tributaria, aduanera, cambiaria e internacional.",
+      "Administrar el RUT únicamente para clasificar a los contribuyentes tributarios y determinar sus obligaciones fiscales, sin incluir funciones de ubicación o seguimiento.",
+      "Administrar el RUT para identificar y ubicar exclusivamente a los clientes de la administración aduanera y cambiaria, dejando la clasificación y el seguimiento a otras dependencias.",
+      "Administrar el RUT principalmente como instrumento para fiscalizar operaciones y establecer sanciones de clientes tributarios, aduaneros, cambiarios e internacionales."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende administrar el RUT para identificación, ubicación, clasificación y seguimiento de los clientes de las administraciones tributaria, aduanera, cambiaria e internacional."
+  },
+  {
+    "question": "Para que los sistemas de información y servicios digitales asociados al RUT apoyen la gestión institucional, ¿qué orientación corresponde a la Subdirección respecto de su administración y de los usuarios beneficiarios?",
+    "options": [
+      "Propender por su adecuada administración para facilitar a clientes internos y externos la gestión oportuna y segura de los trámites asociados al RUT.",
+      "Administrarlos directamente para que los clientes externos realicen trámites oportunos, mientras la seguridad de los trámites internos queda a cargo de cada dependencia.",
+      "Priorizar la actualización técnica de los sistemas, aunque la oportunidad y seguridad de los trámites asociados dependan exclusivamente de los usuarios del RUT.",
+      "Gestionar los servicios digitales principalmente para intercambiar información con otras entidades, restringiendo su uso para trámites de clientes internos."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección debe propender por la adecuada administración de esos sistemas y servicios, con el fin de facilitar trámites asociados al RUT de manera oportuna y segura tanto a clientes internos como externos."
+  },
+  {
+    "question": "Cuando se proponen ajustes a los sistemas de información y servicios digitales del RUT, ¿qué ciclo debe realizar la Subdirección y qué orígenes de necesidad deben considerarse para esos ajustes?",
+    "options": [
+      "Debe aprobar, implementar y auditar los cambios derivados únicamente de disposiciones normativas, excluyendo las necesidades operativas formuladas por dependencias de la Entidad.",
+      "Debe analizar, definir y probar las propuestas de ajuste que surjan de disposiciones normativas que deban reflejarse en el RUT y de necesidades detectadas por diferentes dependencias de la Entidad.",
+      "Debe analizar y probar cambios solicitados por dependencias, pero la definición de los ajustes normativos corresponde exclusivamente a la Dirección de Gestión de Innovación y Tecnología.",
+      "Debe definir y desplegar ajustes cuando cambie la normatividad o los sistemas institucionales, sin que el análisis y las pruebas formen parte de su función."
+    ],
+    "correct": 1,
+    "explanation": "La función establece el ciclo de análisis, definición y pruebas de las propuestas, tanto si derivan de disposiciones normativas que deban reflejarse en el RUT como de necesidades detectadas por distintas dependencias."
+  },
+  {
+    "question": "En materia de interoperabilidad del RUT, ¿cómo se delimita la gestión de la Subdirección frente a la Dirección de Gestión de Innovación y Tecnología y cuáles son los posibles destinos del intercambio de información?",
+    "options": [
+      "La Subdirección realiza unilateralmente el intercambio con otras entidades del Estado, mientras la Dirección de Gestión de Innovación y Tecnología se limita a administrar los sistemas internos.",
+      "La Subdirección gestiona conjuntamente el intercambio con la Dirección de Gestión de Innovación y Tecnología, pero únicamente con otras entidades del Estado y no con sistemas de la propia Entidad.",
+      "La Subdirección gestiona conjuntamente con la Dirección de Gestión de Innovación y Tecnología el intercambio del RUT con otras entidades del Estado y/o con otros sistemas de información y servicios digitales de la Entidad.",
+      "La Subdirección coordina el intercambio del RUT con clientes internos y externos, mientras que las entidades estatales y los demás sistemas de la Entidad quedan fuera de ese ámbito."
+    ],
+    "correct": 2,
+    "explanation": "La función asigna una gestión conjunta con la Dirección de Gestión de Innovación y Tecnología y contempla como destinos otras entidades del Estado y/o otros sistemas de información y servicios digitales de la Entidad."
+  },
+  {
+    "question": "Al formular estrategias sobre la calidad y utilidad de la información incorporada al RUT, ¿qué combinación de finalidad y atributos debe procurar la Subdirección para esa información?",
+    "options": [
+      "Que sirva de base para identificar, ubicar, clasificar y hacer seguimiento a clientes de las administraciones tributaria, aduanera y cambiaria, y que sea confiable, oportuna y ajustada a la normatividad vigente.",
+      "Que permita identificar y clasificar a los clientes tributarios y aduaneros, aunque la oportunidad de los datos pueda supeditarse a la periodicidad de las revisiones internas.",
+      "Que sirva para identificar, ubicar y seguir a clientes tributarios, aduaneros y cambiarios, y que sea confiable y oportuna, aunque su ajuste a la normatividad sea responsabilidad de los usuarios.",
+      "Que constituya una base para ubicar y clasificar a clientes de la administración tributaria, aduanera, cambiaria e internacional, con prioridad en la integridad técnica sobre su oportunidad."
+    ],
+    "correct": 0,
+    "explanation": "Las estrategias deben garantizar tanto la función de identificación, ubicación, clasificación y seguimiento para clientes tributarios, aduaneros y cambiarios como la confiabilidad, oportunidad y conformidad de la información con la normatividad vigente."
+  },
+  {
+    "question": "Si se presentan solicitudes relacionadas con el estado de inscripción o con responsabilidades registradas en el RUT, ¿qué alcance tiene la función de dirección del proceso asignada a la Subdirección?",
+    "options": [
+      "Atender únicamente solicitudes de inscripción inicial, dejando el retiro de responsabilidades y la cancelación del registro a las dependencias que originaron la solicitud.",
+      "Dirigir la atención de solicitudes de registro o retiro de responsabilidades y de cancelación del RUT, pero excluir cualquier otra solicitud definida normativamente y permitir resultados distintos de la actualización del registro.",
+      "Dirigir el proceso de atención de solicitudes sobre registro o retiro de responsabilidades, cancelación del RUT u otras definidas normativamente, cuyo resultado sea la actualización del RUT.",
+      "Resolver directamente solo las solicitudes de cancelación del RUT, mientras la inscripción, el retiro de responsabilidades y las demás solicitudes se tramitan como actuaciones masivas de oficio."
+    ],
+    "correct": 2,
+    "explanation": "La función comprende dirigir el proceso para atender las solicitudes expresamente indicadas y las que se definan normativamente; el resultado de ese proceso debe ser la actualización del RUT."
+  },
+  {
+    "question": "Para promover el cumplimiento fiscal mediante una intervención persuasiva, ¿qué población debe recibir acompañamiento y qué resultados busca la función atribuida a la Subdirección?",
+    "options": [
+      "Los clientes ya inscritos en el RUT, para aumentar la fiscalización de sus obligaciones y elevar el recaudo mediante actuaciones sancionatorias.",
+      "Los clientes obligados a inscribirse en el RUT, mediante acompañamiento orientado a mejorar los niveles de recaudo y el cumplimiento voluntario de obligaciones fiscales.",
+      "Las dependencias internas que administran el RUT, mediante capacitación orientada a mejorar la seguridad digital y el intercambio de información institucional.",
+      "Los operadores aduaneros que solicitan retirar responsabilidades del RUT, mediante acompañamiento destinado a acelerar la cancelación de sus registros."
+    ],
+    "correct": 1,
+    "explanation": "La gestión persuasiva se promueve acompañando a los clientes obligados a inscribirse en el RUT, con el propósito de mejorar el recaudo y el cumplimiento voluntario de obligaciones fiscales."
+  },
+  {
+    "question": "Al distinguir entre promover iniciativas institucionales y ejecutar directamente la administración cotidiana del RUT, ¿qué responsabilidad específica corresponde a la Subdirección respecto de programas y campañas?",
+    "options": [
+      "Diseñar y dirigir de manera exclusiva todos los programas institucionales sobre sistemas digitales, incluso cuando no estén relacionados con el RUT.",
+      "Apoyar el desarrollo de programas y campañas sobre los sistemas de información y servicios digitales que disponga la Entidad, cuando estén relacionados con el RUT.",
+      "Ejecutar campañas exclusivamente para los clientes externos obligados a inscribirse, sin intervenir en programas vinculados con los sistemas digitales de la Entidad.",
+      "Aprobar las campañas de otras dependencias y asumir la administración de todos los servicios digitales institucionales, aunque no se relacionen con el RUT."
+    ],
+    "correct": 1,
+    "explanation": "La función consiste en apoyar el desarrollo de programas y campañas referentes a los sistemas de información y servicios digitales dispuestos por la Entidad, en cuanto estén relacionados con el RUT."
+  },
+  {
+    "question": "Cuando los procesos de la Entidad requieren actuaciones generales sobre registros, ¿qué condiciones delimitan la competencia de la Subdirección para realizarlas de oficio en el RUT?",
+    "options": [
+      "Puede ejecutar actuaciones individuales a solicitud de cada cliente, siempre que exista una autorización específica del Director General para cada caso.",
+      "Puede realizar actuaciones masivas de oficio únicamente cuando se trate de corregir información, sin atender requerimientos de otros procesos de la Entidad.",
+      "Debe realizar de oficio actuaciones masivas en el RUT conforme a las disposiciones legales y a los requerimientos de los diferentes procesos de la Entidad.",
+      "Puede realizar actuaciones masivas solicitadas por cualquier cliente, incluso si no están contempladas en las disposiciones legales ni responden a requerimientos institucionales."
+    ],
+    "correct": 2,
+    "explanation": "La función contempla actuaciones masivas realizadas de oficio en el RUT y las sujeta tanto a las disposiciones legales como a los requerimientos de los distintos procesos de la Entidad."
+  },
+  {
+    "question": "Respecto del Registro Único de Beneficiarios Efectivos, Finales o Reales (RUB), ¿qué conjunto de verbos describe la intervención asignada a la Subdirección y qué condición limita su gestión?",
+    "options": [
+      "Administrar, fiscalizar y sancionar el RUB en todos los casos, con independencia de las delegaciones del Director General.",
+      "Diseñar, coordinar y desarrollar y/o gestionar el RUB, de acuerdo con las delegaciones del Director General.",
+      "Diseñar y coordinar el RUB, pero sin desarrollarlo ni gestionarlo, pues esas funciones corresponden exclusivamente a otras entidades del Estado.",
+      "Desarrollar y gestionar el RUB por competencia propia, y solicitar al Director General únicamente la aprobación de cada registro individual."
+    ],
+    "correct": 1,
+    "explanation": "La Subdirección debe diseñar, coordinar y desarrollar y/o gestionar el RUB conforme a las delegaciones del Director General; la función no se presenta como una competencia incondicionada."
+  },
+  {
+    "question": "Al interpretar la cláusula que permite asignar a la Subdirección otras funciones además de las enumeradas, ¿qué fuentes y límites identifica el artículo para esas funciones adicionales?",
+    "options": [
+      "Solo pueden provenir de instrucciones operativas de las dependencias seccionales y deben limitarse a la administración ordinaria del RUT.",
+      "Pueden derivarse de la ley o de la naturaleza de la dependencia, o ser asignadas por el Director General de la DIAN.",
+      "Deben ser asignadas conjuntamente por la Dirección de Gestión de Innovación y Tecnología y el Director General, y relacionarse exclusivamente con servicios digitales.",
+      "Corresponden a cualquier función tributaria, aduanera o cambiaria de la Entidad, aunque no derive de la ley, de la naturaleza de la dependencia ni de asignación del Director General."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula residual reconoce funciones que correspondan de conformidad con la ley, que se desprendan de la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
