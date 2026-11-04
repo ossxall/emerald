@@ -1879,5 +1879,203 @@
     ],
     "correct": 0,
     "explanation": "El numeral 13 incorpora funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al asignar responsabilidades para asegurar la función de recaudo prevista en el Parágrafo 2 del artículo 908 del Estatuto Tributario, ¿qué alcance institucional atribuye el artículo 13 a la Dirección de Gestión de Impuestos?",
+    "options": [
+      "Debe establecer e impartir directrices para garantizar el cumplimiento de esa función en el nivel nacional, a través de las subdirecciones a su cargo y de las Direcciones Seccionales, conforme a la disposición citada o a las normas que la modifiquen o sustituyan.",
+      "Debe ejecutar directamente esa función en el nivel central, mientras que las subdirecciones y Direcciones Seccionales se limitan a informar sobre los resultados obtenidos.",
+      "Debe coordinar esa función exclusivamente con las Direcciones Seccionales, pues las subdirecciones a su cargo no hacen parte de los canales previstos para su cumplimiento.",
+      "Debe impartir directrices para el recaudo únicamente cuando el Parágrafo 2 del artículo 908 permanezca sin modificaciones, pues la función no se extiende a normas que lo sustituyan."
+    ],
+    "correct": 0,
+    "explanation": "La función consiste en establecer e impartir directrices y lineamientos para asegurar el recaudo a nivel nacional mediante las subdirecciones a cargo y las Direcciones Seccionales; también contempla las normas que modifiquen o sustituyan la disposición citada."
+  },
+  {
+    "question": "Al convertir el Plan Estratégico en supervisión operativa de las responsabilidades de la Dirección, ¿qué conjunto de actividades y recursos queda comprendido por la función de planeación y supervisión?",
+    "options": [
+      "La gestión de recaudo de impuestos nacionales, dejando el cobro y las devoluciones bajo una planeación independiente de la Dirección.",
+      "Las operaciones de recaudo, cobro y devolución de impuestos nacionales, pero no las relacionadas con otros emolumentos de competencia de la DIAN.",
+      "Las operaciones relacionadas con la gestión de recaudo, cobro y devolución tanto de los impuestos nacionales como de los demás emolumentos que sean competencia de la DIAN.",
+      "Todas las operaciones tributarias, aduaneras y cambiarias de la DIAN, aunque no estén relacionadas con recaudo, cobro o devolución."
+    ],
+    "correct": 2,
+    "explanation": "La planeación y supervisión se realizan de acuerdo con el Plan Estratégico y abarcan las operaciones de recaudo, cobro y devolución de impuestos nacionales y de los demás emolumentos de competencia de la DIAN."
+  },
+  {
+    "question": "Si se requiere fijar disposiciones para que los procesos y procedimientos de competencia de la Dirección se cumplan correctamente, ¿cómo se concreta la función normativa interna descrita en el artículo?",
+    "options": [
+      "La Dirección puede expedir instrucciones únicamente para procesos de recaudo, mientras que los procedimientos de su competencia deben regularse por otras dependencias.",
+      "La Dirección expide instrucciones, lineamientos y demás disposiciones destinadas a garantizar y facilitar el cumplimiento de las normas que establecen y regulan los procesos y procedimientos de su competencia.",
+      "La Dirección expide disposiciones para sustituir las normas que regulan sus procesos y procedimientos, siempre que estime que ello facilita su cumplimiento.",
+      "La Dirección supervisa la aplicación de normas externas, pero no tiene atribución para expedir instrucciones o lineamientos sobre los procesos y procedimientos a su cargo."
+    ],
+    "correct": 1,
+    "explanation": "El artículo atribuye a la Dirección la expedición de instrucciones, lineamientos y demás disposiciones para garantizar y facilitar el cumplimiento de las normas aplicables a los procesos y procedimientos de su competencia."
+  },
+  {
+    "question": "Al optimizar los procesos del Registro Único Tributario, ¿qué finalidad y alcance funcional deben orientar las instrucciones de la Dirección de Gestión de Impuestos?",
+    "options": [
+      "Optimizar el RUT para identificar y clasificar a los contribuyentes, limitando el seguimiento a quienes tengan obligaciones tributarias vencidas.",
+      "Administrar el RUT con el propósito principal de registrar operaciones aduaneras, sin abarcar la ubicación ni el seguimiento de los clientes de la administración.",
+      "Impartir instrucciones para identificar, ubicar, clasificar y hacer seguimiento a los clientes de la administración tributaria, aduanera y cambiaria mediante procesos relacionados con el RUT.",
+      "Impartir instrucciones sobre identificación y ubicación de usuarios tributarios, dejando la clasificación y el seguimiento a cargo exclusivo de las áreas aduaneras."
+    ],
+    "correct": 2,
+    "explanation": "La función busca optimizar los procesos relacionados con el RUT para la identificación, ubicación, clasificación y seguimiento de clientes de la administración tributaria, aduanera y cambiaria."
+  },
+  {
+    "question": "Cuando una declaración requiera un plazo especial de presentación, ¿qué decisión puede adoptar la Dirección y cuál es el límite expresamente señalado para ejercerla?",
+    "options": [
+      "Puede autorizar plazos especiales para presentar declaraciones, de conformidad con los requisitos establecidos por la Ley.",
+      "Puede conceder plazos especiales sin atender requisitos legales, siempre que la solicitud se fundamente en necesidades operativas de la DIAN.",
+      "Puede conceder plazos adicionales para pagar obligaciones, pero la autorización de plazos de presentación corresponde a cada Dirección Seccional.",
+      "Puede autorizar plazos especiales para presentar declaraciones únicamente cuando se trate de contribuyentes acogidos a facilidades de pago."
+    ],
+    "correct": 0,
+    "explanation": "La Dirección está facultada para autorizar plazos especiales para la presentación de declaraciones, pero debe hacerlo de conformidad con los requisitos establecidos por la Ley."
+  },
+  {
+    "question": "En el contexto de las facilidades de pago solicitadas por contribuyentes, ¿qué potestad específica asigna el artículo a la Dirección, sin confundirla con la autorización de plazos para presentar declaraciones?",
+    "options": [
+      "Autorizar cualquier extensión de pago solicitada, aun cuando el plazo no esté previsto en el Estatuto Tributario.",
+      "Conceder el plazo adicional consagrado en el Estatuto Tributario para las facilidades de pago de los contribuyentes.",
+      "Autorizar plazos especiales para presentar declaraciones en sustitución del plazo adicional aplicable a las facilidades de pago.",
+      "Conceder facilidades de pago únicamente respecto de impuestos nacionales y excluir los demás conceptos recaudados por la DIAN."
+    ],
+    "correct": 1,
+    "explanation": "La atribución consiste en conceder el plazo adicional consagrado en el Estatuto Tributario para las facilidades de pago por parte de los contribuyentes."
+  },
+  {
+    "question": "Al evaluar la atención prestada en los canales presenciales de la Entidad, ¿qué combinación de instrucción, evaluación, usuarios y marco de planeación corresponde a la función de la Dirección?",
+    "options": [
+      "Impartir instrucciones de servicio y evaluar los puntos de atención únicamente respecto de contribuyentes, con base exclusiva en los planes operativos.",
+      "Impartir instrucciones sobre atención al cliente y evaluar los puntos de atención a contribuyentes y usuarios aduaneros, de acuerdo con el Plan Estratégico y los planes operativos de la Entidad.",
+      "Evaluar el servicio a contribuyentes y usuarios aduaneros, pero dejar las instrucciones de atención al cliente a cargo de cada Dirección Seccional.",
+      "Impartir instrucciones para contribuyentes y usuarios aduaneros y evaluar los puntos de atención conforme al Plan Estratégico, sin considerar los planes operativos."
+    ],
+    "correct": 1,
+    "explanation": "La Dirección imparte instrucciones en materia de atención y servicio al cliente y evalúa la gestión en puntos de atención a contribuyentes y usuarios aduaneros conforme al Plan Estratégico y los planes operativos."
+  },
+  {
+    "question": "Al delimitar la dirección de las acciones de recaudo y cobro, ¿cómo se relaciona la competencia propia de la DIAN con la asistencia internacional en la recaudación?",
+    "options": [
+      "La Dirección conduce las acciones de recaudo y cobro en asuntos de competencia de la DIAN, pero la asistencia en la recaudación se limita a convenios nacionales.",
+      "La Dirección dirige acciones propias de recaudo y cobro en asuntos de competencia de la DIAN y también las tendientes a prestar asistencia en la recaudación de impuestos dentro del marco de acuerdos, convenios o tratados internacionales.",
+      "La Dirección puede prestar asistencia internacional en la recaudación, pero no dirigir las acciones propias de recaudo y cobro de la DIAN.",
+      "La Dirección dirige acciones de recaudo en asuntos de competencia de la DIAN y presta asistencia internacional solo para el cobro judicial de facturas electrónicas."
+    ],
+    "correct": 1,
+    "explanation": "La función comprende tanto las acciones propias de recaudo y cobro en asuntos de competencia de la DIAN como las destinadas a asistir en la recaudación de impuestos bajo acuerdos, convenios o tratados internacionales."
+  },
+  {
+    "question": "Para valorar si la Dirección cumple su responsabilidad de controlar la gestión efectiva del cobro, ¿qué alcance deben tener el ámbito territorial, los conceptos cobrados y la planificación aplicable?",
+    "options": [
+      "Debe dirigir y controlar nacionalmente el cobro de impuestos y multas, conforme a los planes establecidos, mientras los demás gravámenes quedan fuera de esta función.",
+      "Debe controlar nacionalmente el cobro de todos los conceptos asignados a la DIAN, incluidos derechos, tasas, contribuciones, sanciones, intereses, recargos y demás gravámenes, según los planes de cobro establecidos.",
+      "Debe controlar el cobro de los conceptos asignados a la DIAN en el nivel central, aplicando planes de cobro definidos para cada Dirección Seccional.",
+      "Debe dirigir el cobro nacional de impuestos y demás gravámenes que recauda la DIAN, pero no controlar su efectividad ni sujetar la gestión a planes de cobro."
+    ],
+    "correct": 1,
+    "explanation": "La responsabilidad cubre la dirección y el control nacional de la gestión efectiva del cobro de los conceptos que compete recaudar a la DIAN y debe ejercerse según los planes de cobro establecidos."
+  },
+  {
+    "question": "Cuando la información de sistemas de facturación y documentos de soporte pueda contribuir a acciones de control, ¿qué intercambio y finalidad autoriza la función descrita?",
+    "options": [
+      "Intercambiar esa información con dependencias de la DIAN para apoyar acciones de prevención, investigación, penalización, determinación, aplicación y liquidación de tributos nacionales, derechos de aduana y comercio exterior.",
+      "Intercambiar la información únicamente con entidades externas a la DIAN para determinar y liquidar impuestos nacionales, sin incluir acciones de prevención o investigación.",
+      "Compartir documentos de soporte con otras dependencias de la DIAN exclusivamente para liquidar tributos, pues la información de los sistemas de facturación queda excluida.",
+      "Intercambiar información con otras dependencias de la DIAN para apoyar la gestión del recaudo, restringiendo su uso a tributos nacionales y excluyendo derechos de aduana y comercio exterior."
+    ],
+    "correct": 0,
+    "explanation": "La función prevé el intercambio con otras dependencias de la DIAN de información obtenida de los sistemas de facturación y documentos de soporte para apoyar las acciones enumeradas, incluidas las relativas a tributos nacionales, derechos de aduana y comercio exterior."
+  },
+  {
+    "question": "En la gestión de la factura electrónica como título valor, ¿qué responsabilidad asigna el artículo a la Dirección respecto del Registro de la Factura Electrónica y para qué efectos?",
+    "options": [
+      "Administrar el Registro únicamente para facilitar la presentación de declaraciones, sin intervenir en negociaciones ni en el cobro judicial de facturas.",
+      "Dirigir y supervisar el Registro para efectos de negociación, pero dejar el cobro judicial y las demás limitaciones del título valor fuera de su alcance.",
+      "Dirigir, administrar, supervisar y controlar el Registro para efectos de negociación, cobro judicial y demás limitaciones de la factura electrónica como título valor.",
+      "Controlar el cobro judicial de facturas electrónicas, sin administrar el Registro ni supervisar su uso para la negociación del título valor."
+    ],
+    "correct": 2,
+    "explanation": "La Dirección debe dirigir, administrar, supervisar y controlar el Registro de la Factura Electrónica para los efectos indicados: negociación, cobro judicial y demás limitaciones de la factura como título valor."
+  },
+  {
+    "question": "Al diseñar análisis sobre los ingresos derivados de obras por impuestos, ¿qué coordinación y objeto analítico exige la función atribuida a la Dirección?",
+    "options": [
+      "Efectuar desarrollos analíticos sobre el recaudo generado a partir de obras por impuestos, en coordinación con la Dirección de Gestión Estratégica y de Analítica.",
+      "Efectuar análisis económicos de todas las obras públicas, en coordinación exclusiva con las Direcciones Seccionales, para definir el recaudo nacional.",
+      "Coordinar con la Dirección de Gestión Estratégica y de Analítica la ejecución de obras por impuestos, sin que la función comprenda desarrollos analíticos sobre el recaudo.",
+      "Desarrollar análisis sobre la facturación electrónica asociada a obras por impuestos, sin coordinación con la Dirección de Gestión Estratégica y de Analítica."
+    ],
+    "correct": 0,
+    "explanation": "La función es efectuar desarrollos analíticos sobre el recaudo que se genera a partir de obras por impuestos y hacerlo en coordinación con la Dirección de Gestión Estratégica y de Analítica."
+  },
+  {
+    "question": "Ante una solicitud de contrato de estabilidad tributaria presentada por un mega inversionista, ¿qué condiciones institucionales y legales deben concurrir para que la Dirección ejerza la función prevista?",
+    "options": [
+      "La Dirección puede suscribir el contrato por el solo hecho de recibir la solicitud, y los requisitos legales se verifican después de su celebración.",
+      "La Dirección suscribe contratos de estabilidad tributaria solicitados por mega inversionistas, previo cumplimiento de los requisitos establecidos por la Ley.",
+      "La Dirección puede suscribir esos contratos solo cuando la solicitud provenga de una Dirección Seccional y cumpla requisitos definidos por la propia dependencia.",
+      "La Dirección presenta los contratos a la Dirección General para su suscripción, aunque el artículo le atribuye únicamente la evaluación de los requisitos."
+    ],
+    "correct": 1,
+    "explanation": "El artículo atribuye a la Dirección la suscripción de los contratos de estabilidad tributaria solicitados por mega inversionistas, condicionada al cumplimiento previo de los requisitos establecidos por la Ley."
+  },
+  {
+    "question": "Al traducir la función de liderazgo de políticas y planes en una agenda integral de gestión tributaria, ¿qué interpretación respeta tanto los ámbitos enumerados como la cláusula general de competencia?",
+    "options": [
+      "La Dirección lidera políticas y planes de recaudo, cobro y devoluciones, pero contabilidad, control extensivo y servicio al ciudadano corresponden a funciones separadas y excluidas de su ámbito.",
+      "La Dirección lidera políticas y planes sobre recaudo, cobro, devoluciones, contabilidad, control extensivo, servicio al ciudadano, administración del RUT, cultura de la contribución, formalización tributaria y facturación electrónica, además de los procesos, subprocesos y procedimientos que la normatividad le asigne.",
+      "La Dirección lidera todos los procesos tributarios de la DIAN sin limitación normativa, aunque no le hayan sido asignados, y puede extender esa competencia a cualquier dependencia.",
+      "La Dirección lidera políticas para administrar el RUT y la facturación electrónica, pero no planes de recaudo, cobro, devoluciones o cultura de la contribución."
+    ],
+    "correct": 1,
+    "explanation": "La función incluye todos los ámbitos enumerados y, en general, los procesos, subprocesos y procedimientos que la normatividad asigne a la Dirección; no establece una competencia ilimitada sobre asuntos no asignados."
+  },
+  {
+    "question": "Para impulsar la formalización tributaria en Colombia sin confundir la formulación de propuestas con su aprobación, ¿qué actuación corresponde a la Dirección de Gestión de Impuestos?",
+    "options": [
+      "Aprobar por sí misma las políticas de formalización tributaria y ejecutarlas sin intervención de la Dirección General.",
+      "Presentar a la Dirección General propuestas de políticas orientadas a fomentar, incentivar, impulsar y promocionar la formalización tributaria en Colombia, para su aprobación y formulación y de acuerdo con las competencias de la DIAN.",
+      "Presentar propuestas de formalización tributaria a las Direcciones Seccionales para aprobación, limitando su alcance a los contribuyentes que ya estén inscritos en el RUT.",
+      "Formular políticas de formalización únicamente para el recaudo, sin que la Dirección General participe en su aprobación ni en su formulación."
+    ],
+    "correct": 1,
+    "explanation": "La Dirección presenta a la Dirección General las propuestas orientadas a fomentar, incentivar, impulsar y promocionar la formalización tributaria en Colombia, dentro de las competencias de la DIAN y para aprobación y formulación."
+  },
+  {
+    "question": "Al establecer una estrategia institucional de educación fiscal, ¿qué finalidad debe conectar los lineamientos de la Dirección con la cultura de la contribución?",
+    "options": [
+      "Fortalecer en la Entidad la difusión y apropiación del concepto de lo público y del pago de impuestos en el país mediante lineamientos y estrategias de educación fiscal y cultura de la contribución.",
+      "Concentrar la educación fiscal en la capacitación técnica de funcionarios sobre liquidación de impuestos, sin orientar acciones a la apropiación del concepto de lo público.",
+      "Definir estrategias de cultura de la contribución dirigidas exclusivamente a usuarios aduaneros, con el propósito de difundir procedimientos de comercio exterior.",
+      "Promover el pago de impuestos mediante campañas externas, dejando la definición de lineamientos y estrategias de educación fiscal fuera de la competencia de la Dirección."
+    ],
+    "correct": 0,
+    "explanation": "La Dirección establece lineamientos y estrategias de educación fiscal y cultura de la contribución en la Entidad, encaminados a fortalecer la difusión y apropiación del concepto de lo público y del pago de impuestos en el país."
+  },
+  {
+    "question": "Si varias áreas proveen insumos contables para los estados financieros asociados al recaudo, ¿qué responsabilidad de coordinación y qué atributos de la información deben asegurarse?",
+    "options": [
+      "La Dirección debe centralizar directamente todos los insumos contables y garantizar únicamente que la información esté disponible para las áreas proveedoras.",
+      "La Dirección debe coordinar la interoperabilidad de las áreas proveedoras de insumos contables para garantizar la completitud y relevancia de la información de los Estados Financieros de la función recaudadora.",
+      "La Dirección debe coordinar la interoperabilidad de las áreas contables para garantizar la exactitud de todos los estados financieros de la DIAN, sin distinguir la función recaudadora.",
+      "La Dirección debe evaluar por separado los insumos contables de cada área, sin coordinar su interoperabilidad, y asegurar la oportunidad de la información tributaria."
+    ],
+    "correct": 1,
+    "explanation": "La función es coordinar la interoperabilidad de las áreas proveedoras de insumos contables con el objetivo específico de garantizar la completitud y relevancia de la información de los Estados Financieros de la función recaudadora."
+  },
+  {
+    "question": "Al determinar si una tarea no enumerada expresamente puede corresponder a la Dirección de Gestión de Impuestos, ¿qué criterio refleja correctamente la cláusula residual del artículo?",
+    "options": [
+      "La tarea solo puede asignarse mediante una norma con rango de ley, pues la naturaleza de la dependencia y las asignaciones del Director General no son criterios contemplados.",
+      "La Dirección puede ejercer funciones que le correspondan conforme a la ley, a la naturaleza de la dependencia o que le sean asignadas por el Director General de la DIAN.",
+      "La Dirección puede asumir cualquier función relacionada con impuestos por decisión propia, aunque no corresponda a la ley, a la naturaleza de la dependencia ni a una asignación del Director General.",
+      "La Dirección puede ejercer las funciones asignadas por las Direcciones Seccionales, siempre que estén relacionadas con el recaudo y hayan sido incluidas en los planes de cobro."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula residual comprende las funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
