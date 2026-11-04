@@ -1,35 +1,24 @@
 <LanguageRule>Spanish</LanguageRule>
 <GeneralContextKeywords>acción, actividad, acto, administración, administrar, administrativa, administrativo, aduanas, aduanera, aduanero, análisis, aplicación, asignado, asignar, asunto, bien, cobro, comercio, competencia, competente, conformidad, contribuyente, control, controlar, coordinación, coordinar, corresponder, cumplimiento, definir, dependencia, desarrollar, desarrollo, dian, direcciones, dirección, director, directriz, dirigir, diseñar, disposición, división, económico, ejercer, elaborar, entidad, especial, establecer, estrategia, evaluar, exterior, facilitación, fiscal, fiscalización, funciones, función, garantizar, general, gestionar, gestión, impartir, implementación, implementar, impuesto, impuestos, información, internacional, interno, investigación, jurídica, lineamiento, liquidación, materia, mercancía, nacional, nación, naturaleza, necesario, nivel, norma, normatividad, obligación, operación, operador, operativa, operativo, orientar, plan, política, procedimiento, proceso, programa, proponer, público, recaudo, recurso, registro, relacionado, riesgo, seccional, seccionales, seguimiento, seguridad, servicio, siguiente, sistema, solicitud, subdirección, talento, tributario, técnico, usuario, único</GeneralContextKeywords>
-<QuizContent>ARTÍCULO 14. SUBDIRECCIÓN DE ADMINISTRACIÓN DEL REGISTRO ÚNICO TRIBUTARIO. Son
-funciones de la Subdirección de Administración del Registro Único Tributario las siguientes:
-1. Administrar el Registro Único Tributario -RUT para la identificación, ubicación, clasificación y seguimiento de los clientes de la administración tributaria, aduanera, cambiaría e internacional.
-2.
-Propender
-por la
-adecuada
+<QuizContent>ARTÍCULO 15. SUBDIRECCIÓN DE RECAUDO. Son funciones de la Subdirección de Recaudo las
+siguientes:
+1. Administrar y controlar las actividades relacionadas con el recaudo de los tributos nacionales, derechos de aduana, demás impuestos al comercio exterior, de las sanciones cambiarías, y de los demás gravámenes o emolumentos de competencia de la DIAN.
+2. Controlar y evaluar el cumplimiento de las obligaciones que tienen las entidades recaudadoras e imponer las sanciones a que haya lugar cuando incumplan sus obligaciones.
+3. Controlar el efectivo recaudo y consignación de los impuestos, derechos, tasas, contribuciones, multas, sanciones, intereses y demás gravámenes efectuados por las entidades autorizadas para recaudar.
+4. Realizar la consolidación de la contabilidad y elaborar los estados financieros, generados por las operaciones de la función recaudadora de los impuestos administrados por la DIAN, de acuerdo con los plazos y normas fiscales.
+5. Presentar ante la Contaduría General de la Nación y la Contraloría General de la República, los estados financieros consolidados de los ingresos administrados por la DIAN para la función recaudadora.
+6. Efectuar el análisis de los informes mensuales de ingresos rendidos por la Dirección Operativa de Grandes Contribuyentes, las Direcciones Seccionales de Impuestos, las Direcciones Seccionales de Aduanas y aquellas Direcciones Seccionales que cumplen con las funciones de Impuestos y Aduanas, en lo que sea de su competencia, realizando las observaciones a que haya lugar y proponer los ajustes y correctivos necesarios.
+7. Efectuar las conciliaciones e interacciones a que haya lugar con la Dirección General de Crédito Público y Tesoro Nacional y el Banco de la República, en virtud de los mecanismos de recaudo, devolución y/o compensación de los impuestos administrados por la DIAN.
+8. Realizar las actividades relacionadas con el cruce de cuentas, sentencias y conciliaciones de entidades diferentes a la DIAN, que sean una sección del Presupuesto General de la Nación.
+9. Autorizar de oficio o a petición de parte, a las personas jurídicas o entidades que deben actuar como autorretenedores, y suspender la autorización cuando no se garantice el pago de los valores autorretenidos.
+10. Gestionar el componente de obras por impuestos, como agregado del recaudo nacional.
+11. Administrar los aplicativos de recaudó y de la cuenta corriente u obligación financiera.
+12. Definir, diseñar, desarrollar, evaluar e implementar las directrices, estrategias y programas para promover las declaraciones tributarias sugeridas, así como desarrollar y administrar, en coordinación de la Dirección de Gestión de Innovación y Tecnología, los sistemas pertinentes para su funcionamiento y control.
+13. Establecer a través de acto administrativo la calificación de las personas naturales y jurídicas como Grandes Contribuyentes.
+14. Recibir, estudiar y emitir concepto técnico de viabilidad, sobre las solicitudes de suscripción de contratos de estabilidad tributaria y remitirlo a la Dirección de Gestión de Impuestos con el fin de que se expida el acto administrativo que resuelva la solicitud de los mega inversionistas.
+15. Ejercer las demás funciones que, le correspondan de conformidad con la ley, o de acuerdo a la naturaleza de la dependencia o que le sean asignadas por el Director General de la DIAN.</QuizContent>
+<GeneralContext>El Decreto 1742 de 2020 reorganiza la DIAN para fortalecer su gobernanza, eficiencia, gestión de riesgos y transformación digital. La entidad administra y fiscaliza las obligaciones tributarias, aduaneras y cambiarias, y facilita el comercio exterior. También combate la evasión, el contrabando y otras infracciones mediante una estructura central, local y delegada. Sus dependencias especializadas articulan estas funciones para cumplir sus objetivos institucionales.
 
-administración
-de los
-sistemas
-de
-información
-y
-servicios
-digitales
-del Registro Único Tributario - RUT, con el fin facilitar a los clientes
-internos
-y externos la gestión oportuna y segura de los trámites asociados al mismo.
-3. Realizar el ciclo de análisis, definición y pruebas dejas propuestas de ajustes a los sistemas de información y servicios digitales del Registro Único Tributario - RUT, derivadas de la expedición de disposiciones normativas que deban reflejarse en dicho registro, así como de las necesidades detectadas por las diferentes dependencias de la Entidad.
-4. Gestionar junto con la Dirección de Gestión de Innovación y Tecnología el intercambio de información del Registro Único Tributario - RUT, con otras entidades del Estado y/o con los otros sistemas de información y servicios digitales de la Entidad
-5. Generar estrategias para garantizar que la información incorporada al Registro Único Tributario -RUT sea base para la identificación, ubicación, clasificación y seguimiento de los clientes de la administración tributaria, aduanera y cambiaría, y sea confiable, oportuna y ajustada a la normatividad vigente.
-6. Dirigir el proceso para atender las solicitudes que se presenten, referentes al registro y retiro de responsabilidades en el Registro Único Tributario -RUT, la cancelación del registro o las que normativamente se definan, y cuyo resultado sea la actualización del Registro Único Tributario-RUT.
-7. Promover la gestión persuasiva a través del acompañamiento a los clientes obligados a inscribirse en el Registro Único Tributario -RUT, para mejorar los niveles de recaudo y el cumplimiento voluntario de obligaciones fiscales.
-8. Apoyar el desarrollo de programas y campañas referentes a los sistemas de información y servicios digitales que disponga la Entidad, relacionados con el Registro Único Tributario - RUT. .
-9. Realizar de oficio las actuaciones masivas en el Registro Único Tributario -RUT, de conformidad con las disposiciones legales y requerimientos de los diferentes procesos de la Entidad.
-10. Diseñar, coordinar y desarrollar y/o gestionar, de acuerdo con las delegaciones del Director General, el Registro Único de Beneficiarios Efectivos, Finales o Reales - RUB.
-11. Ejercer las demás funciones que, le correspondan de conformidad con la ley, o de acuerdo a la naturaleza de la dependencia o que le sean asignadas por el Director General de la DIAN.</QuizContent>
-<GeneralContext>El Decreto 1742 de 2020 reorganiza la DIAN para fortalecer su gobernanza, eficiencia, presencia territorial y capacidad tecnológica. También delimita las competencias de la entidad en materia tributaria, aduanera y cambiaria. Su estructura comprende niveles central, local y delegado, con dependencias especializadas y seccionales ajustables a las necesidades operativas. El Director General orienta las políticas, la gestión institucional, la administración de recursos y la cooperación con otras entidades.
+Las áreas tributarias gestionan el recaudo, el cobro, las devoluciones y herramientas como el RUT, el registro de beneficiarios finales y la factura electrónica. Las áreas aduaneras aplican regímenes y controles, administran autorizaciones y operadores, y apoyan la facilitación comercial. Las dependencias de fiscalización verifican obligaciones, determinan tributos y sanciones, y realizan controles nacionales y transfronterizos, incluidos los relativos al origen y los precios de transferencia. Las unidades de investigaciones especiales previenen e investigan posibles delitos y coordinan acciones con otras autoridades.
 
-Las áreas tributarias se encargan del recaudo, el cobro, las devoluciones, los registros, la formalización, la facturación electrónica y la atención ciudadana. Las dependencias aduaneras administran regímenes y usuarios, realizan controles y facilitan el comercio exterior. La fiscalización tributaria, aduanera y cambiaria determina obligaciones y sanciones, investiga incumplimientos y remite posibles delitos, con apoyo de unidades que coordinan investigaciones e intercambian información con otras autoridades. La gestión corporativa abarca recursos financieros, humanos, contractuales, logísticos y documentales, así como la formación del personal y los procesos disciplinarios sujetos a garantías legales. A su vez, la planeación estratégica y analítica orienta la gestión de riesgos, mientras la trazabilidad aduanera y las áreas tecnológicas impulsan el monitoreo y la transformación digital.
-
-En conjunto, la reorganización busca articular las funciones de control y servicio con una administración institucional más eficiente y especializada. La planeación basada en evidencia, el seguimiento de operaciones y la innovación tecnológica permiten priorizar controles y fortalecer la capacidad de respuesta. Así, la DIAN puede cumplir sus competencias y adaptarse mejor a las necesidades del país y del comercio exterior.</GeneralContext>
+La estructura también integra funciones de control interno, seguridad de la información, comunicaciones y administración de recursos, así como gestión del talento humano y asuntos disciplinarios con respeto al debido proceso. La gestión estratégica y analítica orienta la planeación, el análisis de datos, la administración de riesgos y la mejora de procesos, mientras las áreas tecnológicas impulsan plataformas e intercambio de información. En conjunto, la reorganización busca una DIAN más coordinada y digital, capaz de fortalecer el control y facilitar el cumplimiento y el comercio.</GeneralContext>

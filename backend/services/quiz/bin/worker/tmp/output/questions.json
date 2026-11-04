@@ -2198,5 +2198,170 @@
     ],
     "correct": 1,
     "explanation": "La cláusula residual reconoce funciones que correspondan de conformidad con la ley, que se desprendan de la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar el alcance funcional de la Subdirección de Recaudo, ¿qué conjunto de ingresos y conceptos debe administrar y controlar en relación con las actividades de recaudo?",
+    "options": [
+      "Los tributos nacionales y derechos de aduana, pero únicamente cuando su recaudo sea ejecutado directamente por la DIAN y sin incluir sanciones cambiarias ni otros gravámenes.",
+      "Los tributos nacionales, derechos de aduana, demás impuestos al comercio exterior, sanciones cambiarias y otros gravámenes o emolumentos que sean competencia de la DIAN.",
+      "Los tributos nacionales y sanciones cambiarias, junto con cualquier gravamen territorial, aunque no corresponda a la competencia de la DIAN.",
+      "Los derechos de aduana y demás impuestos al comercio exterior, excluyendo los tributos nacionales y los emolumentos cuya gestión corresponda a otras dependencias."
+    ],
+    "correct": 1,
+    "explanation": "La función comprende el recaudo de todos los conceptos enumerados que sean competencia de la DIAN, incluidos tributos nacionales, derechos de aduana, impuestos al comercio exterior, sanciones cambiarias y otros gravámenes o emolumentos."
+  },
+  {
+    "question": "Si una entidad recaudadora incumple obligaciones vinculadas con su función, ¿qué combinación de responsabilidades asigna el artículo a la Subdirección de Recaudo?",
+    "options": [
+      "Verificar el cumplimiento de las obligaciones de las entidades recaudadoras y, cuando se configure incumplimiento, imponer las sanciones a que haya lugar.",
+      "Verificar únicamente que los valores hayan sido consignados, mientras que la evaluación de obligaciones y la imposición de sanciones corresponden exclusivamente a cada Dirección Seccional.",
+      "Imponer sanciones por cualquier irregularidad detectada, sin evaluar previamente el cumplimiento de obligaciones de las entidades recaudadoras.",
+      "Evaluar el cumplimiento y formular observaciones, pero remitir toda decisión sancionatoria a la Contaduría General de la Nación."
+    ],
+    "correct": 0,
+    "explanation": "La disposición atribuye a la Subdirección tanto el control y la evaluación del cumplimiento de las obligaciones de las entidades recaudadoras como la imposición de las sanciones procedentes cuando incumplan."
+  },
+  {
+    "question": "Al revisar los flujos de recursos administrados por entidades autorizadas para recaudar, ¿qué aspecto debe controlar específicamente la Subdirección, además de la existencia de registros contables?",
+    "options": [
+      "La determinación de las obligaciones tributarias individuales y la expedición de liquidaciones oficiales por cada entidad autorizada.",
+      "La oportunidad de las devoluciones y compensaciones, excluyendo la verificación de los recursos recaudados y consignados.",
+      "El recaudo efectivo y la consignación de impuestos, derechos, tasas, contribuciones, multas, sanciones, intereses y demás gravámenes recaudados por las entidades autorizadas.",
+      "La autorización de todas las entidades que intervengan en operaciones financieras, aunque no actúen como entidades autorizadas para recaudar."
+    ],
+    "correct": 2,
+    "explanation": "La función se refiere al control del recaudo efectivo y de la consignación de los distintos conceptos recaudados por las entidades autorizadas, no a la determinación de obligaciones individuales ni a la autorización general de operadores."
+  },
+  {
+    "question": "Para producir información financiera confiable sobre la función recaudadora, ¿cuál es la responsabilidad contable atribuida a la Subdirección y bajo qué marco debe ejercerla?",
+    "options": [
+      "Consolidar la contabilidad y elaborar estados financieros de las operaciones de la función recaudadora de los impuestos administrados por la DIAN, con sujeción a los plazos y las normas fiscales.",
+      "Consolidar únicamente los ingresos de todas las entidades recaudadoras y elaborar estados financieros sin sujeción a plazos fiscales, pues estos se fijan posteriormente por los órganos de control.",
+      "Preparar los informes mensuales de ingresos de las Direcciones Seccionales y sustituir con ellos los estados financieros de la función recaudadora.",
+      "Elaborar estados financieros de todos los ingresos públicos nacionales, incluidos los que no son administrados por la DIAN, aplicando exclusivamente las normas de cada entidad recaudadora."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección consolida la contabilidad y elabora los estados financieros generados por las operaciones de la función recaudadora de los impuestos administrados por la DIAN, de acuerdo con los plazos y las normas fiscales."
+  },
+  {
+    "question": "Una vez consolidados los estados financieros de los ingresos administrados por la DIAN para la función recaudadora, ¿qué actuación institucional específica debe realizar la Subdirección?",
+    "options": [
+      "Presentarlos a las Direcciones Seccionales para que cada una determine si deben remitirse a los órganos nacionales de control.",
+      "Presentarlos únicamente a la Contaduría General de la Nación, porque la Contraloría recibe directamente los informes de las entidades recaudadoras.",
+      "Remitirlos al Banco de la República y a la Dirección General de Crédito Público y Tesoro Nacional como destinatarios únicos de los estados consolidados.",
+      "Presentarlos ante la Contaduría General de la Nación y la Contraloría General de la República."
+    ],
+    "correct": 3,
+    "explanation": "El artículo identifica expresamente a la Contaduría General de la Nación y a la Contraloría General de la República como destinatarias de los estados financieros consolidados."
+  },
+  {
+    "question": "Al analizar los informes mensuales de ingresos, ¿qué alcance institucional y qué respuesta analítica corresponden a la Subdirección de Recaudo según el artículo?",
+    "options": [
+      "Analizar los informes de la Dirección Operativa de Grandes Contribuyentes y de las Direcciones Seccionales de Impuestos, sin incluir dependencias aduaneras ni formular ajustes.",
+      "Analizar, en lo de su competencia, los informes de la Dirección Operativa de Grandes Contribuyentes y de las Direcciones Seccionales de Impuestos, de Aduanas y aquellas que cumplen ambas funciones; formular observaciones y proponer ajustes y correctivos necesarios.",
+      "Revisar únicamente los informes de las Direcciones Seccionales que cumplen simultáneamente funciones de Impuestos y Aduanas, y ordenar directamente los ajustes en todos los casos.",
+      "Consolidar los informes mensuales emitidos por las entidades recaudadoras y proponer sanciones a las Direcciones Seccionales que no los presenten."
+    ],
+    "correct": 1,
+    "explanation": "La función comprende los informes de las dependencias mencionadas —dentro del ámbito de competencia de la Subdirección— y prevé efectuar observaciones y proponer los ajustes y correctivos necesarios."
+  },
+  {
+    "question": "Cuando los mecanismos de recaudo, devolución o compensación de impuestos administrados por la DIAN requieren coordinación financiera externa, ¿qué función asigna el artículo a la Subdirección?",
+    "options": [
+      "Realizar las conciliaciones e interacciones a que haya lugar con la Dirección General de Crédito Público y Tesoro Nacional y con el Banco de la República.",
+      "Delegar toda conciliación en las entidades recaudadoras y limitar la interacción con el Banco de la República a los casos de recaudo aduanero.",
+      "Conciliar exclusivamente con la Contraloría General de la República los mecanismos de devolución, sin intervenir en recaudo ni compensación.",
+      "Autorizar a la Dirección General de Crédito Público y Tesoro Nacional para que administre directamente los aplicativos de cuenta corriente de la DIAN."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección debe efectuar las conciliaciones e interacciones pertinentes con ambas entidades en virtud de los mecanismos de recaudo, devolución o compensación de impuestos administrados por la DIAN."
+  },
+  {
+    "question": "En una operación de cruce de cuentas, sentencias o conciliaciones que involucre a una entidad distinta de la DIAN, ¿qué condiciones delimitan la función de la Subdirección?",
+    "options": [
+      "La entidad debe ser una entidad recaudadora autorizada y la operación debe referirse exclusivamente a impuestos administrados por la DIAN.",
+      "La entidad debe pertenecer a una Dirección Seccional y la operación debe consistir en una compensación de tributos nacionales.",
+      "La entidad debe ser distinta de la DIAN y constituir una sección del Presupuesto General de la Nación; la función comprende actividades relacionadas con cruces de cuentas, sentencias y conciliaciones.",
+      "La entidad debe ser un órgano de control nacional y la operación debe haber sido previamente aprobada por el Banco de la República."
+    ],
+    "correct": 2,
+    "explanation": "La función abarca actividades relacionadas con cruces de cuentas, sentencias y conciliaciones de entidades diferentes a la DIAN que sean una sección del Presupuesto General de la Nación."
+  },
+  {
+    "question": "¿Cómo se configura la competencia de la Subdirección respecto de las personas jurídicas o entidades que deben actuar como autorretenedores, y qué circunstancia puede dar lugar a suspender la autorización?",
+    "options": [
+      "La Subdirección solo puede autorizar de oficio a personas jurídicas y debe suspender la autorización cuando no se presenten declaraciones, sin considerar la garantía del pago autorretenido.",
+      "La Subdirección puede autorizar de oficio o a petición de parte a personas jurídicas o entidades obligadas a actuar como autorretenedores, y suspender la autorización cuando no se garantice el pago de los valores autorretenidos.",
+      "La Subdirección puede autorizar a cualquier persona natural o jurídica que solicite actuar como agente retenedor, y suspender la autorización por cualquier incumplimiento tributario.",
+      "La Subdirección únicamente evalúa las solicitudes y remite su concepto a las Direcciones Seccionales, que son las únicas facultadas para autorizar o suspender."
+    ],
+    "correct": 1,
+    "explanation": "El artículo contempla autorización de oficio o a petición de parte para personas jurídicas o entidades que deban actuar como autorretenedores; la falta de garantía del pago de los valores autorretenidos permite suspender la autorización."
+  },
+  {
+    "question": "¿Qué ubicación funcional otorga el artículo al componente de obras por impuestos dentro de las responsabilidades de la Subdirección de Recaudo?",
+    "options": [
+      "La gestión del componente de obras por impuestos como agregado del recaudo nacional.",
+      "La administración de obras por impuestos como mecanismo exclusivo de devolución de tributos a entidades distintas de la DIAN.",
+      "La supervisión de proyectos de inversión, separada del recaudo nacional y atribuida a la coordinación con el Banco de la República.",
+      "La autorización de obras por impuestos únicamente cuando sustituyan las obligaciones de las entidades recaudadoras."
+    ],
+    "correct": 0,
+    "explanation": "La disposición atribuye a la Subdirección gestionar el componente de obras por impuestos y lo caracteriza expresamente como agregado del recaudo nacional."
+  },
+  {
+    "question": "En materia de herramientas de gestión del recaudo y de las obligaciones financieras, ¿qué responsabilidad tecnológica y operativa asigna el artículo a la Subdirección?",
+    "options": [
+      "Diseñar sistemas tributarios generales y transferir su administración a las entidades autorizadas para recaudar.",
+      "Administrar solamente los aplicativos de recaudo, mientras que la cuenta corriente u obligación financiera queda bajo competencia exclusiva de las Direcciones Seccionales.",
+      "Administrar los aplicativos de recaudo y los de la cuenta corriente u obligación financiera.",
+      "Administrar la cuenta corriente únicamente para devoluciones y compensaciones, excluyendo los aplicativos utilizados para el recaudo."
+    ],
+    "correct": 2,
+    "explanation": "La función incluye la administración tanto de los aplicativos de recaudo como de los correspondientes a la cuenta corriente u obligación financiera."
+  },
+  {
+    "question": "Para impulsar las declaraciones tributarias sugeridas, ¿qué combinación de responsabilidades de diseño, implementación y coordinación tecnológica establece el artículo?",
+    "options": [
+      "Definir y evaluar estrategias para promoverlas, pero dejar su desarrollo y la administración de los sistemas pertinentes exclusivamente a las Direcciones Seccionales.",
+      "Definir, diseñar, desarrollar, evaluar e implementar directrices, estrategias y programas para promoverlas, y desarrollar y administrar los sistemas pertinentes para su funcionamiento y control en coordinación con la Dirección de Gestión de Innovación y Tecnología.",
+      "Administrar los sistemas de declaraciones sugeridas en coordinación con la Dirección de Gestión de Impuestos, sin responsabilidad sobre las directrices, estrategias o programas que las promuevan.",
+      "Elaborar declaraciones sugeridas para los contribuyentes y encargar a la Dirección de Gestión de Innovación y Tecnología la evaluación de las obligaciones tributarias."
+    ],
+    "correct": 1,
+    "explanation": "La norma asigna a la Subdirección la cadena completa de definición, diseño, desarrollo, evaluación e implementación de las directrices, estrategias y programas, además del desarrollo y administración coordinados de los sistemas pertinentes."
+  },
+  {
+    "question": "Al formalizar la calificación de Grandes Contribuyentes, ¿qué instrumento y qué alcance subjetivo señala el artículo?",
+    "options": [
+      "Una instrucción interna de la Dirección Operativa de Grandes Contribuyentes que clasifica únicamente a personas jurídicas.",
+      "Un acto administrativo de las Direcciones Seccionales que califica a las personas naturales, pero no a las jurídicas.",
+      "Una decisión conjunta con la Dirección de Gestión de Impuestos que califica exclusivamente a entidades recaudadoras.",
+      "Un acto administrativo mediante el cual la Subdirección establece la calificación de personas naturales y jurídicas como Grandes Contribuyentes."
+    ],
+    "correct": 3,
+    "explanation": "La Subdirección establece por acto administrativo la calificación de personas naturales y jurídicas como Grandes Contribuyentes."
+  },
+  {
+    "question": "Una solicitud de suscripción de contrato de estabilidad tributaria es presentada por un mega inversionista. ¿Cuál es la secuencia de actuaciones que corresponde a la Subdirección y a la Dirección de Gestión de Impuestos?",
+    "options": [
+      "La Subdirección recibe y estudia la solicitud, emite concepto técnico de viabilidad y lo remite a la Dirección de Gestión de Impuestos para que expida el acto administrativo que resuelva la solicitud.",
+      "La Subdirección expide el acto administrativo que resuelve definitivamente la solicitud, mientras la Dirección de Gestión de Impuestos emite el concepto técnico de viabilidad.",
+      "La Dirección de Gestión de Impuestos estudia y emite el concepto de viabilidad, y la Subdirección se limita a recibir la decisión final para su registro.",
+      "La Subdirección remite la solicitud sin estudiarla a la Dirección General de Crédito Público y Tesoro Nacional, que decide si se suscribe el contrato."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección recibe y estudia la solicitud, emite el concepto técnico de viabilidad y lo remite; el acto administrativo que resuelve la solicitud corresponde a la Dirección de Gestión de Impuestos."
+  },
+  {
+    "question": "Al delimitar las funciones residuales de la Subdirección de Recaudo, ¿qué criterio establece el artículo para que le correspondan otras funciones además de las enumeradas?",
+    "options": [
+      "Que sean asignadas por cualquier Dirección Seccional, aunque no tengan relación con la naturaleza de la dependencia ni con la ley.",
+      "Que correspondan únicamente a la función recaudadora y sean aprobadas previamente por la Contaduría General de la Nación.",
+      "Que correspondan de conformidad con la ley, sean acordes con la naturaleza de la dependencia o le sean asignadas por el Director General de la DIAN.",
+      "Que se relacionen con la administración de tributos y hayan sido solicitadas por una entidad autorizada para recaudar."
+    ],
+    "correct": 2,
+    "explanation": "La cláusula residual comprende las funciones que correspondan de conformidad con la ley, las acordes con la naturaleza de la dependencia o las asignadas por el Director General de la DIAN."
   }
 ]
