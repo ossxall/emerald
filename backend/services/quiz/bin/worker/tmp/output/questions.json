@@ -2363,5 +2363,181 @@
     ],
     "correct": 2,
     "explanation": "La cláusula residual comprende las funciones que correspondan de conformidad con la ley, las acordes con la naturaleza de la dependencia o las asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al definir el papel de la Subdirección para el Impulso de la Formalización Tributaria en la formulación de políticas, ¿qué actuación corresponde específicamente a su mandato?",
+    "options": [
+      "Proponer las políticas necesarias para fomentar, incentivar, impulsar y promocionar la formalización tributaria.",
+      "Adoptar directamente todas las políticas tributarias de la DIAN y ordenar su aplicación a las Direcciones Seccionales.",
+      "Ejecutar exclusivamente las políticas de fiscalización para identificar y sancionar a quienes no se formalicen.",
+      "Aprobar las políticas de formalización que propongan los municipios y distritos para incorporarlas al régimen SIMPLE."
+    ],
+    "correct": 0,
+    "explanation": "A la Subdirección le corresponde proponer políticas orientadas al fomento, incentivo, impulso y promoción de la formalización tributaria; el artículo no le atribuye su adopción general ni funciones sancionatorias."
+  },
+  {
+    "question": "Cuando las Direcciones Seccionales aplican normas y procedimientos relacionados con herramientas desarrolladas para promover la formalización tributaria en el país, ¿qué función asigna el artículo a esta Subdirección?",
+    "options": [
+      "Reemplazar a las Direcciones Seccionales en la aplicación de esas normas y procedimientos y asumir directamente su gestión operativa.",
+      "Orientar, asesorar y evaluar a las Direcciones Seccionales respecto de la correcta aplicación de las normas y procedimientos relacionados con esas herramientas.",
+      "Limitar su intervención a diseñar herramientas, sin orientar ni evaluar su aplicación por parte de las Direcciones Seccionales.",
+      "Aprobar las decisiones individuales de cada Dirección Seccional antes de que esta pueda utilizar una herramienta de formalización."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2 establece funciones de orientación, asesoría y evaluación a las Direcciones Seccionales sobre la aplicación correcta de normas y procedimientos vinculados con las herramientas desarrolladas."
+  },
+  {
+    "question": "Al desarrollar actividades para promover la formalización tributaria, ¿qué combinación de responsabilidades y marco de actuación corresponde a la Subdirección?",
+    "options": [
+      "Definir las tarifas del impuesto SIMPLE y ejecutar las actividades de promoción, sin participación en la formulación de políticas.",
+      "Diseñar políticas para las Direcciones Seccionales, dejando a estas la definición centralizada de procedimientos y herramientas.",
+      "Definir procedimientos y diseñar herramientas para el desarrollo de las actividades, contribuir a formular políticas de fomento e incentivo y actuar conforme a las directrices de la Dirección de Gestión de Impuestos.",
+      "Definir procedimientos y herramientas sin atender directrices de la Dirección de Gestión de Impuestos, pues su competencia es autónoma."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 reúne la definición de procedimientos, el diseño de herramientas y la contribución a la formulación de políticas, todo conforme a las directrices de la Dirección de Gestión de Impuestos."
+  },
+  {
+    "question": "En relación con el Impuesto Unificado bajo el Régimen Simple de Tributación -SIMPLE, ¿cuál describe correctamente la función de representación asignada a la Subdirección?",
+    "options": [
+      "Representar únicamente a las Direcciones Seccionales ante municipios y distritos, y solo en controversias sobre tarifas de industria y comercio.",
+      "Representar a la DIAN exclusivamente ante entidades públicas nacionales, sin intervenir en escenarios con municipios o distritos.",
+      "Representar a los municipios y distritos ante la DIAN en asuntos relativos a la aplicación del régimen SIMPLE.",
+      "Representar a la DIAN en distintos escenarios donde se traten asuntos relacionados con el SIMPLE, ante municipios y distritos a nivel nacional y, en general, ante cualquier entidad pública o privada."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 4 asigna la representación de la DIAN en escenarios relacionados con el SIMPLE y comprende municipios, distritos y, en general, cualquier entidad pública o privada."
+  },
+  {
+    "question": "Los municipios y distritos definen o actualizan la tarifa consolidada del impuesto de industria y comercio y complementarios. ¿Qué circuito de información establece el artículo para esa información?",
+    "options": [
+      "La Subdirección la recibe de los municipios y distritos y la remite a las áreas competentes de la DIAN; la remisión puede realizarse permitiendo a esas áreas acceder a los sistemas de información previstos para tal fin.",
+      "La Subdirección calcula y valida la tarifa consolidada, y luego comunica su aprobación a los municipios y distritos por los sistemas de información de la DIAN.",
+      "Los municipios y distritos remiten la tarifa exclusivamente al Director General, quien decide si las áreas competentes pueden consultarla.",
+      "La Subdirección recibe la información, pero debe remitirla únicamente mediante comunicaciones individuales, pues el acceso a sistemas no está previsto."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 5 dispone la recepción de la definición y actualización de las tarifas por parte de los municipios y distritos y su remisión a las áreas competentes de la DIAN; también permite que estas accedan a los sistemas previstos."
+  },
+  {
+    "question": "¿Cómo se distingue la función de orientación del numeral 6 de la referida a herramientas de formalización en el numeral 2?",
+    "options": [
+      "El numeral 6 se limita a capacitar funcionarios de la DIAN, mientras el numeral 2 regula la aplicación de las normas del SIMPLE.",
+      "El numeral 6 comprende orientar, asesorar y evaluar a las Direcciones Seccionales sobre la correcta aplicación de las normas y procedimientos del SIMPLE y de las demás herramientas y políticas de formalización tributaria.",
+      "El numeral 6 asigna a la Subdirección la aplicación directa de las normas del SIMPLE en lugar de las Direcciones Seccionales.",
+      "El numeral 6 se refiere solo a las herramientas desarrolladas para formalización, mientras excluye las normas y procedimientos que regulan el SIMPLE."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 6 incluye expresamente las normas y procedimientos que regulan el SIMPLE, además de las demás herramientas y políticas de formalización; el numeral 2 se refiere a las herramientas desarrolladas para la formalización."
+  },
+  {
+    "question": "Al rendir cuentas sobre la gestión del SIMPLE y las demás herramientas y políticas de formalización tributaria, ¿qué debe hacer la Subdirección y bajo qué condición temporal?",
+    "options": [
+      "Presentar informes anuales directamente a las Direcciones Seccionales y ejecutar las acciones de mejoramiento que estas determinen.",
+      "Remitir informes solo cuando lo soliciten los municipios y distritos, sin proponer medidas de mejoramiento.",
+      "Presentar al Director de Gestión de Impuestos informes con la periodicidad que este determine y proponer las acciones de mejoramiento a que haya lugar.",
+      "Presentar informes al Director General con una periodicidad fijada por la propia Subdirección y aprobar las acciones correctivas correspondientes."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 7 establece como destinatario al Director de Gestión de Impuestos, deja a este determinar la periodicidad y encarga a la Subdirección proponer las acciones de mejoramiento pertinentes."
+  },
+  {
+    "question": "Para promover la formalización tributaria mediante capacitación y sensibilización de funcionarios de la DIAN, ¿qué relación institucional debe establecer la Subdirección?",
+    "options": [
+      "Coordinar las actividades con las Direcciones Seccionales, que deben impartirlas sin intervención de otras dependencias.",
+      "Proponer convenios con entidades privadas, sin coordinar actividades con dependencias de la DIAN.",
+      "Delegar en la Subdirección de la Escuela de Impuestos y Aduanas la definición autónoma de las políticas de formalización tributaria.",
+      "Coordinar con la Subdirección de la Escuela de Impuestos y Aduanas las actividades de capacitación y sensibilización sobre las herramientas desarrolladas para promover la formalización tributaria."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 8 atribuye a la Subdirección la coordinación con la Subdirección de la Escuela de Impuestos y Aduanas para esas actividades dirigidas a funcionarios de la DIAN."
+  },
+  {
+    "question": "Al utilizar información para identificar posibles nuevos contribuyentes del SIMPLE y de otras herramientas de formalización, ¿cuál es el alcance preciso de la función de la Subdirección?",
+    "options": [
+      "Efectuar cruces y análisis de información que permitan a las dependencias competentes de la DIAN determinar esos nuevos contribuyentes.",
+      "Determinar por sí misma la condición de contribuyente y ordenar directamente su inscripción, sin intervención de otras dependencias.",
+      "Recibir únicamente información de municipios y distritos y publicar una lista definitiva de nuevos contribuyentes.",
+      "Realizar cruces de información exclusivamente para liquidar el SIMPLE, sin relación con otras herramientas o políticas de formalización."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 9 encomienda a la Subdirección efectuar cruces y análisis que permitan a las dependencias competentes de la Entidad determinar los nuevos contribuyentes; no le asigna en ese numeral la determinación directa."
+  },
+  {
+    "question": "Si se busca formalizar actividades de capacitación y sensibilización sobre el SIMPLE y otras herramientas de formalización mediante acuerdos con terceros, ¿qué iniciativa corresponde a la Subdirección?",
+    "options": [
+      "Suscribir por sí misma convenios que obliguen a todas las entidades públicas y privadas a impartir esas actividades.",
+      "Proponer proyectos de convenios entre la DIAN y entidades públicas y privadas para capacitación y sensibilización sobre esas materias.",
+      "Aprobar los convenios propuestos por municipios y distritos y determinar unilateralmente sus obligaciones.",
+      "Proponer convenios exclusivamente entre la DIAN y las Direcciones Seccionales para financiar tareas de fiscalización."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 10 asigna la propuesta de proyectos de convenios entre la DIAN y entidades públicas y privadas, con el objeto de realizar capacitación y sensibilización sobre el SIMPLE y las demás herramientas y políticas de formalización."
+  },
+  {
+    "question": "Cuando se requieren instrumentos administrativos para implementar, actualizar o mejorar procedimientos sobre el SIMPLE y otras herramientas de formalización, ¿qué producto debe proponer la Subdirección?",
+    "options": [
+      "La expedición directa de normas con fuerza de ley que sustituyan los procedimientos existentes.",
+      "La aprobación final de todos los actos administrativos de las Direcciones Seccionales relacionados con el régimen SIMPLE.",
+      "Los proyectos de actos administrativos requeridos para implementar, actualizar y mejorar los procedimientos relacionados con esas materias.",
+      "Los proyectos de convenios de capacitación, sin intervenir en la preparación de actos administrativos."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 11 le atribuye proponer proyectos de actos administrativos requeridos para la implementación, actualización y mejoramiento de los procedimientos indicados; no establece que los expida directamente."
+  },
+  {
+    "question": "Respecto de los lineamientos para la liquidación SIMPLE contemplada en el artículo 913 del Estatuto Tributario, ¿cuál es la intervención específica de la Subdirección?",
+    "options": [
+      "Proferir por sí misma los lineamientos de liquidación, sin someter políticas a consideración de otra dependencia.",
+      "Proponer a consideración de la Subdirección de Fiscalización Tributaria las políticas para emitir esos lineamientos, teniendo en cuenta también las normas que reglamenten, modifiquen o sustituyan el artículo 913.",
+      "Solicitar a las Direcciones Seccionales que definan las políticas de liquidación y remitan sus decisiones a los municipios.",
+      "Proponer a la Subdirección de la Escuela de Impuestos y Aduanas la aprobación de tarifas para la liquidación SIMPLE."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 12 encarga proponer a consideración de la Subdirección de Fiscalización Tributaria las políticas para la emisión de los lineamientos de liquidación SIMPLE referidos al artículo 913 y a las normas que lo reglamenten, modifiquen o sustituyan."
+  },
+  {
+    "question": "Para que las Direcciones Seccionales inscriban de oficio a contribuyentes en el Régimen Simple de Tributación -SIMPLE, ¿qué competencia normativa y de orientación atribuye el artículo a la Subdirección?",
+    "options": [
+      "Definir y practicar directamente todas las inscripciones de oficio, en reemplazo de las Direcciones Seccionales.",
+      "Recibir las tarifas municipales y decidir qué contribuyentes deben ser inscritos de oficio en el SIMPLE.",
+      "Proponer políticas generales de formalización, dejando a cada Dirección Seccional establecer sus propios lineamientos de inscripción.",
+      "Establecer y proferir los lineamientos y políticas dirigidos a que las Direcciones Seccionales realicen esas inscripciones de oficio."
+    ],
+    "correct": 3,
+    "explanation": "El numeral 13 asigna a la Subdirección establecer y proferir lineamientos y políticas para que las Direcciones Seccionales inscriban de oficio a contribuyentes en el SIMPLE."
+  },
+  {
+    "question": "En la relación continua con municipios y distritos sobre la aplicación del SIMPLE y otras herramientas de formalización, ¿qué actuación corresponde a la Subdirección y con qué finalidad expresa?",
+    "options": [
+      "Realizar acompañamiento y retroalimentación permanentes a distritos y municipios para garantizar la correcta aplicación de las normas relacionadas con el SIMPLE y las demás herramientas y políticas de formalización.",
+      "Evaluar una sola vez a los municipios y distritos para determinar si cumplen metas de recaudo fijadas por la DIAN.",
+      "Asumir la administración municipal del impuesto de industria y comercio y emitir instrucciones obligatorias sobre sus tarifas.",
+      "Limitar el acompañamiento a funcionarios de la DIAN y reservar a los municipios la interpretación de las normas del SIMPLE."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 14 establece el acompañamiento y la retroalimentación permanentes a distritos y municipios con la finalidad de garantizar la correcta aplicación de las normas y herramientas mencionadas."
+  },
+  {
+    "question": "En la gestión de información con los distritos y municipios del país, ¿qué responsabilidad de coordinación asigna el artículo a la Subdirección?",
+    "options": [
+      "Centralizar la información municipal en la Subdirección y restringir su intercambio con las demás áreas de la DIAN.",
+      "Coordinar lo necesario para el intercambio efectivo y la gestión de información que se realice con los distritos y municipios del país.",
+      "Exigir que los distritos y municipios actualicen directamente los sistemas internos de la DIAN, sin coordinación institucional.",
+      "Intercambiar información solo cuando sea necesaria para determinar tarifas consolidadas, excluyendo otros asuntos de gestión informativa."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 15 contempla la coordinación de lo necesario para el intercambio efectivo y la gestión de información con los distritos y municipios, sin limitarla en el texto a un único tipo de información."
+  },
+  {
+    "question": "Al delimitar las funciones no enumeradas individualmente para esta dependencia, ¿qué criterio permite que la Subdirección ejerza otras funciones conforme al artículo?",
+    "options": [
+      "Que sean asignadas por cualquier municipio o entidad privada que participe en actividades de formalización tributaria.",
+      "Que estén vinculadas exclusivamente con el SIMPLE y hayan sido aprobadas previamente por una Dirección Seccional.",
+      "Que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN.",
+      "Que sean determinadas por el Director de Gestión de Impuestos y se limiten a la presentación periódica de informes."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 16 reconoce funciones adicionales cuando correspondan conforme a la ley, a la naturaleza de la dependencia o sean asignadas por el Director General de la DIAN."
   }
 ]
