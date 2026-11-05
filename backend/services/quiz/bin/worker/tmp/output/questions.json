@@ -2979,5 +2979,148 @@
     ],
     "correct": 1,
     "explanation": "La cláusula comprende funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar la responsabilidad de la Subdirección de Cobranzas y Control Extensivo, ¿qué interpretación reúne correctamente el alcance de las actividades de cobro que debe dirigir, controlar y atender?",
+    "options": [
+      "Debe responder por el cobro de impuestos, derechos, tasas, contribuciones, multas, sanciones, intereses, recargos y demás gravámenes; también por las sanciones vinculadas al incumplimiento de obligaciones de usuarios aduaneros y las sanciones cambiarias que, conforme a las disposiciones pertinentes, compete recaudar a la DIAN, además de obligaciones a favor de la entidad originadas en decisiones judiciales y administrativas, de conformidad con el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.",
+      "Debe recaudar todos los gravámenes y sanciones de cualquier naturaleza, incluidas las cambiarias, sin consideración a que las disposiciones pertinentes atribuyan su recaudo a la DIAN, y asumir las obligaciones judiciales y administrativas de cualquier entidad pública.",
+      "Debe ocuparse de los impuestos, tasas y contribuciones, mientras que las multas, los intereses, los recargos y las sanciones de usuarios aduaneros corresponden exclusivamente a las Direcciones Seccionales.",
+      "Debe atender únicamente las obligaciones derivadas de decisiones judiciales y administrativas, pues el recaudo de gravámenes y sanciones corresponde a la Subdirección de Recaudo."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende las categorías de gravámenes y sanciones enumeradas, con la condición específica sobre las sanciones cambiarias que compete recaudar a la DIAN, y las obligaciones a favor de esta originadas en decisiones judiciales y administrativas, conforme al código citado."
+  },
+  {
+    "question": "La Subdirección debe fortalecer sus capacidades para cobrar obligaciones y localizar bienes. ¿Cuál combinación de instrumentos corresponde a esa función, sin confundir su propósito?",
+    "options": [
+      "Diseñar técnicas de investigación de bienes para sustituir el cobro y técnicas de negociación limitadas a establecer el valor de las obligaciones.",
+      "Diseñar e implementar técnicas de negociación que faciliten el cobro y, de manera complementaria, técnicas de investigación de bienes.",
+      "Implementar técnicas de negociación destinadas a definir las obligaciones formales y técnicas de investigación enfocadas exclusivamente en verificar declaraciones tributarias sugeridas.",
+      "Coordinar técnicas de negociación para que las dependencias territoriales asuman el cobro y encomendar a la Subdirección de Análisis de Riesgo la investigación de bienes."
+    ],
+    "correct": 1,
+    "explanation": "El numeral asigna a la Subdirección el diseño e implementación de técnicas de negociación para facilitar el cobro, así como el desarrollo de técnicas de investigación de bienes."
+  },
+  {
+    "question": "Al distinguir el control inicial de otras actividades posteriores de gestión de cobro, ¿qué alcance atribuye el artículo a la Subdirección respecto de las obligaciones de los sujetos obligados?",
+    "options": [
+      "Ejercer el control inicial únicamente sobre la liquidación y el recaudo de obligaciones vencidas de los contribuyentes.",
+      "Verificar el cumplimiento oportuno de las obligaciones, pero solo respecto de los agentes retenedores y sin evaluar su corrección.",
+      "Ejercer el control inicial sobre el correcto y oportuno cumplimiento de las obligaciones de contribuyentes, responsables y agentes retenedores.",
+      "Evaluar, en calidad de control final, el cumplimiento de obligaciones formales de todos los usuarios aduaneros, responsables y agentes retenedores."
+    ],
+    "correct": 2,
+    "explanation": "La función se refiere al control inicial y comprende tanto la corrección como la oportunidad del cumplimiento, respecto de contribuyentes, responsables y agentes retenedores."
+  },
+  {
+    "question": "En procesos concursales, liquidatorios, de reestructuración empresarial o de insolvencia relacionados con actuaciones de cobro, ¿qué debe controlar la Subdirección y bajo qué límite competencial?",
+    "options": [
+      "Que la Subdirección de Recaudo se haga parte en todos esos procesos, aunque no estén vinculados con actuaciones de cobro de su competencia.",
+      "Que la Dirección Operativa de Grandes Contribuyentes y las Direcciones Seccionales se hagan parte en esos procesos cuando estén relacionados con actuaciones de cobro de su competencia.",
+      "Que las Direcciones Seccionales dirijan esos procesos y que la Dirección Operativa de Grandes Contribuyentes intervenga solo después de una decisión judicial.",
+      "Que la Dirección General se haga parte en procesos concursales y liquidatorios, y que las Direcciones Seccionales intervengan exclusivamente en insolvencias."
+    ],
+    "correct": 1,
+    "explanation": "La Subdirección controla la participación de la Dirección Operativa de Grandes Contribuyentes y de las Direcciones Seccionales en las clases de procesos mencionadas, cuando se relacionan con actuaciones de cobro de su competencia."
+  },
+  {
+    "question": "Al programar acciones de control extensivo, ¿qué caracteriza específicamente los programas cuya ejecución debe coordinar la Subdirección?",
+    "options": [
+      "Son programas de gestión inmediata y amplia cobertura dirigidos a determinar el cumplimiento de obligaciones formales por contribuyentes, agentes de retención y demás obligados.",
+      "Son programas de fiscalización individual y de cobertura limitada destinados a liquidar obligaciones sustantivas de contribuyentes y responsables.",
+      "Son programas de gestión inmediata orientados a investigar bienes de usuarios aduaneros, sin que su objeto incluya el cumplimiento de obligaciones formales.",
+      "Son programas de control extensivo que determinan exclusivamente el pago de obligaciones, y se dirigen solo a contribuyentes y agentes retenedores."
+    ],
+    "correct": 0,
+    "explanation": "El numeral define estos programas por su gestión inmediata, amplia cobertura y objetivo de determinar el cumplimiento de obligaciones formales por los grupos de obligados que enumera."
+  },
+  {
+    "question": "¿Cuál descripción refleja de manera precisa el alcance de la supervisión y el control de gestión asignados a la Subdirección?",
+    "options": [
+      "Supervisar las Divisiones de Cobranzas de las Direcciones Seccionales, pero no las Divisiones de Recaudo y Cobranzas ni las dependencias equivalentes de Grandes Contribuyentes.",
+      "Controlar las Divisiones de Recaudo y Cobranzas de las Direcciones Seccionales y delegar la supervisión de las Divisiones de Cobranzas a la Dirección General.",
+      "Supervisar y controlar la gestión de las Divisiones de Cobranzas y de las Divisiones de Recaudo y Cobranzas de las Direcciones Seccionales y/o de las dependencias que hagan sus veces dentro de la Dirección Operativa de Grandes Contribuyentes.",
+      "Supervisar todas las dependencias de la DIAN que gestionen ingresos, aunque no correspondan a las unidades de cobro indicadas ni a sus equivalentes."
+    ],
+    "correct": 2,
+    "explanation": "La función incluye ambas clases de divisiones de las Direcciones Seccionales y las dependencias que hagan sus veces dentro de la Dirección Operativa de Grandes Contribuyentes."
+  },
+  {
+    "question": "Al definir el plan de cobro, ¿qué relación establece el artículo entre su formulación, la evaluación de su ejecución y las directrices institucionales?",
+    "options": [
+      "La Subdirección define el plan conforme a sus propios criterios y solo comunica los resultados de ejecución a la Dirección General.",
+      "La Subdirección propone el plan, mientras que la Dirección General y la Dirección de Gestión de Impuestos ejecutan y evalúan sus resultados.",
+      "La Dirección de Gestión de Impuestos define el plan y la Subdirección se limita a controlar su cumplimiento, sin evaluar la ejecución.",
+      "La Subdirección define y establece el plan, controla y evalúa su ejecución, y actúa de acuerdo con las políticas establecidas por la Dirección General y la Dirección de Gestión de Impuestos."
+    ],
+    "correct": 3,
+    "explanation": "El numeral asigna a la Subdirección tanto el establecimiento del plan como el control y la evaluación de su ejecución, con sujeción a las políticas de las dos direcciones mencionadas."
+  },
+  {
+    "question": "Cuando la Entidad debe intervenir en actuaciones dirigidas a obtener el pago de obligaciones administradas por la DIAN, ¿cómo se configura la función de la Subdirección respecto de los procesos involucrados?",
+    "options": [
+      "Debe orientar y controlar los procesos de cobro y los procesos especiales en que intervenga la Entidad, conforme a la legislación vigente y con el fin de obtener el pago de esas obligaciones.",
+      "Debe dirigir cualquier proceso especial de la Entidad, aun si no tiene relación con el cobro o con obligaciones administradas por la DIAN.",
+      "Debe controlar exclusivamente los procesos de cobro ordinarios, pues los procesos especiales se rigen por políticas internas y no por la legislación vigente.",
+      "Debe intervenir directamente en todos los procesos judiciales de la DIAN, sin distinguir si su finalidad es obtener el pago de obligaciones administradas por la entidad."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende orientar y controlar tanto los procesos de cobro como los procesos especiales en que deba intervenir la Entidad, conforme a la legislación vigente y con el propósito señalado."
+  },
+  {
+    "question": "Para ejecutar el control extensivo, ¿qué relación debe mantener la Subdirección entre la actuación a su cargo y los insumos institucionales recibidos?",
+    "options": [
+      "Debe elaborar por sí misma todos los insumos y remitirlos a la Subdirección de Análisis de Riesgo y Programas antes de iniciar cualquier control.",
+      "Debe ejercer el control extensivo de acuerdo con los insumos recibidos de la Subdirección de Análisis de Riesgo y Programas o de la dependencia que haga sus veces.",
+      "Debe sustituir los insumos recibidos por criterios propios cuando la dependencia remitente no sea una dirección seccional.",
+      "Debe ejercer el control extensivo solo cuando reciba insumos de la Dirección General, pues los de Análisis de Riesgo y Programas son exclusivamente informativos."
+    ],
+    "correct": 1,
+    "explanation": "El artículo vincula expresamente el ejercicio del control extensivo con los insumos recibidos de la Subdirección de Análisis de Riesgo y Programas o de su dependencia equivalente."
+  },
+  {
+    "question": "Una vez aplicado el insumo recibido para el control extensivo, ¿qué deber de coordinación y retroalimentación recae en la Subdirección?",
+    "options": [
+      "Remitir a la Dirección General un informe periódico de los insumos, sin comunicar resultados a la dependencia que los proporcionó.",
+      "Solicitar a la Subdirección de Análisis de Riesgo y Programas que evalúe la aplicación de los insumos antes de que la Subdirección de Cobranzas ejecute el control.",
+      "Generar retroalimentación oportuna a la Subdirección de Análisis de Riesgo y Programas o a la dependencia equivalente sobre el resultado de aplicar los insumos recibidos para el control extensivo a su cargo.",
+      "Transferir a la dependencia que suministró los insumos la responsabilidad por los resultados, y comunicarle únicamente los casos en que no se haya podido aplicar el control."
+    ],
+    "correct": 2,
+    "explanation": "La obligación es generar retroalimentación oportuna a la dependencia que suministró los insumos acerca de los resultados de su aplicación en el control extensivo a cargo de la Subdirección."
+  },
+  {
+    "question": "En relación con la infraestructura tecnológica del proceso de administración de cartera, ¿qué responsabilidad asigna el artículo a la Subdirección?",
+    "options": [
+      "Diseñar las políticas generales de tecnología de la DIAN y administrar los aplicativos de todos sus procesos operativos.",
+      "Administrar únicamente los sistemas de información del proceso de recaudo, dejando los servicios digitales de cartera a las Direcciones Seccionales.",
+      "Administrar los aplicativos de cartera, pero no los sistemas de información ni los servicios digitales asociados con ese proceso.",
+      "Administrar los aplicativos, los sistemas de información y los servicios digitales destinados al proceso de administración de cartera."
+    ],
+    "correct": 3,
+    "explanation": "La responsabilidad enumerada comprende conjuntamente aplicativos, sistemas de información y servicios digitales, y delimita su ámbito al proceso de administración de cartera."
+  },
+  {
+    "question": "¿Cómo debe entenderse el apoyo que la Subdirección de Cobranzas y Control Extensivo presta a la Subdirección de Recaudo en materia de declaraciones tributarias?",
+    "options": [
+      "Como apoyo a las acciones relativas a declaraciones tributarias sugeridas desde la gestión pertinente del área.",
+      "Como responsabilidad exclusiva de elaborar, aprobar y presentar las declaraciones tributarias de los contribuyentes.",
+      "Como facultad para sustituir a la Subdirección de Recaudo en todas las acciones relacionadas con declaraciones tributarias, con independencia de su origen.",
+      "Como obligación de diseñar las declaraciones sugeridas desde la gestión de la Subdirección de Análisis de Riesgo y administrar su presentación por los contribuyentes."
+    ],
+    "correct": 0,
+    "explanation": "El numeral limita la función a apoyar a la Subdirección de Recaudo en las acciones relativas a declaraciones tributarias sugeridas desde la gestión pertinente del área."
+  },
+  {
+    "question": "Además de las funciones enumeradas, ¿en qué condiciones puede corresponder a la Subdirección ejercer otras funciones?",
+    "options": [
+      "Cuando sean solicitadas por cualquier Dirección Seccional, aunque no tengan relación con la ley ni con la naturaleza de la dependencia.",
+      "Cuando correspondan de conformidad con la ley, sean acordes con la naturaleza de la dependencia o le sean asignadas por el Director General de la DIAN.",
+      "Únicamente cuando sean asignadas de manera conjunta por la Dirección General y la Dirección de Gestión de Impuestos.",
+      "Solo cuando una decisión judicial las imponga, pues la naturaleza de la dependencia no puede justificar funciones adicionales."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula final contempla las funciones que correspondan conforme a la ley, de acuerdo con la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
