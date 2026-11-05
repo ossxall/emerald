@@ -2539,5 +2539,445 @@
     ],
     "correct": 2,
     "explanation": "El numeral 16 reconoce funciones adicionales cuando correspondan conforme a la ley, a la naturaleza de la dependencia o sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar la función estratégica de la Subdirección, ¿qué conjunto de actuaciones y objetos corresponde a su responsabilidad, en coordinación con la Dirección de Gestión de Innovación y Tecnología?",
+    "options": [
+      "Definir, diseñar, desarrollar, implementar y evaluar estrategias, programas y requisitos orientados a promover la desmaterialización y digitalización de los sistemas de facturación, contabilidad fiscal y registro de factura electrónica, así como de soluciones digitales y otros documentos que requieran desmaterialización.",
+      "Definir los modelos de intercambio de información de los sistemas de facturación y decidir por sí sola los fines tributarios, aduaneros y sancionatorios para los que las demás dependencias podrán utilizar esos datos.",
+      "Autorizar exclusivamente a los proveedores tecnológicos, administrar sus obligaciones contractuales y sustituir a la Dirección de Gestión de Innovación y Tecnología en el desarrollo de todas las plataformas institucionales.",
+      "Establecer las políticas generales de recaudo y fiscalización y determinar qué contribuyentes están obligados a utilizar sistemas de facturación, sin intervenir en su diseño o implementación."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende el ciclo estratégico indicado y los sistemas, soluciones y documentos sujetos a desmaterialización, en coordinación con la Dirección mencionada."
+  },
+  {
+    "question": "Al distinguir el desarrollo de plataformas de la función de control técnico, ¿cuál descripción refleja el alcance asignado a la Subdirección respecto de las operaciones con incidencia fiscal?",
+    "options": [
+      "Debe desarrollar y administrar plataformas sin coordinación con la Dirección de Gestión de Innovación y Tecnología, y limitar los controles técnicos a la validación de facturas electrónicas.",
+      "Debe desarrollar y administrar, en coordinación con la Dirección de Gestión de Innovación y Tecnología, las plataformas necesarias e implementar controles técnicos sobre operaciones derivadas de ventas de bienes o servicios y otras transacciones con incidencia fiscal.",
+      "Debe suministrar insumos para que otra Dirección implemente la interoperabilidad y abstenerse de administrar plataformas o establecer controles sobre transacciones.",
+      "Debe realizar cruces de información para determinar nuevos usuarios de factura electrónica, sin desarrollar plataformas ni implementar controles técnicos sobre operaciones."
+    ],
+    "correct": 1,
+    "explanation": "La función reúne la administración coordinada de las plataformas necesarias y la implementación de controles técnicos sobre las operaciones y transacciones con incidencia fiscal descritas."
+  },
+  {
+    "question": "Cuando la Entidad busca que la Factura Electrónica interactúe e interopere con sus sistemas de información, servicios digitales y aplicativos, ¿qué responsabilidad específica se asigna a esta Subdirección?",
+    "options": [
+      "Implementar directamente toda la interacción e interoperabilidad, sin intervención de la Dirección de Gestión de Innovación y Tecnología.",
+      "Autorizar a los usuarios para que definan los protocolos de conexión entre la Factura Electrónica y cada aplicativo de la Entidad.",
+      "Brindar los insumos necesarios para que la Dirección de Gestión de Innovación y Tecnología implemente la interacción e interoperabilidad con esos sistemas, servicios y aplicativos.",
+      "Administrar la numeración de facturas y considerar que esa actuación sustituye la provisión de insumos para la interoperabilidad."
+    ],
+    "correct": 2,
+    "explanation": "La Subdirección aporta los insumos necesarios; la implementación de la interacción e interoperabilidad se atribuye a la Dirección de Gestión de Innovación y Tecnología."
+  },
+  {
+    "question": "En la gestión de proveedores tecnológicos y autorizados, ¿qué combinación de competencias describe íntegramente la intervención de la Subdirección?",
+    "options": [
+      "Recibir solicitudes de habilitación y trasladarlas a otra dependencia, sin proyectar actos administrativos ni evaluar su cumplimiento.",
+      "Autorizar inicialmente a los proveedores tecnológicos y realizar seguimiento únicamente a los actos de renovación, excluyendo sanciones y terminaciones.",
+      "Proyectar actos de autorización y renovación, mientras que la cancelación, terminación, revocatoria y evaluación de cumplimiento quedan fuera de sus funciones.",
+      "Conocer solicitudes de habilitación y proyectar y firmar los actos administrativos procedentes sobre autorización, renovación, sanción, cancelación, terminación o revocatoria, además de hacer seguimiento y evaluar su cumplimiento."
+    ],
+    "correct": 3,
+    "explanation": "La disposición asigna tanto el conocimiento de las solicitudes como la proyección y firma de los actos enumerados y el seguimiento y evaluación de su cumplimiento."
+  },
+  {
+    "question": "Para que los contribuyentes utilicen los servicios de facturación de la Entidad, ¿qué prestación debe poner a su disposición la Subdirección y bajo qué límite expresamente señalado?",
+    "options": [
+      "Servicios para generar, validar y transmitir a la Entidad mediante los sistemas de información y servicios digitales de facturación, en los términos previstos en la Ley.",
+      "Servicios para generar y validar facturas, dejando la transmisión a la Entidad a cargo exclusivo de proveedores tecnológicos y sin sujeción a los términos de la Ley.",
+      "Servicios para consultar la numeración y registrar títulos valor, como sustituto de los servicios digitales de generación, validación y transmisión.",
+      "Servicios para autorizar y sancionar a los contribuyentes según el tipo de factura, con condiciones definidas por cada usuario del sistema."
+    ],
+    "correct": 0,
+    "explanation": "La función consiste en poner a disposición de los contribuyentes los servicios de generación, validación y transmisión a la Entidad, conforme a los términos previstos en la Ley."
+  },
+  {
+    "question": "Respecto del Registro de la Factura Electrónica, ¿qué responsabilidad normativa y técnica atribuye el artículo a la Subdirección?",
+    "options": [
+      "Limitarse a recibir facturas para su consulta, dejando la definición de condiciones y mecanismos técnicos a los contribuyentes.",
+      "Definir e implementar las condiciones, los términos y los mecanismos técnicos del Registro de la Factura Electrónica.",
+      "Administrar la numeración general de las facturas, entendiendo que esta tarea comprende por sí sola la definición del Registro.",
+      "Proveer a otra Dirección insumos para la interoperabilidad, sin intervenir en las condiciones de funcionamiento del Registro."
+    ],
+    "correct": 1,
+    "explanation": "La función atribuye expresamente a la Subdirección la definición e implementación de condiciones, términos y mecanismos técnicos del Registro."
+  },
+  {
+    "question": "Si se evalúa el uso que hacen los usuarios de los sistemas de facturación y de las conexiones provistas por la Entidad, ¿cuál es el alcance del control asignado a la Subdirección?",
+    "options": [
+      "Controlar únicamente a los proveedores tecnológicos en cuanto al cumplimiento de los actos administrativos que los autorizan.",
+      "Controlar a los usuarios solo respecto de la veracidad tributaria de cada operación, sin considerar el uso de conexiones o servicios digitales.",
+      "Ejercer control sobre los usuarios de los sistemas indicados en cuanto al uso adecuado de las conexiones y de los sistemas de información y servicios digitales provistos por la Entidad.",
+      "Definir las condiciones del Registro de la Factura Electrónica, sin ejercer control sobre quienes utilizan los sistemas o sus conexiones."
+    ],
+    "correct": 2,
+    "explanation": "El control se refiere a los usuarios de los sistemas enumerados y, específicamente, al uso adecuado de las conexiones y de los sistemas y servicios digitales que provee la Entidad."
+  },
+  {
+    "question": "Al diseñar modelos para intercambiar datos obtenidos de los sistemas de facturación, ¿qué propósito y materias deben orientar el apoyo de la Subdirección?",
+    "options": [
+      "Facilitar exclusivamente la prestación de servicios digitales a contribuyentes, sin relacionar el intercambio con actuaciones sobre tributos o comercio exterior.",
+      "Determinar por sí misma las obligaciones y sanciones de cada contribuyente y utilizar los datos únicamente para liquidar impuestos nacionales.",
+      "Permitir el intercambio solo para prevenir y detectar infracciones aduaneras, excluyendo investigación, penalización y determinación de tributos.",
+      "Apoyar el diseño de modelos para intercambiar esos datos con fines de prevención, investigación, penalización, determinación, aplicación y liquidación de tributos nacionales, derechos de aduana y comercio exterior."
+    ],
+    "correct": 3,
+    "explanation": "La función comprende el apoyo al diseño de modelos de intercambio y enumera esos fines y ámbitos tributarios, aduaneros y de comercio exterior."
+  },
+  {
+    "question": "Cuando otra dependencia requiere datos obtenidos de los sistemas de facturación, ¿qué condición delimita el apoyo que debe prestar la Subdirección para disponer de ellos?",
+    "options": [
+      "Apoyar a otras dependencias en la disposición de esos datos en virtud de las facultades fijadas normativamente.",
+      "Entregar los datos a cualquier dependencia que los solicite, con independencia de las facultades que le hayan sido fijadas normativamente.",
+      "Disponer los datos únicamente para la Dirección de Gestión de Innovación y Tecnología y solo para implementar interoperabilidad.",
+      "Autorizar cada uso de los datos mediante un acto de habilitación de proveedores tecnológicos, sin atender a las facultades normativas de las dependencias."
+    ],
+    "correct": 0,
+    "explanation": "El apoyo a otras dependencias para disponer de los datos se presta en virtud de las facultades fijadas normativamente."
+  },
+  {
+    "question": "En la identificación de nuevos usuarios de factura electrónica, ¿cómo se distribuye la intervención entre la Subdirección, el área correspondiente y las dependencias competentes?",
+    "options": [
+      "La Subdirección determina directamente a los nuevos usuarios, sin apoyo del área correspondiente ni intervención de otras dependencias.",
+      "La Subdirección apoya al área correspondiente en cruces y análisis de información, para que las dependencias competentes de la Entidad determinen los nuevos usuarios.",
+      "El área correspondiente determina los nuevos usuarios mediante actos administrativos de sanción, mientras la Subdirección se limita a administrar la numeración.",
+      "Las dependencias competentes realizan los cruces y análisis, y el área correspondiente se limita a transmitir los resultados a los contribuyentes."
+    ],
+    "correct": 1,
+    "explanation": "La Subdirección presta apoyo en los cruces y análisis; la determinación de los nuevos usuarios corresponde a las dependencias competentes de la Entidad."
+  },
+  {
+    "question": "¿Qué diferencia establece el artículo entre la administración funcional de los sistemas de facturación y la supervisión de quienes participan en ellos?",
+    "options": [
+      "La Subdirección administra funcionalmente los sistemas, pero el control de sus participantes se limita a proveedores tecnológicos con actos de autorización vigentes.",
+      "La Subdirección controla a los participantes, pero la definición de políticas para la administración funcional corresponde exclusivamente a cada usuario.",
+      "La Subdirección determina las políticas para la administración funcional de los sistemas enumerados y también ejerce control sobre los participantes de esos sistemas.",
+      "La Subdirección define políticas de intercambio de datos, pero no políticas de administración funcional ni controles sobre participantes."
+    ],
+    "correct": 2,
+    "explanation": "La función contempla dos responsabilidades relacionadas pero distintas: determinar las políticas de administración funcional y ejercer control sobre los participantes de los sistemas mencionados."
+  },
+  {
+    "question": "Al diferenciar la gestión de la numeración de la gestión del Registro de la Factura Electrónica, ¿qué ámbito de numeración corresponde expresamente a la Subdirección?",
+    "options": [
+      "Definir la numeración exclusivamente de las facturas electrónicas inscritas como título valor que circulen en el territorio nacional.",
+      "Administrar la numeración únicamente de las facturas electrónicas, mientras la numeración de las facturas en general corresponde a otras dependencias.",
+      "Definir los términos del Registro de la Factura Electrónica, sin administrar la numeración de ningún tipo de factura.",
+      "Definir y administrar tanto la numeración de las facturas electrónicas como la de las facturas en general."
+    ],
+    "correct": 3,
+    "explanation": "La función abarca la definición y administración de la numeración de las facturas electrónicas y de las facturas en general."
+  },
+  {
+    "question": "Para las facturas electrónicas que reúnen la condición de título valor y circulan en el país, ¿qué actuación específica debe asegurar la Subdirección?",
+    "options": [
+      "Incluir su registro y permitir su debida consulta y trazabilidad.",
+      "Administrar su numeración, sin incorporarlas a un registro ni habilitar su consulta o trazabilidad.",
+      "Autorizar su circulación mediante actos de habilitación de proveedores tecnológicos y evaluar después el cumplimiento de esos actos.",
+      "Incluir en el Registro todas las facturas del país, sin distinguir las que se consideran título valor ni las que circulan en el territorio nacional."
+    ],
+    "correct": 0,
+    "explanation": "La función se refiere al registro de las facturas electrónicas consideradas título valor que circulen en el territorio nacional y exige permitir su consulta y trazabilidad."
+  },
+  {
+    "question": "Al interpretar la cláusula que cierra el listado de funciones de la Subdirección, ¿qué criterio permite determinar qué otras funciones puede ejercer?",
+    "options": [
+      "Puede asumir cualquier función de la Entidad si resulta útil para la facturación, aunque no tenga relación con la ley, la naturaleza de la dependencia o una asignación del Director General.",
+      "Puede ejercer funciones que le correspondan conforme a la ley, de acuerdo con la naturaleza de la dependencia o que le sean asignadas por el Director General de la DIAN.",
+      "Solo puede ejercer las funciones enumeradas en los numerales anteriores, porque la cláusula final no contempla funciones adicionales.",
+      "Puede ejercer únicamente las funciones asignadas por la Dirección de Gestión de Innovación y Tecnología, siempre que se refieran a plataformas."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula comprende funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar el alcance de la orientación y asistencia que presta esta Subdirección, ¿qué combinación de destinatarios y actividades corresponde a la función descrita?",
+    "options": [
+      "Asistir únicamente a contribuyentes y responsables en la presentación de declaraciones, dejando los sistemas digitales y la demás información requerida a otras dependencias.",
+      "Orientar a contribuyentes, responsables, usuarios y ciudadanía en general sobre declaraciones y demás información requerida por la DIAN, además del uso adecuado de los sistemas de información y servicios digitales.",
+      "Orientar a usuarios aduaneros sobre sus operaciones y asistir a la ciudadanía exclusivamente en el uso de los canales de atención presencial.",
+      "Administrar los sistemas de información institucionales y verificar las declaraciones presentadas, sin prestar asistencia directa a los obligados."
+    ],
+    "correct": 1,
+    "explanation": "La función incluye a los cuatro grupos destinatarios indicados y comprende tanto declaraciones e información requerida por la DIAN como el uso de sistemas de información y servicios digitales."
+  },
+  {
+    "question": "La gestión institucional de quejas, reclamos, sugerencias y peticiones exige distinguir la administración del sistema de la producción de información asociada. ¿Qué responsabilidad atribuye el artículo a la Subdirección?",
+    "options": [
+      "Administrar el sistema de quejas, reclamos, sugerencias y peticiones de la DIAN, y elaborar y presentar información a las instancias correspondientes.",
+      "Recibir las quejas y peticiones, pero remitir la administración del sistema y la elaboración de información a los puntos de contacto.",
+      "Coordinar los canales de atención y elaborar información únicamente cuando una instancia externa la solicite formalmente.",
+      "Evaluar las quejas y reclamos para determinar incumplimientos tributarios, y comunicar sus conclusiones a las instancias competentes."
+    ],
+    "correct": 0,
+    "explanation": "La disposición asigna conjuntamente la administración del sistema y la elaboración y presentación de información a las instancias correspondientes."
+  },
+  {
+    "question": "Si se requiere asegurar una operación coherente de los puntos de contacto y canales de servicio de la Entidad en distintas regiones, ¿qué alcance de coordinación establece esta función?",
+    "options": [
+      "Coordinar la atención en cada punto de contacto, limitada a los trámites tributarios gestionados en las dependencias del nivel central.",
+      "Establecer directamente la operación de todos los canales, incluidos aquellos que no hayan sido dispuestos por la Entidad.",
+      "Coordinar a nivel nacional la operación y el funcionamiento de los puntos de contacto y canales dispuestos por la Entidad para el servicio al cliente.",
+      "Supervisar la calidad percibida por la ciudadanía, sin intervenir en la operación o el funcionamiento de los canales."
+    ],
+    "correct": 2,
+    "explanation": "La función abarca la coordinación nacional de la operación y funcionamiento de los puntos y canales que la Entidad ha dispuesto para el servicio al cliente."
+  },
+  {
+    "question": "Al diferenciar la coordinación de estrategias de cumplimiento de la ejecución de campañas, ¿qué responsabilidad se asigna específicamente a la Subdirección en materia de cultura de la contribución y servicio?",
+    "options": [
+      "Diseñar estrategias de fiscalización dirigidas a sancionar a quienes incumplan obligaciones tributarias o aduaneras.",
+      "Coordinar estrategias de cultura de la contribución y servicio orientadas al cumplimiento de obligaciones por contribuyentes y responsables, pero no por usuarios aduaneros.",
+      "Implementar campañas informativas para toda la ciudadanía, sin coordinar estrategias dirigidas al cumplimiento de obligaciones.",
+      "Coordinar la ejecución de estrategias de cultura de la contribución y de servicio orientadas al cumplimiento de obligaciones por contribuyentes, responsables y usuarios aduaneros."
+    ],
+    "correct": 3,
+    "explanation": "La función se refiere a coordinar la ejecución de estrategias de cultura y servicio y contempla expresamente a contribuyentes, responsables y usuarios aduaneros."
+  },
+  {
+    "question": "Una solicitud de servicio al cliente se presenta por uno de los canales dispuestos por la Entidad y se relaciona con un trámite tributario. ¿Qué actuación corresponde a la función de gestión atribuida a esta Subdirección?",
+    "options": [
+      "Gestionar, por los diversos canales dispuestos por la Entidad, la atención de trámites y actividades encaminados a brindar servicio al cliente en aspectos tributarios.",
+      "Resolver todos los trámites tributarios, aunque no estén relacionados con servicio al cliente ni se gestionen mediante los canales institucionales.",
+      "Limitar la atención a la recepción de solicitudes, pues la gestión de trámites corresponde exclusivamente a quienes los presentan.",
+      "Gestionar por los canales institucionales la atención de trámites tributarios, aduaneros y cambiarios, sin distinción del ámbito de servicio descrito."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende gestionar, mediante los diversos canales de la Entidad, la atención de trámites y actividades de servicio al cliente en aspectos tributarios."
+  },
+  {
+    "question": "Al diseñar acciones para facilitar el cumplimiento voluntario, ¿qué alcance deben tener las campañas cuya implementación asigna el artículo a la Subdirección?",
+    "options": [
+      "Campañas de cultura y asistencia dirigidas exclusivamente a incrementar el cumplimiento voluntario de obligaciones tributarias.",
+      "Campañas de fiscalización y control orientadas a detectar y sancionar incumplimientos tributarios, aduaneros y cambiarios.",
+      "Campañas de cultura de la contribución, servicio, información, asistencia y persuasión orientadas a facilitar e incrementar el cumplimiento voluntario de obligaciones tributarias, aduaneras y cambiarias.",
+      "Campañas de información y servicio destinadas a facilitar el cumplimiento de obligaciones tributarias y aduaneras, sin incluir las cambiarias ni la persuasión."
+    ],
+    "correct": 2,
+    "explanation": "La disposición reúne cinco componentes de las campañas y señala que buscan facilitar e incrementar el cumplimiento voluntario en los ámbitos tributario, aduanero y cambiario."
+  },
+  {
+    "question": "Para evaluar el servicio institucional, una medición debe integrar tanto la experiencia ciudadana como el desempeño de los medios de atención. ¿Qué mecanismo corresponde coordinar a la Subdirección?",
+    "options": [
+      "Aplicar mecanismos centrados en la percepción ciudadana, excluyendo el seguimiento de la operación de los canales para evitar mezclar indicadores.",
+      "Coordinar la aplicación de mecanismos de evaluación que contemplen la percepción ciudadana sobre la calidad del servicio recibido y el seguimiento de la operación de los canales de atención.",
+      "Medir la operación de los canales y reemplazar con sus resultados la valoración ciudadana sobre la calidad del servicio recibido.",
+      "Evaluar únicamente los trámites tributarios concluidos y atribuir a los puntos de contacto la medición de la percepción ciudadana."
+    ],
+    "correct": 1,
+    "explanation": "Los mecanismos de evaluación deben contemplar ambas dimensiones: percepción ciudadana sobre la calidad recibida y seguimiento de la operación de los canales."
+  },
+  {
+    "question": "Al formular acciones de largo alcance para fortalecer la cultura de la contribución, ¿qué combinación de responsabilidad y referente estratégico establece el artículo?",
+    "options": [
+      "Proponer las estrategias y ejecutarlas sin coordinación, atendiendo a las necesidades operativas de los canales de servicio.",
+      "Coordinar las estrategias de servicio de la Entidad conforme a estándares de calidad, sin que el Plan Estratégico Institucional sea un referente.",
+      "Proponer y coordinar estrategias de cultura de la contribución de acuerdo con lineamientos de orden nacional, en sustitución del Plan Estratégico Institucional.",
+      "Proponer y coordinar estrategias para fortalecer la cultura de la contribución, atendiendo lo dispuesto en el Plan Estratégico Institucional."
+    ],
+    "correct": 3,
+    "explanation": "La atribución combina la propuesta y coordinación de estrategias de fortalecimiento con la atención a lo dispuesto en el Plan Estratégico Institucional."
+  },
+  {
+    "question": "La organización de rifas, sorteos y concursos del Premio Fiscal está sometida a condiciones específicas. ¿Cuál describe correctamente el alcance de la función de la Subdirección?",
+    "options": [
+      "Dirigir, organizar y establecer los trámites y procedimientos requeridos, con autorización del Director General y del Director de Gestión de Impuestos, siempre que la Entidad destine presupuesto para cumplir la estrategia.",
+      "Organizar los concursos con autorización de cualquiera de los dos directores, aun cuando la Entidad no destine presupuesto para la estrategia.",
+      "Proponer los trámites y procedimientos del Premio Fiscal, dejando su dirección y organización a los directores autorizantes y sin condición presupuestal.",
+      "Dirigir y organizar las rifas y sorteos una vez asignado presupuesto, con autorización del Director General, sin requerir la del Director de Gestión de Impuestos."
+    ],
+    "correct": 0,
+    "explanation": "La función incluye dirigir, organizar y establecer los trámites y procedimientos, y exige la autorización de ambos directores y que la Entidad destine presupuesto."
+  },
+  {
+    "question": "La implementación del Modelo de Atención al Ciudadano o Usuario debe responder a necesidades identificadas sin apartarse de parámetros institucionales y nacionales. ¿Qué articulación de criterios establece la disposición?",
+    "options": [
+      "Aplicar el modelo según las necesidades identificadas y los lineamientos nacionales, permitiendo que esos lineamientos sustituyan los estándares de calidad de la Entidad.",
+      "Implementar el modelo con base exclusiva en los estándares de calidad establecidos por la Entidad, sin atender necesidades identificadas ni lineamientos nacionales.",
+      "Implementar el modelo de acuerdo con las necesidades identificadas, los estándares de calidad establecidos por la Entidad y los lineamientos de orden nacional.",
+      "Implementar el modelo conforme a necesidades generales de la ciudadanía y estándares internacionales, sin limitarlo a lineamientos de orden nacional."
+    ],
+    "correct": 2,
+    "explanation": "La implementación debe considerar conjuntamente las necesidades identificadas, los estándares de calidad de la Entidad y los lineamientos de orden nacional."
+  },
+  {
+    "question": "Para desarrollar iniciativas, estrategias y acciones pedagógicas de servicio y cultura de la contribución, ¿qué gestión de recursos y qué grupos destinatarios contempla esta función?",
+    "options": [
+      "Gestionar ante la Dirección de Gestión Corporativa recursos financieros únicamente para campañas dirigidas a contribuyentes y usuarios aduaneros.",
+      "Solicitar directamente a las instancias presupuestales recursos administrativos y financieros para acciones dirigidas exclusivamente a servidores públicos.",
+      "Gestionar ante la Dirección de Gestión Corporativa recursos financieros y administrativos para iniciativas de servicio y cultura dirigidas solo a la ciudadanía.",
+      "Gestionar ante la Dirección de Gestión Corporativa recursos financieros y administrativos para el desarrollo de iniciativas, estrategias y acciones pedagógicas de servicio y cultura dirigidas a servidores públicos y a la ciudadanía en general."
+    ],
+    "correct": 3,
+    "explanation": "La atribución identifica a la Dirección de Gestión Corporativa como destinataria de la gestión, contempla recursos financieros y administrativos, y comprende a servidores públicos y ciudadanía en general."
+  },
+  {
+    "question": "Al interpretar la cláusula que cierra la enumeración de funciones, ¿qué fundamento permite que la Subdirección ejerza funciones adicionales a las expresamente listadas?",
+    "options": [
+      "Solo las funciones asignadas por el Director General, siempre que sean idénticas a una de las funciones enumeradas en el artículo.",
+      "Las funciones que correspondan de conformidad con la ley, las acordes con la naturaleza de la dependencia o las asignadas por el Director General de la DIAN.",
+      "Cualquier función relacionada con el servicio al ciudadano, aunque no corresponda a la ley, a la naturaleza de la dependencia ni a una asignación del Director General.",
+      "Las funciones que establezca la Dirección de Gestión Corporativa, siempre que se relacionen con recursos administrativos o financieros."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula contempla tres fundamentos: la ley, la naturaleza de la dependencia y la asignación del Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar el alcance general de la Subdirección de Devoluciones, ¿qué conjunto de operaciones debe administrar y controlar respecto de contribuyentes, responsables o usuarios?",
+    "options": [
+      "Las devoluciones y compensaciones de saldos a favor, pagos en exceso y pagos de lo no debido, cuando se originen en gravámenes, sanciones o emolumentos de competencia de la Entidad.",
+      "Únicamente las devoluciones de impuestos reconocidas mediante sentencia o conciliación, siempre que el pago se tramite a través de TIDIS.",
+      "Las devoluciones de cualquier tributo, sanción o emolumento, incluso cuando su administración corresponda a una entidad distinta de la DIAN.",
+      "La compensación de obligaciones financieras y contables, sin incluir pagos en exceso ni valores pagados de lo no debido."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende devoluciones y compensaciones de saldos a favor, pagos en exceso y de lo no debido, derivados de conceptos que sean competencia de la Entidad."
+  },
+  {
+    "question": "En el mecanismo de devolución del IVA a turistas extranjeros que involucra entidades crediticias administradoras de tarjetas, ¿qué actuación corresponde a la Subdirección además de gestionar y controlar las solicitudes?",
+    "options": [
+      "Ordenar directamente a las entidades crediticias que reconozcan la devolución, sin intervención de los mecanismos de giro ni abono a los tarjetahabientes.",
+      "Adoptar las acciones necesarias para que se giren los valores a las entidades administradoras de tarjetas, de modo que estas realicen el abono correspondiente a sus tarjetahabientes no residentes en Colombia.",
+      "Reintegrar los recursos a la entidad autorizada para devolver el IVA, aun cuando no exista aprobación del área competente.",
+      "Tramitar solamente las solicitudes relacionadas con bienes no gravados y entregar el importe al turista en efectivo."
+    ],
+    "correct": 1,
+    "explanation": "La función asigna a la Subdirección la gestión y control de las solicitudes y las acciones para efectuar el giro a las entidades crediticias, que luego abonan los valores a sus tarjetahabientes no residentes."
+  },
+  {
+    "question": "Cuando una entidad autorizada efectúa devoluciones del IVA a turistas extranjeros, ¿bajo qué condición debe gestionarse el reintegro de los recursos a esa entidad?",
+    "options": [
+      "Después de que la entidad crediticia confirme el abono a cada tarjetahabiente, sin que se requiera aprobación administrativa.",
+      "Una vez que la Dirección Seccional verifique las obligaciones del turista y autorice expresamente el reintegro.",
+      "Conforme a la aprobación impartida por el área competente, pues esa aprobación es el referente señalado para gestionar el reintegro.",
+      "Únicamente cuando los recursos provengan de un macrotítulo de TIDIS administrado durante la vigencia correspondiente."
+    ],
+    "correct": 2,
+    "explanation": "La función establece que el reintegro a la entidad autorizada se gestiona conforme a la aprobación impartida por el área competente."
+  },
+  {
+    "question": "Al distinguir la gestión integral del proceso de devolución del IVA a turistas extranjeros de la gestión de solicitudes y giros a tarjetas, ¿qué alcance específico tiene la función sobre el proceso integral?",
+    "options": [
+      "Se limita a verificar que las entidades crediticias hayan abonado los valores, sin administrar las demás actividades del proceso.",
+      "Comprende exclusivamente el reintegro de recursos a la entidad autorizada, sujeto a aprobación del área competente.",
+      "Abarca devoluciones del IVA por cualquier adquisición de turistas, incluidos bienes no gravados, con independencia de las disposiciones aplicables.",
+      "Comprende administrar, gestionar y controlar las actividades del proceso de devolución del IVA pagado por turistas extranjeros al adquirir bienes gravados, de conformidad con las disposiciones vigentes."
+    ],
+    "correct": 3,
+    "explanation": "La función se refiere al proceso de devolución del IVA pagado en la adquisición de bienes gravados por turistas extranjeros y exige conformidad con las disposiciones vigentes."
+  },
+  {
+    "question": "Una entidad condenada que constituye una sección del Presupuesto General de la Nación remite solicitudes para verificar obligaciones a cargo de beneficiarios de sentencias o conciliaciones. ¿Qué tratamiento asigna la norma a esas solicitudes?",
+    "options": [
+      "La Subdirección debe canalizarlas y remitirlas a la Dirección Seccional respectiva o a la Dirección Operativa de Grandes Contribuyentes, para aplicar el procedimiento establecido.",
+      "La Subdirección debe resolver directamente la verificación y ordenar el pago a los beneficiarios, sin remitir las solicitudes a otra dependencia.",
+      "Debe remitirlas exclusivamente al Ministerio de Hacienda y Crédito Público, porque toda solicitud derivada de una condena queda fuera del procedimiento de la DIAN.",
+      "Debe enviarlas a la Subdirección de Recaudo para que esta determine si la entidad condenada pertenece al Presupuesto General de la Nación."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección canaliza y remite esas solicitudes a la Dirección Seccional correspondiente o a la Dirección Operativa de Grandes Contribuyentes para dar aplicación al procedimiento establecido."
+  },
+  {
+    "question": "Para disponer de TIDIS destinados al pago de resoluciones de devolución proferidas en cada vigencia, ¿qué responsabilidades previas atribuye la norma a la Subdirección?",
+    "options": [
+      "Contratar directamente, sin intervención de otra entidad, al depósito centralizado y emitir los títulos con fundamento exclusivo en sus propios requerimientos técnicos.",
+      "Elaborar los requerimientos técnicos y gestionar ante el Ministerio de Hacienda y Crédito Público la solicitud de contratación del depósito centralizado que administrará los TIDIS de cada vigencia, destinados a esos pagos conforme al artículo 862 del Estatuto Tributario o a las normas que lo reglamenten, modifiquen o sustituyan.",
+      "Solicitar al Ministerio la contratación de un depósito para administrar los TIDIS de todas las vigencias futuras, destinados únicamente al pago de compensaciones que no hayan sido objeto de resolución.",
+      "Administrar por sí misma el depósito centralizado y limitar la gestión contractual a los casos en que una norma posterior reemplace íntegramente el artículo 862 del Estatuto Tributario."
+    ],
+    "correct": 1,
+    "explanation": "La Subdirección elabora los requerimientos técnicos y gestiona ante el Ministerio la solicitud de contratación; el depósito administrará los TIDIS de cada vigencia destinados al pago de las resoluciones indicadas."
+  },
+  {
+    "question": "En la operación de pagos de devoluciones mediante TIDIS, o mediante otro instrumento establecido por la ley, ¿qué aspectos debe controlar la Subdirección en relación con el título y el contrato del depósito de valores?",
+    "options": [
+      "La disponibilidad del fondo rotatorio y la emisión de certificados de viabilidad, dejando a la entidad depositaria el control de firmas digitales.",
+      "La existencia de solicitudes aprobadas y la definición de las condiciones contables, sin intervenir en la disponibilidad de instrumentos de pago.",
+      "La disponibilidad del macrotítulo para pagar devoluciones y el uso de los mecanismos dispuestos por la entidad depositaria para manejar las firmas y certificados digitales requeridos en desarrollo del contrato.",
+      "La contratación anual del depósito centralizado y el abono directo de los TIDIS a los tarjetahabientes, sin controlar los mecanismos de autenticación."
+    ],
+    "correct": 2,
+    "explanation": "La función comprende controlar la disponibilidad del macrotítulo —o de otro instrumento previsto por la ley— y el uso de los mecanismos de la entidad depositaria para las firmas y certificados digitales requeridos por el contrato."
+  },
+  {
+    "question": "¿Cuál es la responsabilidad de la Subdirección respecto del Fondo Rotatorio de Devoluciones y de la rendición de cuentas asociada?",
+    "options": [
+      "Aprobar la creación del Fondo y solicitar informes únicamente cuando existan pagos mediante TIDIS.",
+      "Administrar el Fondo, pero transferir su manejo y la rendición de informes a la entidad depositaria de valores.",
+      "Controlar las solicitudes de devolución que podrían financiarse con el Fondo, sin asumir su manejo ni informar sobre él.",
+      "Administrar, manejar y controlar el Fondo Rotatorio de Devoluciones, así como rendir los informes correspondientes."
+    ],
+    "correct": 3,
+    "explanation": "La norma atribuye conjuntamente a la Subdirección la administración, el manejo y el control del Fondo, además de la rendición de los informes correspondientes."
+  },
+  {
+    "question": "Se solicita devolver dinero consignado en exceso o que no correspondía a la Dirección General de Crédito Público y Tesoro Nacional, y la responsabilidad del caso es de la Entidad. ¿Qué secuencia institucional describe la función asignada?",
+    "options": [
+      "La Subdirección gestiona la viabilidad; el funcionario del área competente firma el certificado de viabilidad correspondiente y genera la orden de pago.",
+      "La Subdirección firma el certificado y genera la orden de pago, mientras el funcionario del área competente se limita a gestionar la viabilidad.",
+      "La Subdirección remite necesariamente la solicitud a una Dirección Seccional para que esta emita una resolución de compensación antes de evaluar la viabilidad.",
+      "El Ministerio de Hacienda certifica la viabilidad y ordena el pago, mientras la Subdirección controla únicamente la consignación inicial."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección gestiona la viabilidad de las solicitudes cuya responsabilidad corresponde a la Entidad; el funcionario del área competente firma el certificado y genera la orden de pago."
+  },
+  {
+    "question": "Además de gestionar la viabilidad de ciertos reintegros al Tesoro, ¿qué responsabilidad específica se asigna a la Subdirección respecto de las devoluciones automáticas?",
+    "options": [
+      "Autorizar cada devolución automática mediante un certificado individual y trasladar su operación a la Subdirección de Recaudo.",
+      "Administrar, gestionar y controlar las actividades relacionadas con la operación de las devoluciones automáticas, de conformidad con la normatividad vigente.",
+      "Limitarse a identificar pagos en exceso que puedan incorporarse a devoluciones automáticas, sin intervenir en la operación del mecanismo.",
+      "Definir las devoluciones automáticas con independencia de la normatividad vigente y controlar únicamente su registro contable."
+    ],
+    "correct": 1,
+    "explanation": "La función atribuye a la Subdirección la administración, gestión y control de las actividades vinculadas con la operación de las devoluciones automáticas, conforme a la normatividad vigente."
+  },
+  {
+    "question": "Para asegurar la gestión efectiva de las devoluciones y compensaciones, ¿qué ámbito de los servicios informáticos debe administrar la Subdirección y con qué propósito institucional?",
+    "options": [
+      "Únicamente la infraestructura informática central, para garantizar la seguridad general de los sistemas de toda la Entidad.",
+      "Las solicitudes de ajuste de las áreas seccionales, pero no los requerimientos ni la operación de los servicios informáticos de devoluciones.",
+      "Los requerimientos, ajustes y operación de los servicios informáticos, junto con las demás actividades que se determinen para cumplir efectivamente políticas, programas, metas y estrategias en materia de devoluciones y compensaciones.",
+      "Los cruces de información y las alertas tempranas, excluyendo la operación de los servicios informáticos y la gestión de metas institucionales."
+    ],
+    "correct": 2,
+    "explanation": "La función incluye requerimientos, ajustes, operación y otras actividades determinadas para apoyar el cumplimiento efectivo de políticas, programas, metas y estrategias sobre devoluciones y compensaciones."
+  },
+  {
+    "question": "Al establecer cómo deben reflejarse las devoluciones y compensaciones en los sistemas institucionales, ¿con qué dependencia debe coordinarse la Subdirección y qué debe definir y gestionar conjuntamente?",
+    "options": [
+      "Con la Dirección Operativa de Grandes Contribuyentes, para definir las reglas de verificación de obligaciones y la remisión de solicitudes.",
+      "Con el Ministerio de Hacienda y Crédito Público, para establecer la contratación del depósito y controlar el manejo de firmas digitales.",
+      "Con la entidad autorizada para devolver el IVA, para acordar los abonos a tarjetahabientes y la aprobación de reintegros.",
+      "Con la Subdirección de Recaudo, para definir y gestionar las condiciones y mecanismos procedimentales y tecnológicos que aseguren la correcta afectación de los sistemas de contabilidad y obligación financiera."
+    ],
+    "correct": 3,
+    "explanation": "La coordinación expresamente prevista es con la Subdirección de Recaudo y comprende condiciones y mecanismos tanto procedimentales como tecnológicos para afectar correctamente los sistemas indicados."
+  },
+  {
+    "question": "En la gestión de solicitudes de devolución y compensación, ¿qué relación establece la norma entre el análisis de información, las alertas y los controles en los servicios informáticos?",
+    "options": [
+      "Definir e implementar cruces de información y mecanismos para identificar operaciones inusuales, generar alertas tempranas y gestionar la implementación de los controles requeridos en los servicios informáticos de esas solicitudes.",
+      "Investigar todas las operaciones inusuales como incumplimientos comprobados y aplicar sanciones antes de generar alertas en los servicios informáticos.",
+      "Implementar controles únicamente después de que una Dirección Seccional confirme una irregularidad y limitar los cruces de información a obligaciones contables.",
+      "Generar alertas tempranas para la totalidad de operaciones, sin mecanismos de identificación de operaciones inusuales ni gestión de controles informáticos."
+    ],
+    "correct": 0,
+    "explanation": "La función articula cruces y mecanismos para detectar operaciones inusuales, alertas tempranas y gestión de los controles requeridos en los servicios informáticos de devoluciones y compensaciones."
+  },
+  {
+    "question": "Cuando surge una función relacionada con la actividad de la Subdirección que no está descrita expresamente entre las responsabilidades enumeradas, ¿en qué términos puede corresponderle ejercerla?",
+    "options": [
+      "Solo si una Dirección Seccional se la delega formalmente y siempre que se limite a devoluciones de IVA a turistas extranjeros.",
+      "Si corresponde conforme a la ley, a la naturaleza de la dependencia o si le es asignada por el Director General de la DIAN.",
+      "Únicamente si está prevista en el artículo 862 del Estatuto Tributario y cuenta con aprobación previa del Ministerio de Hacienda.",
+      "Si resulta conveniente para la gestión institucional, aunque no tenga relación con la ley, la naturaleza de la dependencia ni una asignación del Director General."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula comprende funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
