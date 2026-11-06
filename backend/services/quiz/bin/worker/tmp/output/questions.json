@@ -3298,5 +3298,104 @@
     ],
     "correct": 1,
     "explanation": "La cláusula final contempla tres fundamentos: conformidad con la ley, correspondencia con la naturaleza de la dependencia o asignación por el Director General de la DIAN."
+  },
+  {
+    "question": "Cuando los empleados de la DIAN atienden procesos de atención al cliente y plantean dudas sobre asuntos propios de la Subdirección de Operación Aduanera, ¿qué intervención corresponde a esta Subdirección según el artículo?",
+    "options": [
+      "Orientarlos y apoyarlos en los aspectos normativos y procedimentales relacionados con los asuntos de competencia de la Subdirección.",
+      "Asumir directamente la atención de todos los clientes y resolver cualquier asunto aduanero, aunque no corresponda a su competencia.",
+      "Diseñar exclusivamente programas de divulgación para usuarios externos, sin intervenir en la orientación del personal que atiende al cliente.",
+      "Limitar su apoyo a la interpretación normativa, pues la orientación sobre procedimientos corresponde únicamente a las direcciones seccionales."
+    ],
+    "correct": 0,
+    "explanation": "La función consiste en orientar y apoyar a los empleados que atienden procesos de atención al cliente, tanto en aspectos normativos como procedimentales y respecto de asuntos de competencia de la Subdirección."
+  },
+  {
+    "question": "Al gestionar información para la operación aduanera, ¿qué combinación de responsabilidades atribuye el artículo a la Subdirección y bajo qué condición debe realizarse el intercambio institucional?",
+    "options": [
+      "Debe conservar únicamente la información de sus propios sistemas y divulgarla sin intervención de otras dependencias cuando resulte útil para el control.",
+      "Debe mantener actualizada la información requerida para los procesos y sistemas de información y servicios digitales aduaneros; además, requerir y suministrar a la Dirección de Gestión Estratégica y de Analítica la información necesaria para los fines previstos, conforme a la ley y los reglamentos.",
+      "Debe transferir a la Dirección de Gestión Estratégica y de Analítica toda la administración de los sistemas aduaneros, sin conservar responsabilidad sobre la actualización de información.",
+      "Debe suministrar información a esa Dirección solo para capacitación e intercambio internacional, pues el control, la comunicación interna y la divulgación quedan fuera de los fines enumerados."
+    ],
+    "correct": 1,
+    "explanation": "El artículo reúne la actualización de información para procesos y sistemas aduaneros con el requerimiento y suministro de información a la Dirección, para control, capacitación, cooperación e intercambio, comunicación interna y/o divulgación, de conformidad con la ley y los reglamentos."
+  },
+  {
+    "question": "En el diseño de programas vinculados con los asuntos propios del área, ¿qué papel asigna el artículo a la Subdirección de Operación Aduanera frente a la Dirección de Gestión Estratégica y de Analítica?",
+    "options": [
+      "Definir unilateralmente los programas de control y capacitación, y comunicar sus resultados a la otra Dirección una vez implementados.",
+      "Ejecutar programas diseñados exclusivamente por la Dirección de Gestión Estratégica y de Analítica, sin participar en su evaluación.",
+      "Participar, en coordinación con esa Dirección, en el diseño y la evaluación de programas de control y de capacitación y/o divulgación de los asuntos propios de su área.",
+      "Coordinar únicamente la divulgación de asuntos aduaneros, mientras el diseño y la evaluación de programas de control corresponden a las direcciones seccionales."
+    ],
+    "correct": 2,
+    "explanation": "La función establece participación coordinada con la Dirección de Gestión Estratégica y de Analítica tanto en el diseño como en la evaluación de los programas mencionados."
+  },
+  {
+    "question": "Al dirigir actividades sobre la aplicación y el desarrollo de la operación y los regímenes aduaneros, ¿qué orientación debe guiar la actuación de la Subdirección?",
+    "options": [
+      "Priorizar el control y el recaudo, aunque ello implique dejar en segundo plano la prestación del servicio aduanero y la agilización del comercio exterior.",
+      "Orientar su acción a la adecuada prestación del servicio aduanero como soporte básico de la facilitación y agilización de las operaciones de comercio exterior.",
+      "Concentrarse en facilitar las operaciones de comercio exterior, excluyendo de su ámbito la aplicación y el desarrollo de los regímenes aduaneros.",
+      "Delegar la evaluación de esas actividades en las direcciones seccionales, pues su responsabilidad central se limita a impartir lineamientos normativos."
+    ],
+    "correct": 1,
+    "explanation": "El artículo asigna a la Subdirección la dirección y evaluación de esas actividades, con la adecuada prestación del servicio aduanero como orientación para facilitar y agilizar las operaciones de comercio exterior."
+  },
+  {
+    "question": "Al evaluar la gestión de las Direcciones Seccionales de Aduanas y/o de Impuestos y Aduanas, ¿qué conjunto de propósitos debe orientar la asesoría y orientación de la Subdirección?",
+    "options": [
+      "Garantizar la aplicación adecuada de los regímenes y la eficiencia del servicio, dejando el control normativo y el recaudo exclusivamente a otras dependencias.",
+      "Asegurar el recaudo de los tributos aduaneros mediante la aplicación uniforme de los regímenes, aunque no se evalúe la eficiencia del servicio.",
+      "Verificar solamente el cumplimiento de las normas aduaneras, sin asesorar sobre la prestación del servicio ni sobre la aplicación de los regímenes.",
+      "Contribuir a la aplicación adecuada de los regímenes, a la prestación eficiente del servicio aduanero y al control orientado al cumplimiento de las normas y al recaudo de los tributos aduaneros."
+    ],
+    "correct": 3,
+    "explanation": "La asesoría, orientación y evaluación de la gestión seccional se dirigen conjuntamente a esos tres resultados: aplicación adecuada de los regímenes, servicio eficiente y control para el cumplimiento normativo y el recaudo."
+  },
+  {
+    "question": "Un usuario interno formula una consulta técnica sobre la aplicación de un régimen aduanero y un usuario externo presenta una petición técnica sobre la misma materia. ¿Cómo delimita el artículo la función de la Subdirección frente a estas comunicaciones?",
+    "options": [
+      "Atender las solicitudes, peticiones y consultas de carácter técnico formuladas por usuarios internos y externos en materia de aplicación de los regímenes aduaneros.",
+      "Atender las consultas de usuarios internos, pero remitir las solicitudes y peticiones de usuarios externos a las direcciones seccionales.",
+      "Resolver únicamente consultas sobre interpretación abstracta de las normas, excluyendo solicitudes y peticiones relativas a su aplicación.",
+      "Atender comunicaciones de cualquier naturaleza de ambos tipos de usuarios, siempre que se refieran a cualquier asunto de comercio exterior."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende solicitudes, peticiones y consultas de carácter técnico, tanto de usuarios internos como externos, y se limita a la aplicación de los regímenes aduaneros."
+  },
+  {
+    "question": "Cuando varios entes gubernamentales intervienen en asuntos de comercio exterior relacionados con regímenes aduaneros, ¿qué responsabilidad combina el artículo para la Subdirección?",
+    "options": [
+      "Asumir la dirección de todos esos entes y establecer compromisos obligatorios, sin que corresponda verificar su cumplimiento.",
+      "Participar y coordinar con los entes pertinentes los asuntos relacionados con esos regímenes, y verificar el cumplimiento de los compromisos que se asuman.",
+      "Coordinar solo a los entes responsables de la operación aduanera, mientras la verificación de compromisos corresponde a la Dirección de Gestión Estratégica y de Analítica.",
+      "Limitarse a verificar compromisos formalizados por otros, sin participar ni coordinar los asuntos de comercio exterior relacionados con los regímenes."
+    ],
+    "correct": 1,
+    "explanation": "La disposición reúne la participación y coordinación con los entes gubernamentales pertinentes y la verificación del cumplimiento de los compromisos asumidos."
+  },
+  {
+    "question": "Si surge un asunto de propiedad intelectual dentro del ámbito de competencia de la Entidad, ¿qué actuación encomienda expresamente el artículo a la Subdirección?",
+    "options": [
+      "Dirigir investigaciones penales y determinar sanciones sobre cualquier infracción de propiedad intelectual relacionada con el comercio exterior.",
+      "Transferir el asunto a las direcciones seccionales, pues la Subdirección solo interviene en la aplicación de regímenes aduaneros.",
+      "Realizar las gestiones necesarias en lo concerniente a los asuntos de propiedad intelectual que sean de competencia de la Entidad.",
+      "Atender únicamente consultas técnicas sobre propiedad intelectual formuladas por usuarios externos, sin realizar otras gestiones."
+    ],
+    "correct": 2,
+    "explanation": "El artículo atribuye a la Subdirección la realización de las gestiones necesarias sobre asuntos de propiedad intelectual, con el límite de que sean de competencia de la Entidad."
+  },
+  {
+    "question": "Al determinar si una tarea no enumerada expresamente puede ser ejercida por la Subdirección, ¿qué criterios reconoce la cláusula final del artículo?",
+    "options": [
+      "La tarea debe estar asignada exclusivamente por el Director General; la ley y la naturaleza de la dependencia no constituyen criterios independientes.",
+      "La tarea puede derivarse de cualquier instrucción de una dirección seccional, incluso si no corresponde a la ley ni a la naturaleza de la dependencia.",
+      "La Subdirección puede asumir cualquier tarea que considere conveniente para el servicio aduanero, aunque no derive de la ley, de la naturaleza de la dependencia ni de una asignación del Director General.",
+      "Puede ejercer las demás funciones que le correspondan conforme a la ley, de acuerdo con la naturaleza de la dependencia o que le sean asignadas por el Director General de la DIAN."
+    ],
+    "correct": 3,
+    "explanation": "La cláusula reconoce tres fundamentos para las demás funciones: la ley, la naturaleza de la dependencia y la asignación del Director General de la DIAN."
   }
 ]
