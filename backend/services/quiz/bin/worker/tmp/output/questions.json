@@ -3804,5 +3804,390 @@
     ],
     "correct": 2,
     "explanation": "La cláusula comprende funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Una dependencia de la DIAN remite muestras de mercancías al Laboratorio Aduanero para determinar si se ajustan a obligaciones aduaneras y tributarias. ¿Qué función describe con mayor precisión la responsabilidad de la Subdirección frente a esa solicitud?",
+    "options": [
+      "Adelantar los procedimientos de análisis técnico-científico requeridos para verificar el cumplimiento de la normatividad aduanera y tributaria, dentro del ámbito de sus competencias.",
+      "Definir por sí sola las obligaciones tributarias y aduaneras aplicables a las mercancías, con independencia de la competencia de las dependencias solicitantes.",
+      "Coordinar exclusivamente la recepción y el almacenamiento de las muestras, dejando los análisis técnicos a cargo de las dependencias remitentes.",
+      "Practicar análisis únicamente cuando la solicitud provenga de una autoridad externa y tenga por objeto verificar obligaciones tributarias."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección adelanta los procedimientos de análisis técnico-científico de muestras enviadas por dependencias de la Entidad para verificar el cumplimiento aduanero y tributario dentro de sus competencias."
+  },
+  {
+    "question": "Al organizar el análisis de muestras recibidas, la Subdirección debe atender tanto el propósito de los análisis como el manejo de las muestras durante su recorrido. ¿Cuál combinación corresponde a sus funciones?",
+    "options": [
+      "Coordinar análisis dirigidos a verificar la normatividad tributaria y transferir a cada dependencia remitente la responsabilidad exclusiva sobre la trazabilidad de las muestras.",
+      "Coordinar los análisis técnico-científicos para verificar la normatividad aduanera y coordinar y asegurar el control y la trazabilidad de las muestras recibidas.",
+      "Asegurar la trazabilidad solo de las muestras ya analizadas y limitar la coordinación de análisis a mercancías remitidas por laboratorios externos.",
+      "Realizar directamente todos los análisis y asumir el control de las mercancías, sin coordinar las actividades con otras dependencias."
+    ],
+    "correct": 1,
+    "explanation": "La función comprende coordinar las actividades de análisis para verificar la normatividad aduanera y coordinar y asegurar el control y la trazabilidad de las muestras recibidas."
+  },
+  {
+    "question": "Si las características de ciertas mercancías requieren capacidades analíticas que no se obtienen con los métodos disponibles, ¿qué actuación se ajusta a la función de desarrollo metodológico de la Subdirección?",
+    "options": [
+      "Sustituir los análisis de muestras por criterios administrativos de clasificación, sin modificar las prácticas del laboratorio.",
+      "Adoptar únicamente metodologías definidas por laboratorios externos, pues la Subdirección no tiene atribuciones metodológicas propias.",
+      "Implementar nuevas metodologías que permitan caracterizar las muestras de mercancías recibidas en el laboratorio.",
+      "Crear métodos solo para evaluar la competencia del personal, sin aplicarlos a la caracterización de muestras."
+    ],
+    "correct": 2,
+    "explanation": "La Subdirección debe implementar nuevas metodologías cuyo propósito sea permitir la caracterización de las muestras de mercancías recibidas."
+  },
+  {
+    "question": "Para que la gestión de calidad de los laboratorios de la Entidad se implemente de manera institucional y no aislada, ¿qué responsabilidad se asigna a la Subdirección?",
+    "options": [
+      "Diseñar un sistema de calidad exclusivo para el Laboratorio Aduanero, sin intervención de otras dependencias de la Entidad.",
+      "Evaluar los laboratorios, pero dejar la implementación y administración del sistema de calidad a las Direcciones Seccionales.",
+      "Administrar un sistema de gestión de calidad limitado a los análisis contratados por entidades externas.",
+      "Implementar y administrar el sistema de gestión de calidad para laboratorios de la Entidad, en coordinación con las dependencias competentes."
+    ],
+    "correct": 3,
+    "explanation": "La atribución comprende tanto implementar como administrar el sistema de gestión de calidad para laboratorios, y exige coordinación con las dependencias competentes."
+  },
+  {
+    "question": "La trazabilidad depende de que los registros informáticos permitan reconstruir el recorrido de las muestras durante su gestión. ¿Qué obligación concreta establece la norma para los sistemas de información del Laboratorio Aduanero?",
+    "options": [
+      "Mantenerlos actualizados para que permitan llevar la trazabilidad de las muestras recibidas y tramitadas.",
+      "Actualizar únicamente los registros de las muestras cuyo análisis haya producido un dictamen definitivo.",
+      "Conservar en los sistemas solo la información de ingreso, dejando fuera la tramitación posterior de las muestras.",
+      "Centralizar en ellos la información de todas las mercancías de la DIAN, aunque no hayan sido recibidas o tramitadas por el Laboratorio."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección debe garantizar la actualización de los sistemas de información de su laboratorio para posibilitar la trazabilidad de las muestras recibidas y tramitadas."
+  },
+  {
+    "question": "La continuidad operativa del laboratorio requiere gestionar los equipos utilizados en los análisis, no solo responder cuando uno falla. ¿Cuál es la función expresamente asignada respecto de esos equipos?",
+    "options": [
+      "Adquirir equipos nuevos cada vez que se modifique una metodología, sin establecer actividades de mantenimiento.",
+      "Coordinar el plan de mantenimiento de los equipos utilizados para analizar muestras y que aseguran la operación del Laboratorio Aduanero.",
+      "Realizar personalmente todas las reparaciones técnicas y asumir la administración del mantenimiento de los equipos de la Entidad en general.",
+      "Coordinar el mantenimiento únicamente de equipos destinados a prestar servicios a entidades extranjeras."
+    ],
+    "correct": 1,
+    "explanation": "La función consiste en coordinar el plan de mantenimiento de los equipos utilizados para analizar muestras que aseguran la operación del Laboratorio Aduanero."
+  },
+  {
+    "question": "Una dependencia solicita información técnica y, para atenderla, se requiere tanto controlar las comunicaciones de la Subdirección como conservar información bibliográfica actualizada. ¿Qué conjunto de actuaciones corresponde a la función prevista?",
+    "options": [
+      "Impartir lineamientos para las comunicaciones de toda la DIAN y mantener un archivo general de expedientes administrativos, sin finalidad técnica específica.",
+      "Administrar únicamente el archivo bibliográfico y delegar en las Direcciones Seccionales el control de las comunicaciones internas del Laboratorio.",
+      "Impartir lineamientos para controlar los sistemas de comunicación de la Subdirección y mantener actualizado el archivo bibliográfico para proporcionar información técnica que requiera la Entidad.",
+      "Controlar los sistemas de información de trazabilidad de muestras y conservar bibliografía únicamente para el personal del Laboratorio Aduanero."
+    ],
+    "correct": 2,
+    "explanation": "La función reúne los lineamientos de control de los sistemas de comunicación de la Subdirección y la actualización del archivo bibliográfico para suministrar información técnica a la Entidad."
+  },
+  {
+    "question": "Para evitar que los remanentes de muestras, los reactivos y los insumos queden sometidos a controles dispares en las bodegas, ¿qué debe establecer la Subdirección?",
+    "options": [
+      "Un protocolo de disposición ambiental que se aplique exclusivamente a los residuos producidos una vez terminados los análisis.",
+      "Requisitos de ingreso y salida para las muestras originales, pero no para sus remanentes, los reactivos ni los insumos analíticos.",
+      "Políticas de almacenamiento de reactivos, dejando el control de ingreso y salida de remanentes a cada dependencia remitente.",
+      "Protocolos, requisitos y políticas que permitan controlar el ingreso, la salida y el almacenamiento en las bodegas de muestras de remanentes, reactivos e insumos usados en procesos analíticos."
+    ],
+    "correct": 3,
+    "explanation": "La disposición contempla protocolos, requisitos y políticas para controlar ingreso, salida y almacenamiento de remanentes, reactivos e insumos utilizados en procesos analíticos en las bodegas de muestras."
+  },
+  {
+    "question": "Una vez finalizado el análisis, quedan muestras, remanentes y residuos que requieren una gestión posterior. ¿Qué criterio delimita la función de la Subdirección sobre su destino final?",
+    "options": [
+      "Gestionar la disposición final de las muestras, sus remanentes y los residuos de análisis de acuerdo con la normatividad ambiental.",
+      "Devolver necesariamente todos los remanentes a la dependencia remitente y entregar a esta la decisión sobre los residuos de análisis.",
+      "Disponer únicamente de los residuos de análisis, pues las muestras y sus remanentes deben conservarse indefinidamente en las bodegas.",
+      "Definir la disposición final según criterios de conveniencia operativa, aunque estos no correspondan a la normatividad ambiental."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección gestiona la disposición final de muestras, remanentes y residuos de análisis, y debe hacerlo conforme a la normatividad ambiental."
+  },
+  {
+    "question": "Cuando circunstancias excepcionales hacen necesario analizar técnicamente mercancías fuera de la Entidad, ¿qué papel atribuye la norma a la Subdirección del Laboratorio Aduanero?",
+    "options": [
+      "Contratar análisis externos como mecanismo ordinario y permitir que el laboratorio externo asuma íntegramente la intervención de sus resultados.",
+      "Solicitar análisis técnicos en laboratorios externos solo ante circunstancias excepcionales y actuar como interventor frente a esos análisis.",
+      "Autorizar que las dependencias solicitantes contraten directamente los análisis y asumir la interventoría únicamente si se impugna el resultado.",
+      "Reemplazar el análisis externo por una revisión documental, dado que la Subdirección no puede intervenir en servicios prestados fuera de la Entidad."
+    ],
+    "correct": 1,
+    "explanation": "La solicitud de análisis en laboratorios externos está prevista para circunstancias excepcionales, y en ese caso la Subdirección debe actuar como interventor."
+  },
+  {
+    "question": "Una dependencia de la DIAN necesita orientación sobre un análisis técnico de mercancías y apoyo para el muestreo. ¿Cuál respuesta refleja las dos formas de asistencia que la Subdirección puede brindar?",
+    "options": [
+      "Absolver consultas sobre muestreo y prestar apoyo técnico solo en análisis de muestras realizados por laboratorios externos.",
+      "Absolver consultas sobre análisis técnicos únicamente cuando provengan de entidades extranjeras y limitar el apoyo de muestreo a las Direcciones Seccionales con laboratorio.",
+      "Absolver consultas relacionadas con análisis técnicos de mercancías y brindar apoyo técnico en materia de muestreo a las diferentes dependencias de la DIAN.",
+      "Resolver consultas sobre obligaciones tributarias generales y dirigir a las dependencias a los laboratorios para cualquier asunto de muestreo."
+    ],
+    "correct": 2,
+    "explanation": "La Subdirección puede absolver consultas relacionadas con análisis técnicos de mercancías y prestar apoyo técnico en muestreo a las diferentes dependencias de la DIAN."
+  },
+  {
+    "question": "Al participar en espacios de coordinación con actores públicos y privados, ¿qué ámbito temático delimita la participación técnica de la Subdirección?",
+    "options": [
+      "Comités y reuniones exclusivamente internos sobre políticas generales de recaudo y control tributario.",
+      "Reuniones con el sector privado para definir políticas comerciales, aunque no se relacionen con laboratorios ni análisis de mercancías.",
+      "Comités con organismos internacionales sobre cooperación técnica, como sustituto de la participación con el sector estatal y privado.",
+      "Comités y reuniones de carácter técnico con los sectores estatal y privado sobre laboratorios, análisis de mercancías y definición de políticas relacionadas con las funciones de la dependencia."
+    ],
+    "correct": 3,
+    "explanation": "La participación prevista es técnica, con el sector estatal y privado, y se refiere a laboratorios, análisis de mercancías y políticas relacionadas con las funciones de la dependencia."
+  },
+  {
+    "question": "La cooperación internacional de la Subdirección tiene un alcance técnico vinculado al servicio de laboratorios químicos aduaneros. ¿Qué actuación conjunta expresa correctamente esa función?",
+    "options": [
+      "Propiciar apoyo y cooperación técnica internacional relacionada con ese servicio y colaborar con organismos internacionales en asuntos técnicos de su competencia.",
+      "Negociar acuerdos internacionales de comercio exterior y determinar las obligaciones aduaneras de organismos internacionales.",
+      "Prestar servicios de análisis a entidades extranjeras bajo contratos, sin promover cooperación ni colaborar en asuntos técnicos.",
+      "Coordinar cooperación internacional únicamente para adquirir equipos, dejando fuera los asuntos técnicos de competencia de la Subdirección."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende propiciar apoyo y cooperación técnica internacional sobre el servicio de laboratorios químicos aduaneros y colaborar con organismos internacionales en asuntos técnicos de competencia de la Subdirección."
+  },
+  {
+    "question": "En el curso de sus actividades, la Subdirección encuentra indicios de fraude aduanero o contrabando técnico. ¿Qué respuesta institucional corresponde a su función, sin confundirla con una atribución de decisión sancionatoria?",
+    "options": [
+      "Declarar probados los ilícitos y sancionar directamente a los responsables, sin remitir información a otras dependencias.",
+      "Generar insumos para las dependencias competentes a partir de esos indicios y coordinar mecanismos para optimizar los programas de control internos de la Entidad.",
+      "Comunicar los indicios únicamente a organismos internacionales y dejar a estos la optimización de los programas de control de la DIAN.",
+      "Suspender la trazabilidad de las muestras mientras las dependencias de fiscalización deciden si existe contrabando técnico."
+    ],
+    "correct": 1,
+    "explanation": "La Subdirección genera insumos para las dependencias competentes cuando sus actividades producen indicios de fraude aduanero o contrabando técnico, y coordina mecanismos para optimizar programas de control internos."
+  },
+  {
+    "question": "Una Dirección Seccional consulta cómo tomar muestras y utilizar métodos analíticos, mientras un laboratorio de la Entidad requiere orientación sobre análisis físico-químicos de mercancías. ¿Qué orientación debe impartir la Subdirección y bajo qué marco?",
+    "options": [
+      "Orientar a las Direcciones Seccionales sobre muestreo, pero dejar a cada laboratorio la selección de métodos sin sujeción a procedimientos institucionales.",
+      "Impartir a todos los usuarios internos métodos obligatorios para cualquier tipo de mercancía, aunque no se ajusten a la normatividad vigente.",
+      "Impartir lineamientos a Direcciones Seccionales y demás usuarios internos para la correcta toma de muestras y uso de métodos analíticos, y a los laboratorios de la Entidad para métodos de análisis físico-químico, conforme a procedimientos y normatividad vigente.",
+      "Definir métodos de análisis físico-químico únicamente para laboratorios externos y limitar la orientación a las Direcciones Seccionales a la trazabilidad informática."
+    ],
+    "correct": 2,
+    "explanation": "La norma distingue los destinatarios y el objeto de los lineamientos: muestreo y métodos para Direcciones Seccionales y usuarios internos, y métodos físico-químicos para los laboratorios, siempre conforme a procedimientos y normatividad vigente."
+  },
+  {
+    "question": "La Subdirección presta análisis de muestras a una entidad nacional o extranjera. ¿Qué condiciones enmarcan ese servicio según la función asignada?",
+    "options": [
+      "La solicitud debe provenir de una dependencia de la DIAN y el servicio se presta según estándares definidos unilateralmente por el laboratorio.",
+      "El servicio está destinado a entidades extranjeras, mientras que las nacionales deben tramitar sus análisis por las Direcciones Seccionales.",
+      "La prestación depende exclusivamente de la disponibilidad de equipos y no está vinculada a términos contractuales ni a estándares de servicio.",
+      "La Subdirección ejecuta los servicios para entidades nacionales o extranjeras en términos contractuales y estándares de servicio establecidos conjuntamente con la Dirección de Gestión Corporativa."
+    ],
+    "correct": 3,
+    "explanation": "Los servicios pueden prestarse a entidades nacionales o extranjeras y deben ejecutarse conforme a términos contractuales y estándares de servicio establecidos conjuntamente con la Dirección de Gestión Corporativa."
+  },
+  {
+    "question": "Para fortalecer la capacidad técnica institucional, la Subdirección debe abordar tanto al personal como a los laboratorios. ¿Qué combinación de medidas corresponde a esa responsabilidad?",
+    "options": [
+      "Implementar programas que aseguren la competencia técnica del personal de los laboratorios de la Entidad y de la Subdirección, y establecer criterios de evaluación de los laboratorios.",
+      "Evaluar individualmente a los servidores de las Direcciones Seccionales y dejar que cada laboratorio establezca sus propios criterios institucionales de evaluación.",
+      "Asegurar la competencia del personal de la Subdirección, excluyendo al personal de los demás laboratorios, y evaluar únicamente los equipos.",
+      "Fijar criterios para evaluar laboratorios externos y sustituir con ellos los programas de competencia técnica del personal interno."
+    ],
+    "correct": 0,
+    "explanation": "La función incluye programas para asegurar la competencia técnica del personal que labora en los laboratorios de la Entidad y en la Subdirección, además de criterios de evaluación de los laboratorios."
+  },
+  {
+    "question": "Además de las funciones expresamente enumeradas, ¿en qué términos puede la Subdirección ejercer otras funciones sin ampliar arbitrariamente su ámbito de actuación?",
+    "options": [
+      "Cuando sean solicitadas por cualquier usuario interno, aunque no guarden relación con la dependencia ni tengan fundamento legal.",
+      "Cuando le correspondan conforme a la ley, a la naturaleza de la dependencia o le sean asignadas por el Director General de la DIAN.",
+      "Cuando sean asignadas por cualquier Dirección Seccional, siempre que se relacionen de manera general con el comercio exterior.",
+      "Cuando resulten convenientes para la operación del laboratorio, incluso si contradicen las competencias establecidas para la dependencia."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula residual circunscribe otras funciones a las que correspondan conforme a la ley, a la naturaleza de la dependencia o a las asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Si una Dirección Seccional cuenta con laboratorio y emite un estudio, reporte o dictamen sobre el análisis físico-químico de una mercancía, ¿cómo se resuelve la relación de prevalencia prevista respecto de los documentos expedidos por la Subdirección del Laboratorio Aduanero?",
+    "options": [
+      "Los documentos se valoran en igualdad de condiciones, pues la prevalencia se aplica solo cuando la Dirección Seccional carece de laboratorio.",
+      "El documento de la Dirección Seccional prevalece si fue expedido primero, mientras que la Subdirección conserva únicamente una función consultiva.",
+      "Los estudios, reportes y dictámenes sobre análisis físico-químico que expida la Subdirección tienen carácter prevalente sobre los que emitan las Direcciones Seccionales que cuenten con laboratorio.",
+      "La prevalencia comprende cualquier documento técnico de la Subdirección, incluso si no está relacionado con el análisis físico-químico de mercancías."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo establece la prevalencia de los estudios, reportes y dictámenes de la Subdirección relacionados con análisis físico-químico de mercancías frente a los emitidos por Direcciones Seccionales que cuenten con laboratorio."
+  },
+  {
+    "question": "Al orientar la ejecución de la operación aduanera en las dependencias territoriales, ¿qué alcance atribuye el artículo a la función de la Subdirección respecto de los regímenes aduaneros?",
+    "options": [
+      "Dirigir la facilitación del servicio de la operación aduanera para la debida aplicación de los regímenes en las Direcciones Seccionales de Aduanas y/o de Impuestos y Aduanas.",
+      "Aplicar directamente los regímenes aduaneros en cada operación y asumir las funciones decisorias propias de las Direcciones Seccionales.",
+      "Coordinar la aplicación de los regímenes únicamente en las Direcciones Seccionales de Impuestos y Aduanas, excluyendo a las de Aduanas.",
+      "Verificar la aplicación de los regímenes solo después de cada operación, sin dirigir actividades de facilitación del servicio aduanero."
+    ],
+    "correct": 0,
+    "explanation": "La función consiste en dirigir actividades de facilitación del servicio de la operación aduanera vinculadas con la debida aplicación de los regímenes, para su ejecución en cualquiera de los tipos de Direcciones Seccionales mencionados."
+  },
+  {
+    "question": "Al diseñar estrategias para mejorar las transacciones de comercio exterior, ¿qué combinación de resultados y criterios debe procurar la Subdirección?",
+    "options": [
+      "Reducir costos mediante controles uniformes, aunque la eficiencia dependa de estándares exclusivamente nacionales y de procedimientos no previsibles.",
+      "Crear estándares de eficacia y reducir costos, procurando que las actividades sean transparentes, previsibles y eficientes con base en normas, estándares y mejores prácticas aceptadas internacionalmente.",
+      "Reducir costos sustituyendo los estándares de eficacia por criterios operativos internos y dejando la transparencia a decisión de cada usuario.",
+      "Adoptar mejores prácticas internacionales para aumentar los costos de transacción y reservar la previsibilidad para las autoridades fronterizas."
+    ],
+    "correct": 1,
+    "explanation": "El numeral reúne la reducción de costos y la creación de estándares de eficacia, bajo criterios de transparencia, previsibilidad y eficiencia y con referencia a normas, estándares y mejores prácticas aceptadas internacionalmente."
+  },
+  {
+    "question": "Al formular procedimientos aduaneros de facilitación y considerar a quienes se benefician de ellos, ¿qué elementos exige tener en cuenta el artículo?",
+    "options": [
+      "La normatividad vigente y las solicitudes de los usuarios, sin considerar tendencias de comercio exterior ni planes de gobierno.",
+      "Los planes de gobierno y los resultados de fiscalización, limitando los procedimientos a los operadores previamente autorizados.",
+      "Los lineamientos técnicos, las tendencias de comercio exterior y los planes de gobierno, al proponer procedimientos aduaneros en materia de facilitación y sus beneficiarios.",
+      "Las mejores prácticas internacionales y los convenios suscritos, para que la Subdirección expida directamente los procedimientos aplicables."
+    ],
+    "correct": 2,
+    "explanation": "La Subdirección propone los procedimientos y debe considerar conjuntamente los lineamientos técnicos, las tendencias del comercio exterior y los planes de gobierno, además de atender la materia de facilitación y sus beneficiarios."
+  },
+  {
+    "question": "Cuando una problemática de facilitación afecta operaciones de comercio exterior y requiere la intervención de varias instancias, ¿qué respuesta institucional corresponde a la Subdirección?",
+    "options": [
+      "Trasladar la problemática a las entidades estatales y limitar su actuación a recibir los resultados de las gestiones externas.",
+      "Coordinar únicamente con dependencias de la propia entidad y abordar por separado cada efecto sobre las operaciones.",
+      "Asumir en exclusiva la solución de los problemas operativos, sin coordinar con otras entidades ni dependencias estatales.",
+      "Actuar coordinadamente con otras entidades y dependencias del Estado para gestionar y superar integralmente las problemáticas que afectan esas operaciones en materia de facilitación."
+    ],
+    "correct": 3,
+    "explanation": "La función requiere coordinación con otras entidades y dependencias estatales y busca una gestión y superación integral de las problemáticas que afectan las operaciones de comercio exterior en materia de facilitación."
+  },
+  {
+    "question": "Al establecer condiciones para las transacciones fronterizas, ¿qué caracteriza el entorno que debe procurar la Subdirección para los usuarios del comercio exterior?",
+    "options": [
+      "Un entorno transparente y previsible para todos los usuarios, basado en simplificar y racionalizar los trámites.",
+      "Un entorno previsible para los usuarios registrados, basado principalmente en ampliar los trámites de control fronterizo.",
+      "Un entorno transparente definido para las autoridades, con simplificación de trámites solo cuando no afecte los procedimientos existentes.",
+      "Un entorno uniforme para todos los usuarios, basado en reemplazar la racionalización de trámites por estándares de eficacia."
+    ],
+    "correct": 0,
+    "explanation": "El artículo vincula la transparencia y previsibilidad para todos los usuarios en las transacciones fronterizas con la simplificación y racionalización de trámites."
+  },
+  {
+    "question": "Respecto de los convenios internacionales suscritos por Colombia en materia de facilitación del comercio exterior, ¿cuál es el cometido asignado a la Subdirección?",
+    "options": [
+      "Negociar nuevos convenios y sustituir las obligaciones internacionales por procedimientos aduaneros internos.",
+      "Adelantar acciones para la adecuada implementación y el cumplimiento de esos convenios.",
+      "Verificar exclusivamente la implementación de los convenios por otras entidades, sin realizar acciones relacionadas con su cumplimiento.",
+      "Asesorar sobre los convenios solo cuando los usuarios presenten consultas técnicas de comercio exterior."
+    ],
+    "correct": 1,
+    "explanation": "La función consiste en adelantar acciones orientadas tanto a la adecuada implementación como al cumplimiento de los convenios suscritos por Colombia en esta materia."
+  },
+  {
+    "question": "Al promover el cumplimiento de obligaciones aduaneras, ¿a qué sujetos y qué modalidad de cumplimiento se refiere expresamente el artículo?",
+    "options": [
+      "A los usuarios de comercio exterior, mediante fiscalización posterior y sin incluir a los auxiliares de la función pública aduanera.",
+      "A las Direcciones Seccionales y a las entidades estatales, mediante cumplimiento obligatorio de procedimientos internos.",
+      "A los usuarios de las operaciones de comercio exterior y a los auxiliares de la función pública aduanera, promoviendo el cumplimiento voluntario de sus obligaciones aduaneras.",
+      "A los usuarios y auxiliares aduaneros, mediante instrumentos de facilitación cuya formulación es la única función prevista."
+    ],
+    "correct": 2,
+    "explanation": "El numeral identifica como destinatarios a los usuarios de operaciones de comercio exterior y a los auxiliares de la función pública aduanera, y establece que se promueve el cumplimiento voluntario."
+  },
+  {
+    "question": "Al gestionar cooperación técnica internacional en facilitación del comercio exterior, ¿cómo debe articular la Subdirección su colaboración con organismos internacionales?",
+    "options": [
+      "Colaborar en cualquier asunto de competencia de esos organismos y definir autónomamente las directrices institucionales.",
+      "Gestionar cooperación sobre asuntos administrativos generales, dejando los asuntos técnicos a las Direcciones Seccionales.",
+      "Colaborar en asuntos técnicos de su competencia, pero únicamente con entidades nacionales y bajo directrices de las Direcciones Seccionales.",
+      "Colaborar con organismos internacionales en asuntos técnicos de su competencia y actuar bajo las directrices del Director General."
+    ],
+    "correct": 3,
+    "explanation": "La cooperación es técnica y referida a asuntos de competencia de la Subdirección; la colaboración con organismos internacionales se realiza bajo las directrices del Director General."
+  },
+  {
+    "question": "Una institución estatal solicita orientación sobre facilitación del comercio exterior. ¿Qué alcance de asesoría contempla el artículo?",
+    "options": [
+      "Asesorar a la Entidad y a las demás instituciones del Estado en esa materia, de acuerdo con la normatividad vigente.",
+      "Asesorar exclusivamente a la Entidad y solo respecto de procedimientos que la propia Subdirección haya propuesto.",
+      "Asesorar a instituciones estatales y usuarios externos únicamente en asuntos de cooperación técnica internacional.",
+      "Asesorar a las demás instituciones del Estado conforme a tendencias comerciales, aunque la orientación se aparte de la normatividad vigente."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende asesorar tanto a la Entidad como a las demás instituciones del Estado y condiciona esa asesoría a la normatividad vigente."
+  },
+  {
+    "question": "Para disponer de los medios requeridos para las actividades de facilitación, ¿qué responsabilidad y articulación institucional establece el artículo?",
+    "options": [
+      "Gestionar solo recursos financieros y directamente, sin coordinación con la dependencia corporativa.",
+      "Gestionar recursos financieros y administrativos en coordinación con la Dirección de Gestión Corporativa para ejecutar las actividades relacionadas con facilitación.",
+      "Coordinar con la Dirección de Gestión Corporativa la asignación de recursos exclusivamente para actividades generales de la DIAN.",
+      "Gestionar recursos administrativos para la ejecución de las actividades, mientras la Dirección de Gestión Corporativa define por sí sola los recursos financieros."
+    ],
+    "correct": 1,
+    "explanation": "La Subdirección gestiona recursos de carácter financiero y administrativo, lo hace en coordinación con la Dirección de Gestión Corporativa y los vincula con la ejecución de las actividades de facilitación."
+  },
+  {
+    "question": "Al definir estrategias para las operaciones en frontera, ¿qué combinación de medios, finalidades y actores recoge la función asignada?",
+    "options": [
+      "Mejorar la logística y los servicios tecnológicos para la facilitación, dejando el control fronterizo a cargo exclusivo de la Subdirección.",
+      "Mejorar la logística de las autoridades competentes y reservar el uso de servicios tecnológicos para controles ajenos a la facilitación.",
+      "Definir estrategias para mejorar la logística y la utilización de servicios tecnológicos tanto para el control como para la facilitación del comercio exterior en frontera, por parte de las autoridades competentes.",
+      "Adquirir servicios tecnológicos para la facilitación en frontera, sin incluir la logística ni el control del comercio exterior."
+    ],
+    "correct": 2,
+    "explanation": "La estrategia debe orientarse a mejorar la logística y la utilización de servicios tecnológicos, con ambas finalidades —control y facilitación— en frontera y por parte de las autoridades competentes."
+  },
+  {
+    "question": "Para acrecentar la facilitación del comercio exterior mediante relaciones entre actores, ¿qué forma de articulación debe propiciar la Subdirección?",
+    "options": [
+      "Coordinar a las entidades del sector público y mantener con el sector privado una interacción limitada a consultas ocasionales.",
+      "Sustituir la coordinación público-privada por lineamientos técnicos comunes entre las autoridades competentes.",
+      "Promover la coordinación del sector privado y la interacción permanente entre dependencias públicas, sin articular ambos sectores.",
+      "Propender por la coordinación de los sectores público y privado y por una interacción permanente con ambos."
+    ],
+    "correct": 3,
+    "explanation": "El numeral dispone tanto la coordinación entre los sectores público y privado como la interacción permanente con ellos, orientadas a acrecentar la facilitación."
+  },
+  {
+    "question": "Al diferenciar entre diseñar una estrategia general de facilitación y proponer instrumentos dirigidos al cumplimiento de obligaciones, ¿qué encargo específico establece el artículo para estos últimos?",
+    "options": [
+      "Proponer instrumentos para el cumplimiento voluntario de las obligaciones aduaneras de los usuarios de operaciones de comercio exterior, con impacto positivo en las medidas de facilitación.",
+      "Imponer instrumentos de cumplimiento obligatorio a los usuarios, aunque su efecto sobre las medidas de facilitación sea indirecto.",
+      "Proponer instrumentos de cumplimiento voluntario para los auxiliares aduaneros, sin que deban incidir en las medidas de facilitación.",
+      "Diseñar estrategias para reducir costos de transacción, sin proponer instrumentos relativos al cumplimiento voluntario de obligaciones."
+    ],
+    "correct": 0,
+    "explanation": "La función es proponer instrumentos dirigidos al cumplimiento voluntario de las obligaciones aduaneras por parte de los usuarios y exige que impacten positivamente las medidas de facilitación."
+  },
+  {
+    "question": "Si usuarios internos o externos formulan requerimientos técnicos sobre facilitación del comercio exterior, ¿qué tipo de actuaciones debe atender la Subdirección?",
+    "options": [
+      "Solo consultas de usuarios externos, siempre que planteen una controversia sobre la aplicación de regímenes aduaneros.",
+      "Solicitudes, peticiones y consultas de carácter técnico formuladas por usuarios internos y externos sobre temas relacionados con la facilitación.",
+      "Peticiones de usuarios internos y consultas de usuarios externos, excluyendo las solicitudes técnicas de cualquiera de ellos.",
+      "Solicitudes y consultas de cualquier carácter, siempre que provengan de autoridades competentes y no de usuarios."
+    ],
+    "correct": 1,
+    "explanation": "El artículo comprende solicitudes, peticiones y consultas, las califica como de carácter técnico e incluye tanto a usuarios internos como externos en temas relacionados con facilitación."
+  },
+  {
+    "question": "¿Qué efecto asigna el artículo a las recomendaciones entregadas por los Centros de Excelencia y sobre qué dependencias recae la aplicación vinculante?",
+    "options": [
+      "La Subdirección debe considerar las recomendaciones como orientaciones no vinculantes para las Direcciones Seccionales de Aduanas y de Impuestos y Aduanas.",
+      "Los Centros de Excelencia deben aplicar recomendaciones emitidas por las Direcciones Seccionales de Aduanas en sus propias operaciones.",
+      "La Subdirección debe garantizar que las Direcciones Seccionales de Aduanas apliquen de manera vinculante las recomendaciones entregadas por los Centros de Excelencia.",
+      "Las Direcciones Seccionales de Impuestos y Aduanas deben aplicar recomendaciones de los Centros de Excelencia solo cuando las adopten voluntariamente."
+    ],
+    "correct": 2,
+    "explanation": "La responsabilidad de la Subdirección es garantizar la aplicación vinculante de las recomendaciones de los Centros de Excelencia por las Direcciones Seccionales de Aduanas."
+  },
+  {
+    "question": "Al delimitar las funciones adicionales de la dependencia, ¿qué combinación de fuentes o criterios permite que le correspondan otras funciones según el artículo?",
+    "options": [
+      "Solo las que establezcan los planes de gobierno o las tendencias del comercio exterior, aunque no tengan relación con la dependencia.",
+      "Las asignadas por el Director General, incluso si son contrarias a la ley o ajenas a la naturaleza de la dependencia.",
+      "Las que dispongan otras entidades estatales, siempre que se refieran a cooperación internacional o a recursos administrativos.",
+      "Las que correspondan de conformidad con la ley, las acordes con la naturaleza de la dependencia o las asignadas por el Director General de la DIAN."
+    ],
+    "correct": 3,
+    "explanation": "La cláusula comprende tres fundamentos: conformidad con la ley, correspondencia con la naturaleza de la dependencia y asignación por el Director General de la DIAN."
   }
 ]
