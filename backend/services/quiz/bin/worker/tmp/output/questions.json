@@ -3122,5 +3122,181 @@
     ],
     "correct": 1,
     "explanation": "La cláusula final contempla las funciones que correspondan conforme a la ley, de acuerdo con la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al interpretar la competencia de la Dirección de Gestión de Aduanas sobre los regímenes aduaneros, ¿qué combinación de actuaciones refleja íntegramente la función que se le asigna?",
+    "options": [
+      "Dirigir, administrar y evaluar las actividades relacionadas con el cumplimiento de esos regímenes, y expedir actos administrativos e instrucciones técnicas orientados a su cumplimiento y a facilitar el comercio exterior.",
+      "Limitarse a expedir instrucciones técnicas para los usuarios externos, mientras la administración y evaluación de los regímenes corresponde exclusivamente a las Direcciones Seccionales.",
+      "Dirigir la facilitación del comercio exterior, pero expedir actos administrativos únicamente para imponer sanciones por incumplimientos ya investigados.",
+      "Evaluar los regímenes aduaneros y preparar proyectos gubernamentales, sin intervenir en su administración ni emitir instrucciones para su cumplimiento."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende conjuntamente dirigir, administrar y evaluar actividades relacionadas con el cumplimiento de los regímenes, además de expedir actos administrativos e instrucciones técnicas para su cumplimiento y la facilitación del comercio exterior."
+  },
+  {
+    "question": "Cuando se preparan políticas de comercio exterior y proyectos gubernamentales relacionados con las materias a cargo del área, ¿qué papel atribuye el artículo a la Dirección de Gestión de Aduanas?",
+    "options": [
+      "Adoptar por sí sola las políticas y aprobar definitivamente los proyectos gubernamentales, sin participación de otras instancias.",
+      "Participar en la definición de las políticas y en la preparación de los proyectos gubernamentales relacionados con las materias a su cargo.",
+      "Ejecutar las políticas ya definidas, pero abstenerse de intervenir en la preparación de proyectos gubernamentales.",
+      "Preparar proyectos gubernamentales sobre cualquier materia de la DIAN, aunque no guarden relación con las competencias del área."
+    ],
+    "correct": 1,
+    "explanation": "El artículo asigna una función de participación tanto en la definición de políticas de comercio exterior como en la preparación de proyectos gubernamentales vinculados con las materias a cargo de la Dirección."
+  },
+  {
+    "question": "Al establecer el alcance de la dirección y evaluación de políticas y normas internacionales, ¿qué interpretación recoge correctamente los ámbitos que el artículo vincula con la Dirección de Gestión de Aduanas?",
+    "options": [
+      "La Dirección define políticas únicamente sobre nomenclatura arancelaria y valoración aduanera; los asuntos de origen, laboratorio y servicios aduaneros quedan excluidos.",
+      "La Dirección aplica normas nacionales de origen y valoración, pero no interviene en políticas ni en convenios internacionales relacionados con esos asuntos.",
+      "La Dirección dirige y evalúa la definición de políticas y la aplicación de normas y convenios internacionales sobre nomenclatura arancelaria, valoración aduanera y normas de origen, y también sobre el laboratorio de aduanas y los servicios aduaneros.",
+      "La Dirección se ocupa de los convenios internacionales sobre servicios aduaneros, mientras que la definición de políticas para los demás ámbitos corresponde exclusivamente a los operadores económicos autorizados."
+    ],
+    "correct": 2,
+    "explanation": "La disposición incluye nomenclatura arancelaria, valoración aduanera y normas de origen, así como la definición de políticas y aplicación de normas y convenios relacionados con el laboratorio de aduanas y los servicios aduaneros."
+  },
+  {
+    "question": "En el marco de la supervisión de usuarios aduaneros y operadores económicos autorizados, ¿qué conjunto de actuaciones corresponde a la función descrita para la Dirección?",
+    "options": [
+      "Calificar a los usuarios y operadores, sin supervisar ni controlar su habilitación, inscripción o declaración.",
+      "Supervisar y controlar únicamente la declaración de los usuarios aduaneros, dejando la habilitación, inscripción y calificación fuera de su ámbito.",
+      "Garantizar la supervisión y el control de la habilitación, inscripción, calificación y declaración de usuarios aduaneros y operadores económicos autorizados, mediante la dirección y evaluación de las acciones correspondientes.",
+      "Realizar directamente toda habilitación, inscripción, calificación y declaración, sin dirigir ni evaluar acciones de supervisión o control."
+    ],
+    "correct": 2,
+    "explanation": "La función consiste en dirigir y evaluar acciones que garanticen supervisión y control respecto de la habilitación, inscripción, calificación y declaración de ambos grupos."
+  },
+  {
+    "question": "Si se debe determinar qué usuarios pueden acceder a beneficios de facilitación del comercio exterior, ¿cuál es la competencia expresamente atribuida a la Dirección de Gestión de Aduanas?",
+    "options": [
+      "Definir los usuarios que gozarán de esos beneficios, sin que el artículo condicione esa función a una decisión de los operadores económicos autorizados.",
+      "Conceder beneficios a todos los usuarios que los soliciten, pues la disposición establece un derecho automático a la facilitación.",
+      "Proponer criterios de elegibilidad, pero reservar a las Direcciones Seccionales la definición de los usuarios beneficiarios.",
+      "Definir los beneficios disponibles, pero no determinar qué usuarios pueden gozarlos."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 5 atribuye a la Dirección la función de definir los usuarios que gozarán de beneficios de facilitación del comercio exterior; no establece concesión automática ni traslada esa definición a otra instancia."
+  },
+  {
+    "question": "Al diferenciar el control inicial sobre las condiciones de los usuarios de la revisión posterior de su situación, ¿qué alcance específico asigna el artículo a la función de revalidación?",
+    "options": [
+      "Revalidar únicamente las declaraciones de los usuarios, sin incluir a los operadores económicos autorizados.",
+      "Dirigir y evaluar acciones que garanticen la supervisión, el control y la revalidación de los diferentes usuarios aduaneros y de los operadores económicos autorizados.",
+      "Revalidar solo la calificación de los operadores económicos autorizados, pues la supervisión y el control de usuarios pertenecen a otra función.",
+      "Reemplazar mediante una nueva calificación todas las funciones de habilitación, inscripción y declaración previstas para los usuarios."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 6 reúne supervisión, control y revalidación respecto de los diferentes usuarios aduaneros y de los operadores económicos autorizados. No limita la revalidación a uno solo de esos grupos."
+  },
+  {
+    "question": "La Dirección debe representar a la Entidad en determinadas reuniones externas. ¿Qué condiciones delimitan correctamente esa representación según el artículo?",
+    "options": [
+      "La Dirección puede representar a la Entidad en cualquier asunto nacional o internacional, siempre que la reunión trate sobre comercio exterior.",
+      "La representación procede por delegación del Director, en reuniones nacionales e internacionales sobre arancel, valoración, origen y análisis fisicoquímico y ambientales, de acuerdo con los lineamientos institucionales.",
+      "La representación corresponde automáticamente a la Dirección en reuniones internacionales sobre origen y valoración, sin necesidad de delegación ni sujeción a lineamientos institucionales.",
+      "La Dirección puede asistir por delegación del Director únicamente a reuniones nacionales sobre análisis fisicoquímico, sin abordar asuntos arancelarios ni de origen."
+    ],
+    "correct": 1,
+    "explanation": "La representación requiere delegación del Director y se refiere a reuniones nacionales e internacionales sobre los temas enumerados, conforme a los lineamientos institucionales."
+  },
+  {
+    "question": "Para asegurar coherencia operativa entre el nivel central, las Direcciones Seccionales y los sistemas de la operación aduanera, ¿qué responsabilidades combina el artículo?",
+    "options": [
+      "Impartir lineamientos solo a las Direcciones Seccionales y actualizar exclusivamente los registros de usuarios externos.",
+      "Impartir lineamientos necesarios a las Direcciones Seccionales y demás usuarios internos sobre operación aduanera y asuntos de competencia del área, y garantizar la actualización de información para procesos, sistemas de información y servicios digitales de esa operación.",
+      "Actualizar los sistemas de información, pero dejar a cada Dirección Seccional la emisión independiente de lineamientos sobre materias propias del área.",
+      "Impartir instrucciones sobre todos los asuntos de la Entidad a usuarios internos y externos, sin responsabilidad sobre la actualización de información operativa."
+    ],
+    "correct": 1,
+    "explanation": "La disposición reúne dos responsabilidades: orientar a Direcciones Seccionales y otros usuarios internos en los asuntos señalados, y garantizar la actualización de información para procesos, sistemas y servicios digitales de la operación aduanera."
+  },
+  {
+    "question": "Una decisión niega la calificación de un Operador Económico Autorizado, y otra controversia se refiere a ajustes de valor permanente. Según el artículo, ¿qué competencia de la Dirección se activa frente a los recursos de apelación correspondientes?",
+    "options": [
+      "Resolver las apelaciones contra la negativa de calificación del Operador Económico Autorizado y contra los ajustes de valor permanente, asuntos que conoce en primera instancia la Subdirección Técnica Aduanera.",
+      "Resolver en primera instancia ambos asuntos y remitir cualquier apelación a la Subdirección Técnica Aduanera.",
+      "Resolver apelaciones únicamente contra ajustes de valor permanente, pues la negativa de calificación del operador queda excluida.",
+      "Revisar de oficio las decisiones de primera instancia, aunque no se interponga recurso de apelación."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 9 atribuye a la Dirección la resolución de recursos de apelación en ambos supuestos y especifica que la Subdirección Técnica Aduanera los conoce en primera instancia."
+  },
+  {
+    "question": "¿Cómo distingue el artículo entre la producción de conocimiento técnico y la investigación de actores del comercio exterior dentro de las funciones de la Dirección?",
+    "options": [
+      "Dispone que los estudios se realicen sobre operadores y declarantes, mientras las investigaciones se limiten a valoración aduanera y origen.",
+      "Asigna estudios sobre valoración aduanera y origen, y también investigaciones a operadores de comercio exterior y declarantes.",
+      "Limita tanto los estudios como las investigaciones a los declarantes, excluyendo a los operadores de comercio exterior.",
+      "Ordena realizar estudios sobre todos los regímenes aduaneros e investigaciones exclusivamente sobre convenios internacionales."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 10 separa dos objetos: estudios en materia de valoración aduanera y origen, e investigaciones a operadores de comercio exterior y declarantes."
+  },
+  {
+    "question": "Cuando el análisis de un asunto de competencia aduanera genera insumos relevantes para otras funciones institucionales, ¿cuál es el tratamiento interdependencial previsto?",
+    "options": [
+      "Remitir los insumos a la Dirección de Gestión de Fiscalización para la investigación y determinación de infracciones aduaneras, tributarias o cambiarias, y a la Dirección de Gestión Estratégica y de Analítica para lo de su competencia.",
+      "Remitir a Fiscalización únicamente la determinación de infracciones, mientras la investigación corresponde siempre a Gestión Estratégica y de Analítica.",
+      "Enviar a Gestión Estratégica y de Analítica todos los casos para sanción, y a Fiscalización solo la información estadística sin relación con infracciones.",
+      "Conservar los insumos en la Dirección de Gestión de Aduanas, pues el artículo no prevé su remisión a otras dependencias."
+    ],
+    "correct": 0,
+    "explanation": "La Dirección remite insumos a Fiscalización para la investigación y determinación de las infracciones indicadas, y a Gestión Estratégica y de Analítica para los asuntos de competencia de esta última."
+  },
+  {
+    "question": "Respecto de los centros de excelencia, ¿qué responsabilidad institucional asigna expresamente el artículo a la Dirección de Gestión de Aduanas?",
+    "options": [
+      "Evaluar sus resultados, pero dejar la coordinación y dirección exclusivamente en las Direcciones Seccionales.",
+      "Dirigir y coordinar sus funciones, sin que el numeral limite esa responsabilidad a la evaluación de sus productos.",
+      "Crear y financiar los centros, además de resolver las apelaciones relacionadas con sus actividades.",
+      "Coordinar únicamente los centros que atiendan análisis de origen, sin dirigir sus funciones."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 12 atribuye de manera directa la dirección y coordinación de las funciones de los centros de excelencia."
+  },
+  {
+    "question": "Al delimitar el papel del laboratorio aduanero, ¿qué combinación corresponde a la Dirección según el artículo?",
+    "options": [
+      "Administrar el laboratorio, pero transferir la evaluación de sus actividades a los usuarios internos que soliciten análisis.",
+      "Dirigir, administrar y evaluar el laboratorio aduanero y las actividades relacionadas con él, y establecer los criterios de evaluación.",
+      "Establecer criterios de evaluación para el laboratorio, sin dirigirlo ni administrar las actividades relacionadas.",
+      "Dirigir el laboratorio y realizar análisis fisicoquímicos, pero excluir la evaluación y la definición de criterios."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 13 comprende dirección, administración y evaluación del laboratorio y de las actividades relacionadas, junto con el establecimiento de criterios de evaluación."
+  },
+  {
+    "question": "Al formular pautas para evaluar el desempeño de las direcciones seccionales mencionadas en el artículo, ¿qué finalidad y ámbitos deben orientar esos lineamientos?",
+    "options": [
+      "Evaluar solo el recaudo de impuestos, dejando fuera los regímenes aduaneros, el control, la calificación de operadores y la facilitación comercial.",
+      "Orientar la evaluación de las direcciones seccionales de aduanas y de impuestos y aduanas nacionales, en asuntos de competencia del área, para asegurar la aplicación adecuada de los regímenes, el control aduanero, la calificación de Operadores Económicos Autorizados y un servicio correcto, oportuno y ágil que facilite el comercio exterior.",
+      "Establecer indicadores exclusivamente para los Operadores Económicos Autorizados, sin evaluar las direcciones seccionales ni el servicio al usuario.",
+      "Evaluar a las direcciones seccionales en todos los asuntos tributarios y administrativos de la DIAN, sin limitarse a las competencias del área ni a los objetivos aduaneros señalados."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 14 delimita tanto las direcciones y asuntos comprendidos como los objetivos: aplicación adecuada de regímenes, control aduanero, calificación de operadores y servicio correcto, oportuno y ágil para facilitar el comercio exterior."
+  },
+  {
+    "question": "¿Qué alcance operativo tiene el Centro de Trazabilidad Aduanera conforme a la función que el artículo asigna a la Dirección?",
+    "options": [
+      "Dirigir y administrar el centro, garantizando la trazabilidad de cargas en importaciones y exportaciones de mercancías bajo control aduanero.",
+      "Administrar la trazabilidad de todas las mercancías, incluso cuando no estén bajo control aduanero, y limitar su seguimiento a las importaciones.",
+      "Garantizar la trazabilidad de dispositivos únicamente, mientras la dirección del centro corresponde a los operadores de comercio exterior.",
+      "Supervisar las declaraciones de importación y exportación, sin administrar el centro ni garantizar trazabilidad de cargas."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 15 atribuye a la Dirección la dirección y administración del Centro y exige garantizar la trazabilidad de cargas en importación y exportación de mercancías bajo control aduanero."
+  },
+  {
+    "question": "Si surge una función no enumerada expresamente entre las anteriores, ¿qué fundamento permite atribuirla a la Dirección de Gestión de Aduanas según la cláusula final?",
+    "options": [
+      "Que sea solicitada por cualquier usuario aduanero, aunque no tenga relación con la dependencia ni fundamento legal o asignación institucional.",
+      "Que corresponda conforme a la ley, derive de la naturaleza de la dependencia o sea asignada por el Director General de la DIAN.",
+      "Que sea delegada por una Dirección Seccional, incluso si contradice la naturaleza de la dependencia.",
+      "Que esté relacionada con el comercio exterior, pues esa conexión por sí sola basta para incorporar cualquier función."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula final contempla tres fundamentos: conformidad con la ley, correspondencia con la naturaleza de la dependencia o asignación por el Director General de la DIAN."
   }
 ]
