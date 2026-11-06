@@ -3617,5 +3617,192 @@
     ],
     "correct": 1,
     "explanation": "El parágrafo limita estos efectos a los temas de competencia de la Subdirección: sus conceptos técnicos son obligatorios para los empleados de la DIAN y prevalecen sobre los emitidos por las Direcciones Seccionales de Aduanas y/o de Impuestos y Aduanas."
+  },
+  {
+    "question": "Al tramitar solicitudes relacionadas con usuarios aduaneros u operadores de comercio exterior, ¿qué alcance funcional corresponde a la Subdirección de Registro y Control Aduanero según el artículo 24?",
+    "options": [
+      "Decidir únicamente las autorizaciones iniciales y remitir las solicitudes de inscripción, habilitación, modificación u homologación a otras dependencias, que asumirían también el control posterior de los registros.",
+      "Decidir las solicitudes de autorización, inscripción, habilitación, modificación u homologación, y administrar y controlar la gestión derivada de esos registros o relacionada con ellos.",
+      "Administrar y controlar exclusivamente los registros ya otorgados, sin decidir solicitudes de modificación u homologación ni las que pretendan obtener una inscripción o habilitación.",
+      "Decidir solicitudes de autorización e inscripción y controlar sus efectos, pero dejar la administración de la gestión relacionada con los registros exclusivamente a los operadores de comercio exterior."
+    ],
+    "correct": 1,
+    "explanation": "La función comprende tanto decidir las solicitudes de las cinco categorías enumeradas como administrar y controlar la gestión derivada de los registros o relacionada con ellos."
+  },
+  {
+    "question": "Una autorización, inscripción, habilitación, beneficio de facilitación del comercio exterior u homologación exige que se constituya, modifique o renueve una garantía global. ¿Qué función asigna el artículo a la Subdirección respecto de esas garantías?",
+    "options": [
+      "Recibir y administrar las garantías globales que deban constituir, modificar o renovar los usuarios aduaneros, los operadores de comercio exterior o las personas naturales o jurídicas obligadas por mandato de la ley, en los supuestos indicados.",
+      "Recibir las garantías globales solo cuando respaldan autorizaciones o habilitaciones y remitir a otra dependencia las asociadas con beneficios de facilitación, homologaciones o inscripciones.",
+      "Administrar garantías globales únicamente de usuarios aduaneros y operadores de comercio exterior, pues la obligación legal de las personas naturales o jurídicas no está comprendida en esta función.",
+      "Decidir cuáles garantías deben constituirse y limitar su gestión a las garantías iniciales, dejando las modificaciones y renovaciones a cargo de quienes las otorgaron."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección recibe y administra las garantías globales para todos los supuestos enumerados, incluidos los beneficios de facilitación y las homologaciones, y respecto de los sujetos obligados que señala la disposición."
+  },
+  {
+    "question": "Al verificar si un usuario conserva las condiciones bajo las cuales obtuvo una autorización, inscripción, habilitación, homologación o un reconocimiento unilateral de beneficios de facilitación, ¿qué combinación de atribuciones describe correctamente la función de control de la Subdirección?",
+    "options": [
+      "Puede verificar los requisitos mediante visitas, pero solo recopilar pruebas aportadas por el usuario; la pérdida del registro o del beneficio debe ser declarada por otra autoridad.",
+      "Puede practicar y recopilar pruebas y declarar la pérdida de autorizaciones, habilitaciones e inscripciones, pero no controlar requisitos de homologaciones ni de reconocimientos de beneficios.",
+      "Puede controlar el mantenimiento de los requisitos respecto de los sujetos y situaciones contemplados, realizar visitas y practicar y recopilar las pruebas necesarias, y declarar la pérdida de las figuras expresamente indicadas.",
+      "Puede controlar los requisitos y declarar la pérdida de cualquier registro o beneficio, pero únicamente respecto de operadores de comercio exterior y sin realizar visitas."
+    ],
+    "correct": 2,
+    "explanation": "La disposición contempla el control del mantenimiento de requisitos para los usuarios y demás sujetos según el caso, autoriza visitas y la práctica y recopilación de pruebas, y atribuye la declaración de pérdida de las figuras enumeradas."
+  },
+  {
+    "question": "¿Cómo se distingue la facultad específica de definir beneficiarios de facilitación del comercio exterior de la función de control del mantenimiento de requisitos descrita en el artículo?",
+    "options": [
+      "La definición unilateral de beneficiarios se funda en parámetros establecidos por la DIAN y permite declarar la pérdida de los beneficios por las razones previstas en la normatividad vigente; el control de requisitos es una función distinta.",
+      "La definición unilateral se basa en requisitos fijados exclusivamente por cada operador y permite retirar cualquier registro, mientras que el control de requisitos se limita a declarar la pérdida de beneficios.",
+      "La DIAN determina unilateralmente los beneficiarios conforme a parámetros propios de cada usuario, pero solo puede declarar la pérdida del beneficio después de que lo solicite el interesado.",
+      "La definición de beneficiarios corresponde a la Subdirección solo cuando existe una homologación, y la pérdida de beneficios se declara exclusivamente por incumplir requisitos verificados mediante visita."
+    ],
+    "correct": 0,
+    "explanation": "La función específica permite definir unilateralmente qué usuarios gozarán de los beneficios con fundamento en parámetros establecidos por la DIAN y declarar su pérdida por razones que establezca la normatividad vigente."
+  },
+  {
+    "question": "En el trámite de una solicitud de declaratoria de zona franca, ¿qué intervención técnica atribuye el artículo 24 a la Subdirección de Registro y Control Aduanero?",
+    "options": [
+      "Decidir la declaratoria de zona franca y emitir el concepto fiscal únicamente después de que la zona haya iniciado operaciones.",
+      "Emitir un concepto sobre los beneficios de facilitación aplicables a la zona, sin pronunciarse sobre el impacto fiscal del proyecto de inversión.",
+      "Determinar el impacto fiscal de la declaratoria como decisión definitiva, sustituyendo el trámite de la solicitud de zona franca.",
+      "Emitir el concepto de impacto fiscal del proyecto de inversión dentro del trámite de las solicitudes de declaratoria de zona franca."
+    ],
+    "correct": 3,
+    "explanation": "La función consiste en emitir el concepto de impacto fiscal del proyecto de inversión durante el trámite de las solicitudes de declaratoria de zona franca; no atribuye por sí sola decidir la declaratoria."
+  },
+  {
+    "question": "Cuando se presentan recursos, solicitudes de revocación directa o peticiones ante la Subdirección, ¿qué criterio delimita cuáles debe resolver conforme al artículo?",
+    "options": [
+      "Debe resolver todos los recursos, solicitudes de revocación directa y peticiones relativos a asuntos aduaneros, sin que importe cuál dependencia sea competente.",
+      "Debe resolver los recursos, solicitudes de revocación directa y peticiones que sean de competencia de la Subdirección de Registro y Control Aduanero.",
+      "Debe resolver únicamente los recursos contra decisiones de pérdida de beneficios, mientras que la revocación directa y las peticiones corresponden a otra dependencia.",
+      "Debe tramitar esas actuaciones, pero la resolución de los recursos y de las solicitudes de revocación directa queda fuera de sus funciones."
+    ],
+    "correct": 1,
+    "explanation": "La atribución comprende las tres clases de actuaciones mencionadas, pero está delimitada por la competencia de la propia Subdirección."
+  },
+  {
+    "question": "Si una función no aparece entre las seis atribuciones específicas del artículo, ¿en qué condiciones puede corresponder también a la Subdirección?",
+    "options": [
+      "Solo si la asigna el Director General de la DIAN, pues la naturaleza de la dependencia y la ley no constituyen fundamentos autónomos.",
+      "Siempre que sea útil para la gestión aduanera, aunque no corresponda a la ley, a la naturaleza de la dependencia ni a una asignación del Director General.",
+      "Si corresponde de conformidad con la ley, si es acorde con la naturaleza de la dependencia o si le es asignada por el Director General de la DIAN.",
+      "Únicamente cuando una norma la enumera de manera expresa como función de esta Subdirección; las asignaciones del Director General no amplían su ámbito funcional."
+    ],
+    "correct": 2,
+    "explanation": "La cláusula final incorpora funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al tramitar solicitudes de autorización como Operador Económico Autorizado presentadas por usuarios, ¿qué conjunto de actuaciones corresponde a la Subdirección según el artículo 25?",
+    "options": [
+      "Resolver las solicitudes conforme a la normatividad vigente y proyectar y expedir los actos administrativos que se requieran para ese efecto.",
+      "Emitir únicamente un concepto sobre cada solicitud y remitir a otra dependencia la expedición de todos los actos administrativos.",
+      "Resolver las solicitudes con base en criterios propios y expedir actos administrativos solo cuando el usuario interponga un recurso.",
+      "Revalidar las autorizaciones ya otorgadas y elaborar informes, sin intervenir en las solicitudes iniciales de los usuarios."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección resuelve las solicitudes presentadas por los usuarios de conformidad con la normatividad vigente y proyecta y expide los actos administrativos requeridos."
+  },
+  {
+    "question": "Una autorización de Operador Económico Autorizado ya fue otorgada y corresponde revisar su continuidad. ¿Cuál actuación asigna expresamente el artículo 25 a la Subdirección?",
+    "options": [
+      "Revisar la autorización solo cuando otra autoridad de control solicite su cancelación, sin emitir documentación sobre el resultado.",
+      "Revalidar las autorizaciones otorgadas y expedir los informes respectivos.",
+      "Resolver los recursos de reposición contra cualquier decisión relacionada con la autorización y sustituirla por una nueva.",
+      "Informar exclusivamente a los usuarios sobre la vigencia de la autorización, dejando la revalidación a la dependencia del RUT."
+    ],
+    "correct": 1,
+    "explanation": "La función indicada comprende tanto revalidar las autorizaciones ya otorgadas como expedir los informes respectivos."
+  },
+  {
+    "question": "Para mantener actualizado el Registro Único Tributario, ¿qué información debe comunicar la Subdirección del Operador Económico Autorizado a la Subdirección de Administración del RUT?",
+    "options": [
+      "Las solicitudes recibidas y las consultas atendidas, para que el RUT decida cuáles autorizaciones reconocer.",
+      "Las autorizaciones y los recursos de reposición presentados, pero no las interrupciones provisionales ni las cancelaciones.",
+      "Las autorizaciones, las interrupciones provisionales y las cancelaciones de autorización efectuadas, con el propósito de actualizar el registro respectivo.",
+      "Las autorizaciones otorgadas y los beneficios utilizados, con el propósito de que la Subdirección del RUT mida su impacto."
+    ],
+    "correct": 2,
+    "explanation": "El artículo dispone informar a la Subdirección de Administración del RUT sobre las autorizaciones, interrupciones provisionales y cancelaciones efectuadas para actualizar el registro."
+  },
+  {
+    "question": "Al delimitar la atención directa que presta la Subdirección a usuarios y otros interesados, ¿qué tipo de asuntos debe atender conforme a sus funciones?",
+    "options": [
+      "Las consultas y peticiones relacionadas con el Operador Económico Autorizado.",
+      "Toda petición tributaria o aduanera que se presente ante la DIAN, aunque no guarde relación con el Operador Económico Autorizado.",
+      "Únicamente las solicitudes iniciales de autorización y los recursos de reposición contra calificaciones de riesgo.",
+      "Las peticiones de actualización del RUT, incluso cuando no estén relacionadas con el Operador Económico Autorizado."
+    ],
+    "correct": 0,
+    "explanation": "La competencia descrita es atender consultas y peticiones relacionadas con el Operador Económico Autorizado, no toda petición de cualquier materia."
+  },
+  {
+    "question": "Un interesado interpone un recurso de reposición en el marco del programa. ¿Cuál delimitación refleja con precisión los recursos que la Subdirección debe resolver?",
+    "options": [
+      "Los recursos contra cualquier acto administrativo expedido en relación con el Operador Económico Autorizado, incluidos los actos sobre beneficios.",
+      "Los recursos contra la negación de la autorización y contra toda calificación de riesgo, favorable o desfavorable.",
+      "Los recursos contra la resolución que niega la autorización del Operador Económico Autorizado y contra la calificación de riesgo desfavorable.",
+      "Los recursos contra las cancelaciones de autorización y las interrupciones provisionales, con exclusión de las decisiones de negación."
+    ],
+    "correct": 2,
+    "explanation": "La función se limita a los recursos de reposición interpuestos contra la resolución de negación de la autorización y la calificación de riesgo desfavorable."
+  },
+  {
+    "question": "Para hacer efectivos los beneficios del Operador Económico Autorizado y conocer su aprovechamiento, ¿qué responsabilidad conjunta establece el artículo para la Subdirección?",
+    "options": [
+      "Otorgar directamente todos los beneficios y certificar su uso, sin coordinación con otras áreas o autoridades.",
+      "Gestionar con las áreas competentes de la Entidad y las demás autoridades de control la implementación de beneficios, y efectuar estudios para medir su uso.",
+      "Diseñar beneficios nuevos y delegar en las autoridades de control la decisión sobre si deben implementarse y evaluarse.",
+      "Informar a las áreas de la Entidad sobre los beneficios, dejando tanto su implementación como la medición de su uso a los operadores."
+    ],
+    "correct": 1,
+    "explanation": "La Subdirección gestiona la implementación coordinadamente con las áreas competentes y demás autoridades de control, y realiza estudios para medir el uso de los beneficios."
+  },
+  {
+    "question": "Al planificar actividades para difundir el Operador Económico Autorizado y capacitar sobre sus temas, ¿qué combinación de verbos y participantes corresponde a la función de la Subdirección?",
+    "options": [
+      "Diseñar y ejecutar actividades de promoción, pero coordinar la capacitación exclusivamente con los usuarios autorizados.",
+      "Coordinar actividades diseñadas por otras entidades, limitándose a informar sobre ellas a las dependencias de la DIAN.",
+      "Diseñar, ejecutar y coordinar eventos o actividades de promoción y/o capacitación con las demás autoridades de control y/o dependencias competentes de la DIAN.",
+      "Diseñar y coordinar eventos con cualquier entidad pública, aunque su contenido no esté relacionado con el Operador Económico Autorizado."
+    ],
+    "correct": 2,
+    "explanation": "La función comprende diseñar, ejecutar y coordinar eventos o actividades de promoción o capacitación sobre el Operador Económico Autorizado con las autoridades de control y/o dependencias competentes de la DIAN."
+  },
+  {
+    "question": "En la estructura de gobernanza del Operador Económico Autorizado, ¿qué responsabilidad institucional asigna el artículo 25 a la Subdirección?",
+    "options": [
+      "Ejercer la Secretaría Técnica tanto de la Comisión Intersectorial como del Comité Técnico del Operador Económico Autorizado.",
+      "Presidir la Comisión Intersectorial y ejercer la Secretaría Técnica únicamente del Comité Técnico.",
+      "Ejercer la Secretaría Técnica de la Comisión Intersectorial y delegar la del Comité Técnico en las autoridades de control.",
+      "Participar como integrante en ambos órganos, sin asumir funciones de Secretaría Técnica."
+    ],
+    "correct": 0,
+    "explanation": "El artículo atribuye a la Subdirección la Secretaría Técnica de los dos órganos: la Comisión Intersectorial y el Comité Técnico del Operador Económico Autorizado."
+  },
+  {
+    "question": "Cuando se busca formalizar cooperación basada en el reconocimiento entre programas de Operador Económico Autorizado, ¿qué función corresponde a la Subdirección respecto de esos acuerdos?",
+    "options": [
+      "Suscribir acuerdos de reconocimiento mutuo, pero dejar su implementación a los usuarios y a las autoridades de control.",
+      "Gestionar la suscripción y la implementación de los acuerdos de reconocimiento mutuo sobre el Operador Económico Autorizado.",
+      "Implementar acuerdos ya suscritos, sin gestionar su suscripción ni intervenir en su formalización.",
+      "Evaluar solicitudes individuales de reconocimiento mutuo y reemplazar con ellas las autorizaciones del Operador Económico Autorizado."
+    ],
+    "correct": 1,
+    "explanation": "La responsabilidad comprende gestionar tanto la suscripción como la implementación de los acuerdos de reconocimiento mutuo sobre el Operador Económico Autorizado."
+  },
+  {
+    "question": "Además de las funciones expresamente enumeradas, ¿en qué supuestos puede corresponder a la Subdirección ejercer otras funciones, según la cláusula final del artículo?",
+    "options": [
+      "Cuando sean solicitadas por cualquier usuario, siempre que se relacionen de manera general con actividades aduaneras.",
+      "Cuando sean asignadas por una autoridad de control, incluso si son ajenas a la ley y a la naturaleza de la dependencia.",
+      "Cuando correspondan de conformidad con la ley, de acuerdo con la naturaleza de la dependencia o le sean asignadas por el Director General de la DIAN.",
+      "Cuando sean aprobadas por la Comisión Intersectorial y sustituyan alguna de las funciones enumeradas en el artículo."
+    ],
+    "correct": 2,
+    "explanation": "La cláusula comprende funciones que correspondan conforme a la ley, a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
