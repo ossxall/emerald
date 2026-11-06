@@ -3397,5 +3397,225 @@
     ],
     "correct": 3,
     "explanation": "La cláusula reconoce tres fundamentos para las demás funciones: la ley, la naturaleza de la dependencia y la asignación del Director General de la DIAN."
+  },
+  {
+    "question": "Al administrar la aplicación de las normas sobre arancel, valoración aduanera y origen de mercancías, ¿qué marco debe integrar la Subdirección Técnica Aduanera?",
+    "options": [
+      "Las normas nacionales, aplicadas como criterio exclusivo, pues los convenios internacionales corresponden únicamente a la cooperación técnica.",
+      "Los convenios internacionales y las normas nacionales que regulan esas materias, considerados conjuntamente al administrar su aplicación.",
+      "Los convenios internacionales, con exclusión de las normas nacionales cuando ambas fuentes se refieran a una misma mercancía.",
+      "Las normas sobre valoración y origen, mientras que la aplicación de las normas arancelarias corresponde exclusivamente a las Direcciones Seccionales."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 1 asigna la administración de la aplicación de las normas sobre arancel, valoración aduanera y origen, considerando tanto los convenios internacionales como las normas nacionales."
+  },
+  {
+    "question": "Al diferenciar la dirección y evaluación de actividades de la interpretación normativa, ¿cuál es el alcance específico de la función prevista en el numeral 2?",
+    "options": [
+      "Dirigir y evaluar actividades de aplicación y desarrollo de la valoración aduanera, la clasificación arancelaria y el origen, sin que esa formulación sustituya la función interpretativa del numeral siguiente.",
+      "Interpretar normas nacionales e internacionales y absolver consultas, dejando la dirección y evaluación de las actividades a las Direcciones Seccionales.",
+      "Dirigir únicamente actividades de clasificación arancelaria y origen, pues la valoración aduanera se limita a la elaboración de estudios.",
+      "Evaluar el cumplimiento de obligaciones de los exportadores autorizados, sin intervenir en actividades de aplicación o desarrollo técnico."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 2 se refiere a dirigir y evaluar actividades relacionadas con la aplicación y desarrollo de las tres materias enumeradas; la interpretación normativa y las consultas se regulan aparte."
+  },
+  {
+    "question": "Una dependencia de la entidad, una entidad externa o una persona natural o jurídica, nacional o extranjera, eleva una consulta sobre clasificación arancelaria, origen o valoración aduanera. ¿Qué combinación de funciones corresponde a la Subdirección?",
+    "options": [
+      "Interpretar solo las normas nacionales y remitir todas las consultas de personas extranjeras a los organismos internacionales.",
+      "Absolver consultas únicamente de dependencias de la entidad, aunque puede interpretar normas nacionales e internacionales en las tres materias.",
+      "Interpretar normas nacionales e internacionales en las materias señaladas y absolver consultas elevadas por los grupos de solicitantes enumerados.",
+      "Resolver recursos de competencia propia, pero abstenerse de absolver consultas para preservar la competencia de las Direcciones Seccionales."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 atribuye tanto la interpretación de normas nacionales e internacionales en clasificación, origen y valoración como la absolución de consultas de dependencias, otras entidades y personas nacionales o extranjeras."
+  },
+  {
+    "question": "Para una iniciativa de cooperación técnica internacional en nomenclatura arancelaria, valoración aduanera y determinación de origen, ¿qué papel establece el numeral 4?",
+    "options": [
+      "Aprobar políticas nacionales sobre esas materias y dirigir a los organismos internacionales en la adopción de sus normas.",
+      "Gestionar la cooperación técnica internacional y colaborar con organismos internacionales en los asuntos técnicos que sean de su competencia.",
+      "Limitar la cooperación a la nomenclatura arancelaria y trasladar los asuntos de valoración y origen a las Direcciones Seccionales.",
+      "Expedir actos administrativos en nombre de los organismos internacionales, aunque la materia exceda la competencia técnica de la Subdirección."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 4 asigna la gestión de cooperación técnica internacional en las tres materias y la colaboración con organismos internacionales dentro de los asuntos técnicos de competencia de la Subdirección."
+  },
+  {
+    "question": "Al definir políticas estatales sobre nomenclatura arancelaria, valoración aduanera y origen de mercancías, ¿cómo se concreta la función asesora descrita en el numeral 5?",
+    "options": [
+      "La Subdirección asesora a la Entidad y a otras instituciones del Estado en la definición y aplicación de esas políticas, de acuerdo con la normatividad vigente.",
+      "La Subdirección define por sí sola las políticas y asesora a otras instituciones únicamente durante su aplicación, sin atender a la normatividad vigente.",
+      "La asesoría se limita a la Entidad y a las políticas sobre clasificación, sin abarcar nomenclatura, valoración u origen.",
+      "La Subdirección recomienda proyectos normativos en esas materias, pero no asesora sobre la definición ni la aplicación de políticas."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 5 establece una función de asesoría a la Entidad y demás instituciones del Estado para definir y aplicar políticas en las materias indicadas, conforme a la normatividad vigente."
+  },
+  {
+    "question": "Al examinar un proyecto de norma sobre determinación del origen de mercancías, ¿qué elementos debe considerar la Subdirección al formular recomendaciones?",
+    "options": [
+      "La conveniencia fiscal inmediata y los resultados de los modelos de riesgo, sin considerar tendencias de comercio exterior ni planes de gobierno.",
+      "Los lineamientos técnicos, las tendencias de comercio exterior y los planes de gobierno, al recomendar sobre proyectos normativos de las materias enumeradas.",
+      "La normatividad vigente únicamente, pues las tendencias comerciales y los planes de gobierno solo son pertinentes para expedir actos administrativos.",
+      "Los lineamientos de organismos internacionales, con exclusión de los planes de gobierno y de las tendencias del comercio exterior."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 6 vincula las recomendaciones a proyectos de norma con los lineamientos técnicos, las tendencias de comercio exterior y los planes de gobierno."
+  },
+  {
+    "question": "En una actuación sobre clasificación arancelaria solicitada por una parte, ¿cuál descripción refleja íntegramente las atribuciones del numeral 7 y sus límites?",
+    "options": [
+      "Puede expedir actos administrativos solo de oficio y únicamente en clasificación arancelaria, aunque debe basarse en criterios técnicos.",
+      "Puede expedir actos administrativos de oficio o a petición de parte en clasificación, valoración y origen, dentro de su competencia y conforme a criterios técnicos y normatividad vigente; además, elabora estudios generales y específicos sobre valoración y origen atendiendo normas nacionales e internacionales.",
+      "Puede expedir actos administrativos a petición de parte en las tres materias sin límite de competencia, y elaborar estudios sobre clasificación, valoración y origen sin consideración de normas internacionales.",
+      "Puede elaborar estudios generales y específicos sobre las tres materias, pero la expedición de actos administrativos corresponde exclusivamente a otras dependencias."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 7 permite expedir actos de oficio o a petición de parte en clasificación, valoración y origen, sujetos a competencia, criterios técnicos y normatividad vigente. También asigna estudios generales y específicos sobre valoración y origen, con atención a normas nacionales e internacionales."
+  },
+  {
+    "question": "Cuando se interpone un recurso cuyo conocimiento corresponde a la Subdirección Técnica Aduanera, ¿qué atribución expresa contempla el artículo?",
+    "options": [
+      "Trasladarlo siempre a la Dirección Seccional que emitió el acto, pues la Subdirección solo expide actos iniciales.",
+      "Resolver los recursos de competencia de la Subdirección, sin que el texto extienda esa atribución a recursos ajenos a su competencia.",
+      "Resolver cualquier recurso relacionado con operaciones aduaneras, incluso si no es de competencia de la Subdirección.",
+      "Emitir recomendaciones técnicas para que la autoridad competente resuelva el recurso, sin decidirlo."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 8 asigna la resolución de los recursos que sean de competencia de la Subdirección, no de todos los recursos aduaneros sin distinción."
+  },
+  {
+    "question": "Al diseñar una estrategia institucional orientada a que los obligados cumplan por iniciativa propia sus deberes en clasificación, valoración y origen, ¿qué función corresponde a la Subdirección?",
+    "options": [
+      "Participar en la definición de estrategias que conduzcan al cumplimiento voluntario de esas obligaciones.",
+      "Imponer directamente sanciones como mecanismo exclusivo para obtener el cumplimiento voluntario.",
+      "Definir estrategias de cumplimiento voluntario solo respecto de la valoración, excluyendo clasificación y origen.",
+      "Ejecutar controles sobre toda obligación tributaria, aunque no esté relacionada con las materias de competencia de la Subdirección."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 9 dispone que la Subdirección participa en la definición de estrategias para conducir al cumplimiento voluntario de obligaciones en clasificación arancelaria, valoración y origen."
+  },
+  {
+    "question": "Si las Direcciones Seccionales y otros usuarios internos requieren orientación en un tema de competencia de la Subdirección, ¿qué deben procurar los lineamientos que esta imparta?",
+    "options": [
+      "Unificar únicamente la práctica de las Direcciones Seccionales, aunque los criterios técnicos puedan variar según cada usuario interno.",
+      "Aplicar los criterios técnicos correspondientes y garantizar unidad de criterio y seguridad jurídica entre los destinatarios internos.",
+      "Sustituir toda decisión de las Direcciones Seccionales por instrucciones particulares, sin necesidad de criterios técnicos comunes.",
+      "Orientar a usuarios externos y organismos internacionales, dejando fuera a las Direcciones Seccionales y demás usuarios internos."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 10 prevé lineamientos para las Direcciones Seccionales y demás usuarios internos, aplicando criterios técnicos para garantizar unidad de criterio y seguridad jurídica."
+  },
+  {
+    "question": "La Subdirección elabora insumos para modelos institucionales de riesgo y luego obtiene resultados de la gestión realizada a partir de ellos. ¿Cuál es el flujo expresamente establecido?",
+    "options": [
+      "Enviar los insumos a las Direcciones Seccionales para que definan los modelos y remitir a la Dirección de Gestión Estratégica y de Analítica solo las conclusiones.",
+      "Enviar insumos a la Dirección de Gestión Estratégica y de Analítica para la definición de modelos de riesgo de la Entidad y remitir los resultados obtenidos con ocasión de la gestión basada en esos insumos.",
+      "Definir directamente los modelos de riesgo de la Entidad y solicitar a la Dirección de Gestión Estratégica y de Analítica que ejecute la gestión aduanera.",
+      "Remitir a la Dirección de Gestión Estratégica y de Analítica información sin elaborar insumos y enviar los resultados antes de que se realice la gestión correspondiente."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 11 distingue la elaboración y envío de insumos para que la Dirección de Gestión Estratégica y de Analítica defina modelos de riesgo, del envío posterior de los resultados obtenidos a partir de la gestión hecha con esos insumos."
+  },
+  {
+    "question": "Para establecer ajustes de valor permanente aplicables a mercancías importadas, ¿qué secuencia y objeto corresponden a la función del numeral 12?",
+    "options": [
+      "Realizar estudios e investigaciones de oficio o a petición de parte, solicitar información, establecer ajustes aplicables al precio realmente pagado o por pagar y expedir los actos administrativos respectivos.",
+      "Determinar ajustes de valor con base exclusiva en estudios de precios de referencia, sin solicitar información ni expedir actos administrativos.",
+      "Solicitar información únicamente a petición de parte y aplicar los ajustes al precio de exportación, sin investigar de oficio.",
+      "Elaborar estudios sobre valoración y origen, pero remitir cualquier ajuste permanente a otra autoridad para que expida el acto administrativo."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 12 contempla estudios e investigaciones de oficio o a petición de parte, solicitud de información, ajustes de valor permanente aplicados al precio realmente pagado o por pagar de mercancías importadas y expedición de los actos correspondientes."
+  },
+  {
+    "question": "En el procedimiento relativo a certificados de origen y declaraciones juramentadas de mercancías destinadas a exportar productos colombianos, ¿a quién se imparten directrices y qué comprenden?",
+    "options": [
+      "A todos los exportadores, para que autoricen certificados de origen y revisen las declaraciones juramentadas antes de presentarlas.",
+      "A los funcionarios competentes de las Direcciones Seccionales de Aduanas y/o de Impuestos y Aduanas, para autorizar certificados de origen y revisar declaraciones juramentadas.",
+      "Únicamente a funcionarios de la Dirección General, para revisar certificados y autorizar las declaraciones juramentadas de cualquier mercancía importada.",
+      "A los funcionarios seccionales, solo para verificar requisitos del exportador autorizado, dejando la autorización de certificados fuera de las directrices."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 13 dispone impartir directrices a funcionarios competentes de las Direcciones Seccionales de Aduanas y/o de Impuestos y Aduanas para la autorización de certificados de origen y la revisión de declaraciones juramentadas relativas a mercancías destinadas a exportar productos colombianos."
+  },
+  {
+    "question": "Respecto de los funcionarios que suscriben certificados de origen, ¿qué dos actuaciones distintas asigna el numeral 14 a la Subdirección?",
+    "options": [
+      "Autorizar directamente cada certificado y revocar las habilitaciones de todos los funcionarios cuando la Comunidad Andina revise reglas de origen.",
+      "Adelantar los trámites para habilitar o hacer perder la habilitación de esos funcionarios y gestionar medidas para impedir certificados cuando la Comunidad Andina notifique incumplimiento de reglas de origen en el sector automotor.",
+      "Revisar las declaraciones juramentadas y suspender certificados de cualquier sector ante una notificación de incumplimiento de cualquier organismo internacional.",
+      "Habilitar exclusivamente a funcionarios de las Direcciones Seccionales de Aduanas y trasladar a la Comunidad Andina la decisión de impedir la expedición de certificados."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 14 contempla tanto los trámites de habilitación y pérdida de habilitación de los funcionarios suscriptores como las gestiones para impedir certificados en el supuesto específico de notificación de la Comunidad Andina sobre incumplimiento de reglas de origen en el sector automotor."
+  },
+  {
+    "question": "¿Cuál es el propósito específico de los estudios de precios que debe llevar a cabo la Subdirección según el numeral 15?",
+    "options": [
+      "Establecer directamente el precio realmente pagado o por pagar para cada importación y reemplazar la valoración aduanera.",
+      "Alimentar la base de precios de referencia, sin que el numeral describa por sí mismo esos estudios como una determinación individual del valor de cada importación.",
+      "Verificar los requisitos de origen de los exportadores autorizados mediante la comparación de sus precios de venta.",
+      "Definir los modelos institucionales de riesgo y enviar sus resultados a las Direcciones Seccionales."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 15 atribuye la realización de estudios de precios con la finalidad de alimentar la base de precios de referencia."
+  },
+  {
+    "question": "Al verificar requisitos de origen exigidos a un exportador autorizado, ¿qué actuación posterior prevé el numeral 16 si se advierten presuntas infracciones?",
+    "options": [
+      "Elaborar los informes respectivos y dar traslado de las presuntas infracciones a las áreas o entidades competentes para que inicien los procedimientos administrativos.",
+      "Imponer de inmediato la sanción correspondiente, pues la verificación incluye la decisión final de todo procedimiento administrativo.",
+      "Remitir el caso únicamente a la Comunidad Andina, incluso cuando existan áreas o entidades nacionales competentes.",
+      "Abstenerse de elaborar informes hasta que el exportador reconozca el incumplimiento y solicite el inicio de un procedimiento."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 16 asigna la verificación, la elaboración de informes y el traslado de presuntas infracciones a las áreas o entidades competentes para iniciar los procedimientos administrativos; no atribuye aquí la imposición directa de sanciones."
+  },
+  {
+    "question": "Cuando la información de productores o exportadores consta en declaraciones juramentadas presentadas, ¿qué criterio delimita la verificación asignada por el numeral 17?",
+    "options": [
+      "La Subdirección verifica la información aportada por productores y/o exportadores sobre la base de análisis de riesgo.",
+      "La Subdirección verifica todas las declaraciones de manera uniforme, con independencia de cualquier análisis de riesgo.",
+      "La Subdirección analiza únicamente la información de los productores, mientras que los datos de exportadores competen a otras dependencias.",
+      "La Subdirección verifica declaraciones de mercancías importadas y aplica el análisis de riesgo solo después de establecer ajustes permanentes de valor."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 17 se refiere a verificar información aportada por productores y/o exportadores en declaraciones juramentadas, y establece que esa verificación se basa en análisis de riesgo."
+  },
+  {
+    "question": "El laboratorio analiza una mercancía y se requiere asociar ese análisis con una clasificación arancelaria. ¿Cuál es la actuación prevista para la Subdirección?",
+    "options": [
+      "Expedir necesariamente el acto administrativo definitivo de clasificación de toda mercancía analizada en el laboratorio.",
+      "Sugerir la subpartida arancelaria de las mercancías analizadas en el laboratorio.",
+      "Determinar el origen de la mercancía y autorizar su exportación con base en el análisis de laboratorio.",
+      "Establecer ajustes de valor permanente para la mercancía, sin formular consideración sobre su clasificación."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 18 atribuye específicamente la función de sugerir la subpartida arancelaria de mercancías analizadas en el laboratorio."
+  },
+  {
+    "question": "Si surge una función no descrita expresamente en los numerales anteriores, ¿en qué términos puede corresponder a la Subdirección conforme a la cláusula residual del artículo?",
+    "options": [
+      "Solo si se relaciona con valoración aduanera y es asignada por una Dirección Seccional.",
+      "Si corresponde de conformidad con la ley, por la naturaleza de la dependencia o si le es asignada por el Director General de la DIAN.",
+      "Únicamente si se refiere a cooperación internacional y es aprobada previamente por la Comunidad Andina.",
+      "Siempre que contribuya al comercio exterior, aunque no tenga fundamento legal, relación con la naturaleza de la dependencia ni asignación del Director General."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 19 reconoce funciones que correspondan conforme a la ley, según la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Para los empleados de la DIAN, ¿qué efecto atribuye el parágrafo a los conceptos técnicos expedidos por la Subdirección en temas de su competencia, frente a los conceptos de las Direcciones Seccionales pertinentes?",
+    "options": [
+      "Son orientativos para los empleados de la DIAN y tienen el mismo rango que los conceptos seccionales, sin prioridad entre ellos.",
+      "Son de obligatorio cumplimiento para los empleados de la DIAN y prevalecen sobre los conceptos de las Direcciones Seccionales de Aduanas y/o de Impuestos y Aduanas.",
+      "Son obligatorios solo para los funcionarios de la propia Subdirección y quedan subordinados a los conceptos de las Direcciones Seccionales.",
+      "Son obligatorios para los empleados de la DIAN en toda materia institucional, aunque exceda la competencia de la Subdirección, pero no prevalecen sobre conceptos seccionales."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo limita estos efectos a los temas de competencia de la Subdirección: sus conceptos técnicos son obligatorios para los empleados de la DIAN y prevalecen sobre los emitidos por las Direcciones Seccionales de Aduanas y/o de Impuestos y Aduanas."
   }
 ]
