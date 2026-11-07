@@ -4343,5 +4343,93 @@
     ],
     "correct": 0,
     "explanation": "El numeral 13 contempla funciones que correspondan conforme a la ley, que se relacionen con la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar el alcance de la planeación y el control de la Subdirección de Fiscalización Tributaria, ¿qué conjunto de materias corresponde a sus funciones según el artículo?",
+    "options": [
+      "Planear y controlar la prevención, investigación, determinación, aplicación y liquidación de tributos nacionales, sanciones, multas y demás emolumentos de competencia de la DIAN.",
+      "Planear la prevención y la investigación de tributos nacionales, pero dejar la determinación y liquidación exclusivamente a las Direcciones Seccionales.",
+      "Controlar únicamente la aplicación y el cobro de sanciones y multas, sin intervenir en actividades relacionadas con tributos nacionales.",
+      "Planear la determinación y liquidación de tributos nacionales y de cualquier emolumento público, aunque no sea competencia de la DIAN."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende todas las etapas enumeradas —desde la prevención hasta la liquidación— y abarca los tributos nacionales, las sanciones, las multas y los demás emolumentos de competencia de la DIAN."
+  },
+  {
+    "question": "En el desarrollo de sus actividades de fiscalización, la Subdirección detecta hechos que podrían dar lugar al inicio de una acción penal. ¿Qué actuación prevé el artículo y bajo qué condición?",
+    "options": [
+      "Debe iniciar directamente la acción penal, pues la detección de los hechos le atribuye competencia para adelantarla.",
+      "Debe reportar los hechos detectados al área o a la entidad competente cuando sea del caso, para que puedan dar lugar al inicio de la acción penal.",
+      "Debe remitir los hechos únicamente a la Dirección Operativa de Grandes Contribuyentes, que decide si los comunica a una autoridad penal.",
+      "Debe esperar a que exista una liquidación en firme y, solo entonces, reportar los hechos a la entidad que determine la Subdirección."
+    ],
+    "correct": 1,
+    "explanation": "El texto asigna a la Subdirección el reporte, cuando sea del caso, al área o entidad competente; no le atribuye iniciar directamente la acción penal ni establece como requisito una liquidación en firme."
+  },
+  {
+    "question": "Al diseñar una acción de control, ¿qué orientación y problemáticas debe considerar la Subdirección para que la acción se ajuste a la función expresamente prevista?",
+    "options": [
+      "Orientarla a combatir la evasión y el fraude fiscal, dejando por fuera el abuso en materia tributaria porque corresponde a una etapa posterior de determinación.",
+      "Orientarla a verificar el cumplimiento de obligaciones tributarias en general, sin necesidad de vincularla con prácticas de evasión, fraude fiscal o abuso tributario.",
+      "Formularla, diseñarla, elaborarla y documentarla con orientación a combatir prácticas de evasión, fraude fiscal y abuso en materia tributaria.",
+      "Limitarla a documentar prácticas de evasión ya sancionadas, pues la función no comprende formular ni diseñar acciones de control."
+    ],
+    "correct": 2,
+    "explanation": "La función comprende formular, diseñar, elaborar y documentar acciones de control dirigidas a combatir las tres problemáticas mencionadas: evasión, fraude fiscal y abuso tributario."
+  },
+  {
+    "question": "Al orientar la ejecución de programas y acciones de control de fiscalización frente al incumplimiento de obligaciones tributarias, ¿qué ciclo de gestión corresponde a la Subdirección?",
+    "options": [
+      "Impartir lineamientos y ejecutarlos directamente en cada caso, sin evaluar los programas ni proponer cambios una vez iniciados.",
+      "Dar lineamientos, evaluar los programas y acciones y proponer modificaciones cuando corresponda, además de generar retroalimentación para la Subdirección de Análisis de Riesgo y Programas de la Dirección de Gestión Estratégica y de Analítica.",
+      "Evaluar únicamente los resultados de las Direcciones Seccionales y remitir recomendaciones a la Dirección Operativa de Grandes Contribuyentes, sin retroalimentar a otra dependencia.",
+      "Proponer modificaciones solo cuando se haya incumplido una obligación tributaria y transferir a la Subdirección de Análisis de Riesgo y Programas la responsabilidad de impartir los lineamientos."
+    ],
+    "correct": 1,
+    "explanation": "La disposición reúne la emisión de lineamientos, la evaluación, la propuesta de modificaciones cuando haya lugar y la retroalimentación a la dependencia específicamente identificada."
+  },
+  {
+    "question": "¿Qué alcance tiene la supervisión y el seguimiento asignados a la Subdirección respecto de las Direcciones Seccionales y la Dirección Operativa de Grandes Contribuyentes?",
+    "options": [
+      "Verificar que esas dependencias adelanten investigaciones y expidan tanto actos preparatorios como liquidaciones, resoluciones de sanción y demás actos de determinación.",
+      "Asumir directamente en esas dependencias todas las investigaciones y expedir los actos preparatorios, las liquidaciones y las resoluciones de sanción.",
+      "Verificar exclusivamente que se expidan liquidaciones y resoluciones de sanción, pues las investigaciones y los actos preparatorios quedan fuera del seguimiento.",
+      "Supervisar la presentación de declaraciones y el recaudo en esas dependencias, sin revisar investigaciones ni actos de determinación."
+    ],
+    "correct": 0,
+    "explanation": "La función es de supervisión y seguimiento para verificar que las dependencias señaladas adelanten investigaciones y expidan los actos enumerados; no dispone que la Subdirección los asuma directamente."
+  },
+  {
+    "question": "En una revisión del cumplimiento de la función de supervisión, ¿qué lectura refleja correctamente la relación entre los actos preparatorios y los actos de determinación mencionados en el artículo?",
+    "options": [
+      "Los emplazamientos y autos de inspección son actos de determinación, mientras que las liquidaciones y resoluciones de sanción son actos preparatorios.",
+      "Solo los pliegos de cargos y los requerimientos especiales se incluyen entre los actos verificables; los emplazamientos y autos de inspección quedan excluidos.",
+      "La lista se limita a los actos preparatorios y no permite supervisar la expedición de liquidaciones ni de resoluciones de sanción.",
+      "La verificación comprende, entre otros actos preparatorios, emplazamientos, autos de inspección, pliegos de cargos y requerimientos especiales, así como liquidaciones, resoluciones de sanción y demás actos de determinación."
+    ],
+    "correct": 3,
+    "explanation": "El artículo distingue los actos preparatorios de las liquidaciones, resoluciones de sanción y demás actos de determinación, e incluye ambos grupos en el alcance de la verificación."
+  },
+  {
+    "question": "Cuando se requiere disponer un registro a contribuyentes, ¿cuál es la atribución de la Subdirección y qué límite establece expresamente la disposición?",
+    "options": [
+      "Puede ordenar el registro sin atender a normas externas, siempre que esté relacionado con una investigación tributaria.",
+      "Puede recomendar el registro, pero la decisión corresponde exclusivamente a las Direcciones Seccionales y no está condicionada por la normatividad vigente.",
+      "Puede ordenar el registro a los contribuyentes, pero debe hacerlo de conformidad con la normatividad vigente.",
+      "Puede ordenar el registro únicamente después de expedir una resolución de sanción, conforme a los lineamientos que establezca para cada caso."
+    ],
+    "correct": 2,
+    "explanation": "La atribución consiste en ordenar el registro a los contribuyentes y está expresamente sujeta a la normatividad vigente."
+  },
+  {
+    "question": "Al interpretar la cláusula que permite a la Subdirección ejercer otras funciones, ¿qué supuestos contempla el artículo sin convertirlos en una autorización ilimitada?",
+    "options": [
+      "Solo las funciones que le asigne el Director General, incluso si son ajenas a la naturaleza de la dependencia o contrarias a la ley.",
+      "Las funciones que le correspondan conforme a la ley, las acordes con la naturaleza de la dependencia o las que le asigne el Director General de la DIAN.",
+      "Cualquier función administrativa que soliciten las Direcciones Seccionales, siempre que guarde relación general con la gestión tributaria.",
+      "Las funciones que determine autónomamente la Subdirección, siempre que no estén asignadas a otra dependencia de la DIAN."
+    ],
+    "correct": 1,
+    "explanation": "La cláusula contempla tres fundamentos: la ley, la naturaleza de la dependencia y la asignación del Director General de la DIAN."
   }
 ]
