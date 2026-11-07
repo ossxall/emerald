@@ -4431,5 +4431,137 @@
     ],
     "correct": 1,
     "explanation": "La cláusula contempla tres fundamentos: la ley, la naturaleza de la dependencia y la asignación del Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar la competencia general de la Subdirección de Fiscalización Aduanera, ¿qué interpretación integra correctamente el alcance del numeral 1 del artículo 30?",
+    "options": [
+      "Su función consiste principalmente en inspeccionar operaciones antes de que concluyan los trámites aduaneros y en remitir cualquier irregularidad directamente a la autoridad penal.",
+      "Debe planear y ejercer control posterior sobre actividades relativas a prevención, investigación, determinación y liquidación por infracciones a los regímenes aduaneros, así como a la aplicación de sanciones, multas, liquidaciones y decomisos por incumplimiento, dentro de una fiscalización orientada al cumplimiento de las obligaciones aduaneras.",
+      "Su competencia se limita a liquidar multas y decomisar mercancías cuando exista una decisión previa de las Direcciones Seccionales, sin abarcar actividades de prevención ni investigación.",
+      "Debe verificar exclusivamente la autenticidad de certificados de origen y proponer programas de control, pues la determinación de infracciones corresponde a las Direcciones Seccionales."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 1 atribuye a la Subdirección la planeación y el ejercicio del control posterior sobre esas actividades y medidas, además de la fiscalización general para vigilar el cumplimiento de las obligaciones aduaneras."
+  },
+  {
+    "question": "En el marco del control posterior previsto para la Subdirección, se identifican hechos que podrían dar lugar al inicio de una acción penal. ¿Qué actuación se ajusta al alcance expresamente asignado?",
+    "options": [
+      "Reportar los hechos al área competente cuando sea del caso, sin que el numeral atribuya a la Subdirección la decisión de iniciar por sí misma la acción penal.",
+      "Iniciar directamente la acción penal en todos los casos en que una actividad de fiscalización detecte un incumplimiento aduanero.",
+      "Remitir los hechos únicamente a las Direcciones Seccionales y solo después de que estas impongan una sanción o decreten un decomiso.",
+      "Abstenerse de comunicar los hechos, porque la competencia de la Subdirección se limita a liquidar obligaciones y no comprende reportes relacionados con acciones penales."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 1 dispone reportar los hechos al área competente, cuando sea del caso, para el inicio de la acción penal; no confiere a la Subdirección la atribución de iniciarla directamente."
+  },
+  {
+    "question": "Para asegurar que las actuaciones de fiscalización se adelanten en las Direcciones Seccionales, ¿qué combinación de acciones corresponde a la función de supervisión y seguimiento del numeral 2?",
+    "options": [
+      "La Subdirección debe asumir directamente todas las investigaciones seccionales y expedir en reemplazo de estas cada requerimiento, emplazamiento y auto de inspección.",
+      "Debe verificar solamente que las Direcciones Seccionales liquiden sanciones, sin intervenir en el seguimiento de investigaciones ni de actos preparatorios o de determinación.",
+      "Debe ejercer control, supervisión y seguimiento para asegurar que las Direcciones Seccionales adelanten investigaciones y expidan los requerimientos, emplazamientos, autos y demás actos previstos, así como aplicar y liquidar sanciones y decomisos conforme a la norma establecida.",
+      "Debe orientar a las Direcciones Seccionales para que expidan los actos preparatorios, pero la supervisión de su ejecución y la aplicación de sanciones quedan fuera de su función."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2 reúne el seguimiento a investigaciones y a los actos preparatorios o de determinación, junto con las actuaciones relativas a sanciones y decomiso, de conformidad con la norma aplicable."
+  },
+  {
+    "question": "La Subdirección evalúa la ejecución seccional de programas de fiscalización y detecta que se requieren ajustes. ¿Qué respuesta institucional refleja íntegramente la función descrita en el numeral 3?",
+    "options": [
+      "Modificar por decisión propia los programas de la Subdirección de Análisis de Riesgo y Programas y limitar la comunicación posterior a las Direcciones Seccionales.",
+      "Dar lineamientos y hacer seguimiento a la ejecución seccional, evaluarla y proponer a la Subdirección de Análisis de Riesgo y Programas la formulación de programas y acciones de control posterior aduanero y las modificaciones necesarias, generando retroalimentación a esa dependencia.",
+      "Transferir a la Subdirección de Análisis de Riesgo y Programas la ejecución de todos los controles en las Direcciones Seccionales, conservando únicamente la función de evaluar sus resultados.",
+      "Proponer programas de control exclusivamente antes de su ejecución y dejar a las Direcciones Seccionales la responsabilidad de determinar si procede informar sus resultados a otra dependencia."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 3 asigna lineamientos, seguimiento y evaluación; también dispone proponer la formulación o modificación de programas y acciones a la dependencia indicada y retroalimentarla."
+  },
+  {
+    "question": "¿Cuál enunciado distingue correctamente el papel de la Subdirección respecto de la ejecución de programas seccionales y la formulación de nuevas acciones de control posterior?",
+    "options": [
+      "La Subdirección formula y aprueba directamente los programas, mientras las Direcciones Seccionales se limitan a reportar su ejecución sin recibir lineamientos.",
+      "La Subdirección solo evalúa los programas una vez concluidos, pues los lineamientos y el seguimiento de su ejecución corresponden exclusivamente a la dependencia de análisis de riesgo.",
+      "La Subdirección da lineamientos y verifica mediante seguimiento que los programas y acciones se ejecuten en las Direcciones Seccionales; a partir de su evaluación, propone a la dependencia de análisis de riesgo la formulación o modificación que corresponda y le entrega retroalimentación.",
+      "La Subdirección supervisa la ejecución seccional, pero debe dirigir sus propuestas de nuevos programas al Director General y reservar la retroalimentación para las propias Direcciones Seccionales."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 diferencia la verificación de la ejecución seccional, a cargo de la Subdirección, de la propuesta de formulación o modificación dirigida a la Subdirección de Análisis de Riesgo y Programas."
+  },
+  {
+    "question": "En el ejercicio de sus funciones de fiscalización, ¿qué competencia específica establece el numeral 4 y bajo qué límite debe ejercerse?",
+    "options": [
+      "Autorizar cualquier inspección de mercancías, incluso sin sujeción a las reglas aduaneras, cuando la Subdirección considere que existe un riesgo de incumplimiento.",
+      "Ordenar diligencias de registro, sujetando esa actuación a la normatividad aduanera vigente.",
+      "Ejecutar personalmente todas las diligencias de registro que ordenen las Direcciones Seccionales, sin que la normatividad vigente condicione su alcance.",
+      "Disponer registros únicamente después de que se haya determinado una infracción y liquidado la sanción correspondiente."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 4 atribuye la facultad de ordenar diligencias de registro y exige que se haga de conformidad con la normatividad aduanera vigente."
+  },
+  {
+    "question": "Al diseñar una acción de control aduanero, ¿qué alternativa respeta tanto las modalidades de desarrollo previstas como la finalidad y el fundamento competencial del numeral 5?",
+    "options": [
+      "La Subdirección puede formular, diseñar, elaborar, desarrollar y documentar acciones de control directamente o a través de las Direcciones Seccionales, orientándolas al cumplimiento de la normatividad aduanera en ejercicio de las facultades de fiscalización aduanera.",
+      "La Subdirección puede formular acciones, pero su diseño, desarrollo y documentación corresponden necesariamente a los operadores aduaneros sujetos a control.",
+      "Las Direcciones Seccionales pueden desarrollar acciones de control sin intervención de la Subdirección, siempre que su propósito sea facilitar trámites y no fiscalizar el cumplimiento normativo.",
+      "La Subdirección puede documentar acciones exclusivamente después de imponer una sanción, pero no formularlas ni diseñarlas en ejercicio de facultades de fiscalización."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 5 comprende todas esas etapas, permite realizarlas directamente o a través de las Direcciones Seccionales y vincula las acciones con el cumplimiento normativo y las facultades de fiscalización."
+  },
+  {
+    "question": "Una vez realizados los trámites aduaneros correspondientes, la Subdirección debe promover controles seccionales sobre las obligaciones aduaneras. ¿Qué caracteriza la responsabilidad descrita en el numeral 6?",
+    "options": [
+      "Asumir exclusivamente la liquidación de obligaciones antes de que se realicen los trámites y dejar a las Direcciones Seccionales el control de los operadores.",
+      "Gestionar que las Direcciones Seccionales adelanten, en ejercicio del control posterior, controles efectivos al cumplimiento de las obligaciones aduaneras después de realizados los trámites que correspondan.",
+      "Verificar el origen de toda mercancía importada, función que sustituye cualquier control posterior sobre obligaciones aduaneras.",
+      "Ordenar que las Direcciones Seccionales repitan los trámites aduaneros, pues solo así pueden comprobar obligaciones incumplidas."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 6 asigna a la Subdirección la gestión para que las Direcciones Seccionales efectúen controles efectivos posteriores a la realización de los trámites aduaneros correspondientes."
+  },
+  {
+    "question": "Al examinar el origen de mercancías de importación, ¿qué parámetro y ámbito de referencia debe aplicar la Subdirección según el numeral 7?",
+    "options": [
+      "Verificar el origen con arreglo a cualquier criterio interno que considere conveniente, aunque no esté previsto en los instrumentos internacionales aplicables.",
+      "Determinar el origen únicamente a partir de certificados expedidos por Colombia, sin considerar acuerdos comerciales ni tratados internacionales.",
+      "Verificar el origen de las mercancías de importación de conformidad con lo señalado en los respectivos acuerdos comerciales o tratados internacionales vigentes.",
+      "Atender solo las reclamaciones formuladas por otros países y considerar el origen de importaciones fuera de sus funciones."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 7 atribuye la verificación del origen de mercancías de importación y remite a lo señalado en los respectivos acuerdos comerciales o tratados internacionales vigentes."
+  },
+  {
+    "question": "Una Dirección Seccional solicita comprobar la validez y autenticidad de un certificado de origen expedido por otro país. ¿En qué condiciones se ubica esta solicitud dentro de la función del numeral 8?",
+    "options": [
+      "La Subdirección debe atenderla solo si la solicitud proviene de una autoridad extranjera y se refiere a mercancías colombianas.",
+      "La Subdirección debe atenderla cuando la formule una Dirección Seccional de Aduanas o una Dirección Seccional de Impuestos y Aduanas y no se enmarque en un procedimiento de verificación de origen de mercancías.",
+      "La Subdirección debe atenderla siempre que el certificado haya sido expedido por otro país, incluso si la petición forma parte de un procedimiento de verificación de origen.",
+      "La Subdirección debe remitirla a las Direcciones Seccionales, pues la comprobación de certificados extranjeros no está comprendida entre sus funciones."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 8 contempla solicitudes de esas dos clases de Direcciones Seccionales sobre certificados expedidos por otros países y excluye las enmarcadas en procedimientos de verificación de origen de mercancías."
+  },
+  {
+    "question": "¿Cómo se diferencia la función del numeral 9 de la atención de solicitudes prevista en el numeral 8?",
+    "options": [
+      "El numeral 9 se refiere a consultas y reclamaciones de países sobre el origen de mercancías colombianas y a solicitudes para comprobar la validez y autenticidad de certificados de origen expedidos por Colombia.",
+      "El numeral 9 se limita a solicitudes de Direcciones Seccionales sobre certificados extranjeros que no formen parte de procedimientos de verificación de origen.",
+      "El numeral 9 asigna a la Subdirección la verificación de mercancías importadas conforme a acuerdos comerciales, pero excluye las consultas de otros países.",
+      "El numeral 9 habilita a la Subdirección para resolver reclamaciones de operadores nacionales sobre cualquier certificado, sin relación con el origen de mercancías."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 9 atiende relaciones con países respecto del origen de mercancías colombianas y de certificados expedidos por Colombia; el numeral 8 trata solicitudes de Direcciones Seccionales sobre certificados expedidos por otros países."
+  },
+  {
+    "question": "Al determinar si una tarea no enumerada expresamente corresponde a la Subdirección, ¿qué interpretación recoge el carácter residual de la función prevista en el numeral 10?",
+    "options": [
+      "Solo puede ejercer tareas idénticas a las de los numerales anteriores, pues cualquier función adicional requiere estar descrita allí de manera literal.",
+      "Puede ejercer funciones que le correspondan conforme a la ley, que sean acordes con la naturaleza de la dependencia o que le sean asignadas por el Director General de la DIAN.",
+      "Puede ejercer cualquier función que le asigne una Dirección Seccional, aunque no corresponda a la naturaleza de la dependencia ni tenga fundamento legal.",
+      "Puede asumir funciones de otras dependencias únicamente cuando se relacionen con certificados de origen o con la aplicación de decomisos."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 10 contempla tres fundamentos para otras funciones: la ley, la naturaleza de la dependencia y la asignación por el Director General de la DIAN."
   }
 ]
