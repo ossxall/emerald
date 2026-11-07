@@ -4189,5 +4189,159 @@
     ],
     "correct": 3,
     "explanation": "La cláusula comprende tres fundamentos: conformidad con la ley, correspondencia con la naturaleza de la dependencia y asignación por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar la competencia descrita para la Dirección de Gestión de Fiscalización, ¿qué interpretación integra correctamente los ámbitos materiales y las etapas de actuación expresamente enumerados?",
+    "options": [
+      "Dirige, administra, supervisa y controla acciones relativas a tributos nacionales y derechos de aduana y comercio exterior, desde la prevención e investigación hasta la determinación, aplicación y liquidación.",
+      "Se limita a liquidar tributos nacionales y derechos de aduana una vez que otras dependencias hayan investigado y determinado las infracciones.",
+      "Concentra sus acciones en la prevención de infracciones al comercio exterior, mientras la determinación y aplicación de tributos corresponde exclusivamente a autoridades de otros países.",
+      "Administra las obligaciones tributarias y cambiarias, pero sus actuaciones de investigación y control no comprenden los derechos de aduana ni el comercio exterior."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 1 atribuye a la Dirección la dirección, administración, supervisión y control de acciones en todas las etapas indicadas, respecto de tributos nacionales y de derechos de aduana y comercio exterior."
+  },
+  {
+    "question": "En el mismo numeral, ¿qué relación establece el texto entre la recopilación de evidencias y material probatorio y las consecuencias frente a infracciones?",
+    "options": [
+      "La recopilación está destinada a sustentar la determinación de sanciones, multas y demás emolumentos por infracciones a los tributos nacionales o a los derechos de aduana y comercio exterior.",
+      "La recopilación se orienta exclusivamente a informar a autoridades extranjeras, sin conexión expresa con sanciones o multas.",
+      "La evidencia solo puede recopilarse después de que se hayan liquidado las multas, para documentar el cumplimiento posterior del infractor.",
+      "El material probatorio tiene como finalidad reemplazar la determinación de obligaciones tributarias y aduaneras por una decisión automática de sanción."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 1 vincula la recopilación de evidencias y material probatorio con determinar la aplicación de sanciones, multas y demás emolumentos derivados de infracciones."
+  },
+  {
+    "question": "Para ejercer las actuaciones de registro, visitas, inspección, vigilancia y control del numeral 2, ¿qué lectura respeta simultáneamente su alcance material y sus límites expresos?",
+    "options": [
+      "Pueden recaer sobre oficinas, locales, depósitos, establecimientos, vehículos y medios de transporte vinculados con los sujetos mencionados, dentro de la competencia de la Dirección y conforme a la normatividad vigente aplicable.",
+      "Solo pueden recaer sobre establecimientos comerciales del contribuyente, pues los depósitos, vehículos y terceros intervinientes quedan excluidos del control.",
+      "Pueden realizarse sobre cualquier bien de cualquier persona, sin necesidad de relación con un contribuyente, obligado aduanero o cambiario, o tercero interviniente.",
+      "La Dirección puede ordenar visitas únicamente a través de dependencias del área, y el texto excluye la actuación directa ante los usuarios."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 2 enumera esos lugares y medios, incluye al contribuyente, obligado aduanero o cambiario y terceros intervinientes, y sujeta las actuaciones a la competencia y a la normatividad vigente aplicable."
+  },
+  {
+    "question": "Cuando la Dirección solicita o suministra información a autoridades tributarias o aduaneras de otros países, ¿qué condición delimita esa cooperación según el numeral 3?",
+    "options": [
+      "La información debe intercambiarse con fines de control fiscal y de acuerdo con los compromisos de reciprocidad adquiridos por la DIAN.",
+      "La información solo puede suministrarse a petición de una autoridad judicial extranjera y sin considerar compromisos de reciprocidad.",
+      "La solicitud y el suministro se autorizan para cualquier finalidad administrativa, aunque no guarde relación con el control fiscal.",
+      "La cooperación se restringe a información aduanera y no comprende autoridades tributarias de otros países."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 3 permite solicitar y suministrar información a autoridades tributarias y aduaneras extranjeras para control fiscal, conforme a los compromisos de reciprocidad adquiridos por la DIAN."
+  },
+  {
+    "question": "Una denuncia recibida por presunto contrabando, evasión o lavado de activos exige, conforme al numeral 4, una gestión que preserve tanto su tratamiento inicial como su destino institucional. ¿Cuál corresponde?",
+    "options": [
+      "Recibirla, clasificarla y direccionarla a dependencias de la DIAN o a las entidades competentes, según corresponda.",
+      "Remitirla directamente a la Dirección General sin clasificarla, pues el numeral reserva a esa autoridad toda decisión sobre su destino.",
+      "Investigarla y sancionarla necesariamente dentro de la Dirección, sin direccionarla a otras dependencias o entidades.",
+      "Archivarla si se refiere a un presunto delito distinto del contrabando, porque el numeral no contempla otros delitos."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 4 asigna las etapas de recepción, clasificación y direccionamiento a dependencias de la DIAN y a entidades competentes, e incluye contrabando, evasión, lavado de activos y otros presuntos delitos."
+  },
+  {
+    "question": "¿Qué alcance atribuye el numeral 5 al seguimiento que debe ejercer la Dirección sobre operaciones económicas internacionales?",
+    "options": [
+      "El seguimiento comprende las materias tributaria, aduanera y cambiaria, sin que el numeral lo limite a una sola de ellas.",
+      "El seguimiento se restringe a operaciones cambiarias nacionales, aunque estas no tengan dimensión económica internacional.",
+      "El seguimiento comprende únicamente operaciones internacionales de comercio exterior y excluye las materias tributaria y cambiaria.",
+      "El seguimiento se activa exclusivamente después de que otra autoridad haya declarado una infracción tributaria."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 5 menciona expresamente el seguimiento de operaciones económicas internacionales en materia tributaria, aduanera y cambiaria."
+  },
+  {
+    "question": "El numeral 6 vincula la participación en planes y programas de fiscalización con obligaciones cambiarias y detección de operaciones sospechosas. ¿Cuál formulación se ajusta al alcance legible del texto sin completar lo que este no especifica?",
+    "options": [
+      "La Dirección dirige la participación en la planeación, ejecución y evaluación de esos planes y programas, destinados a determinar el cumplimiento de obligaciones cambiarias o a detectar operaciones sospechosas; el fragmento no permite precisar el complemento final de estas últimas.",
+      "La Dirección ejecuta únicamente planes ya aprobados para sancionar operaciones de lavado de activos, finalidad que el numeral identifica de manera expresa.",
+      "La Dirección debe evaluar solo el cumplimiento de obligaciones tributarias nacionales, pues el texto no menciona obligaciones cambiarias.",
+      "La Dirección puede participar en la planeación, pero el numeral excluye su intervención en la ejecución y evaluación de programas de fiscalización."
+    ],
+    "correct": 0,
+    "explanation": "El numeral atribuye a la Dirección la dirección de la participación en planeación, ejecución y evaluación, y menciona el cumplimiento de obligaciones cambiarias y la detección de operaciones sospechosas. Su redacción termina incompleta, por lo que no es válido añadir el complemento ausente."
+  },
+  {
+    "question": "Al proponer programas de fiscalización y control para enfrentar el lavado de activos y la financiación del terrorismo, ¿a quién debe dirigirse la propuesta según el numeral 7?",
+    "options": [
+      "A la Dirección General, con el propósito de detectar operaciones de lavado de activos y financiación del terrorismo.",
+      "A la UIAF, para que diseñe y ejecute directamente todos los programas de control en el Nivel Local.",
+      "A las autoridades tributarias de otros países, para cumplir compromisos de reciprocidad en materia de lavado de activos.",
+      "A la dependencia competente del Nivel Local, con carácter de instrucción de ejecución inmediata y sin intervención de la Dirección General."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 7 dispone que los programas de fiscalización y control con ese propósito se propongan a la Dirección General."
+  },
+  {
+    "question": "¿Cómo distribuye el numeral 8 las responsabilidades relacionadas con los programas de control destinados al Nivel Local?",
+    "options": [
+      "La Dirección propone los programas a la dependencia competente para que sean diseñados, implementados y ejecutados en el Nivel Local a través de las Subdirecciones de la Dirección de Gestión de Fiscalización.",
+      "La Dirección ejecuta directamente cada programa en el Nivel Local y excluye a la dependencia competente y a sus Subdirecciones del proceso.",
+      "La dependencia competente debe proponer los programas a la Dirección General, que los diseña e implementa exclusivamente en el Nivel Central.",
+      "Las Subdirecciones proponen los programas a usuarios externos, quienes quedan encargados de diseñarlos y ejecutarlos en el Nivel Local."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 8 separa la propuesta, dirigida a la dependencia competente, del diseño, implementación y ejecución en el Nivel Local, que se realizan a través de las Subdirecciones indicadas."
+  },
+  {
+    "question": "Al suministrar información relacionada con investigaciones sobre lavado de activos y financiación del terrorismo, ¿qué destinatarios y condición establece el numeral 9?",
+    "options": [
+      "La información se suministra a la UIAF y a los organismos competentes que investigan esos fenómenos, conforme lo disponga la ley.",
+      "La información se suministra exclusivamente a la Dirección General, sin atender a lo que disponga la ley.",
+      "La información se entrega a las autoridades tributarias y aduaneras de otros países solo bajo compromisos de reciprocidad, sin incluir a la UIAF.",
+      "La información se remite únicamente a las Subdirecciones locales, que deciden discrecionalmente si la comparten con organismos investigadores."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 9 identifica a la UIAF y a los organismos competentes que investigan el lavado de activos y la financiación del terrorismo, y condiciona el suministro a lo que disponga la ley."
+  },
+  {
+    "question": "En el fragmento del numeral 10, ¿qué tipo de operaciones se asocia expresamente con la posibilidad de lavado de activos o financiación del terrorismo?",
+    "options": [
+      "Operaciones inusuales o sospechosas que puedan constituir lavado de activos o financiación del terrorismo.",
+      "Operaciones internacionales que necesariamente hayan sido declaradas infracciones cambiarias por una autoridad competente.",
+      "Operaciones comerciales ordinarias que, por su sola naturaleza, deban considerarse casos confirmados de lavado de activos.",
+      "Operaciones aduaneras cuyo único propósito expresamente señalado sea determinar multas por infracciones tributarias."
+    ],
+    "correct": 0,
+    "explanation": "El fragmento del numeral 10 menciona operaciones inusuales o sospechosas que puedan constituir lavado de activos o financiación del terrorismo; no afirma que todas ellas sean delitos confirmados."
+  },
+  {
+    "question": "La redacción disponible del numeral 11 está incompleta respecto del objeto de la ejecución. ¿Qué puede afirmarse sin atribuir a ese objeto un contenido que el texto no proporciona?",
+    "options": [
+      "La Dirección debe coordinar la ejecución de aquello que haya sido recibido por parte del área competente, aunque el fragmento no identifica qué se recibió.",
+      "La Dirección debe coordinar la ejecución de denuncias por contrabando recibidas de autoridades extranjeras, pues ese es el objeto expresamente indicado.",
+      "La Dirección debe ejecutar por sí misma los programas locales de fiscalización y puede prescindir del área competente.",
+      "La Dirección debe coordinar la recepción de información por parte de la UIAF, función que el numeral 11 describe de manera completa."
+    ],
+    "correct": 0,
+    "explanation": "El fragmento solo permite reconocer la coordinación de la ejecución de elementos recibidos por parte del área competente; no especifica cuáles son esos elementos."
+  },
+  {
+    "question": "¿Qué flujo de retroalimentación establece el numeral 12 respecto de los programas y acciones de control diseñados para el Nivel Local?",
+    "options": [
+      "Generar retroalimentación oportuna a la Subdirección de Riesgo y Programas de la Dirección de Gestión Estratégica y de Analítica sobre los resultados de esos programas y acciones.",
+      "Enviar a la Dirección General, al cierre del año, únicamente la evaluación de planes cambiarios ejecutados en el Nivel Central.",
+      "Solicitar a la Subdirección de Riesgo y Programas que diseñe las acciones locales y que reporte sus resultados a los usuarios externos.",
+      "Remitir a la UIAF el resultado de toda acción de control local, aunque no guarde relación con lavado de activos o financiación del terrorismo."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 12 asigna la generación de retroalimentación oportuna a la Subdirección mencionada y la relaciona con los resultados de programas y acciones de control diseñados para implementación en el Nivel Local."
+  },
+  {
+    "question": "¿Cómo delimita el numeral 13 las funciones adicionales que puede ejercer la Dirección de Gestión de Fiscalización?",
+    "options": [
+      "Incluye las que le correspondan conforme a la ley, las relacionadas con la naturaleza de la dependencia y las que le asigne el Director General de la DIAN.",
+      "Incluye únicamente las que el Director General asigne de manera expresa, excluyendo las relacionadas con la naturaleza de la dependencia.",
+      "Comprende cualquier función que una entidad competente le transfiera, aunque no corresponda a la ley ni a la naturaleza de la dependencia.",
+      "Se limita a las funciones de fiscalización detalladas en los numerales anteriores y excluye toda función adicional asignada por el Director General."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 13 contempla funciones que correspondan conforme a la ley, que se relacionen con la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
