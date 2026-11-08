@@ -4640,5 +4640,104 @@
     ],
     "correct": 0,
     "explanation": "La cláusula residual contempla tres fundamentos: que la función corresponda conforme a la ley, que se relacione con la naturaleza de la dependencia o que sea asignada por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar la competencia de la Subdirección frente a operaciones internacionales, ¿qué descripción integra correctamente el alcance de la función de planeación y control prevista en el numeral 1?",
+    "options": [
+      "Planear y controlar la fiscalización de las obligaciones tributarias derivadas de operaciones internacionales, comprendiendo prevención, investigación, determinación, penalización, aplicación y liquidación de tributos, sanciones y multas, así como los asuntos expresamente incluidos de precios de transferencia, inversión extranjera, establecimientos permanentes y CHC.",
+      "Planear exclusivamente la liquidación de tributos y multas relacionados con precios de transferencia, dejando la prevención, la investigación y la determinación a las Direcciones Seccionales.",
+      "Controlar las operaciones internacionales únicamente después de que se haya establecido un incumplimiento, sin abarcar la prevención ni la investigación de obligaciones tributarias.",
+      "Ejercer la fiscalización general de cualquier obligación tributaria nacional, aunque no se derive de operaciones internacionales, y limitar la intervención sobre inversión extranjera a la expedición de certificados."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 1 atribuye planeación y control sobre las actividades de fiscalización destinadas al adecuado control del cumplimiento de obligaciones tributarias derivadas de operaciones internacionales. Enumera las etapas y actuaciones señaladas en la opción correcta e incluye expresamente los cuatro ámbitos mencionados."
+  },
+  {
+    "question": "Al diseñar acciones para enfrentar conductas que afectan el cumplimiento tributario en operaciones económicas internacionales, ¿qué actuación corresponde específicamente a la Subdirección según el numeral 2?",
+    "options": [
+      "Formular, diseñar, elaborar, desarrollar y documentar acciones de control orientadas a combatir la evasión, el fraude fiscal y el abuso en esas operaciones, incluidas las materias de precios de transferencia, inversión extranjera, establecimientos permanentes y CHC.",
+      "Ejecutar únicamente las sanciones ya impuestas por otras dependencias, sin formular ni documentar acciones preventivas contra el abuso en operaciones internacionales.",
+      "Expedir certificados de residencia fiscal como mecanismo principal para combatir la evasión, limitando las acciones de control a entidades acogidas al régimen CHC.",
+      "Supervisar que las Direcciones Seccionales expidan actos preparatorios, pero sin diseñar acciones de control ni abordar el fraude fiscal o el abuso."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 2 reúne las fases de formulación, diseño, elaboración, desarrollo y documentación de acciones de control, y especifica que su orientación es combatir evasión, fraude fiscal y abuso en las materias internacionales enumeradas."
+  },
+  {
+    "question": "La Subdirección debe poner en marcha programas de fiscalización sobre operaciones económicas internacionales y determinar si requieren ajustes. ¿Cuál distribución de actuaciones refleja íntegramente el numeral 3?",
+    "options": [
+      "Puede ejecutar los programas directamente o por medio de la Dirección Operativa de Grandes Contribuyentes o las Direcciones Seccionales; además, debe evaluarlos y proponer las modificaciones necesarias cuando corresponda.",
+      "Debe delegar siempre la ejecución en las Direcciones Seccionales y solo puede evaluar los programas cuando estas soliciten formalmente una modificación.",
+      "Puede ejecutar directamente los programas, pero la evaluación y la propuesta de cambios corresponden exclusivamente a la Dirección Operativa de Grandes Contribuyentes.",
+      "Debe limitarse a diseñar programas para CHC, pues la fiscalización de las demás operaciones internacionales corresponde necesariamente a otras dependencias."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 3 prevé tres vías de ejecución —directamente, por la Dirección Operativa de Grandes Contribuyentes o por las Direcciones Seccionales— y asigna a la Subdirección la evaluación y la propuesta de modificaciones necesarias cuando haya lugar."
+  },
+  {
+    "question": "En el seguimiento de una auditoría a operaciones económicas internacionales, ¿qué debe verificar la Subdirección en las Direcciones Seccionales y en la Dirección Operativa de Grandes Contribuyentes, de acuerdo con el numeral 4?",
+    "options": [
+      "Que se adelanten las investigaciones y se expidan los actos preparatorios enumerados —incluidos emplazamientos, autos de inspección, pliegos de cargos y requerimientos especiales—, así como las liquidaciones, resoluciones de sanción y demás actos de determinación a que haya lugar.",
+      "Que la Subdirección expida directamente todos los emplazamientos, requerimientos, liquidaciones y resoluciones de sanción, sin intervención de las Direcciones Seccionales ni de la Dirección Operativa.",
+      "Que las dependencias se limiten a investigar y expedir actos preparatorios, pues la supervisión excluye verificar liquidaciones, resoluciones de sanción y otros actos de determinación.",
+      "Que se emitan actos de determinación únicamente para casos de precios de transferencia, pues las auditorías sobre inversión extranjera, establecimientos permanentes y CHC quedan fuera del seguimiento."
+    ],
+    "correct": 0,
+    "explanation": "La función descrita es de supervisión y seguimiento para verificar actuaciones adelantadas por las Direcciones Seccionales y la Dirección Operativa. Abarca tanto investigaciones y actos preparatorios como liquidaciones, resoluciones de sanción y demás actos de determinación que correspondan."
+  },
+  {
+    "question": "Una entidad requiere acreditar tanto su residencia fiscal como su situación tributaria. ¿Qué función específica asigna el numeral 5 a la Subdirección para atender esa necesidad?",
+    "options": [
+      "Expedir los certificados de acreditación de residencia fiscal y de situación tributaria.",
+      "Analizar solicitudes para acogerse o permanecer en el régimen CHC y emitir, como resultado de ese análisis, certificados de residencia fiscal.",
+      "Administrar el registro de contratos de importación de tecnología y utilizar sus inscripciones como certificación de situación tributaria.",
+      "Supervisar que otras dependencias expidan los certificados, sin que la Subdirección tenga competencia para emitirlos."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 5 atribuye directamente a la Subdirección la expedición de los certificados de acreditación de residencia fiscal y de situación tributaria."
+  },
+  {
+    "question": "Respecto del registro de contratos de importación de tecnología, ¿cuál combinación de responsabilidades y alcance corresponde al numeral 6?",
+    "options": [
+      "Llevar, supervisar, controlar y administrar el registro, y expedir las certificaciones correspondientes.",
+      "Llevar el registro, pero dejar su supervisión, control y administración a las Direcciones Seccionales, sin expedir certificaciones.",
+      "Administrar únicamente las solicitudes de incorporación al régimen CHC y certificar la situación tributaria de los titulares de contratos de tecnología.",
+      "Supervisar las auditorías de contratos de tecnología, pero no mantener un registro ni emitir certificaciones relacionadas con ellos."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 6 reúne las responsabilidades de llevar, supervisar, controlar y administrar el registro de los contratos de importación de tecnología, además de expedir las certificaciones correspondientes."
+  },
+  {
+    "question": "Una entidad solicita acogerse al Régimen de Compañías Holding Colombianas (CHC) o permanecer en él. ¿Qué actuación describe con precisión la competencia de la Subdirección según el numeral 7?",
+    "options": [
+      "Conocer la solicitud, realizar su análisis y desarrollar los trámites requeridos de conformidad con el reglamento, tanto para acogerse al régimen como para permanecer en él.",
+      "Conocer únicamente solicitudes iniciales de ingreso; la permanencia en el régimen queda excluida de su competencia y no requiere análisis de la Subdirección.",
+      "Aprobar automáticamente toda solicitud que presente una entidad y sustituir mediante decisión propia los trámites previstos en el reglamento.",
+      "Ejecutar programas generales de fiscalización de entidades CHC, sin conocer las solicitudes de ingreso o permanencia ni tramitar su análisis."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 7 abarca las solicitudes de entidades que deseen acogerse al régimen o permanecer en él. La Subdirección debe conocerlas, analizarlas y desarrollar los trámites requeridos conforme al reglamento; el texto no establece aprobación automática."
+  },
+  {
+    "question": "Una vez suscrito un acuerdo anticipado de precios de transferencia, ¿qué deber de seguimiento atribuye el numeral 8 a la Subdirección?",
+    "options": [
+      "Realizar de manera permanente el seguimiento y la evaluación de los acuerdos anticipados de precios de transferencia suscritos.",
+      "Evaluar únicamente las solicitudes de acuerdos antes de su suscripción y cesar toda actuación una vez formalizados.",
+      "Supervisar de forma permanente solo los acuerdos que todavía no hayan sido suscritos, dejando los acuerdos vigentes fuera de evaluación.",
+      "Administrar el registro de contratos de importación de tecnología y considerar que esa función sustituye el seguimiento de los acuerdos de precios de transferencia."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 8 se refiere expresamente al seguimiento y la evaluación permanentes de acuerdos anticipados de precios de transferencia ya suscritos."
+  },
+  {
+    "question": "Al asignar a la Subdirección una tarea no detallada entre las funciones específicas del artículo, ¿bajo qué criterios puede quedar comprendida en la cláusula del numeral 9?",
+    "options": [
+      "Que corresponda de conformidad con la ley, se derive de la naturaleza de la dependencia o haya sido asignada por el Director General de la DIAN.",
+      "Que se relacione con cualquier actividad de la entidad, aunque no tenga fundamento legal, vínculo con la naturaleza de la dependencia ni asignación del Director General.",
+      "Que sea asignada exclusivamente por una Dirección Seccional, pues el numeral reserva al Director General la facultad de aprobar los trámites de las solicitudes CHC.",
+      "Que consista únicamente en fiscalizar precios de transferencia, dado que la cláusula residual excluye las funciones relacionadas con otros asuntos internacionales."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 9 contempla tres fundamentos para las demás funciones: que correspondan de conformidad con la ley, que respondan a la naturaleza de la dependencia o que sean asignadas por el Director General de la DIAN."
   }
 ]
