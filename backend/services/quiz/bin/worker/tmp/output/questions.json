@@ -4563,5 +4563,82 @@
     ],
     "correct": 1,
     "explanation": "El numeral 10 contempla tres fundamentos para otras funciones: la ley, la naturaleza de la dependencia y la asignación por el Director General de la DIAN."
+  },
+  {
+    "question": "Al delimitar la responsabilidad de la Subdirección de Fiscalización Cambiaria frente a una posible infracción, ¿qué combinación de actuaciones corresponde a sus funciones respecto de las sanciones y de los hechos que podrían tener relevancia penal?",
+    "options": [
+      "Planear, dirigir, controlar y evaluar la investigación, determinación, aplicación y liquidación de las sanciones por violaciones al régimen cambiario de competencia de la Entidad; cuando sea del caso, reportar los hechos detectados al área o entidad competente para iniciar la acción penal.",
+      "Investigar y liquidar toda sanción cambiaria, incluso cuando la competencia corresponda a otra entidad, y ejercer directamente la acción penal sobre los hechos detectados.",
+      "Limitarse a determinar la sanción cambiaria y remitir siempre el expediente completo a la Dirección Seccional, que decide si informa a la autoridad penal.",
+      "Controlar la ejecución de sanciones impuestas por otras entidades y reportar únicamente los hechos que ya hayan dado lugar formalmente al inicio de una acción penal."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección dirige el ciclo de investigación y sanción solo respecto de infracciones de competencia de la Entidad. Si corresponde, reporta los hechos al área o entidad competente para que dé inicio a la acción penal; no se le atribuye ejercerla directamente."
+  },
+  {
+    "question": "Al organizar el control del cumplimiento del régimen cambiario en operaciones de comercio exterior y otras operaciones relacionadas, ¿qué alcance y límite de competencia debe aplicar la Subdirección?",
+    "options": [
+      "Planear y controlar el cumplimiento en importación y exportación de bienes y servicios, gastos asociados, financiación en moneda extranjera de esas operaciones, subfacturación y sobrefacturación, endeudamiento externo de personas naturales y demás operaciones derivadas del régimen, siempre que su vigilancia y control no sean competencia de otras entidades.",
+      "Controlar importaciones y exportaciones de bienes, pero excluir los servicios, los gastos asociados y la financiación en moneda extranjera, que corresponden necesariamente a otras entidades.",
+      "Fiscalizar todas las operaciones enumeradas, incluido el endeudamiento externo de personas naturales, aun cuando otra entidad tenga atribuida su vigilancia y control.",
+      "Intervenir únicamente cuando haya subfacturación o sobrefacturación, pues la financiación, el endeudamiento externo y los demás conceptos quedan fuera de la planeación cambiaria."
+    ],
+    "correct": 0,
+    "explanation": "La función comprende las operaciones y conceptos enumerados, incluidos los relacionados con bienes, servicios, financiación, facturación y endeudamiento externo de personas naturales. Su límite expreso es que la vigilancia y el control no sean competencia de otras entidades."
+  },
+  {
+    "question": "En la gestión de programas y acciones de control frente al incumplimiento de obligaciones cambiarias, ¿qué ciclo de dirección y aprendizaje institucional asigna el artículo a la Subdirección?",
+    "options": [
+      "Impartir lineamientos, hacer seguimiento a la ejecución, evaluar los programas y acciones, proponer modificaciones cuando proceda y retroalimentar a la Subdirección de Análisis de Riesgo y Programas de la Dirección de Gestión Estratégica y de Analítica.",
+      "Ejecutar directamente cada programa en las Direcciones Seccionales, mientras la Subdirección de Análisis de Riesgo y Programas se limita a aprobar sus resultados finales.",
+      "Impartir lineamientos y evaluar resultados, pero trasladar toda propuesta de modificación a las Direcciones Seccionales y dirigir la retroalimentación exclusivamente al Director General.",
+      "Hacer seguimiento solo a las obligaciones cambiarias ya sancionadas y remitir los resultados a la dependencia competente, sin evaluar programas ni proponer ajustes."
+    ],
+    "correct": 0,
+    "explanation": "La disposición articula lineamientos, seguimiento a la ejecución, evaluación, propuestas de modificación cuando sean necesarias y retroalimentación a la Subdirección de Análisis de Riesgo y Programas de la Dirección de Gestión Estratégica y de Analítica."
+  },
+  {
+    "question": "Al diseñar acciones de control para asegurar el cumplimiento de la normatividad cambiaria, ¿qué modalidad de elaboración y fundamento funcional establece el artículo para la Subdirección?",
+    "options": [
+      "Puede formular, diseñar, elaborar, desarrollar y documentar las acciones directamente o a través de las Direcciones Seccionales, orientándolas al cumplimiento de la normatividad cambiaria de competencia de la DIAN y actuando en ejercicio de facultades de fiscalización.",
+      "Debe limitarse a formular acciones desde el nivel central, pues las Direcciones Seccionales solo pueden ejecutarlas y la competencia cambiaria se extiende a toda la normatividad nacional.",
+      "Puede delegar en las Direcciones Seccionales la definición de la competencia normativa, pero conserva únicamente la tarea de documentar las acciones una vez ejecutadas.",
+      "Debe elaborar acciones de control exclusivamente para incumplimientos que también constituyan infracciones penales, bajo facultades sancionatorias y no de fiscalización."
+    ],
+    "correct": 0,
+    "explanation": "La Subdirección puede desarrollar todas las etapas indicadas directamente o por medio de las Direcciones Seccionales. Las acciones se orientan a la normatividad cambiaria de competencia de la DIAN y se enmarcan en las facultades de fiscalización."
+  },
+  {
+    "question": "¿Cómo se distingue la responsabilidad de garantizar la ejecución territorial de los programas de Fiscalización Cambiaria de la función de seguimiento a programas y acciones de control?",
+    "options": [
+      "La Subdirección debe garantizar que los programas se ejecuten en las Direcciones Seccionales, evaluarlos, proponer modificaciones cuando proceda y retroalimentar a las dependencias competentes; esto se distingue de impartir lineamientos y seguir la ejecución de programas y acciones frente al incumplimiento de obligaciones cambiarias.",
+      "La Subdirección garantiza la ejecución territorial únicamente mediante la imposición de sanciones, mientras la evaluación y la retroalimentación corresponden exclusivamente a las Direcciones Seccionales.",
+      "La garantía de ejecución territorial consiste en diseñar acciones de control a través de las Direcciones Seccionales, sin evaluar los programas ni comunicar resultados a otras dependencias.",
+      "La función territorial reemplaza el seguimiento a los programas de control y exige enviar toda retroalimentación únicamente a la Subdirección de Análisis de Riesgo y Programas."
+    ],
+    "correct": 0,
+    "explanation": "El artículo atribuye una función específica de garantía de ejecución de los programas en las Direcciones Seccionales, acompañada de evaluación, posibles modificaciones y retroalimentación a las dependencias competentes. Es distinta de la función de impartir lineamientos y seguir programas y acciones de control."
+  },
+  {
+    "question": "Respecto de las autorizaciones para la compra y venta profesional de divisas, ¿qué actuación corresponde a la Subdirección y qué elementos delimitan su objeto?",
+    "options": [
+      "Adelantar acciones de control relacionadas con las autorizaciones que otorgan las Direcciones Seccionales a residentes en el país para comprar y vender profesionalmente divisas en efectivo y cheques de viajero, y consolidar la información de esas autorizaciones a nivel nacional.",
+      "Otorgar desde el nivel central las autorizaciones a cualquier operador, residente o no residente, y consolidar solo los casos en que se negocien divisas mediante transferencias.",
+      "Supervisar únicamente a quienes compren divisas en efectivo, dejando las ventas y los cheques de viajero fuera del control y de la consolidación nacional.",
+      "Consolidar los registros nacionales de operadores, pero dejar las acciones de control sobre autorizaciones exclusivamente a las dependencias que las expiden."
+    ],
+    "correct": 0,
+    "explanation": "Las autorizaciones las otorgan las Direcciones Seccionales a residentes en el país para la actividad profesional de compra y venta de divisas en efectivo y cheques de viajero. La Subdirección controla lo relacionado con ellas y consolida su información nacionalmente."
+  },
+  {
+    "question": "Ante una función cambiaria no descrita expresamente entre las responsabilidades enumeradas, ¿cuál es el criterio que permite atribuirla a la Subdirección según la cláusula final del artículo?",
+    "options": [
+      "Puede ejercerla si le corresponde de conformidad con la ley, si se ajusta a la naturaleza de la dependencia o si le es asignada por el Director General de la DIAN.",
+      "Puede asumirla únicamente si otra entidad renuncia formalmente a su competencia y el Director General confirma esa renuncia.",
+      "Puede ejercerla solo cuando esté vinculada con la liquidación de sanciones y haya sido asignada conjuntamente por las Direcciones Seccionales.",
+      "Puede asumir cualquier función administrativa por analogía con sus atribuciones de fiscalización, aunque no corresponda a la ley, a la naturaleza de la dependencia ni a una asignación del Director General."
+    ],
+    "correct": 0,
+    "explanation": "La cláusula residual contempla tres fundamentos: que la función corresponda conforme a la ley, que se relacione con la naturaleza de la dependencia o que sea asignada por el Director General de la DIAN."
   }
 ]
