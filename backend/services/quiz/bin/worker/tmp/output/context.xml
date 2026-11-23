@@ -1,17 +1,61 @@
 <LanguageRule>Spanish</LanguageRule>
-<GeneralContextKeywords>acción, actividad, acto, administración, administrar, administrativa, administrativo, aduanas, aduanera, aduanero, análisis, aplicación, asignado, asignar, asunto, bien, cobro, comercio, competencia, competente, conformidad, contribuyente, control, controlar, coordinación, coordinar, corresponder, cumplimiento, definir, dependencia, desarrollar, desarrollo, dian, direcciones, dirección, director, directriz, dirigir, diseñar, disposición, división, económico, ejercer, elaborar, entidad, especial, establecer, estrategia, evaluar, exterior, facilitación, fiscal, fiscalización, funciones, función, garantizar, general, gestionar, gestión, impartir, implementación, implementar, impuesto, impuestos, información, internacional, interno, investigación, jurídica, lineamiento, liquidación, materia, mercancía, nacional, nación, naturaleza, necesario, nivel, norma, normatividad, obligación, operación, operador, operativa, operativo, orientar, plan, política, procedimiento, proceso, programa, proponer, público, recaudo, recurso, registro, relacionado, riesgo, seccional, seccionales, seguimiento, seguridad, servicio, siguiente, sistema, solicitud, subdirección, talento, tributario, técnico, usuario, único</GeneralContextKeywords>
-<QuizContent>ARTÍCULO 50. DIRECCIÓN DE GESTIÓN DE INNOVACIÓN Y TECNOLOGÍA. Son funciones de la Dirección de Gestión de Innovación y Tecnología las siguientes:
-1. Formular, impulsar y evaluar las políticas y estrategias sobre innovación y tecnología en la DIAN y el Plan Estratégico de Tecnologías de Información (RETI), para la transformación digital de la Entidad.
-2. Impartir las directrices para el diseño y ejecución de los programas, procedimientos y métodos de trabajo en materia de innovación y tecnología.
-3. Orientar y hacer seguimiento del portafolio de proyectos y servicios de innovación y tecnología de la DIAN, así como a la ejecución de recursos financieros asociados a los mismos.
-4. Dirigir, orientar y evaluar las directrices, alternativas y especificaciones técnicas para la adquisición y construcción de los desarrollos tecnológicos requeridos por las dependencias de la Entidad y para el intercambio de información.
-5. Dirigir, orientar y evaluar la definición, implementación, mantenimiento y evolución de la plataforma tecnológica, la arquitectura tecnológica, la arquitectura de datos y el repositorio único de datos de la DIAN. '
-6. Orientar, canalizar y hacer seguimiento al relacionamiento, cooperación e intercambio de información con otros organismos nacionales e internacionales para todos los propósitos relacionados con la innovación y la transformación digital, incluyendo la gestión de convenios y otros instrumentos de colaboración, en coordinación con otras dependencias de la Entidad.
-7. Dirigir y promover estudios e investigaciones que permitan mantener alineadas las políticas y estrategias sobre innovación y tecnología de la DIAN con las mejores prácticas nacionales e internacionales de transformación digital.
-8. Impartir los lineamientos necesarios a las Direcciones Seccionales, los grupos internos de trabajo de asistencia tecnológica y demás usuarios internos, en los asuntos relacionados con innovación y tecnología en la DIAN.
-9. Ejercer las demás funciones que, le correspondan de conformidad con la ley, o de acuerdo a la naturaleza de la dependencia o que le sean asignadas por el Director General de la DIAN.</QuizContent>
-<GeneralContext>El Decreto 1742 de 2020 reorganiza la DIAN para fortalecer su gobernanza, su presencia territorial y sus capacidades de recaudo y tecnología. También delimita sus competencias en materia tributaria, aduanera y cambiaria, incluida la administración del régimen SIMPLE. La entidad se estructura en niveles central, local y delegado, bajo la dirección del Director General. Sus dependencias especializadas abarcan impuestos, aduanas, fiscalización, servicio, tecnología y gestión corporativa.
+<GeneralContextKeywords>acto, actuación, administrativo, adoptar, artículo, asignar, asunto, asuntos, autoridad, cargo, carrera, caso, circular, comisión, competencia, conciliación, concurso, conformidad, consejo, constitucional, contencioso, control, corte, cumplimiento, cumplir, decreto, decretos, delegada, delegadas, delegado, delegados, dependencia, derecho, derechos, disciplinaria, disciplinario, división, ejercer, ejercicio, elección, empleado, empleo, empleos, entidad, especial, establecer, establecido, estudios, funcionario, funciones, función, general, gestión, información, instituto, instrucción, interno, intervención, intervenir, judicial, judiciales, juzgamiento, laboral, licencia, ministerio, mixtas, mixto, modificado, modificar, nacional, nación, necesario, nivel, nombramiento, nota, numeral, oficina, orden, parágrafo, penal, persona, personal, política, preventivo, procedimiento, proceso, procesos, procurador, procuradores, procuraduría, procuradurías, prueba, público, públicos, recurso, regionales, relacionado, relatoría, resolución, sala, salas, secretario, secretaría, seguridad, sentencia, servicio, servidor, servidores, siguiente, sistema, social, suprema, tema, territorial, trabajo, tribunales, término, viceprocurador, vigilancia</GeneralContextKeywords>
+<QuizContent>TÍTULO II
+ORGANIZACIÓN
+ARTÍCULO 2. ESTRUCTURA ORGÁNICA.  Para el cumplimiento de las funciones constitucionales y legales, la Procuraduría General de la Nación tiene la siguiente estructura orgánica:
+1. NIVEL CENTRAL.
+1.1. DESPACHO DEL PROCURADOR GENERAL.
+1.1.1. Procuraduría Auxiliar para Asuntos Constitucionales.
+1.1.2. Procuraduría Auxiliar para Asuntos Disciplinarios.
+1.1.3. Dirección Nacional de Investigaciones Especiales.
+1.1.4. Oficina de Tecnología, Innovación y Transformación Digital.
+1.1.5. Oficina de Planeación.
+1.1.6. Oficina de Selección y Carrera.
+1.1.7. Oficina de Control Interno.
+1.1.8. Oficina de Prensa.
+1.1.9. Oficina Jurídica.
+1.2. DESPACHO DEL VICEPROCURADOR GENERAL. 1.2.1. Dirección de Apoyo Estratégico, Análisis de Datos Información.
+1.2.1.1. División de Registro de Sanciones y Causas de Inhabilidad.
+1.2.2. División de Relacionamiento con el Ciudadano.
+1.2.3. División de Documentación.
+1.2.4. División de Seguridad.
+1.3. SALAS DISCIPLINARIAS.
+1.3.1. Sala Disciplinaria de Instrucción.
+1.3.2. Sala Disciplinaria Ordinaria de Juzgamiento.
+1.3.3. Sala Disciplinaria de Juzgamiento de Servidores Públicos de Elección Popular.
+1.4. PROCURADURÍAS DELEGADAS.
+1.4.1. Procuradurías Delegadas Preventivas y de Control de Gestión.
+1.4.2. Procuradurías Delegadas Disciplinarias de Instrucción.
+1.4.3. Procuradurías Delegadas Disciplinarias de Juzgamiento.
+1.4.4. Procuradurías Delegadas con funciones mixtas.
+1.4.5. Procuradurías Delegadas de Intervención.
+1.4.5.1. Procuradurías Judiciales.
+1.5. INSTITUTO DE ESTUDIOS DEL MINISTERIO PÚBLICO.
+1.5.1. Consejo Académico.
+1.5.2. Dirección.
+1.5.3. División de Investigaciones Sociopolíticas y Asuntos Socioeconómicos.
+1.5.4. División de Capacitación.
+1.5.5. División Administrativa y Financiera.
+Nota de Relatoría
+De conformidad con el PARÁGRAFO TRANSITORIO de la Ley 2553 de 2025 Régimen de transición. La transformación del Instituto de Estudios del Ministerio público (IEMP) en la Universidad del Ministerio Público se dará en un plazo no mayor a doce (12) meses contados a partir de la sanción y publicación, la cual fue realizada en el diario oficial el 13 de noviembre de 2025.
+1.6. SECRETARÍA GENERAL.
+1.4.5.1.1. Procuradurías Judiciales I.
+1.4.5.1.2. Procuradurías Judiciales II.
+1.6.1 División de Gestión Humana.
+1.6.2 División Administrativa.
+1.6.3 División Financiera.
+1.7. VEEDURÍA.
+2. NIVEL TERRITORIAL.
+2.1. PROCURADURÍAS REGIONALES.
+2.1.1. Procuradurías Regionales de Instrucción.
+2.1.2. Procuradurías Regionales de Juzgamiento.
+2.2. PROCURADURÍAS DISTRITALES.
+2.2.1. Procuradurías Distritales de Instrucción.
+2.2.2. Procuraduría Distrital de Juzgamiento.
+2.3. PROCURADURÍAS PROVINCIALES.
+2.3.1. Procuradurías Provinciales de Instrucción. 2.3.2. Procuradurías Provinciales de Juzgamiento.</QuizContent>
+<GeneralContext>La edición actualizada del Decreto 262 de 2000 reúne las normas que rigen la estructura, las competencias y el régimen de personal de la Procuraduría General de la Nación. Sus reformas reorganizaron dependencias, salas disciplinarias y procuradurías delegadas, y ampliaron la planta institucional. También incorporaron funciones relacionadas con la paz, la JEP, las víctimas y la restitución de tierras. El Decreto Ley 1851 de 2021 separó la instrucción del juzgamiento para fortalecer la imparcialidad, mientras que resoluciones posteriores precisaron y actualizaron competencias especializadas.
 
-Entre sus funciones principales están administrar registros tributarios y de beneficiarios finales, recaudar tributos, tramitar devoluciones y cobranzas, gestionar la facturación electrónica y atender a la ciudadanía. En el ámbito aduanero, regula usuarios y regímenes, clasifica y valora mercancías y facilita el comercio. También planifica controles para verificar obligaciones, determinar tributos y sanciones, identificar riesgos y combatir el fraude, en coordinación con autoridades nacionales e internacionales. Asimismo, verifica el origen de las mercancías, tramita certificaciones y acuerdos tributarios y reporta posibles delitos.
+El Procurador General dirige la institución, ejerce o delega funciones y administra sus recursos; el Viceprocurador lo reemplaza y coordina distintas áreas. Las dependencias centrales y territoriales, las salas disciplinarias y las procuradurías delegadas distribuyen labores según su especialidad, etapa y jurisdicción. Estas incluyen investigación, juzgamiento, prevención, control de gestión e intervención judicial. Sus actuaciones se orientan a proteger el orden jurídico, los derechos fundamentales y colectivos y el patrimonio público. Entre sus ámbitos de acción figuran la contratación, los derechos humanos, los asuntos electorales y la conciliación administrativa.
 
-La DIAN también gestiona sus recursos, contratación, infraestructura, documentos y personal, y adelanta procesos disciplinarios con respeto al debido proceso. Sus estudios económicos, análisis de datos y modelos de riesgo respaldan la toma de decisiones y la innovación digital. El Centro de Trazabilidad Aduanera monitorea operaciones, cargas y dispositivos de seguridad, y gestiona alertas. En conjunto, estas funciones buscan una administración más eficaz, moderna y capaz de proteger el cumplimiento de las obligaciones y facilitar el comercio.</GeneralContext>
+El decreto regula, además, el apoyo administrativo y técnico y los derechos y deberes del personal. Establece reglas sobre ingreso, movilidad, carrera, licencias, evaluación, capacitación, bienestar, control disciplinario, remuneración y retiro. En conjunto, sus disposiciones organizan las funciones institucionales y laborales para facilitar el cumplimiento de la misión de la Procuraduría.</GeneralContext>

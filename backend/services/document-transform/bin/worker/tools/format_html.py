@@ -1,28 +1,49 @@
 import logging
 import re
 from html import unescape
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 from pathlib import Path
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 import os
 
-# opendataloader writes the html_page_separator HTML-escaped as plain text
-# (e.g. &lt;div data-type='page' ...&gt;&lt;/div&gt;). Match those strings so we
-# can turn them back into real <div> elements before nesting the page content.
+# OpenDataLoader writes html_page_separator HTML-escaped as plain text. Adjacent
+# page separators can share one text node, so find each marker rather than
+# requiring the whole text node to contain exactly one marker.
 PAGE_SEPARATOR_RE = re.compile(
-    r"^\s*<div[^>]*data-type=[\"']page[\"'][^>]*>\s*</div>\s*$",
+    r"<div\b(?=[^>]*\bdata-type\s*=\s*[\"']page[\"'])[^>]*>\s*</div\s*>",
     re.IGNORECASE,
 )
 
 
 def _promote_page_separators(soup) -> None:
-    """Replace escaped page-separator text nodes with real page div elements."""
-    for text in soup.body.find_all(string=True):
-        if not text.strip() or not PAGE_SEPARATOR_RE.match(text):
+    """Replace every escaped page separator in each text node with a real div."""
+    for text in list(soup.body.find_all(string=True)):
+        raw_text = str(text)
+        matches = list(PAGE_SEPARATOR_RE.finditer(raw_text))
+        if not matches:
             continue
-        real_div = BeautifulSoup(unescape(text.strip()), "html.parser").div
-        if real_div is not None:
-            text.replace_with(real_div)
+
+        replacements = []
+        cursor = 0
+        for match in matches:
+            if cursor < match.start():
+                replacements.append(NavigableString(raw_text[cursor:match.start()]))
+
+            marker = BeautifulSoup(unescape(match.group(0)), "html.parser")
+            page_div = marker.find("div", attrs={"data-type": "page"})
+            replacements.append(
+                page_div if page_div is not None else NavigableString(match.group(0))
+            )
+            cursor = match.end()
+
+        if cursor < len(raw_text):
+            replacements.append(NavigableString(raw_text[cursor:]))
+
+        text.replace_with(replacements[0])
+        previous = replacements[0]
+        for replacement in replacements[1:]:
+            previous.insert_after(replacement)
+            previous = replacement
 
 @retry(
     stop=stop_after_attempt(3),
@@ -85,4 +106,3 @@ def format_html(file_path: Path, output_path: Path) -> Path:
     output_path.write_text(soup.body.decode_contents(), encoding='utf-8')
     
     return output_path
-    

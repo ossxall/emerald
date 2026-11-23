@@ -35,6 +35,34 @@ class FormatHtmlTests(unittest.TestCase):
         self.assertIn("Second page", pages[1].get_text(" ", strip=True))
         self.assertNotIn("&lt;div data-type=", formatted)
 
+    def test_promotes_adjacent_separators_from_the_same_text_node(self):
+        source = """<!doctype html>
+        <html><body>
+        &lt;div data-type='page' data-number='1' id='page-1' class='page-virtual'&gt;&lt;/div&gt;
+        &lt;div data-type='page' data-number='2' id='page-2' class='page-virtual'&gt;&lt;/div&gt;
+        <p>Second page content</p>
+        &lt;div data-type='page' data-number='3' id='page-3' class='page-virtual'&gt;&lt;/div&gt;
+        &lt;div data-type='page' data-number='4' id='page-4' class='page-virtual'&gt;&lt;/div&gt;
+        <p>Fourth page content</p>
+        </body></html>"""
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            source_path = Path(temp_dir) / "source.html"
+            output_path = Path(temp_dir) / "formatted.html"
+            source_path.write_text(source, encoding="utf-8")
+
+            format_html(source_path, output_path)
+
+            formatted = output_path.read_text(encoding="utf-8")
+
+        soup = BeautifulSoup(formatted, "html.parser")
+        pages = soup.select('div[data-type="page"]')
+
+        self.assertEqual([page.get("data-number") for page in pages], ["1", "2", "3", "4"])
+        self.assertIn("Second page content", pages[1].get_text(" ", strip=True))
+        self.assertIn("Fourth page content", pages[3].get_text(" ", strip=True))
+        self.assertNotIn("&lt;div data-type=", formatted)
+
 
 if __name__ == "__main__":
     unittest.main()
